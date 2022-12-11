@@ -189,7 +189,7 @@
 | 湘雪尘奕 | gkaq_gkk | 基于工业互联网控制设备“网络武器化”研究 | https://mp.weixin.qq.com/s?__biz=MzI2MzE3NzczNQ==&mid=2650622421&idx=1&sn=530ec9fd3880d583a7d5f50132f970f4 | 2| 
 | web安全and一只狗 | SecAndDog | 有度安全-福建有度网络安全技术有限公司｜招聘～～多个岗位热招中！ | https://mp.weixin.qq.com/s?__biz=MzkwMzMxMTcyNw==&mid=2247484380&idx=1&sn=374c3c74a2307abf63055b1fe7f32df6 | 1| 
 | goddemon的小屋 | gh_0383232a884d | 钓鱼实战2--组合邮件,网页钓鱼 | https://mp.weixin.qq.com/s?__biz=MzI2NTc1ODY0Mw==&mid=2247483932&idx=1&sn=dc07b8879599a4c134321301f39f9466 | 3| 
-| 360威胁情报中心 | CoreSec360 | APT-C-58（Gorgon Group）攻击预警 | https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247489306&idx=1&sn=7ceff63d34fab5bea84895ddd809fa8a | 7| 
+| 360威胁情报中心 | CoreSec360 | APT-C-58（Gorgon Group）攻击预警 | https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247489306&idx=1&sn=7ceff63d34fab5bea84895ddd809fa8a | 8| 
 | 轩公子谈技术 | linux_hack | javaFx 教你五分钟写个工具 | https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247485985&idx=1&sn=8bee195c012ab2a66ee9c04463713258 | 5| 
 | 秃头的逆向痴想 | gh_c08b6fb82c4b | Navicat Premium 投毒样本分析 | https://mp.weixin.qq.com/s?__biz=MzIzNDE3NjI0MQ==&mid=2247483912&idx=1&sn=da3c9218d8d0ec2a1f2716888f1d47cf | 1| 
 | 阿里云安全 | aliyunsec | APT化、高赎金与定向攻击 ｜ 2021年度阿里云勒索攻击态势报告 | https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664086338&idx=1&sn=0c9655f94674e5bd30819f67e2aaa62b | 5| 
@@ -545,7 +545,7 @@
 | 贝壳产品技术 | beikeTC | 端到端模型在贝壳经纪人流失预警场景的实践 | https://mp.weixin.qq.com/s/DY-gzglv73iLrANjDY4PrQ | 3| 
 | 腾讯云防火墙 | gh_8b5f4467933a | 云防火墙产品的演进思路 | https://mp.weixin.qq.com/s/nKbUajOKuNjoCef-ZpgYfA | 1| 
 | 中通安全应急响应中心 | ZTO_SRC | 中通信息安全培训体系建设 | https://mp.weixin.qq.com/s/LklmkgRXydx35D1JcOFewA | 4| 
-| 安全学术圈 | secquan | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg | 59| 
+| 安全学术圈 | secquan | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg | 60| 
 | 安全行者老霍 | gh_c2b78e839fd7 | Gartner 2021 漏洞评估产品市场指南 | https://mp.weixin.qq.com/s/Oi7id-3jJOFjS1x-PlmD6w | 10| 
 | 等级保护测评 | zgdjbh | 公安部公布去年侵犯个人信息十大典型案例：窃取数十亿条信息暗网牟利 | https://mp.weixin.qq.com/s/mL3UWks3T2s1sliH28GaqA | 6| 
 | 深信服千里目安全实验室 | Further_eye | 【Rootkit 系列研究】Windows平台的高隐匿、高持久化威胁 | https://mp.weixin.qq.com/s/YE7bt6Bhz2mYYp1n-2vJtQ | 10| 
@@ -629,7 +629,8 @@
 | punk-security | dnsReaper - 基于多个不同的云 DNS 服务收集子域名信息 | https://github.com/punk-security/dnsReaper | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C#,HTML,JavaScript | 0 | 0 | 1| 
 | ptresearch | Positive Research 团队开源了他们为开源 IDS/IPS 引擎 Suricata 写的大量漏洞检测规则 | https://github.com/ptresearch/AttackDetection | https://github.com/ptresearch?tab=followers |  | None | Positive Research Team | 13 | 0 | 1 | 0 | 0 | Python | 0 | 0 | 1| 
 | prowler-cloud | Prowler: AWS security best practices 基线检查 | https://github.com/prowler-cloud/prowler | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,HCL | 0 | 0 | 1| 
-| projectdiscovery | Nuclei - 基于YAML语法模板的定制化快速漏洞扫描器 | https://github.com/projectdiscovery/nuclei | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Python,JavaScript,Java,PHP | 0 | 0 | 1| 
+| projectdiscovery | Nuclei - 基于YAML语法模板的定制化快速漏洞扫描器 | https://github.com/projectdiscovery/nuclei | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Python,JavaScript,Java,PHP | 0 | 0 | 2| 
+| praetorian-inc | 一款扫描文本数据中的敏感信息的工具，可用于扫描开源项目寻找是否包含secret key在内的敏感信息泄露 | https://github.com/praetorian-inc/noseyparker | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | potmdehex | 有研究员公开了一个利用 CVE-2021-30937 漏洞实现 iOS 15.0 - 15.1.1 内核读写的 Exploit | https://github.com/potmdehex/multicast_bytecopy | https://github.com/potmdehex?tab=followers | Reverse Engineer | None | None | 11 | 0 | 8 | 0 | 0 | C,Ruby | 0 | 0 | 2| 
 | plummm | SyzScope - 自动化评估 Bug 安全影响的工具（Paper） | https://github.com/plummm/SyzScope | https://github.com/plummm?tab=followers | 37 | California | University of California, Riverside | 33 | 0 | 115 | 0 | 0 | C#,Python,C,HTML | 0 | 0 | 1| 
 | pinauten | Fugu15 - 研究员 Linus Henze 放出了他的 iOS 15.4.1 越狱工具 | https://github.com/pinauten/Fugu15 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Swift | 0 | 0 | 1| 

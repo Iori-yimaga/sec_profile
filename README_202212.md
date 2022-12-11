@@ -14,9 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
-| 360威胁情报中心 | CoreSec360 | 疑似APT-C-56（透明部落）针对恐怖主义的攻击活动分析 | https://mp.weixin.qq.com/s/J_A12SOX0k5TOYFAegBv_w | 1| 
+| 安全学术圈 | secquan | ACSAC 2022 论文录用列表 | https://mp.weixin.qq.com/s/hZO9X3nyKEWPLj_zej__8w | 4| 
+| 360威胁情报中心 | CoreSec360 | 针对巴以地区围绕卡塔尔世界杯的攻击活动 | https://mp.weixin.qq.com/s/48Atw1b6Oe7A-vlsKHYWwg | 2| 
 | 绿盟科技研究通讯 | nsfocus_research | BlackHat2022：4G/5G新型前门攻击解读 | https://mp.weixin.qq.com/s/X1lD5PLkUsexAv0B7R3aOQ | 2| 
-| 安全学术圈 | secquan | DISTDET：具有成本效益的分布式网络威胁检测系统 | https://mp.weixin.qq.com/s/AdyyZQit40tulOaIyNAbEA | 3| 
 | 乐枕迭代日志 | cdxy_011 | 安全概念分析框架 | https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA | 1| 
 | 穿过丛林 | gh_f90eac70537b | S&P22：探测并抵御CI服务中的非法加密挖矿 | https://mp.weixin.qq.com/s/uC7Jbtbqs2BHPtjiiQqG8Q | 1| 
 | 时间之外沉浮事 | tasnrh | 【PPT】国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/K5Wiutcq3YKMAA8mQ2FOuA | 1| 
@@ -38,6 +38,8 @@
 | root-tanishq | 一个专门fuzz User-Agent ， X-Forwarded-For， Referer的 SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | https://github.com/root-tanishq?tab=followers | kuns Notebook OSCP , eWPTXv2 | None | None | 16 | 0 | 25 | 0 | 0 | Python,Shell | 0 | 0 | 1| 
 | romainthomas | 一个逆向工程研讨会的ppt，讲到了很多x86下逆向的技巧 | https://github.com/romainthomas/reverse-engineering-workshop | https://github.com/lief-project | Security Engineer working on mobile, obfuscation and file formats. Author & maintainer of @lief-project / @open-obfuscator | None | @lief-project @open-obfuscator | 49 | 0 | 331 | 0 | 0 | Java,C++ | 0 | 0 | 1| 
 | reecdeep | HiveV5勒索软件文件解密Poc和算法分析 | https://github.com/reecdeep/HiveV5_file_decryptor | https://github.com/reecdeep?tab=followers | Malware analyst, reverse engineer | Stack | None | 2 | 0 | 0 | 0 | 0 | C++ | 0 | 0 | 1| 
+| projectdiscovery | 社区整理的nuclei扫描器fuzz模版 | https://github.com/projectdiscovery/fuzzing-templates | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| praetorian-inc | 一款扫描文本数据中的敏感信息的工具，可用于扫描开源项目寻找是否包含secret key在内的敏感信息泄露 | https://github.com/praetorian-inc/noseyparker | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | google | VSCode远程代码执行漏洞（CVE-2022-41034）细节，存在于ipynb文件加载流程中，用户点击恶意链接即可能受到攻击。 | https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,C++,Shell,HTML,Go | 0 | 0 | 1| 
 | deepinstinct | 通过滥用 Windows 错误报告服务以dump LSASS 的方法,来自DC30议题LSASS Shtinkering Abusing Windows Error Reporting to Dump LSASS | https://github.com/deepinstinct/Lsass-Shtinkering | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PowerShell,C++ | 0 | 0 | 1| 
 | caioluders | XSS 2 RCE on flipper_zero | https://github.com/caioluders/pocs/blob/main/flipper_rce_xss.js | https://github.com/caioluders?tab=followers |  | Brazil | None | 43 | 0 | 204 | 0 | 0 | Python,C,HTML | 0 | 0 | 1| 
