@@ -1,11 +1,13 @@
-Python	5
-C++	4
+Python	7
+C++	5
 C	3
+HTML	3
 Java	2
-HTML	2
 Shell	2
+Go	2
 TypeScript	1
+Kotlin	1
 JavaScript	1
-Go	1
+Lua	1
 Dockerfile	1
 PowerShell	1

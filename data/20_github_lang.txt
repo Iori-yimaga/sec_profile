@@ -5,7 +5,7 @@ C++	591
 HTML	502
 Java	494
 Shell	472
-Go	434
+Go	435
 C#	303
 Ruby	263
 PowerShell	244
@@ -20,8 +20,8 @@ Assembly	74
 Perl	73
 Swift	68
 Makefile	61
-Lua	59
-Kotlin	55
+Lua	60
+Kotlin	56
 TeX	54
 Batchfile	53
 Vue	48

@@ -1,0 +1,13 @@
+20221205	Web安全	http://case.tidesec.com/	安全测试案例库	tidesec.com	case.tidesec.com	/
+20221205	漏洞分析	https://tttang.com/archive/1865/	Thinkphp 多语言 RCE	tttang.com	tttang.com	/archive/1865/
+20221205	Web安全	https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA	安全概念分析框架	qq.com	mp.weixin.qq.com	/s/JysvRftmGl2zg41ko8n1yA
+20221205	恶意分析	https://mp.weixin.qq.com/s/uC7Jbtbqs2BHPtjiiQqG8Q	S&P22：探测并抵御CI服务中的非法加密挖矿	qq.com	mp.weixin.qq.com	/s/uC7Jbtbqs2BHPtjiiQqG8Q
+20221205	恶意分析	https://mp.weixin.qq.com/s/AdyyZQit40tulOaIyNAbEA	DISTDET：具有成本效益的分布式网络威胁检测系统	qq.com	mp.weixin.qq.com	/s/AdyyZQit40tulOaIyNAbEA
+20221205	无线安全	https://mp.weixin.qq.com/s/X1lD5PLkUsexAv0B7R3aOQ	BlackHat2022：4G/5G新型前门攻击解读	qq.com	mp.weixin.qq.com	/s/X1lD5PLkUsexAv0B7R3aOQ
+20221205	Web安全	https://sec-in.com/article/1980	从Deserialization和覆盖trustURLCodebase进行JNDI注入	sec-in.com	sec-in.com	/article/1980
+20221205	论文	https://www.ccf.org.cn/Awards/Awards/2022-12-08/781242.shtml	2022年度“CCF优秀博士学位论文激励计划”论文列表	ccf.org.cn	www.ccf.org.cn	/Awards/Awards/2022-12-08/781242.shtml
+20221205	杂志	https://www.sec-wiki.com/weekly/457	SecWiki周刊（第457期)	sec-wiki.com	www.sec-wiki.com	/weekly/457
+20221205	恶意分析	https://mp.weixin.qq.com/s/Sn9-qk_cfgTHBJh9ourD4A	开源软件供应链安全系列：OSS风险点与预防	qq.com	mp.weixin.qq.com	/s/Sn9-qk_cfgTHBJh9ourD4A
+20221205	漏洞分析	https://mp.weixin.qq.com/s/agQNMQo9atwZOFjPBleLcg	SEVulDet：一种语义增强的可学习漏洞检测器	qq.com	mp.weixin.qq.com	/s/agQNMQo9atwZOFjPBleLcg
+20221205	会议	https://mp.weixin.qq.com/s/hZO9X3nyKEWPLj_zej__8w	ACSAC 2022 论文录用列表	qq.com	mp.weixin.qq.com	/s/hZO9X3nyKEWPLj_zej__8w
+20221205	漏洞分析	https://mp.weixin.qq.com/s/syrJfq9HsB_Ob4yvN4_KtA	ConDySTA: 上下文感知的动态辅助静态污点分析	qq.com	mp.weixin.qq.com	/s/syrJfq9HsB_Ob4yvN4_KtA

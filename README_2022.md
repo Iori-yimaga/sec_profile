@@ -577,6 +577,7 @@
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | zan8in | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 | https://github.com/zan8in/afrog | https://github.com/zan8in?tab=followers | 美丽人生，享受生活！- life is fantastic. enjoy life. | None | None | 19 | 0 | 117 | 0 | 0 | Go | 0 | 0 | 2| 
+| yuriisanin | CVE-2022-45025:在 Markdown Preview Enhanced（VSCode、Atom）中通过 PDF 导入进行命令注入 | https://github.com/yuriisanin/CVE-2022-45025 | https://github.com/yuriisanin?tab=followers | Security Engineer | Kyiv, Ukraine | Octal Security | 7 | 0 | 59 | 0 | 0 | Python | 0 | 0 | 1| 
 | yogeshojha | rengine: 自动化信息收集的平台 | https://github.com/yogeshojha/rengine | https://github.com/yogeshojha?tab=followers | Research Engineer @ TRG building solutions for Crime and Terror Builds and maintains reNgine | None | TRG Research and Development | 47 | 0 | 309 | 0 | 0 | Python,JavaScript,PHP | 0 | 0 | 1| 
 | yidao620c | Python Cookbook 第三版 中文版 | https://github.com/yidao620c/python3-cookbook | https://github.com/yidao620c?tab=followers | keep running | Xian China | Huawei Technologies Co., Ltd. | 12 | 0 | 69 | 0 | 0 | Python,Java,Jupyter,CSS | 0 | 0 | 1| 
 | xiecat | Goblin - 一款适用于红蓝对抗中的仿真钓鱼系统 | https://github.com/xiecat/goblin | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Dockerfile | 0 | 0 | 1| 
@@ -707,6 +708,7 @@
 | fuzzware-fuzzer | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | https://github.com/fuzzware-fuzzer/fuzzware | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell | 0 | 0 | 1| 
 | fullstorydev | grpcurl - 与 gRPC 服务交互的类 curl 命令行工具 | https://github.com/fullstorydev/grpcurl | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Java,Python,JavaScript,Go,Swift | 0 | 0 | 1| 
 | freingruber | JavaScript Raider - JavaScript Fuzzing framework for v8 | https://github.com/freingruber/JavaScript-Raider | https://github.com/freingruber?tab=followers |  | None | None | 1 | 0 | 2 | 0 | 0 | Python | 0 | 0 | 1| 
+| fr0gger | 用 OpenAI 的 GPT-3 模型来提供 Windows PE 文件导入函数的细节，并解释攻击者可能如何使用该 API | https://github.com/fr0gger/IATelligence | https://github.com/fr0gger?tab=followers |  | None | @microsoft | 82 | 0 | 57 | 0 | 0 | Python,HTML,C++ | 0 | 0 | 1| 
 | fox-it | A Python based ingestor for BloodHound | https://github.com/fox-it/BloodHound.py | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Java,PowerShell | 0 | 0 | 1| 
 | fkie-cad | 在 Fuzz 网络应用的时候，将网络的接收和发送重定向到标准输入和输出，方便使用 AFL Fuzz 测试 | https://github.com/fkie-cad/libdesock | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Python,C++,TypeScript,Dockerfile,Rust | 0 | 0 | 1| 
 | fingerprintjs | 不依赖 JavaScript 和 Cookie 构建用户指纹 | https://github.com/fingerprintjs/blog-nojs-fingerprint-demo | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Java,Handlebars,Kotlin,Pug,HTML,JavaScript,PHP,Swift | 0 | 0 | 2| 
@@ -782,6 +784,7 @@
 | SigmaHQ | Sigma - 用于 SIEM 系统通用地描述事件日志的开放格式 | https://github.com/SigmaHQ/sigma | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | Sentinel-One | peafl64: Windows 64位PE文件静态插桩工具 | https://github.com/Sentinel-One/peafl64 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,Smarty,C#,C++,Go | 0 | 0 | 1| 
 | SecIdiot | 利用 NtUserHardErrorControl 实现 Windows 内核任意地址读写 | https://github.com/SecIdiot/ANGRYORCHARD | https://github.com/SecIdiot?tab=followers | Programmer. Focusing primarily in C, Assembly. I am @realoriginal / Mumbai | Florida | None | 7 | 0 | 148 | 0 | 0 | Python,C | 0 | 0 | 1| 
+| Safe3 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF | https://github.com/Safe3?tab=followers |  | None | UUSEC Tech. | 438 | 0 | 7 | 0 | 0 | Go,Lua,Kotlin | 0 | 0 | 1| 
 | SEVulDet | SEVulDet：基于语义增强的系统漏洞挖掘器 | https://github.com/SEVulDet/SEVulDet | None |  | None | None | 1 | 0 | 0 | 0 | 0 | CSS | 0 | 0 | 1| 
 | Ryze-T | 基于向日葵 RCE 的 LPE 漏洞 PoC | https://github.com/Ryze-T/CNVD-2022-10270-LPE | https://github.com/Ryze-T?tab=followers | wx: Just_sudo_it | None | None | 19 | 0 | 48 | 0 | 0 | C#,Go,C | 0 | 0 | 1| 
 | RoseSecurity | 西门子 APOGEE PXC 自动化控制器认证绕过漏洞（CVE-2017-9947）扫描器 | https://github.com/RoseSecurity/APOLOGEE | https://github.com/RoseSecurity?tab=followers | Hobbyist Hacker , Lifetime Learner | None | None | 11 | 0 | 71 | 0 | 0 | Lua | 0 | 0 | 1| 

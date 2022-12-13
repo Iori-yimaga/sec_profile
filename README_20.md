@@ -3879,6 +3879,7 @@
 | zan8in | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 | https://github.com/zan8in/afrog | https://github.com/zan8in?tab=followers | 美丽人生，享受生活！- life is fantastic. enjoy life. | None | None | 19 | 0 | 117 | 0 | 0 | Go | 0 | 0 | 2| 
 | yymax | x509test:x509 certificate fuzzer | https://github.com/yymax/x509test | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | ywolf | 网络资产信息扫描工具 | https://github.com/ywolf/F-NAScan | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| yuriisanin | CVE-2022-45025:在 Markdown Preview Enhanced（VSCode、Atom）中通过 PDF 导入进行命令注入 | https://github.com/yuriisanin/CVE-2022-45025 | https://github.com/yuriisanin?tab=followers | Security Engineer | Kyiv, Ukraine | Octal Security | 7 | 0 | 59 | 0 | 0 | Python | 0 | 0 | 1| 
 | yunxu1 | FuzzerPwd: Fuzzer常见的弱口令作为字典 | https://github.com/yunxu1/FuzzerPwd | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | yogeshojha | rengine: 自动化信息收集的平台 | https://github.com/yogeshojha/rengine | https://github.com/yogeshojha?tab=followers | Research Engineer @ TRG building solutions for Crime and Terror Builds and maintains reNgine | None | TRG Research and Development | 47 | 0 | 309 | 0 | 0 | Python,JavaScript,PHP | 0 | 0 | 1| 
 | yinwang0 | PySonar：精确、友好的 Python 静态分析器 | https://github.com/yinwang0/pysonar2 | https://github.com/yinwang0?tab=followers |  | None | None | 7 | 0 | 8 | 0 | 0 | Python,Emacs,Scheme,Java,HTML | 0 | 0 | 1| 
@@ -4379,6 +4380,7 @@
 | fuzzitdev | Jsfuzz: coverage-guided fuzz testing for Javascript | https://github.com/fuzzitdev/jsfuzz | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,CMake,Dockerfile,C++,Swift,HCL,Go,Java,Ruby,Rust | 234 | 11 | 1| 
 | fullstorydev | grpcurl - 与 gRPC 服务交互的类 curl 命令行工具 | https://github.com/fullstorydev/grpcurl | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Java,Python,JavaScript,Go,Swift | 0 | 0 | 1| 
 | freingruber | JavaScript Raider - JavaScript Fuzzing framework for v8 | https://github.com/freingruber/JavaScript-Raider | https://github.com/freingruber?tab=followers |  | None | None | 1 | 0 | 2 | 0 | 0 | Python | 0 | 0 | 1| 
+| fr0gger | 用 OpenAI 的 GPT-3 模型来提供 Windows PE 文件导入函数的细节，并解释攻击者可能如何使用该 API | https://github.com/fr0gger/IATelligence | https://github.com/fr0gger?tab=followers |  | None | @microsoft | 82 | 0 | 57 | 0 | 0 | Python,HTML,C++ | 0 | 0 | 1| 
 | fox-it | A Python based ingestor for BloodHound | https://github.com/fox-it/BloodHound.py | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Java,PowerShell | 0 | 0 | 1| 
 | fouber | page-monitor: the dom change with phantomjs | https://github.com/fouber/page-monitor | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | forest0 | 微信聊天记录导出工具 | https://github.com/forest0/wechat_history_export | None |  | None | None | 5 | 0 | 0 | 0 | 0 | Python,C,HTML,Jupyter,Vim | 28 | 7 | 1| 
@@ -4652,6 +4654,7 @@
 | SecGen | SecGen: Generate vulnerable virtual machines on the fly | https://github.com/SecGen/SecGen | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Ruby | 0 | 0 | 1| 
 | Seba0691 | PINdemonium - A pintool in order to unpack malware | https://github.com/Seba0691/PINdemonium | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | SafeGroceryStore | MDAT - 综合数据库攻击利用工具 | https://github.com/SafeGroceryStore/MDAT | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Java | 0 | 0 | 1| 
+| Safe3 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF | https://github.com/Safe3?tab=followers |  | None | UUSEC Tech. | 438 | 0 | 7 | 0 | 0 | Go,Lua,Kotlin | 0 | 0 | 1| 
 | SEVulDet | SEVulDet：基于语义增强的系统漏洞挖掘器 | https://github.com/SEVulDet/SEVulDet | None |  | None | None | 1 | 0 | 0 | 0 | 0 | CSS | 0 | 0 | 1| 
 | SCUBSRGroup | Neutrino-exploit KIT工具包分析技巧 | https://github.com/SCUBSRGroup/Lectures-a-week-information-security-knowledge-lecture-hall/blob/master/2016-09-10/Neutrino-exploit%20KIT%E5%B7%A5%E5%85%B7%E5%8C%85%E5%88%86%E6%9E%90%E6%8A%80%E5%B7%A7.pptx | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,HTML,C++ | 0 | 0 | 2| 
 | S3cur3Th1sSh1t | MultiPotato - 一个改进版的 Potato，可以使用自己的漏洞作为 SYSTEM Auth Trigger | https://github.com/S3cur3Th1sSh1t/MultiPotato | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
