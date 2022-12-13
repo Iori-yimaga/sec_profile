@@ -14,6 +14,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 狼蛛安全实验室 | LangzhuSec | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://mp.weixin.qq.com/s/yjCOCptJn_QcCpMs9CgBbQ | 1| 
+| GobySec | gobysec | Shell中的幽灵王者—JAVAWEB 内存马 【认知篇】 | https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ | 1| 
 | 乐枕迭代日志 | cdxy_011 | 安全概念分析框架 | https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA | 1| 
 | 时间之外沉浮事 | tasnrh | 【PPT】国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/K5Wiutcq3YKMAA8mQ2FOuA | 1| 
 | 219攻防实验室 | gh_4576a36fa848 | Windows Defender内存扫描功能分析 | https://mp.weixin.qq.com/s/C6CePu9albvGTj3_9aUxeg | 2| 
@@ -444,7 +446,7 @@
 | 安恒信息资讯 | DBAPP688023 | 通知,安恒信息春节应急保障 7*24小时为您在线 | https://mp.weixin.qq.com/s?__biz=MzkwODE2OTU0NA==&mid=2247485131&idx=1&sn=3ed9779e09cd188b2a396d61868a0f6f | 1| 
 | 安天集团 | Antiylab | 冬训营丨2021年网络安全威胁回顾 | https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650186693&idx=1&sn=f2f236c72d7a194c190474ed2d8b86d1 | 9| 
 | 安在 | AnZer_SH | 诸子笔会 , 刘顺：企业网络安全规划建设实践 | https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247534758&idx=2&sn=62917dab4f399bba8b5aa58997c3595d | 50| 
-| 安全牛 | aqniu-wx | 以人为本，如何在“辞职潮”中寻找和留住网络安全人才？ | https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651110141&idx=1&sn=2c91fa8980e32678755fa798f8c397d1 | 58| 
+| 安全牛 | aqniu-wx | 以人为本，如何在“辞职潮”中寻找和留住网络安全人才？ | https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651110141&idx=1&sn=2c91fa8980e32678755fa798f8c397d1 | 59| 
 | 安全圈 | ChinaAnQuan | 【安全圈】北美IT公司调查表明：勒索软件团伙正在加大力度招募内部人员来协助攻击 | https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2651991947&idx=4&sn=a775a6c5673df5d367e2be5a2bc594a9 | 86| 
 | 安世加 | asjeiss | 黄鹏华  某互联网公司安全负责人《漫谈数据安全能力建设》 , 安世加沙龙第31期 | https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247515790&idx=2&sn=d5bebb07794898c4a1833d4510928f10 | 36| 
 | 字节跳动安全中心 | TouTiaoSec | Jeddak数据安全沙箱：保障信贷客户广告投放隐私安全 | https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247488383&idx=1&sn=ead4071d613bddffc4423a3adf633252 | 10| 
@@ -456,7 +458,7 @@
 | 吾爱破解论坛 | pojie_52 | 活动】感动吾爱2021优秀会员评选活动（总方案） | https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651137131&idx=1&sn=1d12e3986207cc1f801cc9e7f1892f35 | 14| 
 | 关键基础设施安全应急响应中心 | CII-SRC | “十四五”数字经济高质量发展需要法治护航 | https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247524421&idx=1&sn=4c4c7933b5793f1544005a9d9ef67a5a | 71| 
 | 全球技术地图 | drc_iite | NSF向白宫递交最新报告：5大指标表明美国在科技发展的态势上输给了中国 | https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651589322&idx=1&sn=d9126d14423701c23e33fe0134d43dfc | 52| 
-| 一个人的安全笔记 | xjiek2015 | [HTB] Safe Writeup | https://mp.weixin.qq.com/s/NuP7kjfGgEMLrg60_fSzWg | 14| 
+| 一个人的安全笔记 | xjiek2015 | [HTB] Safe Writeup | https://mp.weixin.qq.com/s/NuP7kjfGgEMLrg60_fSzWg | 15| 
 | yudays实验室 | None | CVE-2021-4034权限提升漏洞 | https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247484773&idx=1&sn=0709ca817b3ac9f4f2c36782a355d2f4 | 2| 
 | aFa攻防实验室 | gzh_afagfsys | Linux提权-CVE-2021-4034 | https://mp.weixin.qq.com/s?__biz=MzAxMjcxMjkyOA==&mid=2247485627&idx=1&sn=a5cf1afffe837bc94abd138b57fca607 | 7| 
 | PeiQi文库 | PeiQi_wiki | 漏洞预警：Linux Polkit权限提升漏洞 CVE-2021-4034 | https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247490120&idx=1&sn=ac5c8f68369df6e7c257322e3dbcbb0c | 4| 
@@ -746,6 +748,7 @@
 | brant-ruan | 2022云原生安全技术峰会议题Slide | https://github.com/brant-ruan/slides-and-papers/ | https://github.com/brant-ruan?tab=followers | IT Security Researcher | China | NSFOCUS Inc. | 58 | 0 | 515 | 0 | 0 | Python,Go,Shell | 0 | 0 | 1| 
 | borzacchiello | 基于 Ghidra PCode 的符号执行引擎 | https://github.com/borzacchiello/naaz | https://github.com/borzacchiello?tab=followers | PhD. Writing symbolic execution engines and program analysis related stuff | Rome | None | 31 | 0 | 190 | 0 | 0 | Python,C++ | 0 | 0 | 1| 
 | bluesadi | Pluto-Obfuscator - 基于 LLVM 实现的代码混淆工具 | https://github.com/bluesadi/Pluto-Obfuscator | https://github.com/bluesadi?tab=followers | Keep moving, be enthusiastic, be patient. | Chengdu, Sichuan | Sichuan University | 12 | 0 | 88 | 0 | 0 | Python,LLVM,C++ | 0 | 0 | 1| 
+| blasty | blasty分享了关于其在Pwn2Own演示打印机漏洞的成功画面展示如何实现 | https://github.com/blasty/printer-cracktro | https://github.com/blasty?tab=followers |  | None | None | 19 | 0 | 5 | 0 | 0 | Python,C,Dockerfile | 0 | 0 | 1| 
 | blackorbird | 俄罗斯 Wizard Spider APT 组织分析 | https://github.com/blackorbird/APT_REPORT/blob/master/Wizard%20Spider/WizardSpider_TLPWHITE_v.1.4.pdf | https://github.com/blackorbird?tab=followers | APT hunter threat analyst | https://twitter.com/blackorbird | https://twitter.com/blackorbird | 46 | 0 | 126 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | binarly-io | BINARLY Labs 在 OffensiveCon 2022 会议的演讲 PPT “UEFI Firmware Vulnerabilities: Past, Present and Future” | https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Go,JavaScript,Shell,C++ | 0 | 0 | 3| 
 | b0bac | ApolloScanner: 自动化巡航扫描框架 | https://github.com/b0bac/ApolloScanner | https://github.com/b0bac?tab=followers | Information Security Researcher Information Security Research Department Leader | None | None | 51 | 0 | 3 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
@@ -939,6 +942,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 
 | GadgetInspector改造中反序列化三个source点的原理分析 | https://xz.aliyun.com/t/11915| 
 | 企业级钓鱼演练平台搭建 | https://xz.aliyun.com/t/11898| 
 | JAVA开发中涉及的基础安全问题和解决方法初探 | https://xz.aliyun.com/t/11890| 

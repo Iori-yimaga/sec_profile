@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 狼蛛安全实验室 | LangzhuSec | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://mp.weixin.qq.com/s/yjCOCptJn_QcCpMs9CgBbQ | 1| 
 | 219攻防实验室 | gh_4576a36fa848 | Windows Defender内存扫描功能分析 | https://mp.weixin.qq.com/s/C6CePu9albvGTj3_9aUxeg | 2| 
 | 源影安全实验室 | MetaShadow | CobaltStrike4.5 分析总结 | https://mp.weixin.qq.com/s/K47FXTMEWfB_474aHAGU5g | 1| 
 | Gartner公司 | GartnerChina | Gartner发布2022年中国安全技术成熟度曲线 | https://mp.weixin.qq.com/s/7nxdi3UlEcJXMi53gJOzSw | 1| 
@@ -474,7 +475,7 @@
 | 合规科技研究 | ComplianceTech | 数据安全技术专题——数据分类分级的技术实践指南 | https://mp.weixin.qq.com/s/WknW2_lR4ryBLIgCma30Vw | 1| 
 | 反诈骗先锋 | fanzhapianxf | 关于反诈工作的几个问题及思考 | https://mp.weixin.qq.com/s/ps7GG2rKc5-J8J2Iybhi8Q | 1| 
 | 白帽子飙车路 | hack-by-txf | Cobalt Strike 利用 Chrome 0day 上线 | https://mp.weixin.qq.com/s/LOpAu8vs8ob85W3sCmXMew | 5| 
-| 一个人的安全笔记 | xjiek2015 | [HTB]Worker Writeup | https://mp.weixin.qq.com/s/J5jKKfbwBbOTjpnwcFotrg | 43| 
+| 一个人的安全笔记 | xjiek2015 | [HTB]Worker Writeup | https://mp.weixin.qq.com/s/J5jKKfbwBbOTjpnwcFotrg | 44| 
 | GuyoungStudio | guyoungnet | 可扩展跨平台网络安全工具套件 CaptfEncoder v2.0.0 发布 | https://mp.weixin.qq.com/s?__biz=MzI0ODU5Mzg0NA==&mid=2247483998&idx=1&sn=baaa69c5576a1e52b7d8aeb9482e1cf3&chksm=e99f2e85dee8a79304a5535dbf6c77e9f9def6b2a7438c73e28792ac5ea3c628a02204d116e6&token=1448493475&lang=zh_CN#rd | 1| 
 | 郑海山dump | zhsdump | 网络空间测绘：IP洞察 | https://mp.weixin.qq.com/s/gVTyhwgxC-UUxhB4YdXKeg | 2| 
 | RedTeam | RedTeams | 浅析 AWS S3 子域名接管漏洞 | https://mp.weixin.qq.com/s/q3bsrCKacuepKoFljYxJcg | 4| 
@@ -625,7 +626,7 @@
 | 网易易盾 | yidun_163yun | 企业等保2.0的那些事儿 | https://mp.weixin.qq.com/s/LNIWi26YWjmp2mh9jO23iA | 1| 
 | Seebug漏洞平台 | seebug_org | 溯源黑帽利用 Web 编辑器漏洞非法植入 SEO 页面事件 | https://mp.weixin.qq.com/s/SqPu88RALGMOPeAJ34uNeQ | 14| 
 | 夜暗心明 | yeanxinmingi | 嵌入式浏览器安全杂谈-electron框架 | https://mp.weixin.qq.com/s/J6eqcPPRp7wn06YQhue_Ug | 1| 
-| GobySec | gobysec | 插件分享 , 如何半天玩转一个“ES未授权利用”插件 | https://mp.weixin.qq.com/s/XZA37Cen9PexyPxuuEx1CQ | 11| 
+| GobySec | gobysec | 插件分享 , 如何半天玩转一个“ES未授权利用”插件 | https://mp.weixin.qq.com/s/XZA37Cen9PexyPxuuEx1CQ | 12| 
 | 携程技术 | ctriptech | 干货 , DevSecOps在携程的最佳实践 | https://mp.weixin.qq.com/s/yOykOPU9wn77doz95s5LeA | 8| 
 | 边界无限 | BoundaryX | Java代码执行漏洞中类动态加载的应用 | https://mp.weixin.qq.com/s/5iYyRGnlOEEIJmW1DqAeXw | 5| 
 | 网安寻路人 | DataProtection101 | 对《数据安全法》的理解和认识 , 数据分级分类 | https://mp.weixin.qq.com/s/iZGNGKG1Q36XaFVu0g_lHw | 22| 
@@ -825,7 +826,7 @@
 | 高效运维 | greatops | 利用 ELK 搭建 Docker 容器化应用日志中心 | https://mp.weixin.qq.com/s/7A4lI1zeE5_BljzbKkInbw | 24| 
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
-| 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 101| 
+| 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 102| 
 | 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 188| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
@@ -4520,6 +4521,7 @@
 | blog | GitHub公布2015年透明度报告 | https://github.com/blog/2202-github-s-2015-transparency-report | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 8| 
 | blockchain-university | databank: 区块链技术相关的论文、文档 | https://github.com/blockchain-university/databank | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,Java,Python,JavaScript,Haskell,TeX,HTML,Go,CSS | 0 | 0 | 1| 
 | blechschmidt | massdns: A high-performance DNS stub resolver in C | https://github.com/blechschmidt/massdns | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| blasty | blasty分享了关于其在Pwn2Own演示打印机漏洞的成功画面展示如何实现 | https://github.com/blasty/printer-cracktro | https://github.com/blasty?tab=followers |  | None | None | 19 | 0 | 5 | 0 | 0 | Python,C,Dockerfile | 0 | 0 | 1| 
 | blastxiang | lucky-js-fuzz: 开源jsfuzzer | https://github.com/blastxiang/lucky-js-fuzz | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | blacklanternsecurity | TREVORspray - 微软 Office 365 密码爆破工具 | https://github.com/blacklanternsecurity/TREVORspray | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,Python,JavaScript,Visual,Go,Ruby,PowerShell,CSS | 0 | 0 | 1| 
 | blackberry | 使用python解析PE文件的开源工具PE Tree发布 | https://github.com/blackberry/pe_tree | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,C++,Objective-C,Go,Ruby | 22 | 24 | 1| 
@@ -5364,6 +5366,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 
 | GadgetInspector改造中反序列化三个source点的原理分析 | https://xz.aliyun.com/t/11915| 
 | 企业级钓鱼演练平台搭建 | https://xz.aliyun.com/t/11898| 
 | JAVA开发中涉及的基础安全问题和解决方法初探 | https://xz.aliyun.com/t/11890| 

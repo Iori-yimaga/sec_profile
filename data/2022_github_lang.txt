@@ -1,5 +1,5 @@
-Python	142
-C	89
+Python	143
+C	90
 C++	76
 JavaScript	69
 Go	69
@@ -15,8 +15,8 @@ Ruby	16
 CSS	14
 Kotlin	14
 PHP	13
+Dockerfile	12
 Vue	12
-Dockerfile	11
 Assembly	9
 Objective-C	6
 Swift	6

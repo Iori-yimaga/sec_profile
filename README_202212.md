@@ -14,13 +14,16 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 狼蛛安全实验室 | LangzhuSec | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://mp.weixin.qq.com/s/yjCOCptJn_QcCpMs9CgBbQ | 1| 
+| 安全牛 | aqniu-wx | 软件开发安全应用实践中的十个误区 | https://mp.weixin.qq.com/s/Wz26gkLz-KnVmND3AXhvGA | 1| 
+| GobySec | gobysec | Shell中的幽灵王者—JAVAWEB 内存马 【认知篇】 | https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ | 1| 
 | 安全学术圈 | secquan | ACSAC 2022 论文录用列表 | https://mp.weixin.qq.com/s/hZO9X3nyKEWPLj_zej__8w | 4| 
 | 360威胁情报中心 | CoreSec360 | 针对巴以地区围绕卡塔尔世界杯的攻击活动 | https://mp.weixin.qq.com/s/48Atw1b6Oe7A-vlsKHYWwg | 2| 
 | 绿盟科技研究通讯 | nsfocus_research | BlackHat2022：4G/5G新型前门攻击解读 | https://mp.weixin.qq.com/s/X1lD5PLkUsexAv0B7R3aOQ | 2| 
 | 乐枕迭代日志 | cdxy_011 | 安全概念分析框架 | https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA | 1| 
 | 穿过丛林 | gh_f90eac70537b | S&P22：探测并抵御CI服务中的非法加密挖矿 | https://mp.weixin.qq.com/s/uC7Jbtbqs2BHPtjiiQqG8Q | 1| 
 | 时间之外沉浮事 | tasnrh | 【PPT】国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/K5Wiutcq3YKMAA8mQ2FOuA | 1| 
-| 一个人的安全笔记 | xjiek2015 | [HTB] Secret Writeup | https://mp.weixin.qq.com/s/vB0bUZ02j88gALvIbuKWNA | 1| 
+| 一个人的安全笔记 | xjiek2015 | [HTB] Secret Writeup | https://mp.weixin.qq.com/s/vB0bUZ02j88gALvIbuKWNA | 2| 
 | 红队蓝军 | Xx_Security | 细谈CS分离式shellcode的加载之旅 | https://mp.weixin.qq.com/s/cgp6aFwiU7S8x2jS2VXoTQ | 1| 
 | 慢雾科技 | SlowMist | 慢雾：警惕 TransferFrom 零转账骗局 | https://mp.weixin.qq.com/s/vnHnDG435WYIoN2VNK_oTw | 1| 
 | FuzzWiki | gh_fcf21e658324 | POLYGLOT：使用语义验证的通用语言处理器模糊测试引擎｜工具分析 | https://mp.weixin.qq.com/s/KnXLjn1Da6HmglWD7OFy6Q | 1| 
@@ -43,6 +46,7 @@
 | google | VSCode远程代码执行漏洞（CVE-2022-41034）细节，存在于ipynb文件加载流程中，用户点击恶意链接即可能受到攻击。 | https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,C++,Shell,HTML,Go | 0 | 0 | 1| 
 | deepinstinct | 通过滥用 Windows 错误报告服务以dump LSASS 的方法,来自DC30议题LSASS Shtinkering Abusing Windows Error Reporting to Dump LSASS | https://github.com/deepinstinct/Lsass-Shtinkering | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PowerShell,C++ | 0 | 0 | 1| 
 | caioluders | XSS 2 RCE on flipper_zero | https://github.com/caioluders/pocs/blob/main/flipper_rce_xss.js | https://github.com/caioluders?tab=followers |  | Brazil | None | 43 | 0 | 204 | 0 | 0 | Python,C,HTML | 0 | 0 | 1| 
+| blasty | blasty分享了关于其在Pwn2Own演示打印机漏洞的成功画面展示如何实现 | https://github.com/blasty/printer-cracktro | https://github.com/blasty?tab=followers |  | None | None | 19 | 0 | 5 | 0 | 0 | Python,C,Dockerfile | 0 | 0 | 1| 
 
 
 # medium_xuanwu 推荐
@@ -76,6 +80,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 
 | GadgetInspector改造中反序列化三个source点的原理分析 | https://xz.aliyun.com/t/11915| 
 | 企业级钓鱼演练平台搭建 | https://xz.aliyun.com/t/11898| 
 
