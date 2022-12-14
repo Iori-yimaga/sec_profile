@@ -1,9 +1,9 @@
 Python	7
 C++	5
 C	3
+Java	3
 HTML	3
-Java	2
-Shell	2
+Shell	3
 Go	2
 TypeScript	1
 Kotlin	1

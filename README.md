@@ -44,6 +44,7 @@
 | reecdeep | HiveV5勒索软件文件解密Poc和算法分析 | https://github.com/reecdeep/HiveV5_file_decryptor | https://github.com/reecdeep?tab=followers | Malware analyst, reverse engineer | Stack | None | 2 | 0 | 0 | 0 | 0 | C++ | 0 | 0 | 1| 
 | projectdiscovery | 社区整理的nuclei扫描器fuzz模版 | https://github.com/projectdiscovery/fuzzing-templates | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | praetorian-inc | 一款扫描文本数据中的敏感信息的工具，可用于扫描开源项目寻找是否包含secret key在内的敏感信息泄露 | https://github.com/praetorian-inc/noseyparker | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| pascal-lab | Tai-e：Java静态分析框架 | https://github.com/pascal-lab/Tai-e | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,Java | 0 | 0 | 1| 
 | google | VSCode远程代码执行漏洞（CVE-2022-41034）细节，存在于ipynb文件加载流程中，用户点击恶意链接即可能受到攻击。 | https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,C++,Shell,HTML,Go | 0 | 0 | 1| 
 | fr0gger | 用 OpenAI 的 GPT-3 模型来提供 Windows PE 文件导入函数的细节，并解释攻击者可能如何使用该 API | https://github.com/fr0gger/IATelligence | https://github.com/fr0gger?tab=followers |  | None | @microsoft | 82 | 0 | 57 | 0 | 0 | Python,HTML,C++ | 0 | 0 | 1| 
 | deepinstinct | 通过滥用 Windows 错误报告服务以dump LSASS 的方法,来自DC30议题LSASS Shtinkering Abusing Windows Error Reporting to Dump LSASS | https://github.com/deepinstinct/Lsass-Shtinkering | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PowerShell,C++ | 0 | 0 | 1| 
