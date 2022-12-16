@@ -14,12 +14,16 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 网安国际 | inforsec | 【“漏洞挖掘、利用和修复”论坛回顾】梁红：EMS：试验数据驱动的高效变异模糊测试系统 | https://mp.weixin.qq.com/s/vb1Gq8B55y-sTom06hqUfA | 1| 
+| 等级保护测评 | zgdjbh | 《电力行业网络安全等级保护管理办法》公布之日起实施 | https://mp.weixin.qq.com/s/9IgOGdBKS0a2d778cVRZGA | 1| 
+| 极思 | WhoAmSven | 【极思】全量安全资产管理-进阶实践 | https://mp.weixin.qq.com/s/b8W-FtTy4B8cGtPfp_2uRw | 1| 
+| 军事文摘 | mildig | 首发 , 杀伤链视域下的算法战审思 | https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA | 1| 
 | 狼蛛安全实验室 | LangzhuSec | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://mp.weixin.qq.com/s/yjCOCptJn_QcCpMs9CgBbQ | 1| 
 | 安全牛 | aqniu-wx | 软件开发安全应用实践中的十个误区 | https://mp.weixin.qq.com/s/Wz26gkLz-KnVmND3AXhvGA | 1| 
 | GobySec | gobysec | Shell中的幽灵王者—JAVAWEB 内存马 【认知篇】 | https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ | 1| 
-| 安全学术圈 | secquan | ACSAC 2022 论文录用列表 | https://mp.weixin.qq.com/s/hZO9X3nyKEWPLj_zej__8w | 4| 
 | 360威胁情报中心 | CoreSec360 | 针对巴以地区围绕卡塔尔世界杯的攻击活动 | https://mp.weixin.qq.com/s/48Atw1b6Oe7A-vlsKHYWwg | 2| 
-| 绿盟科技研究通讯 | nsfocus_research | BlackHat2022：4G/5G新型前门攻击解读 | https://mp.weixin.qq.com/s/X1lD5PLkUsexAv0B7R3aOQ | 2| 
+| 绿盟科技研究通讯 | nsfocus_research | 开源软件供应链安全系列：OSS风险点与预防 | https://mp.weixin.qq.com/s/Sn9-qk_cfgTHBJh9ourD4A | 2| 
+| 安全学术圈 | secquan | SEVulDet：一种语义增强的可学习漏洞检测器 | https://mp.weixin.qq.com/s/agQNMQo9atwZOFjPBleLcg | 5| 
 | 乐枕迭代日志 | cdxy_011 | 安全概念分析框架 | https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA | 1| 
 | 穿过丛林 | gh_f90eac70537b | S&P22：探测并抵御CI服务中的非法加密挖矿 | https://mp.weixin.qq.com/s/uC7Jbtbqs2BHPtjiiQqG8Q | 1| 
 | 时间之外沉浮事 | tasnrh | 【PPT】国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/K5Wiutcq3YKMAA8mQ2FOuA | 1| 
@@ -48,9 +52,13 @@
 | google | VSCode远程代码执行漏洞（CVE-2022-41034）细节，存在于ipynb文件加载流程中，用户点击恶意链接即可能受到攻击。 | https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,C++,Shell,HTML,Go | 0 | 0 | 1| 
 | fr0gger | 用 OpenAI 的 GPT-3 模型来提供 Windows PE 文件导入函数的细节，并解释攻击者可能如何使用该 API | https://github.com/fr0gger/IATelligence | https://github.com/fr0gger?tab=followers |  | None | @microsoft | 82 | 0 | 57 | 0 | 0 | Python,HTML,C++ | 0 | 0 | 1| 
 | deepinstinct | 通过滥用 Windows 错误报告服务以dump LSASS 的方法,来自DC30议题LSASS Shtinkering Abusing Windows Error Reporting to Dump LSASS | https://github.com/deepinstinct/Lsass-Shtinkering | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PowerShell,C++ | 0 | 0 | 1| 
+| coinspect | 收集了一些典型的以太坊智能合约漏洞和利用脚本 | https://github.com/coinspect/learn-evm-attacks | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Stylus,Solidity,Java,Go | 0 | 0 | 1| 
 | caioluders | XSS 2 RCE on flipper_zero | https://github.com/caioluders/pocs/blob/main/flipper_rce_xss.js | https://github.com/caioluders?tab=followers |  | Brazil | None | 43 | 0 | 204 | 0 | 0 | Python,C,HTML | 0 | 0 | 1| 
 | blasty | blasty分享了关于其在Pwn2Own演示打印机漏洞的成功画面展示如何实现 | https://github.com/blasty/printer-cracktro | https://github.com/blasty?tab=followers |  | None | None | 19 | 0 | 5 | 0 | 0 | Python,C,Dockerfile | 0 | 0 | 1| 
+| alfarom256 | CVE-2022-45451：ngscan驱动访问控制实现缺陷，攻击者可利用该漏洞实现任意文件读取以及敏感注册表项修改 | https://github.com/alfarom256/CVE-2022-45451 | https://github.com/alfarom256?tab=followers |  | None | None | 60 | 0 | 71 | 0 | 0 | Go,C,C++ | 0 | 0 | 1| 
 | Safe3 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF | https://github.com/Safe3?tab=followers |  | None | UUSEC Tech. | 438 | 0 | 7 | 0 | 0 | Go,Lua,Kotlin | 0 | 0 | 1| 
+| Nalen98 | Ghidra Native pcode 模拟器 | https://github.com/Nalen98/GhidraEmu | https://github.com/Nalen98?tab=followers |  | None | None | 13 | 0 | 22 | 0 | 0 | Python,C,Java,C++ | 0 | 0 | 1| 
+| Bywalks | DarkAngel: 一款全自动白帽漏洞扫描器 | https://github.com/Bywalks/DarkAngel | https://github.com/Bywalks?tab=followers | 知行合一。 | shanghai | None | 20 | 0 | 87 | 0 | 0 | Python,Go | 0 | 0 | 1| 
 
 
 # medium_xuanwu 推荐
