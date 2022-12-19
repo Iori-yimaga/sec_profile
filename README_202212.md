@@ -31,7 +31,7 @@
 | 红队蓝军 | Xx_Security | 细谈CS分离式shellcode的加载之旅 | https://mp.weixin.qq.com/s/cgp6aFwiU7S8x2jS2VXoTQ | 1| 
 | 慢雾科技 | SlowMist | 慢雾：警惕 TransferFrom 零转账骗局 | https://mp.weixin.qq.com/s/vnHnDG435WYIoN2VNK_oTw | 1| 
 | FuzzWiki | gh_fcf21e658324 | POLYGLOT：使用语义验证的通用语言处理器模糊测试引擎｜工具分析 | https://mp.weixin.qq.com/s/KnXLjn1Da6HmglWD7OFy6Q | 1| 
-| 威胁棱镜 | THREAT_PRISM | 通过网空搜索引擎发现恶意软件登录页面 | https://mp.weixin.qq.com/s/RV8_AeLWSA0txYcWiLrxYQ | 1| 
+| 威胁棱镜 | THREAT_PRISM | 通过网空搜索引擎发现恶意软件登录页面 | https://mp.weixin.qq.com/s/RV8_AeLWSA0txYcWiLrxYQ | 2| 
 
 
 # 组织github账号 推荐
@@ -86,6 +86,7 @@
 # xz_xuanwu 推荐
 | title | url| 
 | --- | ---| 
+| Apache Dubbo Hession反序列化漏洞的利用，引用了一篇使用ByteCodeDL寻找CTF题目利用链的文章，ByteCodeDL是一个类似CodeQL的声明式静态分析工具，优势是支持直接分析字节码 | https://xz.aliyun.com/t/11961| 
 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
 
 

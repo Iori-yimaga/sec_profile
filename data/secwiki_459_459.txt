@@ -1,0 +1,15 @@
+20221212	法规	https://mp.weixin.qq.com/s/9IgOGdBKS0a2d778cVRZGA	电力行业网络安全等级保护管理办法	qq.com	mp.weixin.qq.com	/s/9IgOGdBKS0a2d778cVRZGA
+20221212	Web安全	https://github.com/Safe3/uuWAF	uuWAF: 免费、高性能、高扩展开源WAF	github.com	github.com	/Safe3/uuWAF
+20221212	取证分析	https://mp.weixin.qq.com/s/yjCOCptJn_QcCpMs9CgBbQ	通过PDF文件信息进行攻击溯源	qq.com	mp.weixin.qq.com	/s/yjCOCptJn_QcCpMs9CgBbQ
+20221212	恶意分析	https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ	Shell中的幽灵王者—JAVAWEB 内存马	qq.com	mp.weixin.qq.com	/s/NKq4BZ8fLK7bsGSK5UhoGQ
+20221212	漏洞分析	https://www.bilibili.com/video/BV1UK411671w/	针对释放后重用漏洞的自动化分析和修复	bilibili.com	www.bilibili.com	/video/BV1UK411671w/
+20221212	Web安全	https://github.com/Bywalks/DarkAngel	DarkAngel: 一款全自动白帽漏洞扫描器	github.com	github.com	/Bywalks/DarkAngel
+20221212	Web安全	https://xz.aliyun.com/t/11937	Pentesting MSSQL - Microsoft SQL Server	aliyun.com	xz.aliyun.com	/t/11937
+20221212	运维安全	https://mp.weixin.qq.com/s/b8W-FtTy4B8cGtPfp_2uRw	全量安全资产管理-进阶实践	qq.com	mp.weixin.qq.com	/s/b8W-FtTy4B8cGtPfp_2uRw
+20221212	编程技术	https://mp.weixin.qq.com/s/Wz26gkLz-KnVmND3AXhvGA	软件开发安全应用实践中的十个误区	qq.com	mp.weixin.qq.com	/s/Wz26gkLz-KnVmND3AXhvGA
+20221212	杂志	https://www.sec-wiki.com/weekly/458	SecWiki周刊（第458期)	sec-wiki.com	www.sec-wiki.com	/weekly/458
+20221212	Web安全	https://mp.weixin.qq.com/s/Z7jQOyA95tXL45Yk3Xeojg	[HTB] Seal Writeup	qq.com	mp.weixin.qq.com	/s/Z7jQOyA95tXL45Yk3Xeojg
+20221212	漏洞分析	https://sec-in.com/article/1988	SPEL注入流程分析及CTF中如何使用	sec-in.com	sec-in.com	/article/1988
+20221212	Web安全	https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA	杀伤链视域下的算法战审思	qq.com	mp.weixin.qq.com	/s/9rvZVolcyZ3R8-ZWQvRgAA
+20221212	Web安全	https://mp.weixin.qq.com/s/U0sZwPc5otIg1-amv12BEg	Project Achilles：使用 RNN 对 Java 源代码进行静态漏洞检测的原型工具	qq.com	mp.weixin.qq.com	/s/U0sZwPc5otIg1-amv12BEg
+20221212	漏洞分析	https://mp.weixin.qq.com/s/vb1Gq8B55y-sTom06hqUfA	EMS：试验数据驱动的高效变异模糊测试系统	qq.com	mp.weixin.qq.com	/s/vb1Gq8B55y-sTom06hqUfA
