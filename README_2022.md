@@ -460,7 +460,7 @@
 | 吾爱破解论坛 | pojie_52 | 活动】感动吾爱2021优秀会员评选活动（总方案） | https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651137131&idx=1&sn=1d12e3986207cc1f801cc9e7f1892f35 | 14| 
 | 关键基础设施安全应急响应中心 | CII-SRC | “十四五”数字经济高质量发展需要法治护航 | https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247524421&idx=1&sn=4c4c7933b5793f1544005a9d9ef67a5a | 71| 
 | 全球技术地图 | drc_iite | NSF向白宫递交最新报告：5大指标表明美国在科技发展的态势上输给了中国 | https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651589322&idx=1&sn=d9126d14423701c23e33fe0134d43dfc | 52| 
-| 一个人的安全笔记 | xjiek2015 | [HTB] Safe Writeup | https://mp.weixin.qq.com/s/NuP7kjfGgEMLrg60_fSzWg | 15| 
+| 一个人的安全笔记 | xjiek2015 | [HTB] Safe Writeup | https://mp.weixin.qq.com/s/NuP7kjfGgEMLrg60_fSzWg | 16| 
 | yudays实验室 | None | CVE-2021-4034权限提升漏洞 | https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247484773&idx=1&sn=0709ca817b3ac9f4f2c36782a355d2f4 | 2| 
 | aFa攻防实验室 | gzh_afagfsys | Linux提权-CVE-2021-4034 | https://mp.weixin.qq.com/s?__biz=MzAxMjcxMjkyOA==&mid=2247485627&idx=1&sn=a5cf1afffe837bc94abd138b57fca607 | 7| 
 | PeiQi文库 | PeiQi_wiki | 漏洞预警：Linux Polkit权限提升漏洞 CVE-2021-4034 | https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247490120&idx=1&sn=ac5c8f68369df6e7c257322e3dbcbb0c | 4| 

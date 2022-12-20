@@ -27,7 +27,7 @@
 | 乐枕迭代日志 | cdxy_011 | 安全概念分析框架 | https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA | 1| 
 | 穿过丛林 | gh_f90eac70537b | S&P22：探测并抵御CI服务中的非法加密挖矿 | https://mp.weixin.qq.com/s/uC7Jbtbqs2BHPtjiiQqG8Q | 1| 
 | 时间之外沉浮事 | tasnrh | 【PPT】国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/K5Wiutcq3YKMAA8mQ2FOuA | 1| 
-| 一个人的安全笔记 | xjiek2015 | [HTB] Secret Writeup | https://mp.weixin.qq.com/s/vB0bUZ02j88gALvIbuKWNA | 2| 
+| 一个人的安全笔记 | xjiek2015 | [HTB] Secret Writeup | https://mp.weixin.qq.com/s/vB0bUZ02j88gALvIbuKWNA | 3| 
 | 红队蓝军 | Xx_Security | 细谈CS分离式shellcode的加载之旅 | https://mp.weixin.qq.com/s/cgp6aFwiU7S8x2jS2VXoTQ | 1| 
 | 慢雾科技 | SlowMist | 慢雾：警惕 TransferFrom 零转账骗局 | https://mp.weixin.qq.com/s/vnHnDG435WYIoN2VNK_oTw | 1| 
 | FuzzWiki | gh_fcf21e658324 | POLYGLOT：使用语义验证的通用语言处理器模糊测试引擎｜工具分析 | https://mp.weixin.qq.com/s/KnXLjn1Da6HmglWD7OFy6Q | 1| 
