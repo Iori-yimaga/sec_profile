@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 星汉天箭 | gh_f46e25cfd752 | 机构财报中的开源情报挖掘 | https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw | 1| 
+| NISL实验室 | NISL_THU2020 | 【论文分享】窥探大型公共DNS解析器的缓存（互联网域名系统安全学术前沿系列） | https://mp.weixin.qq.com/s/9Gm9cjIatjAD9eUTTpMZAg | 1| 
+| Coggle数据科学 | gh_8df601c10cb4 | Kaggle知识点：Sklearn异常检测方法 | https://mp.weixin.qq.com/s/JiZp0BodlTxHEKYYZXH2CQ | 1| 
 | 网安国际 | inforsec | 【“漏洞挖掘、利用和修复”论坛回顾】梁红：EMS：试验数据驱动的高效变异模糊测试系统 | https://mp.weixin.qq.com/s/vb1Gq8B55y-sTom06hqUfA | 1| 
 | 等级保护测评 | zgdjbh | 《电力行业网络安全等级保护管理办法》公布之日起实施 | https://mp.weixin.qq.com/s/9IgOGdBKS0a2d778cVRZGA | 1| 
 | 极思 | WhoAmSven | 【极思】全量安全资产管理-进阶实践 | https://mp.weixin.qq.com/s/b8W-FtTy4B8cGtPfp_2uRw | 1| 
@@ -93,6 +96,8 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| WebSocket通信安全概览 | https://xz.aliyun.com/t/11962| 
+| 红队Java代码审计生命周期 | https://xz.aliyun.com/t/11966| 
 | Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 
 | GadgetInspector改造中反序列化三个source点的原理分析 | https://xz.aliyun.com/t/11915| 
 | 企业级钓鱼演练平台搭建 | https://xz.aliyun.com/t/11898| 

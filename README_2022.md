@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 星汉天箭 | gh_f46e25cfd752 | 机构财报中的开源情报挖掘 | https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw | 1| 
 | 极思 | WhoAmSven | 【极思】全量安全资产管理-进阶实践 | https://mp.weixin.qq.com/s/b8W-FtTy4B8cGtPfp_2uRw | 1| 
 | 军事文摘 | mildig | 首发 , 杀伤链视域下的算法战审思 | https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA | 1| 
 | 狼蛛安全实验室 | LangzhuSec | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://mp.weixin.qq.com/s/yjCOCptJn_QcCpMs9CgBbQ | 1| 
@@ -29,7 +30,7 @@
 | 天极智库 | gh_90d775fd9c26 | 【国际视野】欧洲安全局发布《2022年网络安全威胁全景》报告 | https://mp.weixin.qq.com/s/U-YwbRs7tDU93vwgpLywRw | 1| 
 | 摄星 | Vulinsight | 漏洞管理十大度量指标 | https://mp.weixin.qq.com/s/EExp6-IOTDd_WJwoWkj4Fw | 1| 
 | 开源情报技术研究院 | gh_d1f65c3b3e5b | 如何跨平台追踪社交媒体用户 | https://mp.weixin.qq.com/s/91R2D4G__VH3kGu4HSBssQ | 1| 
-| NISL实验室 | NISL_THU2020 | 机器学习为何难以应用于真实的网络入侵检测系统？（上） | https://mp.weixin.qq.com/s/UGFtM1Toue9B4NMdCss-OA | 3| 
+| NISL实验室 | NISL_THU2020 | 机器学习为何难以应用于真实的网络入侵检测系统？（上） | https://mp.weixin.qq.com/s/UGFtM1Toue9B4NMdCss-OA | 4| 
 | 小侦探的书桌 | gh_249f9111a64c | 写在博士生涯的最后 | https://mp.weixin.qq.com/s/MAdWdQPBj_--gMZVjR0qOg | 1| 
 | 网络安全卓越验证示范中心 | CCCoE_CAICT | 一文看懂 , 美新版《国家安全战略》中的网络安全 | https://mp.weixin.qq.com/s/VZ0ofovRfJIUbxQuHvaLyQ | 1| 
 | 碳基体 | tanjiti_security | 那些年我研发的无用模块——攻击样本回放模块 | https://mp.weixin.qq.com/s/zNTAGbM_Tjv9dWcjlsWkqg | 1| 
@@ -545,7 +546,7 @@
 | IT牧场 | itmuch_com | 大文件上传：秒传、断点续传、分片上传 | https://mp.weixin.qq.com/s?__biz=MzI4ODQ3NjE2OA==&mid=2247497404&idx=1&sn=0519f44d3a3b9ac73dcc87252cc5b66d | 24| 
 | 安全研究GoSSIP | GoSSIPSJTU | G.O.S.S.I.P 安全学术会议排行榜（2021版） | https://mp.weixin.qq.com/s/6Bd5eg9TJw5PL_Qtpq8eLg | 12| 
 | QZ的安全悟道 | lookvul | 现代网络犯罪模式解读 | https://mp.weixin.qq.com/s/7xwIaxfyObDnzx0x-j6P2w | 11| 
-| Coggle数据科学 | gh_8df601c10cb4 | Graph Embedding实战系列：Node2vec原理与代码实战 | https://mp.weixin.qq.com/s/V6DzgC1WXST7yZczKQiCXg | 2| 
+| Coggle数据科学 | gh_8df601c10cb4 | Graph Embedding实战系列：Node2vec原理与代码实战 | https://mp.weixin.qq.com/s/V6DzgC1WXST7yZczKQiCXg | 3| 
 | 贝壳产品技术 | beikeTC | 端到端模型在贝壳经纪人流失预警场景的实践 | https://mp.weixin.qq.com/s/DY-gzglv73iLrANjDY4PrQ | 3| 
 | 腾讯云防火墙 | gh_8b5f4467933a | 云防火墙产品的演进思路 | https://mp.weixin.qq.com/s/nKbUajOKuNjoCef-ZpgYfA | 1| 
 | 中通安全应急响应中心 | ZTO_SRC | 中通信息安全培训体系建设 | https://mp.weixin.qq.com/s/LklmkgRXydx35D1JcOFewA | 4| 
@@ -952,6 +953,8 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| WebSocket通信安全概览 | https://xz.aliyun.com/t/11962| 
+| 红队Java代码审计生命周期 | https://xz.aliyun.com/t/11966| 
 | Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 
 | GadgetInspector改造中反序列化三个source点的原理分析 | https://xz.aliyun.com/t/11915| 
 | 企业级钓鱼演练平台搭建 | https://xz.aliyun.com/t/11898| 
