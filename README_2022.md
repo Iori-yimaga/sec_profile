@@ -301,7 +301,7 @@
 | CNVD漏洞平台 | CNVDTS | CNVD漏洞周报2022年第4、5期 | https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247491219&idx=1&sn=99c22e20dee62f7a9c5ac264cf705eb9 | 10| 
 | 云计算和网络安全技术实践 | gh_34d6b0cb5633 | vulnhub之sunset:sunrise的实践 | https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650746723&idx=1&sn=6dbee03162a960b418819b4a4fa8a9da | 5| 
 | Qingy之安全 | gh_6ddb4536cf39 | 域内委派-原理以及应用 | https://mp.weixin.qq.com/s?__biz=Mzg2OTU4OTM0Ng==&mid=2247487588&idx=1&sn=ffdfc275017facb538c565faccfd9fbd | 3| 
-| 白日放歌须纵9 | Day_Dreamer_BR | 连载：演化的高级威胁治理（五） | https://mp.weixin.qq.com/s/T9-mgl1G7dXDnQZIqG0nZQ | 3| 
+| 白日放歌须纵9 | Day_Dreamer_BR | 连载：演化的高级威胁治理（五） | https://mp.weixin.qq.com/s/T9-mgl1G7dXDnQZIqG0nZQ | 6| 
 | 8ypass | sec_in_guangdong | 初五学习记 | https://mp.weixin.qq.com/s?__biz=MzI0NDM5OTYxNg==&mid=2247484522&idx=1&sn=9c46bbf9fa7334a2e4a1059980a8c844 | 1| 
 | bgbing安全 | bgbingsec | 中奖名单，限时最后一波红包 | https://mp.weixin.qq.com/s?__biz=MzkwNzEzMTg3MQ==&mid=2247484968&idx=1&sn=fa2875c5844b6a214e21c254d8d0c0c1 | 8| 
 | 橘子杀手 | gh_8c63a14284df | SecMap - 反序列化（Python） | https://mp.weixin.qq.com/s?__biz=MzI3OTE4MTU5Mw==&mid=2247485287&idx=1&sn=466e957d8dc49206d2536b8dd36f900d | 1| 
@@ -491,7 +491,7 @@
 | 且听安全 | qtcyber | 【最新漏洞预警】CVE-2022-22733 ShardingSphere ElasticJob-UI从权限提升到H2 RCE | https://mp.weixin.qq.com/s?__biz=Mzg3MTU0MjkwNw==&mid=2247487481&idx=1&sn=5c6412fb2977785093a684ffe7f42849 | 17| 
 | Th0r安全 | gh_3ad192d9c87f | pyinstaller有key参数的第二种逆向方法 | https://mp.weixin.qq.com/s?__biz=Mzg3ODY3MzcwMQ==&mid=2247485030&idx=1&sn=3a0446c5ac13dbafef311e32f4383974 | 18| 
 | Linux中国 | linux-cn | 用 CrowdSec 保护你的 PHP 网站不受机器人攻击 , Linux 中国 | https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664647429&idx=2&sn=7552d7ab892724ce3362a4c822fc888a | 84| 
-| Beacon Tower Lab | WebRAY_BTL | 内网代理工具与检测方法研究 | https://mp.weixin.qq.com/s/N2HL89HAHv0OmLrB3AGHSQ | 3| 
+| Beacon Tower Lab | WebRAY_BTL | 内网代理工具与检测方法研究 | https://mp.weixin.qq.com/s/N2HL89HAHv0OmLrB3AGHSQ | 4| 
 | 青衣十三楼飞花堂 | gh_9feb5a276a2a | Win10主控台登录认证流程 | https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247485254&idx=1&sn=4dae88d1a06d482de14fad9f1006b6a7 | 39| 
 | 暗魂攻防实验室 | anhunsec-red | 【社区精选】渗透攻击红队内网域渗透靶场2.0-writeup | https://mp.weixin.qq.com/s?__biz=MzkyMjE1NzQ2MA==&mid=2247485537&idx=1&sn=e3799090a8b5503da5b8ee0f8c5662fa | 4| 
 | leveryd | gh_8d7f6ed4daff | SnakeYaml 之不出网利用 | https://mp.weixin.qq.com/s?__biz=MzkyMDIxMjE5MA==&mid=2247484854&idx=1&sn=b6e1c8c3930249519dea8bc2a8448c61 | 3| 
@@ -550,7 +550,7 @@
 | 贝壳产品技术 | beikeTC | 端到端模型在贝壳经纪人流失预警场景的实践 | https://mp.weixin.qq.com/s/DY-gzglv73iLrANjDY4PrQ | 3| 
 | 腾讯云防火墙 | gh_8b5f4467933a | 云防火墙产品的演进思路 | https://mp.weixin.qq.com/s/nKbUajOKuNjoCef-ZpgYfA | 1| 
 | 中通安全应急响应中心 | ZTO_SRC | 中通信息安全培训体系建设 | https://mp.weixin.qq.com/s/LklmkgRXydx35D1JcOFewA | 4| 
-| 安全学术圈 | secquan | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg | 61| 
+| 安全学术圈 | secquan | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg | 63| 
 | 安全行者老霍 | gh_c2b78e839fd7 | Gartner 2021 漏洞评估产品市场指南 | https://mp.weixin.qq.com/s/Oi7id-3jJOFjS1x-PlmD6w | 10| 
 | 等级保护测评 | zgdjbh | 公安部公布去年侵犯个人信息十大典型案例：窃取数十亿条信息暗网牟利 | https://mp.weixin.qq.com/s/mL3UWks3T2s1sliH28GaqA | 7| 
 | 深信服千里目安全实验室 | Further_eye | 【Rootkit 系列研究】Windows平台的高隐匿、高持久化威胁 | https://mp.weixin.qq.com/s/YE7bt6Bhz2mYYp1n-2vJtQ | 10| 
@@ -817,6 +817,7 @@
 | MISP | MISP - 开源威胁情报和共享平台 | https://github.com/MISP/MISP | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,TeX,PHP,Lua | 0 | 0 | 1| 
 | Lucifer1993 | SatanSword - 红队综合渗透框架 | https://github.com/Lucifer1993/SatanSword | https://github.com/Lucifer1993?tab=followers | 安全圈职业炮灰 | Chengdu,China | = = | 44 | 1 | 818 | 0 | 0 | Python,PowerShell | 0 | 0 | 1| 
 | LubyRuffy | cheatsheet: 信安技术羊皮卷 | https://github.com/LubyRuffy/cheatsheet | https://github.com/LubyRuffy?tab=followers | Co-founder of BAIMAOHUI. | Beijing | baimaohui.net | 898 | 0 | 2 | 0 | 0 | Go,JavaScript,Ruby | 0 | 0 | 1| 
+| LittleBear4 | OA-EXPTOOL: OA综合利用工具 | https://github.com/LittleBear4/OA-EXPTOOL | https://github.com/LittleBear4?tab=followers | 一个练习时长两年半的代码练习生，喜欢网安，代码，逆向 | None | None | 2 | 0 | 2 | 0 | 0 | Python | 0 | 0 | 1| 
 | Le0nsec | SecCrawler: 每日安全日报的爬虫和推送程序 | https://github.com/Le0nsec/SecCrawler | https://github.com/Le0nsec?tab=followers | Web security researcher and CTFer, member of X1cT34m & SU. | Nanjing, China | @X1cT34m | 51 | 0 | 332 | 0 | 0 | Go,CSS,FreeMarker | 0 | 0 | 1| 
 | LandGrey | Spring Boot 相关漏洞学习资料，利用方法和技巧合集 | https://github.com/LandGrey/SpringBootVulExploit | https://github.com/LandGrey?tab=followers | I learn cyber sec | Shanghai | None | 19 | 0 | 1500 | 0 | 0 | Python,Java | 0 | 0 | 1| 
 | LSPosed | LSPosed - 基于 OG Xposed 提供 ART 的框架 | https://github.com/LSPosed/LSPosed | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Kotlin,C,Shell,Java,C++ | 0 | 0 | 1| 
@@ -871,6 +872,8 @@
 # medium_xuanwu 推荐
 | title | url| 
 | --- | ---| 
+| 盘点22年中11个在ATTCK Initial Access阶段使用的漏洞。基本是高质量通用漏洞的汇总。不过这个list有一些是本地提权和DOS漏洞。 | http://link.medium.com/ABT2zY8L2vb| 
+| Jira配置错误导致还未修复的漏洞的报告内容被泄露 | http://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers-1c697aa7e877| 
 | 如何在已root的手机上绕过Android SSL Pinning劫持HTTPS流量，以及如何修改APK以绕过Proxy Unaware劫持HTTP流量。 | https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8| 
 | 在Discord中植入RCE后门的尝试，作者起初选择使用Python调用API与server通信，并通过Nuitka将其打包为PE，但会使得程序文件大小增加40+ MB，后续尝试通过SMB进行优化。 | https://medium.com/@lsecqt/weaponizing-discord-shell-via-smb-92375e730e26| 
 | Havoc C2 绕过 Defender For Endpoint 横向移动实战 | https://assume-breach.medium.com/home-grown-red-team-lateral-movement-with-havoc-c2-and-microsoft-edr-300b7389b1f7?source=social.tw| 
@@ -944,6 +947,7 @@
 # xz_xuanwu 推荐
 | title | url| 
 | --- | ---| 
+| Apache Archiva 任意目录删除/任意文件读取 | https://xz.aliyun.com/t/11979| 
 | Apache Dubbo Hession反序列化漏洞的利用，引用了一篇使用ByteCodeDL寻找CTF题目利用链的文章，ByteCodeDL是一个类似CodeQL的声明式静态分析工具，优势是支持直接分析字节码 | https://xz.aliyun.com/t/11961| 
 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
 | 复现近期的 Apache Commons JXPath 远程代码执行(CVE-2022-41852)漏洞 | https://xz.aliyun.com/t/11813| 
@@ -953,6 +957,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 内网渗透从零到一之SMB协议 | https://xz.aliyun.com/t/11971| 
 | WebSocket通信安全概览 | https://xz.aliyun.com/t/11962| 
 | 红队Java代码审计生命周期 | https://xz.aliyun.com/t/11966| 
 | Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 

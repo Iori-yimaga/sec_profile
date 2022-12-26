@@ -14,6 +14,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 白日放歌须纵9 | Day_Dreamer_BR | 产品管理方法论（下）：规划的逻辑 & 研发的架构 | https://mp.weixin.qq.com/s/svzqjhZ7zWrXphbs985WXA | 3| 
+| Beacon Tower Lab | WebRAY_BTL | CodeQL的自动化代码审计之路（下篇） | https://mp.weixin.qq.com/s/NAuwpIZxe5lC1ytJ5WisxQ | 1| 
 | 星汉天箭 | gh_f46e25cfd752 | 机构财报中的开源情报挖掘 | https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw | 1| 
 | NISL实验室 | NISL_THU2020 | 【论文分享】窥探大型公共DNS解析器的缓存（互联网域名系统安全学术前沿系列） | https://mp.weixin.qq.com/s/9Gm9cjIatjAD9eUTTpMZAg | 1| 
 | Coggle数据科学 | gh_8df601c10cb4 | Kaggle知识点：Sklearn异常检测方法 | https://mp.weixin.qq.com/s/JiZp0BodlTxHEKYYZXH2CQ | 1| 
@@ -26,7 +28,7 @@
 | GobySec | gobysec | Shell中的幽灵王者—JAVAWEB 内存马 【认知篇】 | https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ | 1| 
 | 360威胁情报中心 | CoreSec360 | 针对巴以地区围绕卡塔尔世界杯的攻击活动 | https://mp.weixin.qq.com/s/48Atw1b6Oe7A-vlsKHYWwg | 2| 
 | 绿盟科技研究通讯 | nsfocus_research | 开源软件供应链安全系列：OSS风险点与预防 | https://mp.weixin.qq.com/s/Sn9-qk_cfgTHBJh9ourD4A | 2| 
-| 安全学术圈 | secquan | SEVulDet：一种语义增强的可学习漏洞检测器 | https://mp.weixin.qq.com/s/agQNMQo9atwZOFjPBleLcg | 5| 
+| 安全学术圈 | secquan | SEVulDet：一种语义增强的可学习漏洞检测器 | https://mp.weixin.qq.com/s/agQNMQo9atwZOFjPBleLcg | 7| 
 | 乐枕迭代日志 | cdxy_011 | 安全概念分析框架 | https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA | 1| 
 | 穿过丛林 | gh_f90eac70537b | S&P22：探测并抵御CI服务中的非法加密挖矿 | https://mp.weixin.qq.com/s/uC7Jbtbqs2BHPtjiiQqG8Q | 1| 
 | 时间之外沉浮事 | tasnrh | 【PPT】国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/K5Wiutcq3YKMAA8mQ2FOuA | 1| 
@@ -61,12 +63,15 @@
 | alfarom256 | CVE-2022-45451：ngscan驱动访问控制实现缺陷，攻击者可利用该漏洞实现任意文件读取以及敏感注册表项修改 | https://github.com/alfarom256/CVE-2022-45451 | https://github.com/alfarom256?tab=followers |  | None | None | 60 | 0 | 71 | 0 | 0 | Go,C,C++ | 0 | 0 | 1| 
 | Safe3 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF | https://github.com/Safe3?tab=followers |  | None | UUSEC Tech. | 438 | 0 | 7 | 0 | 0 | Go,Lua,Kotlin | 0 | 0 | 1| 
 | Nalen98 | Ghidra Native pcode 模拟器 | https://github.com/Nalen98/GhidraEmu | https://github.com/Nalen98?tab=followers |  | None | None | 13 | 0 | 22 | 0 | 0 | Python,C,Java,C++ | 0 | 0 | 1| 
+| LittleBear4 | OA-EXPTOOL: OA综合利用工具 | https://github.com/LittleBear4/OA-EXPTOOL | https://github.com/LittleBear4?tab=followers | 一个练习时长两年半的代码练习生，喜欢网安，代码，逆向 | None | None | 2 | 0 | 2 | 0 | 0 | Python | 0 | 0 | 1| 
 | Bywalks | DarkAngel: 一款全自动白帽漏洞扫描器 | https://github.com/Bywalks/DarkAngel | https://github.com/Bywalks?tab=followers | 知行合一。 | shanghai | None | 20 | 0 | 87 | 0 | 0 | Python,Go | 0 | 0 | 1| 
 
 
 # medium_xuanwu 推荐
 | title | url| 
 | --- | ---| 
+| 盘点22年中11个在ATTCK Initial Access阶段使用的漏洞。基本是高质量通用漏洞的汇总。不过这个list有一些是本地提权和DOS漏洞。 | http://link.medium.com/ABT2zY8L2vb| 
+| Jira配置错误导致还未修复的漏洞的报告内容被泄露 | http://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers-1c697aa7e877| 
 | 如何在已root的手机上绕过Android SSL Pinning劫持HTTPS流量，以及如何修改APK以绕过Proxy Unaware劫持HTTP流量。 | https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8| 
 | 在Discord中植入RCE后门的尝试，作者起初选择使用Python调用API与server通信，并通过Nuitka将其打包为PE，但会使得程序文件大小增加40+ MB，后续尝试通过SMB进行优化。 | https://medium.com/@lsecqt/weaponizing-discord-shell-via-smb-92375e730e26| 
 
@@ -89,6 +94,7 @@
 # xz_xuanwu 推荐
 | title | url| 
 | --- | ---| 
+| Apache Archiva 任意目录删除/任意文件读取 | https://xz.aliyun.com/t/11979| 
 | Apache Dubbo Hession反序列化漏洞的利用，引用了一篇使用ByteCodeDL寻找CTF题目利用链的文章，ByteCodeDL是一个类似CodeQL的声明式静态分析工具，优势是支持直接分析字节码 | https://xz.aliyun.com/t/11961| 
 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
 
@@ -96,6 +102,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 内网渗透从零到一之SMB协议 | https://xz.aliyun.com/t/11971| 
 | WebSocket通信安全概览 | https://xz.aliyun.com/t/11962| 
 | 红队Java代码审计生命周期 | https://xz.aliyun.com/t/11966| 
 | Pentesting MSSQL - Microsoft SQL Server | https://xz.aliyun.com/t/11937| 

@@ -1,0 +1,18 @@
+20221219	漏洞分析	https://www.bilibili.com/video/BV1XP4y1S7cP/	静态程序分析框架“太阿”的设计之道	bilibili.com	www.bilibili.com	/video/BV1XP4y1S7cP/
+20221219	Web安全	https://xz.aliyun.com/t/11962	WebSocket通信安全概览	aliyun.com	xz.aliyun.com	/t/11962
+20221219	恶意分析	https://mp.weixin.qq.com/s/aJTcub12byRW3JmcKBm-Bg	2022 年 Recorded Future C&C 服务器跟踪报告	qq.com	mp.weixin.qq.com	/s/aJTcub12byRW3JmcKBm-Bg
+20221219	恶意分析	https://mp.weixin.qq.com/s/9Gm9cjIatjAD9eUTTpMZAg	窥探大型公共DNS解析器的缓存	qq.com	mp.weixin.qq.com	/s/9Gm9cjIatjAD9eUTTpMZAg
+20221219	Web安全	https://xz.aliyun.com/t/11966	红队Java代码审计生命周期	aliyun.com	xz.aliyun.com	/t/11966
+20221219	取证分析	https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw	机构财报中的开源情报挖掘	qq.com	mp.weixin.qq.com	/s/nvVuQFPZKHgnQ-CL_yp9Mw
+20221219	Web安全	https://github.com/LittleBear4/OA-EXPTOOL	OA-EXPTOOL: OA综合利用工具	github.com	github.com	/LittleBear4/OA-EXPTOOL
+20221219	Web安全	https://sec-in.com/article/1987	Thinkphp3.2.3 SQL注入总结	sec-in.com	sec-in.com	/article/1987
+20221219	杂志	https://www.sec-wiki.com/weekly/459	SecWiki周刊（第459期)	sec-wiki.com	www.sec-wiki.com	/weekly/459
+20221219	数据挖掘	https://mp.weixin.qq.com/s/JiZp0BodlTxHEKYYZXH2CQ	Kaggle知识点：Sklearn异常检测方法	qq.com	mp.weixin.qq.com	/s/JiZp0BodlTxHEKYYZXH2CQ
+20221219	Web安全	https://mp.weixin.qq.com/s/kw1505rMlC_IIkgDGXoVTw	[HTB] Olympus Writeup	qq.com	mp.weixin.qq.com	/s/kw1505rMlC_IIkgDGXoVTw
+20221219	其它	https://mp.weixin.qq.com/s/7FE2x2Wg6KmsTAGs1pyr2g	产品管理方法论（上）	qq.com	mp.weixin.qq.com	/s/7FE2x2Wg6KmsTAGs1pyr2g
+20221219	Web安全	https://xz.aliyun.com/t/11971	内网渗透从零到一之SMB协议	aliyun.com	xz.aliyun.com	/t/11971
+20221219	Web安全	https://mp.weixin.qq.com/s/NAuwpIZxe5lC1ytJ5WisxQ	CodeQL的自动化代码审计之路（下篇）	qq.com	mp.weixin.qq.com	/s/NAuwpIZxe5lC1ytJ5WisxQ
+20221219	恶意分析	https://mp.weixin.qq.com/s/9aCIflnA0QqOCZ68geCaow	Hopper：建模并检测横向移动攻击	qq.com	mp.weixin.qq.com	/s/9aCIflnA0QqOCZ68geCaow
+20221219	数据挖掘	https://mp.weixin.qq.com/s/LT50fC1RYBSi7CTpfRyxTw	ENRE: 一个可扩展的实体关系提取框架工具	qq.com	mp.weixin.qq.com	/s/LT50fC1RYBSi7CTpfRyxTw
+20221219	其它	https://mp.weixin.qq.com/s/svzqjhZ7zWrXphbs985WXA	产品管理方法论（下）：规划的逻辑 & 研发的架构	qq.com	mp.weixin.qq.com	/s/svzqjhZ7zWrXphbs985WXA
+20221219	其它	https://mp.weixin.qq.com/s/oZiAlUiv8EGQ8NrupINyhQ	产品管理方法论（中）	qq.com	mp.weixin.qq.com	/s/oZiAlUiv8EGQ8NrupINyhQ
