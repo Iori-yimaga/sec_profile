@@ -14,6 +14,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 安全张之家 | zhang_informationSEC | 2022年网络安全四大顶会论文录用列表(中国大陆) | https://mp.weixin.qq.com/s/o69IzRCRqlGtACVeeC-aRA | 1| 
+| 鸟哥谈安全 | cnbirdsecintel | 2022年安全架构总结以及2023安全方向展望 | https://mp.weixin.qq.com/s/D0mETMfF4wu_a3dSXoxIiQ | 1| 
 | 星汉天箭 | gh_f46e25cfd752 | 机构财报中的开源情报挖掘 | https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw | 1| 
 | 极思 | WhoAmSven | 【极思】全量安全资产管理-进阶实践 | https://mp.weixin.qq.com/s/b8W-FtTy4B8cGtPfp_2uRw | 1| 
 | 军事文摘 | mildig | 首发 , 杀伤链视域下的算法战审思 | https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA | 1| 
@@ -124,7 +126,7 @@
 | 广东网络空间安全专委会 | gh_f5ab4f133df7 | 等保、分保、关保、密评四道防线守护网络信息安全 | https://mp.weixin.qq.com/s/zLBjiW9iLx83GjCNV07Utw | 1| 
 | 安全喷子 | gh_2a9c00f1d053 | ATT&CK 变成安全“元宇宙”？ | https://mp.weixin.qq.com/s/1pJo_b979rqqKP9ldC13Vg | 1| 
 | 天玄安全实验室 | TianXuan_SecurityLab | Chrome Mojo组件的沙箱逃逸漏洞分析 | https://mp.weixin.qq.com/s/tGwCwOQ8eAwm26fHXTCy5A | 2| 
-| 北邮 GAMMA Lab | BUPT_GAMMA | 数据科学研究型人才培养的思考与实践 | https://mp.weixin.qq.com/s/cw8gAinn4iWgKGh86xxxGA | 1| 
+| 北邮 GAMMA Lab | BUPT_GAMMA | 数据科学研究型人才培养的思考与实践 | https://mp.weixin.qq.com/s/cw8gAinn4iWgKGh86xxxGA | 2| 
 | 绝对防御局 | Absolute-Defense | 通过覆盖Powershell cmdlet方式进行权限维持 | https://mp.weixin.qq.com/s?__biz=MzkxMTE5MjQ3NA==&mid=2247483781&idx=1&sn=721f1202f22953e2d80c0aaca0224a81&chksm=c11eb970f669306635bf759a8a846271bd864ed2522a23ebfcb078fecf925d440a84e82b7fb9#rd | 2| 
 | 大山子雪人 | gh_b9ecf4eee3a9 | 从DARPA项目学习如何做安全研究 | https://mp.weixin.qq.com/s/BkOIosI50NRqzz8Vsbm1Hg | 1| 
 | 网安国际 | inforsec | XNU虚拟内存安全往事 | https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ | 3| 
@@ -275,7 +277,7 @@
 | 军机故阁 | gh_e57baf46bdf5 | Gibbon学校管理系统，比XSS到RCE | https://mp.weixin.qq.com/s?__biz=MzU5Mjk3MDA5Ng==&mid=2247484042&idx=1&sn=ae8c9f45e26199893cb30e71834425e6 | 2| 
 | K8实验室 | K8-lab | 冰墩墩官方预售购买渠道 | https://mp.weixin.qq.com/s?__biz=Mzg3MTY4NjUyOQ==&mid=2247484027&idx=1&sn=3281209b1dcd43e912b72ddc0e676305 | 5| 
 | 骨哥说事 | guge_guge | 通过Sony漏洞披露计划我发现了什么 | https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650255127&idx=1&sn=4b6301232873bb5b046a8eb7fdbe740b | 6| 
-| 陌陌安全 | MomoSecurity | 开工大吉+双节，探探等众多APP一大波活动来袭 | https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247486753&idx=1&sn=0f3d2f5f36aac4add4b0c2c527e4203e | 5| 
+| 陌陌安全 | MomoSecurity | 开工大吉+双节，探探等众多APP一大波活动来袭 | https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247486753&idx=1&sn=0f3d2f5f36aac4add4b0c2c527e4203e | 6| 
 | 阿里安全响应中心 | alisrc | 【岗位更新】阿里云安全招人啦 | https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652992555&idx=1&sn=7e27d221aa44e42e9f5340ee4411aa81 | 3| 
 | 边界骇客 | no__root | 甲方安全招聘 | https://mp.weixin.qq.com/s?__biz=MzU1NTkzMTYxOQ==&mid=2247485130&idx=1&sn=996be1121dbd03dd8811cdf9ef03d31e | 3| 
 | 虚拟框架 | twoyii | 强推！没有找不到的资源，请低调使用 | https://mp.weixin.qq.com/s?__biz=MjM5Njg5ODU2NA==&mid=2257499570&idx=1&sn=0594ec79f3b2c1c71e1e2e1296b37176 | 1| 
@@ -447,7 +449,7 @@
 | 微步在线 | Threatbook | 企业常见四种内部威胁，第一种最容易中招 , 微步一周荐读 | https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650171190&idx=1&sn=90358fb4013e10f5499d24d0accb8f6e | 9| 
 | 弥天安全实验室 | gh_41292c8e5379 | CVE-2021-4034 Linux Polkit 权限提升漏洞复现 | https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247488175&idx=1&sn=204aed4c76ecf40e26c04f42f2f64c5e | 15| 
 | 安恒信息资讯 | DBAPP688023 | 通知,安恒信息春节应急保障 7*24小时为您在线 | https://mp.weixin.qq.com/s?__biz=MzkwODE2OTU0NA==&mid=2247485131&idx=1&sn=3ed9779e09cd188b2a396d61868a0f6f | 1| 
-| 安天集团 | Antiylab | 冬训营丨2021年网络安全威胁回顾 | https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650186693&idx=1&sn=f2f236c72d7a194c190474ed2d8b86d1 | 9| 
+| 安天集团 | Antiylab | 冬训营丨2021年网络安全威胁回顾 | https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650186693&idx=1&sn=f2f236c72d7a194c190474ed2d8b86d1 | 10| 
 | 安在 | AnZer_SH | 诸子笔会 , 刘顺：企业网络安全规划建设实践 | https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247534758&idx=2&sn=62917dab4f399bba8b5aa58997c3595d | 50| 
 | 安全牛 | aqniu-wx | 以人为本，如何在“辞职潮”中寻找和留住网络安全人才？ | https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651110141&idx=1&sn=2c91fa8980e32678755fa798f8c397d1 | 59| 
 | 安全圈 | ChinaAnQuan | 【安全圈】北美IT公司调查表明：勒索软件团伙正在加大力度招募内部人员来协助攻击 | https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2651991947&idx=4&sn=a775a6c5673df5d367e2be5a2bc594a9 | 86| 
@@ -461,7 +463,7 @@
 | 吾爱破解论坛 | pojie_52 | 活动】感动吾爱2021优秀会员评选活动（总方案） | https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651137131&idx=1&sn=1d12e3986207cc1f801cc9e7f1892f35 | 14| 
 | 关键基础设施安全应急响应中心 | CII-SRC | “十四五”数字经济高质量发展需要法治护航 | https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247524421&idx=1&sn=4c4c7933b5793f1544005a9d9ef67a5a | 71| 
 | 全球技术地图 | drc_iite | NSF向白宫递交最新报告：5大指标表明美国在科技发展的态势上输给了中国 | https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651589322&idx=1&sn=d9126d14423701c23e33fe0134d43dfc | 52| 
-| 一个人的安全笔记 | xjiek2015 | [HTB] Safe Writeup | https://mp.weixin.qq.com/s/NuP7kjfGgEMLrg60_fSzWg | 16| 
+| 一个人的安全笔记 | xjiek2015 | [HTB] Safe Writeup | https://mp.weixin.qq.com/s/NuP7kjfGgEMLrg60_fSzWg | 17| 
 | yudays实验室 | None | CVE-2021-4034权限提升漏洞 | https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247484773&idx=1&sn=0709ca817b3ac9f4f2c36782a355d2f4 | 2| 
 | aFa攻防实验室 | gzh_afagfsys | Linux提权-CVE-2021-4034 | https://mp.weixin.qq.com/s?__biz=MzAxMjcxMjkyOA==&mid=2247485627&idx=1&sn=a5cf1afffe837bc94abd138b57fca607 | 7| 
 | PeiQi文库 | PeiQi_wiki | 漏洞预警：Linux Polkit权限提升漏洞 CVE-2021-4034 | https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247490120&idx=1&sn=ac5c8f68369df6e7c257322e3dbcbb0c | 4| 
@@ -550,13 +552,13 @@
 | 贝壳产品技术 | beikeTC | 端到端模型在贝壳经纪人流失预警场景的实践 | https://mp.weixin.qq.com/s/DY-gzglv73iLrANjDY4PrQ | 3| 
 | 腾讯云防火墙 | gh_8b5f4467933a | 云防火墙产品的演进思路 | https://mp.weixin.qq.com/s/nKbUajOKuNjoCef-ZpgYfA | 1| 
 | 中通安全应急响应中心 | ZTO_SRC | 中通信息安全培训体系建设 | https://mp.weixin.qq.com/s/LklmkgRXydx35D1JcOFewA | 4| 
-| 安全学术圈 | secquan | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg | 63| 
+| 安全学术圈 | secquan | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg | 64| 
 | 安全行者老霍 | gh_c2b78e839fd7 | Gartner 2021 漏洞评估产品市场指南 | https://mp.weixin.qq.com/s/Oi7id-3jJOFjS1x-PlmD6w | 10| 
 | 等级保护测评 | zgdjbh | 公安部公布去年侵犯个人信息十大典型案例：窃取数十亿条信息暗网牟利 | https://mp.weixin.qq.com/s/mL3UWks3T2s1sliH28GaqA | 7| 
 | 深信服千里目安全实验室 | Further_eye | 【Rootkit 系列研究】Windows平台的高隐匿、高持久化威胁 | https://mp.weixin.qq.com/s/YE7bt6Bhz2mYYp1n-2vJtQ | 10| 
 | 安全客 | anquanbobao | 【技术分享】网络空间测绘溯源技术剖析 | https://mp.weixin.qq.com/s/i-VzWFUB4bncDlKvrJk9xw | 51| 
 | 字节跳动终端技术 | ClientInfra | 基于跨站跳转和文本数据异构图的GCN模型实现恶意网站识别 | https://mp.weixin.qq.com/s/sQxa7YrNybZnP1w5iZeceA | 1| 
-| 威胁棱镜 | THREAT_PRISM | 在互联网交换中心检测反射放大 DDoS 攻击 | https://mp.weixin.qq.com/s/bH7SSb9-RW1H5VlUWog8cQ | 47| 
+| 威胁棱镜 | THREAT_PRISM | 在互联网交换中心检测反射放大 DDoS 攻击 | https://mp.weixin.qq.com/s/bH7SSb9-RW1H5VlUWog8cQ | 48| 
 | ChaMd5安全团队 | chamd5sec | 长安战疫-WriteUp | https://mp.weixin.qq.com/s/VMk7RPkvDioqMqEQdM5jFw | 12| 
 | 金融犯罪辩护与实务研究 | gh_5826b3a9c36f | 网络爬虫公司可能触犯哪些罪名 | https://mp.weixin.qq.com/s/AI5Pa37dS4q1XRCbbZXBsA | 1| 
 | 莫哥谈安全 | gh_247dfbdf3d43 | 浅谈数据安全运营能力建设 | https://mp.weixin.qq.com/s/SvMd8aCalyg5pL6Jri-4AA | 2| 
@@ -770,6 +772,7 @@
 | achuna33 | MYExploit: OAExploit一款基于产品的一键扫描工具。 | https://github.com/achuna33/MYExploit | https://github.com/achuna33?tab=followers |  | None | None | 13 | 1 | 35 | 0 | 0 | Python,Java | 0 | 0 | 1| 
 | abusech | ThreatFox：开源威胁情报共享平台 | https://github.com/abusech/ThreatFox | https://github.com/abusech?tab=followers | Fighting malware and botnets | Zurich | abuse.ch | 4 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | aaaddress1 | 不依赖 DLL 注入的 UAC Bypass，支持 Windows 11 | https://github.com/aaaddress1/PR0CESS/tree/main/UACBypassJF_RpcALPC | https://github.com/aaaddress1?tab=followers | 30cm.tw/me | Taiwan | TXOne Networks, inc. | 197 | 0 | 541 | 0 | 0 | C#,C,C++ | 0 | 0 | 1| 
+| ZhuriLab | Yi: 项目监控工具 以及 Codeql 自动运行 | https://github.com/ZhuriLab/Yi | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,C | 0 | 0 | 1| 
 | Yavuzlar | VulnLab: Web Application Vulnerabilities Lab | https://github.com/Yavuzlar/VulnLab | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,CSS | 0 | 0 | 1| 
 | Yamato-Security | Hayabusa - 基于 Windows Event Log 的快速取证 Timeline 分析工具 | https://github.com/Yamato-Security/hayabusa | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Makefile,PowerShell,Rust | 0 | 0 | 1| 
 | Wilfred | Difftastic - 支持语法格式的 Diff 工具 | https://github.com/Wilfred/difftastic | https://github.com/Wilfred?tab=followers | PL enthusiast, Emacs addict, and Hacklang contributor. | Bay Area, USA | None | 393 | 0 | 1700 | 0 | 0 | C,JavaScript,Emacs,Rust | 0 | 0 | 1| 

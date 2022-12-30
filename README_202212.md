@@ -14,6 +14,11 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 安天集团 | Antiylab | 针对军工和教育行业的CNC组织“摆渡”木马分析 | https://mp.weixin.qq.com/s/uEjNpw-rtpjGGPacJS19WQ | 1| 
+| 安全张之家 | zhang_informationSEC | 2022年网络安全四大顶会论文录用列表(中国大陆) | https://mp.weixin.qq.com/s/o69IzRCRqlGtACVeeC-aRA | 1| 
+| 北邮 GAMMA Lab | BUPT_GAMMA | 异质信息网络在软件工程方向的应用调研 | https://mp.weixin.qq.com/s/ZdSOop-I1e8WblBK9oQJjw | 1| 
+| 鸟哥谈安全 | cnbirdsecintel | 2022年安全架构总结以及2023安全方向展望 | https://mp.weixin.qq.com/s/D0mETMfF4wu_a3dSXoxIiQ | 1| 
+| 陌陌安全 | MomoSecurity | 越权漏洞自动化治理实践 | https://mp.weixin.qq.com/s/rI5r3KdMC0StA9kU5IErzg | 1| 
 | 白日放歌须纵9 | Day_Dreamer_BR | 产品管理方法论（下）：规划的逻辑 & 研发的架构 | https://mp.weixin.qq.com/s/svzqjhZ7zWrXphbs985WXA | 3| 
 | Beacon Tower Lab | WebRAY_BTL | CodeQL的自动化代码审计之路（下篇） | https://mp.weixin.qq.com/s/NAuwpIZxe5lC1ytJ5WisxQ | 1| 
 | 星汉天箭 | gh_f46e25cfd752 | 机构财报中的开源情报挖掘 | https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw | 1| 
@@ -28,15 +33,15 @@
 | GobySec | gobysec | Shell中的幽灵王者—JAVAWEB 内存马 【认知篇】 | https://mp.weixin.qq.com/s/NKq4BZ8fLK7bsGSK5UhoGQ | 1| 
 | 360威胁情报中心 | CoreSec360 | 针对巴以地区围绕卡塔尔世界杯的攻击活动 | https://mp.weixin.qq.com/s/48Atw1b6Oe7A-vlsKHYWwg | 2| 
 | 绿盟科技研究通讯 | nsfocus_research | 开源软件供应链安全系列：OSS风险点与预防 | https://mp.weixin.qq.com/s/Sn9-qk_cfgTHBJh9ourD4A | 2| 
-| 安全学术圈 | secquan | SEVulDet：一种语义增强的可学习漏洞检测器 | https://mp.weixin.qq.com/s/agQNMQo9atwZOFjPBleLcg | 7| 
+| 安全学术圈 | secquan | SEVulDet：一种语义增强的可学习漏洞检测器 | https://mp.weixin.qq.com/s/agQNMQo9atwZOFjPBleLcg | 8| 
 | 乐枕迭代日志 | cdxy_011 | 安全概念分析框架 | https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA | 1| 
 | 穿过丛林 | gh_f90eac70537b | S&P22：探测并抵御CI服务中的非法加密挖矿 | https://mp.weixin.qq.com/s/uC7Jbtbqs2BHPtjiiQqG8Q | 1| 
 | 时间之外沉浮事 | tasnrh | 【PPT】国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/K5Wiutcq3YKMAA8mQ2FOuA | 1| 
-| 一个人的安全笔记 | xjiek2015 | [HTB] Secret Writeup | https://mp.weixin.qq.com/s/vB0bUZ02j88gALvIbuKWNA | 3| 
+| 一个人的安全笔记 | xjiek2015 | [HTB] Secret Writeup | https://mp.weixin.qq.com/s/vB0bUZ02j88gALvIbuKWNA | 4| 
 | 红队蓝军 | Xx_Security | 细谈CS分离式shellcode的加载之旅 | https://mp.weixin.qq.com/s/cgp6aFwiU7S8x2jS2VXoTQ | 1| 
 | 慢雾科技 | SlowMist | 慢雾：警惕 TransferFrom 零转账骗局 | https://mp.weixin.qq.com/s/vnHnDG435WYIoN2VNK_oTw | 1| 
 | FuzzWiki | gh_fcf21e658324 | POLYGLOT：使用语义验证的通用语言处理器模糊测试引擎｜工具分析 | https://mp.weixin.qq.com/s/KnXLjn1Da6HmglWD7OFy6Q | 1| 
-| 威胁棱镜 | THREAT_PRISM | 通过网空搜索引擎发现恶意软件登录页面 | https://mp.weixin.qq.com/s/RV8_AeLWSA0txYcWiLrxYQ | 2| 
+| 威胁棱镜 | THREAT_PRISM | 通过网空搜索引擎发现恶意软件登录页面 | https://mp.weixin.qq.com/s/RV8_AeLWSA0txYcWiLrxYQ | 3| 
 
 
 # 组织github账号 推荐
@@ -61,6 +66,7 @@
 | caioluders | XSS 2 RCE on flipper_zero | https://github.com/caioluders/pocs/blob/main/flipper_rce_xss.js | https://github.com/caioluders?tab=followers |  | Brazil | None | 43 | 0 | 204 | 0 | 0 | Python,C,HTML | 0 | 0 | 1| 
 | blasty | blasty分享了关于其在Pwn2Own演示打印机漏洞的成功画面展示如何实现 | https://github.com/blasty/printer-cracktro | https://github.com/blasty?tab=followers |  | None | None | 19 | 0 | 5 | 0 | 0 | Python,C,Dockerfile | 0 | 0 | 1| 
 | alfarom256 | CVE-2022-45451：ngscan驱动访问控制实现缺陷，攻击者可利用该漏洞实现任意文件读取以及敏感注册表项修改 | https://github.com/alfarom256/CVE-2022-45451 | https://github.com/alfarom256?tab=followers |  | None | None | 60 | 0 | 71 | 0 | 0 | Go,C,C++ | 0 | 0 | 1| 
+| ZhuriLab | Yi: 项目监控工具 以及 Codeql 自动运行 | https://github.com/ZhuriLab/Yi | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,C | 0 | 0 | 1| 
 | Safe3 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF | https://github.com/Safe3?tab=followers |  | None | UUSEC Tech. | 438 | 0 | 7 | 0 | 0 | Go,Lua,Kotlin | 0 | 0 | 1| 
 | Nalen98 | Ghidra Native pcode 模拟器 | https://github.com/Nalen98/GhidraEmu | https://github.com/Nalen98?tab=followers |  | None | None | 13 | 0 | 22 | 0 | 0 | Python,C,Java,C++ | 0 | 0 | 1| 
 | LittleBear4 | OA-EXPTOOL: OA综合利用工具 | https://github.com/LittleBear4/OA-EXPTOOL | https://github.com/LittleBear4?tab=followers | 一个练习时长两年半的代码练习生，喜欢网安，代码，逆向 | None | None | 2 | 0 | 2 | 0 | 0 | Python | 0 | 0 | 1| 
