@@ -788,7 +788,7 @@
 | PaperWeekly | paperweekly | 百度实体链接比赛后记：行为建模和实体链接（含代码分享） | https://mp.weixin.qq.com/s/hIGmW_J5xEvLUXa4hFHzsA | 14| 
 | 网信军民融合 | wxjmrh | “战斗民族”俄罗斯网络空间作战研究 | https://mp.weixin.qq.com/s/lHTNtsA6Pc-FGGoQoO6AUw | 4| 
 | 小米安全中心 | misrc_team | 【技术分享】漏洞扫描技巧篇-Web 漏洞扫描器 | https://mp.weixin.qq.com/s/urbFms6AiUb7uu_IGj3LXQ | 8| 
-| 小强说 | xiaoqiangcall | 从ATT&CK看威胁情报的发展和应用趋势 | https://mp.weixin.qq.com/s/zbAwTDZ5IuRCMkuIDo82Cw | 8| 
+| 小强说 | xiaoqiangcall | 从ATT&CK看威胁情报的发展和应用趋势 | https://mp.weixin.qq.com/s/zbAwTDZ5IuRCMkuIDo82Cw | 9| 
 | 天御攻防实验室 | TianyuLab | 实战化ATT&CK™：威胁情报 | https://mp.weixin.qq.com/s/CzrQoLdpVUHrXGTMrkWHPQ | 11| 
 | baronpan |  | 基于 ATT&CK 的 APT 威胁跟踪和狩猎 | https://mp.weixin.qq.com/s/nqQmlWcemAGopy898I4cNg | 2| 
 | 道法术 |  | [法]从SOAR中求解应用安全建设强运营突围之法 | https://mp.weixin.qq.com/s/sedpOhSxEGSdaxX8SACIMA | 3| 
@@ -831,7 +831,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 102| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 192| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 194| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 12| 
@@ -3922,6 +3922,7 @@
 | wkz | kmemd - 利用 GDB 调试器查看 Linux 内核的运行时内存 | https://github.com/wkz/kmemd | https://github.com/wkz?tab=followers |  | Sweden | None | 37 | 0 | 54 | 0 | 0 | C,Shell | 0 | 0 | 1| 
 | wireapp | 桌面版本 Wire 应用因使用 Electron 不当导致 RCE 漏洞 | https://github.com/wireapp/wire-desktop/security/advisories/GHSA-5gpx-9976-ggpm | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Groovy,C,TypeScript,Java,HTML,Scala,JavaScript,Shell,Objective-C,Haskell,Swift,HCL | 2900 | 516 | 1| 
 | winsiderss | System Informer - 一款开源的 Windows 资源监控和软件调试工具 | https://github.com/winsiderss/systeminformer | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C | 0 | 0 | 1| 
+| wh1t3p1g | Ysomap：一款适配于各类实际复杂环境的Java反序列化利用框架 | https://github.com/wh1t3p1g/ysomap | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 2| 
 | wgpsec | TIG 威胁情报收集 | https://github.com/wgpsec/tig | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | weiboad | fiery: APM for PHP 基于PHP的分布式跟踪系统 | https://github.com/weiboad/fiery | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Objective-C,PHP,Java,C++ | 0 | 0 | 1| 
 | wecooperate | iMonitorSDK: 系统监控开发套件API | https://github.com/wecooperate/iMonitorSDK | https://github.com/wecooperate?tab=followers | 人因梦想而伟大 | None | None | 6 | 0 | 0 | 0 | 0 | C++ | 0 | 0 | 1| 
