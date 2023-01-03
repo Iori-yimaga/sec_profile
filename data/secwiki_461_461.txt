@@ -1,0 +1,17 @@
+20221226	运维安全	https://mp.weixin.qq.com/s/D0mETMfF4wu_a3dSXoxIiQ	2022年安全架构总结以及2023安全方向展望	qq.com	mp.weixin.qq.com	/s/D0mETMfF4wu_a3dSXoxIiQ
+20221226	Web安全	https://mp.weixin.qq.com/s/rI5r3KdMC0StA9kU5IErzg	越权漏洞自动化治理实践	qq.com	mp.weixin.qq.com	/s/rI5r3KdMC0StA9kU5IErzg
+20221226	恶意分析	http://report.threatbook.cn/2022.pdf	2022攻防演练木马专项分析报告	threatbook.cn	report.threatbook.cn	/2022.pdf
+20221226	Web安全	https://github.com/ZhuriLab/Yi	Yi: 项目监控工具 以及 Codeql 自动运行	github.com	github.com	/ZhuriLab/Yi
+20221226	会议	https://mp.weixin.qq.com/s/o69IzRCRqlGtACVeeC-aRA	2022年网络安全四大顶会论文录用列表(中国大陆)	qq.com	mp.weixin.qq.com	/s/o69IzRCRqlGtACVeeC-aRA
+20221226	其它	https://mp.weixin.qq.com/s/UDbOlnLfsD4pk_3PQCuGBw	欧盟网络安全局 2022 年度威胁报告	qq.com	mp.weixin.qq.com	/s/UDbOlnLfsD4pk_3PQCuGBw
+20221226	恶意分析	https://mp.weixin.qq.com/s/uEjNpw-rtpjGGPacJS19WQ	针对军工和教育行业的CNC组织“摆渡”木马分析	qq.com	mp.weixin.qq.com	/s/uEjNpw-rtpjGGPacJS19WQ
+20221226	杂志	https://www.sec-wiki.com/weekly/460	SecWiki周刊（第460期)	sec-wiki.com	www.sec-wiki.com	/weekly/460
+20221226	恶意分析	https://mp.weixin.qq.com/s/WaPpf20x7flfePP5-T7XIg	从开源项目和库的Issue和Bug报告中挖掘情报	qq.com	mp.weixin.qq.com	/s/WaPpf20x7flfePP5-T7XIg
+20221226	Web安全	https://mp.weixin.qq.com/s/7eEGFMrYwfjK8ElNjvg6Lg	[HTB] Jarvis Writeup	qq.com	mp.weixin.qq.com	/s/7eEGFMrYwfjK8ElNjvg6Lg
+20221226	Web安全	https://github.com/wh1t3p1g/tabby	TABBY：一款针对Java语言的静态代码分析工具	github.com	github.com	/wh1t3p1g/tabby
+20221226	Web安全	https://github.com/wh1t3p1g/ysomap	Ysomap：一款适配于各类实际复杂环境的Java反序列化利用框架	github.com	github.com	/wh1t3p1g/ysomap
+20221226	数据挖掘	https://mp.weixin.qq.com/s/ZdSOop-I1e8WblBK9oQJjw	异质信息网络在软件工程方向的应用调研	qq.com	mp.weixin.qq.com	/s/ZdSOop-I1e8WblBK9oQJjw
+20221226	取证分析	https://mp.weixin.qq.com/s/dxYkIbGDOFOFL6Ta-ixpKA	Open-CyKG：开放式网络威胁知识知识图谱	qq.com	mp.weixin.qq.com	/s/dxYkIbGDOFOFL6Ta-ixpKA
+20221226	恶意分析	https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg	SLEUTH：基于COTS审计数据的实时攻击场景重构	qq.com	mp.weixin.qq.com	/s/0zgoFUn1R3mS5m3UCOaYSg
+20221226	Web安全	https://mp.weixin.qq.com/s/OC88N93BopEdiJqe_ttcqQ	云原生安全系列（二）| 利用K8s污点容忍度横向移动主节点	qq.com	mp.weixin.qq.com	/s/OC88N93BopEdiJqe_ttcqQ
+20221226	设备安全	https://mp.weixin.qq.com/s/0OZh4TLYK_2aoyMf8hIEPA	MOSAICS 工业控制系统的扩展态势感知框架	qq.com	mp.weixin.qq.com	/s/0OZh4TLYK_2aoyMf8hIEPA
