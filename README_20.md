@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 网安罗盘 | SecurityCompass | 美国2023财年网络安全预算分析与思考 | https://mp.weixin.qq.com/s/4SKZHMLC24m0XNZIF6qkTg | 1| 
 | 鸟哥谈安全 | cnbirdsecintel | 2022年安全架构总结以及2023安全方向展望 | https://mp.weixin.qq.com/s/D0mETMfF4wu_a3dSXoxIiQ | 1| 
 | 星汉天箭 | gh_f46e25cfd752 | 机构财报中的开源情报挖掘 | https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw | 1| 
 | 极思 | WhoAmSven | 【极思】全量安全资产管理-进阶实践 | https://mp.weixin.qq.com/s/b8W-FtTy4B8cGtPfp_2uRw | 1| 
@@ -890,7 +891,7 @@
 | Alfred数据室 | Alfred_Lab | 用大数据扒一扒蔡徐坤的真假流量粉 , Alfred数据室 | https://mp.weixin.qq.com/s/j1kgf2RR7jssbWa7uWC-uA | 1| 
 | 网安一起行_上海网警 | shanghaiwangjing | 一图看懂网络安全执法检查 | https://mp.weixin.qq.com/s/gAS2cFaWMUdY0s6sT6ZtHw | 1| 
 | 数据安全与取证 | Cflab_net | 果断收藏！电子取证最全清单 | https://mp.weixin.qq.com/s/ES83wSU-WBrUONGjCN6jYw | 7| 
-| 安在 | AnZer_SH | 新锐 , 盛华安张颖：左手SIEM右手服装设计的美女博士 | https://mp.weixin.qq.com/s/LOrxA4EUB9xecvelTeBQKg | 102| 
+| 安在 | AnZer_SH | 新锐 , 盛华安张颖：左手SIEM右手服装设计的美女博士 | https://mp.weixin.qq.com/s/LOrxA4EUB9xecvelTeBQKg | 103| 
 | 美团技术团队 | meituantech |  | https://mp.weixin.qq.com/s/inKDcHLaP4M2ZbpxACORXw | 16| 
 | 迷样人生 | iot-sec | C端安全产品的未来之路 | https://mp.weixin.qq.com/s/Sp15EkyNKBZvOZHrJ7zJ2w | 1| 
 | 王小明的事 | Struggle_of_a_noob | 使用Aggressor脚本雕饰Cobalt Strike | https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg | 1| 
