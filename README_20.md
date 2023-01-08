@@ -3923,7 +3923,7 @@
 | wkz | kmemd - 利用 GDB 调试器查看 Linux 内核的运行时内存 | https://github.com/wkz/kmemd | https://github.com/wkz?tab=followers |  | Sweden | None | 37 | 0 | 54 | 0 | 0 | C,Shell | 0 | 0 | 1| 
 | wireapp | 桌面版本 Wire 应用因使用 Electron 不当导致 RCE 漏洞 | https://github.com/wireapp/wire-desktop/security/advisories/GHSA-5gpx-9976-ggpm | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Groovy,C,TypeScript,Java,HTML,Scala,JavaScript,Shell,Objective-C,Haskell,Swift,HCL | 2900 | 516 | 1| 
 | winsiderss | System Informer - 一款开源的 Windows 资源监控和软件调试工具 | https://github.com/winsiderss/systeminformer | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C | 0 | 0 | 1| 
-| wh1t3p1g | Ysomap：一款适配于各类实际复杂环境的Java反序列化利用框架 | https://github.com/wh1t3p1g/ysomap | https://github.com/wh1t3p1g?tab=followers | Study On Web Security && Code review (semi-auto and manual) | None | Never Stop Exploiting | 29 | 0 | 1500 | 0 | 0 | PHP,Java | 0 | 0 | 2| 
+| wh1t3p1g | TABBY：一款针对Java语言的静态代码分析工具 | https://github.com/wh1t3p1g/tabby | https://github.com/wh1t3p1g?tab=followers | Study On Web Security && Code review (semi-auto and manual) | None | Never Stop Exploiting | 29 | 0 | 1500 | 0 | 0 | PHP,Java | 0 | 0 | 2| 
 | wgpsec | TIG 威胁情报收集 | https://github.com/wgpsec/tig | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | weiboad | fiery: APM for PHP 基于PHP的分布式跟踪系统 | https://github.com/weiboad/fiery | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Objective-C,PHP,Java,C++ | 0 | 0 | 1| 
 | wecooperate | iMonitorSDK: 系统监控开发套件API | https://github.com/wecooperate/iMonitorSDK | https://github.com/wecooperate?tab=followers | 人因梦想而伟大 | None | None | 6 | 0 | 0 | 0 | 0 | C++ | 0 | 0 | 1| 
