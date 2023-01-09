@@ -1,0 +1,17 @@
+20230102	无线安全	https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g	2022太空安全报告	qq.com	mp.weixin.qq.com	/s/N8kTUz11C2aAsZyYk85r4g
+20230102	漏洞分析	https://mp.weixin.qq.com/s/YngEu1mHECLvqlEiyQywZA	实时缺陷定位	qq.com	mp.weixin.qq.com	/s/YngEu1mHECLvqlEiyQywZA
+20230102	恶意分析	https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q	卡巴斯基深度报告：从俄乌战争重新评估网络战	qq.com	mp.weixin.qq.com	/s/-qGn-mQBaptREToko3iC0Q
+20230102	杂志	https://www.sec-wiki.com/weekly/461	SecWiki周刊（第461期)	sec-wiki.com	www.sec-wiki.com	/weekly/461
+20230102	Web安全	https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww	调教某数字杀软，权限维持	qq.com	mp.weixin.qq.com	/s/IYGon3X4-cQwnwwb1WZWww
+20230102	Web安全	https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ	面向实战的基础安全体系升级	qq.com	mp.weixin.qq.com	/s/E1cDMfGRbF0hKlvnJ2PMFQ
+20230102	恶意分析	https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA	2022 年 GreyNoise 在野大规模漏洞利用报告	qq.com	mp.weixin.qq.com	/s/lksZSS7RlkBiRUUfDvB0UA
+20230102	Web安全	https://xz.aliyun.com/t/12001	全方位了解CORS跨域资源共享漏洞	aliyun.com	xz.aliyun.com	/t/12001
+20230102	无线安全	https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg	美太空领域网络安全能力建设研究	qq.com	mp.weixin.qq.com	/s/_8dBUet5BogjVEbpN6jfTg
+20230102	其它	https://mp.weixin.qq.com/s/4SKZHMLC24m0XNZIF6qkTg	美国2023财年网络安全预算分析与思考	qq.com	mp.weixin.qq.com	/s/4SKZHMLC24m0XNZIF6qkTg
+20230102	取证分析	https://www.slowmist.com/report/2022-Blockchain-Security-and-AML-Analysis-Annual-Report(CN).pdf	2022 区块链安全及反洗钱分析年度回顾	slowmist.com	www.slowmist.com	/report/2022-Blockchain-Security-and-AML-Analysis-Annual-Report(CN).pdf
+20230102	恶意分析	https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ	2022年PyPI恶意包年度回顾	qq.com	mp.weixin.qq.com	/s/rQ2IkiDCc_NEjZUWXBE4YQ
+20230102	其它	https://mp.weixin.qq.com/s/vnCdiOB1tsvkdgz5-5Z8ug	2022国内网络安全融资分析	qq.com	mp.weixin.qq.com	/s/vnCdiOB1tsvkdgz5-5Z8ug
+20230102	Web安全	https://www.anquanke.com/post/id/284200	GitLab结合fortify实现自动化代码审计实践	anquanke.com	www.anquanke.com	/post/id/284200
+20230102	漏洞分析	https://paper.seebug.org/2038/	Patch diff an old vulnerability in Synology NAS	seebug.org	paper.seebug.org	/2038/
+20230102	Web安全	https://github.com/4ra1n/code-inspector	code-inspector: 基于字节码分析的Java代码审计工具	github.com	github.com	/4ra1n/code-inspector
+20230102	Web安全	https://mp.weixin.qq.com/s/OJPhl17HS8EBC6GLEAPvDg	玩转CodeQLpy之代码审计实战案例	qq.com	mp.weixin.qq.com	/s/OJPhl17HS8EBC6GLEAPvDg

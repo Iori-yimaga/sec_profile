@@ -1,6 +1,6 @@
 C	3
+Java	3
 C++	3
-Java	2
+Go	2
 Python	1
-Go	1
 Ruby	1
