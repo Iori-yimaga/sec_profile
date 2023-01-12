@@ -1,6 +1,8 @@
+Java	4
 C	3
-Java	3
 C++	3
-Go	2
-Python	1
+Go	3
+Python	2
+Solidity	1
+JavaScript	1
 Ruby	1
