@@ -2032,7 +2032,7 @@
 | certsocietegenerale | Fast Incident Response: a cybersecurity incident management platform | https://github.com/certsocietegenerale/FIR | https://cert.societegenerale.com/en/contact.html |  | None | Société Générale | 10 | 0 | 3 | 354 | 0 | Python,C#,JavaScript | 1100 | 342 | 2| 
 | serhii-londar | open-source-mac-os-apps - macOS 上的优秀开源应用收集: | https://github.com/serhii-londar/open-source-mac-os-apps | https://www.patreon.com/serhiilondar |  | Lviv, Ukraine | None | 85 | 0 | 1900 | 352 | 314 | Objective-C,Swift | 0 | 0 | 1| 
 | cldrn | nmap-nse-scripts: collection of nmap NSE scripts | https://github.com/cldrn/nmap-nse-scripts | https://github.com/nmap | Network security specialist , Open Source contributor , @nmap NSE developer , OWASP IoT Goat Project Leader , Chapter leader of @owasp_riviera | Mexico city | Websec | 39 | 0 | 44 | 352 | 37 | Python,Lua,Batchfile,HTML | 0 | 0 | 2| 
-| blackorbird | 伊朗 APT 组织攻击活动 DUSTMAN 的分析报告 | https://github.com/blackorbird/APT_REPORT/blob/master/International%20Strategic/Iran/Saudi-Arabia-CNA-report.pdf | http://blackorbird.com | APT hunter threat analyst | https://twitter.com/blackorbird | https://twitter.com/blackorbird | 51 | 0 | 112 | 352 | 36 | Python,C,C++ | 702 | 239 | 3| 
+| blackorbird | 伊朗 APT 组织攻击活动 DUSTMAN 的分析报告 | https://github.com/blackorbird/APT_REPORT/blob/master/International%20Strategic/Iran/Saudi-Arabia-CNA-report.pdf | http://blackorbird.com | APT hunter threat analyst | https://twitter.com/blackorbird | https://twitter.com/blackorbird | 51 | 0 | 112 | 352 | 36 | Python,C,C++ | 702 | 239 | 4| 
 | LoRexxar | Feigong：针对各种情况自由变化的MySQL注入脚本 | https://github.com/LoRexxar/Feigong | http://lorexxar.cn | Vidar-Team/Knownsec 404-Team hacker or developer? who care | None | None | 44 | 0 | 277 | 352 | 18 | Python | 0 | 0 | 5| 
 | owenliang | PHP-FPM源码分析 | https://github.com/owenliang/php-fpm-code-analysis | None | 精神>思想>技术 | china | www.baidu.com | 98 | 0 | 38 | 351 | 4 | Go,C | 0 | 0 | 1| 
 | DamonMohammadbagher | NativePayload_DNS - 通过 DNS 流量传输后门载荷以绕过反病毒软件的 C# 代码示例: | https://github.com/DamonMohammadbagher/NativePayload_DNS | https://www.linkedin.com/in/damon-mohammadbagher-2b154484 | Security Researcher 🇮🇷 https://twitter.com/_Damon_M_ | None | None | 18 | 0 | 43 | 351 | 0 | C#,Shell | 0 | 0 | 2| 
@@ -3244,7 +3244,7 @@
 | rmikehodges | hideNsneak - 渗透测试基础设施快速部署工具: | https://github.com/rmikehodges/hideNsneak | None |  | None | None | 19 | 0 | 23 | 34 | 3 | Go,Python | 213 | 34 | 1| 
 | phillips321 | adaudit - 活动目录安全审计脚本: | https://github.com/phillips321/adaudit | http://www.phillips321.co.uk |  | UK | None | 15 | 0 | 7 | 34 | 5 | Python,Shell,Ruby,PowerShell,Perl | 78 | 22 | 1| 
 | p1g3 | JSONP-Hunter: JSONP Hunter in Burpsuite | https://github.com/p1g3/JSONP-Hunter | None |  | None | None | 8 | 0 | 16 | 34 | 0 | Python,Shell,HTML | 60 | 11 | 1| 
-| momika233 | ClamAV 反病毒软件 0Day Exploit | https://github.com/momika233/ClamAV_0Day_exploit/ | https://twitter.com/momika233 | momika233 | Korea | None | 4 | 0 | 4 | 34 | 0 | Python | 97 | 24 | 1| 
+| momika233 | ClamAV 反病毒软件 0Day Exploit | https://github.com/momika233/ClamAV_0Day_exploit/ | https://twitter.com/momika233 | momika233 | Korea | None | 4 | 0 | 4 | 34 | 0 | Python | 97 | 24 | 2| 
 | lclevy | firepwd.py, an open source tool to decrypt Mozilla protected passwords | https://github.com/lclevy/firepwd | https://twitter.com/lorenzo2472 | interested in file formats, crypto and reverse engineering | France | None | 12 | 0 | 14 | 34 | 8 | Python,C,HTML | 160 | 49 | 1| 
 | kd8bny | LiMEaide - 基于 Python 实现的远程转储 Linux 客户端 RAM 工具: | https://github.com/kd8bny/LiMEaide | https://kd8bny.github.io/ | Information Engineer with past experience in security, mobile, hardware, and autonomous dev. | None | None | 35 | 0 | 174 | 34 | 28 | Python,C | 0 | 0 | 1| 
 | ilyash | NGS : Next generation UNIX shell : | https://github.com/ilyash/ngs/ | https://ilya-sher.org/ |  | None | Coding-Knight LTD | 28 | 0 | 41 | 34 | 4 | Python,C,Shell | 0 | 0 | 1| 
@@ -4707,6 +4707,7 @@
 | PeiQi0 | PeiQi-WIKI-POC文库 | https://github.com/PeiQi0/PeiQi-WIKI-POC | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | Pear1y | GitHub 有研究员公开了 Atlassian Bitbucket Data Center 反序列化漏洞(CVE-2022-26133) 的批量验证工具 | https://github.com/Pear1y/CVE-2022-26133 | https://github.com/Pear1y?tab=followers | There is a crack in everything，thats how the light gets in. | Bermuda | Cyber Security | 36 | 0 | 234 | 0 | 0 | Python,C,Java | 0 | 0 | 1| 
 | PayPal | lusca:Application security for express apps | https://github.com/PayPal/lusca | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Java,Python,Ruby,JavaScript,C#,HTML,PHP,Swift | 0 | 0 | 1| 
+| PaulNorman01 | Forensia:RedTeam后渗透阶段的痕迹清理工具 | https://github.com/PaulNorman01/Forensia | https://github.com/PaulNorman01?tab=followers | Cybersecurity researcher , Coder , Geek ! | None | None | 3 | 0 | 1 | 0 | 0 | C,C++ | 0 | 0 | 1| 
 | PassingTheKnowledge | Ganxo - 开源 API Hook 框架: | https://github.com/PassingTheKnowledge/Ganxo | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Batchfile | 0 | 0 | 1| 
 | PaloAltoNetworks | Palo Alto 安全团队的公开 Papers 与会议 PPT | https://github.com/PaloAltoNetworks/research-notes | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Python,JavaScript,Shell,HTML,Go,PowerShell,HCL | 182 | 87 | 1| 
 | PSGumshoe | 用于从 Windows 各类日志和缓存中收集取证信息的 PowerShell 模块 | https://github.com/PSGumshoe/PSGumshoe/releases/tag/v1.1 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | PowerShell | 0 | 0 | 1| 
@@ -4835,10 +4836,12 @@
 | Dec0ne | KrbRelayUp - 不开启 LDAP signing 的条件下实现域环境提权 | https://github.com/Dec0ne/KrbRelayUp | https://github.com/Dec0ne?tab=followers |  | None | None | 4 | 0 | 0 | 0 | 0 | C#,Python,HTML,PowerShell | 0 | 0 | 1| 
 | DasSecurity-Labs | AoiAWD: 专为比赛设计，便携性好，低权限运行的EDR系统 | https://github.com/DasSecurity-Labs/AoiAWD | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PHP,HTML | 0 | 0 | 1| 
 | DarkSpiritz | DarkSpiritz - 针对 UNIX 系统的渗透测试框架: | https://github.com/DarkSpiritz/DarkSpiritz | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| DallasFR | WalkerGate:通过查找ntdll的内存解析以进行系统调用 | https://github.com/DallasFR/WalkerGate | https://github.com/DallasFR?tab=followers |  | None | None | 14 | 0 | 2 | 0 | 0 | C | 0 | 0 | 1| 
 | DTolm | VkFFT-Vulkan快速傅立叶变换库 | https://github.com/DTolm/VkFFT | None |  | None | None | 2 | 0 | 0 | 0 | 0 | C,C++ | 213 | 6 | 1| 
 | DNSPod | DNSPod 开放 Top-Domains-List 数据 | https://github.com/DNSPod/oh-my-free-data | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | DLACERT | ThreatHunting - 在 Windows 系统中寻找威胁的 PowerShell 脚本: | https://github.com/DLACERT/ThreatHunting | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | D3VI5H4 | ANTIVURUS ARTIFACTS - 有研究员对杀软检测及其 Hook 点的分析 | https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/ANTIVURUS_ARTIFACTS.pdf | https://twitter.com/devisharochlani | ICAI , Malware , OSINT , INFJ , NERD @AXI4L , | None | None | 1 | 0 | 0 | 0 | 0 |  | 23 | 7 | 1| 
+| D1rkMtr | 劫持cscapi.dll以劫持explorer.exe来进行持久化驻留 | https://github.com/D1rkMtr/ExplorerPersist | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | D00MFist | 与 JXA 有关的用于实现 macOS 系统攻击常驻的方法收集 | https://github.com/D00MFist/PersistentJXA | https://medium.com/@D00MFist |  | None | None | 30 | 0 | 0 | 0 | 0 | Shell,Jupyter,JavaScript,Visual,Go,CSS | 109 | 10 | 1| 
 | Cymmetria | Struts Apache 2 based honeypot &amp; detection module by @nirkrakowksi @lorgandon https://t.co/oJzc8qnvFo [CVE 2017-5638 | https://github.com/Cymmetria/StrutsHoneypot | None | None | None | None | 0 | 0 | 0 | 0 | 0 | ASP,Python,JavaScript,Shell,HTML,PHP | 0 | 0 | 1| 
 | CymaticsCC | 恶意ELF二进制文件相似度比较及可视化 | https://github.com/CymaticsCC/elf_similarity | None |  | None | None | 55 | 0 | 0 | 0 | 0 | Python,HTML,Jupyter | 2 | 2 | 1| 
@@ -5378,6 +5381,7 @@
 # xz_xuanwu 推荐
 | title | url| 
 | --- | ---| 
+| 通过隐藏导入表的方式规避杀软 | https://xz.aliyun.com/t/12035| 
 | Apache Archiva 任意目录删除/任意文件读取 | https://xz.aliyun.com/t/11979| 
 | Apache Dubbo Hession反序列化漏洞的利用，引用了一篇使用ByteCodeDL寻找CTF题目利用链的文章，ByteCodeDL是一个类似CodeQL的声明式静态分析工具，优势是支持直接分析字节码 | https://xz.aliyun.com/t/11961| 
 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
