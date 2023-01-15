@@ -1,7 +1,7 @@
 C	6
+C++	5
 Java	4
 Python	4
-C++	4
 Go	3
 Solidity	2
 JavaScript	1
