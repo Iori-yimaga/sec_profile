@@ -1,0 +1,18 @@
+20230109	Web安全	https://sec-in.com/article/1996	java反序列化从0到cc1	sec-in.com	sec-in.com	/article/1996
+20230109	其它	https://mp.weixin.qq.com/s/omxYGYC1j4AAPs5W9Nh_ow	测量俄罗斯对 Twitter 的大规模拦截	qq.com	mp.weixin.qq.com	/s/omxYGYC1j4AAPs5W9Nh_ow
+20230109	Web安全	https://sec-in.com/article/1993	AspectJWeaver利用链绕过serialKiller	sec-in.com	sec-in.com	/article/1993
+20230109	取证分析	https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g	最佳实践：如何固化IP画像流程	qq.com	mp.weixin.qq.com	/s/nx0uomXnzBBJ6o66jWr2_g
+20230109	Web安全	https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw	域内定位个人PC的三种方式	qq.com	mp.weixin.qq.com	/s/uXTo2AbmvMeNesR8rAjImw
+20230109	取证分析	https://mp.weixin.qq.com/s/FdZxriRHw0bu-zfSEWtS8A	涉网犯罪分析赛道之“N0nE429”战队Writeup	qq.com	mp.weixin.qq.com	/s/FdZxriRHw0bu-zfSEWtS8A
+20230109	取证分析	https://mp.weixin.qq.com/s/uOB1kZ7YIJ27IlyXtaYPYA	网络流量分析赛道之“见世面”战队Writeup	qq.com	mp.weixin.qq.com	/s/uOB1kZ7YIJ27IlyXtaYPYA
+20230109	其它	https://mp.weixin.qq.com/s/p1U1M0UvzdaNccVqt7914g	Forrester：2022年安全分析平台厂商评估	qq.com	mp.weixin.qq.com	/s/p1U1M0UvzdaNccVqt7914g
+20230109	其它	https://github.com/SunWeb3Sec/DeFiHackLabs#web3-cybersecurity-academy	Web3 安全-链上威胁分析教学	github.com	github.com	/SunWeb3Sec/DeFiHackLabs
+20230109	杂志	https://www.sec-wiki.com/weekly/462	SecWiki周刊（第462期)	sec-wiki.com	www.sec-wiki.com	/weekly/462
+20230109	Web安全	https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA	攻防技术创新探究	qq.com	mp.weixin.qq.com	/s/b2_I4udKrE6ERyWjT8f5hA
+20230109	其它	https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og	网络爬虫犯罪的量刑问题及对策	qq.com	mp.weixin.qq.com	/s/wLmhVB6Ch_hEjt3W90m_Og
+20230109	恶意分析	https://mp.weixin.qq.com/s/gXAbrnqgXZDS_eUvsYNmZA	魔改后的CIA攻击套件Hive进入黑灰产领域	qq.com	mp.weixin.qq.com	/s/gXAbrnqgXZDS_eUvsYNmZA
+20230109	运维安全	https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg	人工智能技术在态势感知的应用	qq.com	mp.weixin.qq.com	/s/AVlAoCPEJnNL_DuHGGD0Hg
+20230109	恶意分析	https://mp.weixin.qq.com/s/HiGbMF3cGoAJ7brFDpsD1w	开源生态中软件包相关的安全问题研究	qq.com	mp.weixin.qq.com	/s/HiGbMF3cGoAJ7brFDpsD1w
+20230109	无线安全	https://mp.weixin.qq.com/s/7CTKdewGo3HbKomlr1xlsA	全球首个太空网络威胁战技术框架发布	qq.com	mp.weixin.qq.com	/s/7CTKdewGo3HbKomlr1xlsA
+20230109	无线安全	https://book.yunzhan365.com/tkgd/ghoo/mobile/index.html	《智胜空天·安全护航》无人机现状观察及安全分析报告	yunzhan365.com	book.yunzhan365.com	/tkgd/ghoo/mobile/index.html
+20230109	论文	https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg	2022年CCF B级以上期刊fuzz论文汇总	qq.com	mp.weixin.qq.com	/s/ex__TFMsWXtft83g677DTg
