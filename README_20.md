@@ -14,8 +14,10 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 丁司图 | gh_ea35ef49ac14 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ | 1| 
 | 长个新的脑袋 | gh_12ca60dcf67f | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow | 1| 
 | 银针安全 | SilverNeedleLab | 一个高度可定制化的JNDI和Java反序列化利用工具 | https://mp.weixin.qq.com/s/-OE1MlqaCUl7gmSPVNBr7g | 1| 
+| huasec | ihuahua04 | 利用空间测绘进行威胁分析 | https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg | 1| 
 | FOFA | gh_d79c8913fde8 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g | 1| 
 | 长亭技术沙盒 | chaitintech_release | RWCTF 5th ShellFind Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ | 1| 
 | 认知独省 | cogniti0n | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA | 1| 
@@ -31,7 +33,7 @@
 | 三正科技公司 | sanzhengkeji | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg | 1| 
 | 信安文摘 | share-for-life | 【日常分享】- IDEA-JetBrains全系列产品授权 | https://mp.weixin.qq.com/s?__biz=Mzg3OTEwMzIzNA==&mid=2247484344&idx=1&sn=1ab0a2aeff225cb6e42ac15742f4faa5&chksm=cf08dfd5f87f56c39ffb3b9a47fc6b2d6a94919ad2d5b246680764fc27dcdefadad2436d6c85&scene=178&cur_album_id=2311011542760505346#rd | 2| 
 | 天极智库 | gh_90d775fd9c26 | 【国际视野】欧洲安全局发布《2022年网络安全威胁全景》报告 | https://mp.weixin.qq.com/s/U-YwbRs7tDU93vwgpLywRw | 1| 
-| 摄星 | Vulinsight | 漏洞管理十大度量指标 | https://mp.weixin.qq.com/s/EExp6-IOTDd_WJwoWkj4Fw | 1| 
+| 摄星 | Vulinsight | 漏洞管理十大度量指标 | https://mp.weixin.qq.com/s/EExp6-IOTDd_WJwoWkj4Fw | 2| 
 | 开源情报技术研究院 | gh_d1f65c3b3e5b | 如何跨平台追踪社交媒体用户 | https://mp.weixin.qq.com/s/91R2D4G__VH3kGu4HSBssQ | 1| 
 | 小侦探的书桌 | gh_249f9111a64c | 写在博士生涯的最后 | https://mp.weixin.qq.com/s/MAdWdQPBj_--gMZVjR0qOg | 1| 
 | 网络安全卓越验证示范中心 | CCCoE_CAICT | 一文看懂 , 美新版《国家安全战略》中的网络安全 | https://mp.weixin.qq.com/s/VZ0ofovRfJIUbxQuHvaLyQ | 1| 
@@ -194,7 +196,7 @@
 | Cyber Raider Sec | jspiweb | 利用lsass免杀窃取凭证 | https://mp.weixin.qq.com/s?__biz=MzkzMzIwMTE5OA==&mid=2247484727&idx=1&sn=c58f8961af66031d2451134ac6b9cb31 | 1| 
 | 猪八戒网安全应急响应中心 | qiji_2014 | 猪八戒网安全应急响应中心漏洞处理流程和评分标准V8 | https://mp.weixin.qq.com/s?__biz=MzA4MDMzODAxMQ==&mid=2247486349&idx=2&sn=3a02060b074c0f6a6dda7963e7546e50 | 2| 
 | 安全帮Live | gh_499ac9d326f5 | Java安全log4j漏洞前置知识RMI | https://mp.weixin.qq.com/s?__biz=MzI3NTcwNTQ2Mg==&mid=2247484761&idx=1&sn=13cc25ed63bf3c39cc84b72547c78fc8 | 2| 
-| r3kapig | r3kapig-team | RealWorld CTF 4th Writeup by r3kapig | https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483688&idx=1&sn=06d1bbdeb3d86ec548358dacfa0cce7f | 2| 
+| r3kapig | r3kapig-team | RealWorld CTF 4th Writeup by r3kapig | https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483688&idx=1&sn=06d1bbdeb3d86ec548358dacfa0cce7f | 4| 
 | Qingy之安全 | gh_6ddb4536cf39 | 域内委派-原理以及应用 | https://mp.weixin.qq.com/s?__biz=Mzg2OTU4OTM0Ng==&mid=2247487588&idx=1&sn=ffdfc275017facb538c565faccfd9fbd | 3| 
 | 京盾安全响应中心 | gh_29303715e2b4 | 北京移动护航京东春晚安全保障 | https://mp.weixin.qq.com/s?__biz=Mzg2OTA4NTk2Nw==&mid=2247484092&idx=1&sn=9c8cb7a463a145668993f3b32291c08c | 1| 
 | null安全团队 | NoneSec | 全局钩子注入-注入QQ获取账号密码实现 | https://mp.weixin.qq.com/s?__biz=MzIxOTk2Mjg1NA==&mid=2247484973&idx=1&sn=fffd87b396e517b0a1a7f9d556933685 | 1| 
@@ -826,7 +828,7 @@
 | 国科军通科技 | gkjtkj | 揭秘：中国自主可控行业全景图 | https://mp.weixin.qq.com/s/7_osWtZV3UZ5KuaoIzt7rA | 1| 
 | GartnerInc | GartnerChina | 自动化在现代安全中的运用 | https://mp.weixin.qq.com/s/HMvGOiUIwjMKBNE2j5qIBQ | 1| 
 | 赵武的自留地 |  | 网络安全这点屁事 | https://mp.weixin.qq.com/s/kVfyoD_zRnSrQjpL4HfYAQ | 15| 
-| 绿盟科技研究通讯 | nsfocus_research | Graph Mining：审视世界的眼睛 | https://mp.weixin.qq.com/s/1jutuzIq3xlkFejUFbLFFA | 77| 
+| 绿盟科技研究通讯 | nsfocus_research | Graph Mining：审视世界的眼睛 | https://mp.weixin.qq.com/s/1jutuzIq3xlkFejUFbLFFA | 78| 
 | 勾陈安全实验室 | PolarisLab | Knife：一个将有用的小功能加入Burp Suite右键菜单的插件 | https://mp.weixin.qq.com/s/Y03VVF3sD9N0_H6TQlxYuQ | 1| 
 | SecWiki | SecWiki | 福利—中国互联网安全领袖峰会门票！ | https://mp.weixin.qq.com/s/ZFsrfCjtwrBiRaak1mbhsg | 37| 
 | SecPulse安全脉搏 | SecPulse | 网络安全学习方法论之体系的重要性 | https://mp.weixin.qq.com/s/yXA4BRbMfJNPQ68_-Nme6g | 16| 
@@ -1867,7 +1869,7 @@
 | nixawk | pentest-wiki: 渗透测试分阶段资料库 | https://github.com/nixawk/pentest-wiki | None | /kernel/ | None | None | 20 | 0 | 391 | 666 | 101 | Python,Shell | 0 | 0 | 3| 
 | jas502n | Weblogic 任意文件上传漏洞（CVE-2019-2618）的 Exploit | https://github.com/jas502n/cve-2019-2618/ | None | 1.misc 2.crypto 3. web 4. reverse 5. android 6. pwn 7. elf | None | None | 129 | 0 | 103 | 661 | 109 | Python,C,Shell,JavaScript,PHP | 294 | 106 | 10| 
 | divan | Just open-sourced gotrace. Try it, feedback is welcome. Particularly interested if README is clear enough. #golang | https://github.com/divan/gotrace | None | Block or report user. | Barcelona, Spain | None | 82 | 0 | 610 | 647 | 35 | Go,JavaScript | 2000 | 95 | 1| 
-| objective-see | sniffMK - macOS 上的鼠标与键盘事件嗅探工具: | https://github.com/objective-see/sniffMK | https://www.objective-see.com |  | United States | Objective-See | 11 | 0 | 0 | 644 | 0 | Objective-C | 2900 | 142 | 4| 
+| objective-see | sniffMK - macOS 上的鼠标与键盘事件嗅探工具: | https://github.com/objective-see/sniffMK | https://www.objective-see.com |  | United States | Objective-See | 11 | 0 | 0 | 644 | 0 | Objective-C | 2900 | 142 | 5| 
 | vstinner | Python Security - 记录 Python 历史漏洞及补丁版本信息的 Repo | https://github.com/vstinner/python-security | https://github.com/python | I am paid by Red Hat to maintain Python upstream (python.org) and downstream (RHEL, Fedora). @python core-dev. | France | Red Hat | 32 | 0 | 7 | 642 | 0 | Python | 299 | 34 | 1| 
 | tyranid | The Windows Sandbox Paradox （Flashback），来自 James Forshaw | https://github.com/tyranid/infosec-presentations/blob/master/Nullcon/2019/The%20Windows%20Sandbox%20Paradox%20(Flashback).pdf | None |  | None | None | 31 | 0 | 0 | 638 | 2 | C#,Python,C | 700 | 197 | 11| 
 | saelo | 用于重命名 iOS kernelcache function stubs 的 IDA Python 脚本: | https://github.com/saelo/ida_scripts/blob/master/kernelcache.py | http://twitter.com/5aelo |  | Karlsruhe, Germany | None | 31 | 0 | 207 | 638 | 4 | Python,C,JavaScript | 646 | 113 | 4| 
@@ -4553,6 +4555,7 @@
 | bb1nfosec | Windows漏洞利用资源以及漏洞利用的网站参考列表总结。 | https://github.com/bb1nfosec/Information-Security-Tasks/blob/master/Post%20Exploitation/Windows%20Exploitation%2C%20post%20exploitation%20sites%20for%20reference | None | Just another guy whom loves to play 0 and 1 . | India | None | 0 | 0 | 0 | 0 | 0 | Python,Shell,HTML,CSS | 49 | 16 | 1| 
 | bayandin | A curated list of awesome awesomeness | https://github.com/bayandin/awesome-awesomeness | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | baidu-security | openrasp-iast: IAST 灰盒扫描工具 | https://github.com/baidu-security/openrasp-iast | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Java,Python,JavaScript,C++,HTML,Go,TSQL | 0 | 0 | 1| 
+| bAuh0lz | CVE-2023-0297:pyLoad中由于js2py的eval_js安全配置不当导致未授权RCE | https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad | https://github.com/bAuh0lz?tab=followers |  | None | None | 8 | 0 | 5 | 0 | 0 | Python,PHP | 0 | 0 | 1| 
 | b0bac | ApolloScanner: 自动化巡航扫描框架 | https://github.com/b0bac/ApolloScanner | https://github.com/b0bac?tab=followers | Information Security Researcher Information Security Research Department Leader | None | None | 51 | 0 | 3 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
 | ayushman4 | Common Industrial Protocol based device scanner over the internet | https://github.com/ayushman4/SCADA-CIP-Discovery | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | aymericdamien | TensorFlow tutorials and code examples for beginners | https://github.com/aymericdamien/TensorFlow-Examples | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 

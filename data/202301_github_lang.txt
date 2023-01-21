@@ -1,9 +1,11 @@
 C	6
-Python	5
+Python	6
 C++	5
 Java	4
 Go	3
 Solidity	2
 JavaScript	2
+Objective-C	1
 HTML	1
+PHP	1
 Ruby	1
