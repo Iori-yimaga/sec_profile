@@ -28,7 +28,7 @@
 | 军事文摘 | mildig | 首发 , 杀伤链视域下的算法战审思 | https://mp.weixin.qq.com/s/9rvZVolcyZ3R8-ZWQvRgAA | 1| 
 | 狼蛛安全实验室 | LangzhuSec | 溯源专题 , 通过PDF文件信息进行攻击溯源 | https://mp.weixin.qq.com/s/yjCOCptJn_QcCpMs9CgBbQ | 1| 
 | 219攻防实验室 | gh_4576a36fa848 | Windows Defender内存扫描功能分析 | https://mp.weixin.qq.com/s/C6CePu9albvGTj3_9aUxeg | 3| 
-| 源影安全实验室 | MetaShadow | CobaltStrike4.5 分析总结 | https://mp.weixin.qq.com/s/K47FXTMEWfB_474aHAGU5g | 1| 
+| 源影安全实验室 | MetaShadow | CobaltStrike4.5 分析总结 | https://mp.weixin.qq.com/s/K47FXTMEWfB_474aHAGU5g | 2| 
 | Gartner公司 | GartnerChina | Gartner发布2022年中国安全技术成熟度曲线 | https://mp.weixin.qq.com/s/7nxdi3UlEcJXMi53gJOzSw | 1| 
 | 三正科技公司 | sanzhengkeji | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg | 1| 
 | 信安文摘 | share-for-life | 【日常分享】- IDEA-JetBrains全系列产品授权 | https://mp.weixin.qq.com/s?__biz=Mzg3OTEwMzIzNA==&mid=2247484344&idx=1&sn=1ab0a2aeff225cb6e42ac15742f4faa5&chksm=cf08dfd5f87f56c39ffb3b9a47fc6b2d6a94919ad2d5b246680764fc27dcdefadad2436d6c85&scene=178&cur_album_id=2311011542760505346#rd | 2| 
@@ -325,7 +325,7 @@
 | NightTeam | locozhou | 小菜花的frida-svc-interceptor | https://mp.weixin.qq.com/s?__biz=Mzg5NzIyMzkzNw==&mid=2247485919&idx=1&sn=ca1402591c1d37c3dc7958a84e2146ea | 1| 
 | HACK学习君 | XHacker1961 | 记一次曲折的WAF绕过 | https://mp.weixin.qq.com/s?__biz=MzIzNzMxMDkxNw==&mid=2247486085&idx=1&sn=570b3adf02278319757a76baa0e9342e | 5| 
 | CNVD漏洞平台 | None | 关于SonarQube系统存在未授权访问漏洞的安全公告 | https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247490778&idx=1&sn=4fef06e06bce01245e5f473c70e1b793 | 11| 
-| 看雪学苑 | ikanxue | 全网最详细CVE-2014-0502 Adobe Flash Player双重释放漏洞分析 | https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458402566&idx=1&sn=6a8289758711c348b36f8526808747c7 | 118| 
+| 看雪学苑 | ikanxue | 全网最详细CVE-2014-0502 Adobe Flash Player双重释放漏洞分析 | https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458402566&idx=1&sn=6a8289758711c348b36f8526808747c7 | 119| 
 | 广软NSDA安全团队 | gh_72de97d4e162 | 内网渗透初探 | https://mp.weixin.qq.com/s?__biz=MzUzMDg5NDQ0Nw==&mid=2247489476&idx=1&sn=a39eed3450e581385b862c09ae556f9f | 6| 
 | 小黑的安全笔记 | x1a0heI | 云服务器ftp被动和主动模式都连接失败 | https://mp.weixin.qq.com/s?__biz=MzI4Njk5NjY4OQ==&mid=2247485823&idx=1&sn=43b52f2f7163fba10cf4ba466a3bac29 | 2| 
 | 不懂安全的校长 | sectip | 内网渗透 , 1.内网基础知识 | https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247484768&idx=1&sn=31012b5465686c5eaa96dad6f8f0bbfa | 10| 
