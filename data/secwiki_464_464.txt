@@ -1,0 +1,16 @@
+20230116	漏洞分析	https://www.sec-wiki.com/site/login	文件上传漏洞总结	sec-wiki.com	www.sec-wiki.com	/site/login
+20230116	其它	https://mp.weixin.qq.com/s/xt4VX7UTBHab_Kuj9iEXcg	JPCERT/CC 如何在云端自动化恶意软件分析	qq.com	mp.weixin.qq.com	/s/xt4VX7UTBHab_Kuj9iEXcg
+20230116	杂志	https://www.sec-wiki.com/weekly/463	SecWiki周刊（第463期)	sec-wiki.com	www.sec-wiki.com	/weekly/463
+20230116	Web安全	https://mp.weixin.qq.com/s/hYPdNN6skbikC3FFYRlbrQ	玩转CodeQLpy之用友GRP-U8漏洞挖掘	qq.com	mp.weixin.qq.com	/s/hYPdNN6skbikC3FFYRlbrQ
+20230116	漏洞分析	https://mp.weixin.qq.com/s/kTvZcRyD-0i3CScCoXHpBQ	将迁移学习应用于网络安全：通过漏洞描述预测漏洞的可利用性	qq.com	mp.weixin.qq.com	/s/kTvZcRyD-0i3CScCoXHpBQ
+20230116	恶意分析	https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg	利用空间测绘进行威胁分析	qq.com	mp.weixin.qq.com	/s/b-rynWs2xX3ft48QFx8NBg
+20230116	编程技术	https://mp.weixin.qq.com/s/_4MFrQSYOIGYRdDGOJPDKQ	一文梳理Code Review方法论与实践总结	qq.com	mp.weixin.qq.com	/s/_4MFrQSYOIGYRdDGOJPDKQ
+20230116	恶意分析	https://mp.weixin.qq.com/s/dDHmQkWhSchnD7kTBtKymw	开源软件安全性分析	qq.com	mp.weixin.qq.com	/s/dDHmQkWhSchnD7kTBtKymw
+20230116	编程技术	https://mp.weixin.qq.com/s/R1Fgyj0pUCxFGq4-YFfMXw	安全开发之Pcshare流程分析	qq.com	mp.weixin.qq.com	/s/R1Fgyj0pUCxFGq4-YFfMXw
+20230116	恶意分析	https://cdn.isc.360.com/iscvideo-bucket/360_APT_Annual_Research_Report_2022.pdf	2022年全球高级持续性威胁（APT）研究报告	360.com	cdn.isc.360.com	/iscvideo-bucket/360_APT_Annual_Research_Report_2022.pdf
+20230116	漏洞分析	https://vul.360.net/archives/649	mqtt攻击面和挖掘思路浅析	360.net	vul.360.net	/archives/649
+20230116	编程技术	https://mp.weixin.qq.com/s/UTcnFq53JjIMsShmKtQvDw	关于大模型时代软件智能化开发的一点展望	qq.com	mp.weixin.qq.com	/s/UTcnFq53JjIMsShmKtQvDw
+20230116	Web安全	https://blog.0kami.cn/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/	基于代码属性图的自动化漏洞挖掘实践	0kami.cn	blog.0kami.cn	/blog/2023/%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E5%B1%9E%E6%80%A7%E5%9B%BE%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%AE%9E%E8%B7%B5/
+20230116	论文	https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ	顶会论文写作建议（上）：宏观布局，避免“hard to follow”	qq.com	mp.weixin.qq.com	/s/kberQa8ss7l2gh9PAx_cSQ
+20230116	漏洞分析	https://mp.weixin.qq.com/s/X5J4gYanCGrGMJ9Yp6J8tQ	从CISA KEV看海量漏洞管理方法	qq.com	mp.weixin.qq.com	/s/X5J4gYanCGrGMJ9Yp6J8tQ
+20230116	漏洞分析	https://vul.360.net/archives/648	一种 Foxit Reader 漏洞利用思路探索	360.net	vul.360.net	/archives/648
