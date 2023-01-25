@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 人机与认知实验室 | gh_9c3c1f805cb8 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ | 1| 
 | 丁司图 | gh_ea35ef49ac14 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ | 1| 
 | 长个新的脑袋 | gh_12ca60dcf67f | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow | 1| 
 | 银针安全 | SilverNeedleLab | 一个高度可定制化的JNDI和Java反序列化利用工具 | https://mp.weixin.qq.com/s/-OE1MlqaCUl7gmSPVNBr7g | 1| 
@@ -1922,7 +1923,7 @@
 | tandasat | Wrote a hypervisor as a platform on Windows. Let me know if you find any issues. | https://github.com/tandasat/HyperPlatform | http://standa-note.blogspot.ca/ | Engineer @standa_t | Vancouver, Canada | None | 56 | 0 | 16 | 524 | 3 | C#,C++ | 0 | 0 | 9| 
 | mre | awesome-static-analysis: A curated list of static analysis tools | https://github.com/mre/awesome-static-analysis#python | https://matthias-endler.de | Interested in high-level architecture, low-level programming, and everything in between. Naturally curious. Running https://hello-rust.show | Düsseldorf, Germany | trivago N.V. | 257 | 0 | 907 | 524 | 221 | Python,Go,JavaScript,Rust | 0 | 0 | 1| 
 | maldevel | KCI-based MitM Attacks against TLS : | https://github.com/maldevel/BSides_Vienna_2015/blob/master/kci_based_man_in_the_middle_attacks_against_tls.pdf | https://github.com/twelvesec | code, pentests, redteaming, research | Greece | @twelvesec | 46 | 0 | 1100 | 522 | 1 | Python,Shell | 340 | 122 | 2| 
-| bit4woo | passmaker: 可以自定义规则的密码字典生成器 | https://github.com/bit4woo/passmaker | http://code2sec.com/ | Creating with coding,Learning by doing,Learning by sharing! | shenzhen | None | 111 | 0 | 755 | 521 | 122 | Python,C#,Ruby,Java | 0 | 0 | 4| 
+| bit4woo | passmaker: 可以自定义规则的密码字典生成器 | https://github.com/bit4woo/passmaker | http://code2sec.com/ | Creating with coding,Learning by doing,Learning by sharing! | shenzhen | None | 111 | 0 | 755 | 521 | 122 | Python,C#,Ruby,Java | 0 | 0 | 5| 
 | mvdan | sh - shell 解析器,格式化器和解释器,支持POSIX Shell,Bash 以及 mksh: | https://github.com/mvdan/sh | https://mvdan.cc | I work on stuff in Go. | Sheffield, United Kingdom | None | 61 | 0 | 73 | 512 | 24 | Go | 0 | 0 | 1| 
 | nneonneo | Generate two PDFs with different contents but identical SHA1 hashes : | https://github.com/nneonneo/sha1collider/blob/master/collide.py | https://robertxiao.ca | HCI researcher, CTF player. | Vancouver, BC, Canada | University of British Columbia | 81 | 0 | 23 | 510 | 1 | Python | 752 | 440 | 1| 
 | mame82 | Logitech Unifying Vulnerabilities | https://github.com/mame82/UnifyingVulnsDisclosureRepo/tree/master/vulnerability_reports | https://www.twitter.com/mame82 |  | None | None | 69 | 0 | 44 | 509 | 17 | Python,Go,C,JavaScript | 2500 | 517 | 1| 
@@ -5406,6 +5407,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 各种架构ELF后门生成工具 | https://xz.aliyun.com/t/12054| 
 | 全方位了解CORS跨域资源共享漏洞 | https://xz.aliyun.com/t/12001| 
 | 内网渗透从零到一之SMB协议 | https://xz.aliyun.com/t/11971| 
 | WebSocket通信安全概览 | https://xz.aliyun.com/t/11962| 
