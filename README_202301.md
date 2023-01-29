@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 平猫的音乐 | gh_f6e103434039 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA | 1| 
 | 人机与认知实验室 | gh_9c3c1f805cb8 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ | 1| 
 | 看雪学苑 | ikanxue | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw | 1| 
 | 源影安全实验室 | MetaShadow | CVE-2022-41080_41082 Microsoft Exchange Server OWASSRF远程代码执行漏洞分析 | https://mp.weixin.qq.com/s/Fl7oz6VXI8k5Qn0MOk61aw | 1| 
@@ -65,6 +66,7 @@
 | romainthomas | 一款基于LIEF和LLVM的对Objective-C语言二进制文件中类成员分析的工具。 | https://github.com/romainthomas/iCDump | https://github.com/lief-project | Security Engineer working on mobile, obfuscation and file formats. Author & maintainer of @lief-project / @open-obfuscator | None | @lief-project @open-obfuscator | 50 | 0 | 331 | 0 | 0 | Java,C++ | 0 | 0 | 1| 
 | potmdehex | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf | https://github.com/potmdehex?tab=followers | Reverse Engineer | None | None | 12 | 0 | 10 | 0 | 0 | C,Ruby | 0 | 0 | 1| 
 | objective-see | 解析BackgroundItems-v4.btm中的启动项信息,可用于MacOS的取证 | https://github.com/objective-see/DumpBTM/ | https://github.com/objective-see?tab=followers |  | Hawaii, USA | Objective-See Foundation | 28 | 0 | 0 | 0 | 0 | Objective-C | 0 | 0 | 1| 
+| mrphrazer | Obfuscation Detection 一个用于自动检查二进制文件中的混淆代码和状态机的脚本/工具/Binary Ninja插件 | https://github.com/mrphrazer/obfuscation_detection | https://github.com/mrphrazer?tab=followers |  | None | None | 24 | 0 | 5 | 0 | 0 | Python | 0 | 0 | 1| 
 | moyix | 基于Ghidra和GPT-3的辅助逆向工具 | https://github.com/moyix/gpt-wpre | https://github.com/moyix?tab=followers | Assistant Professor in CSE at NYU Tandon School of Engineering, focusing on security, program analysis, and reverse engineering. | New York, NY | None | 74 | 0 | 30 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
 | momika233 | CVE-2022-3656:Google Chrome 和基于 Chromium 的浏览器由于对一些文件上传功能缺乏symlink的检查,从而导致通过滥用symlink可以盗取你本地的一些重要配置文件 | https://github.com/momika233/CVE-2022-3656 | https://github.com/momika233?tab=followers | momika233 | Korea | None | 60 | 0 | 8 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
 | michalbednarski | CVE-2022-20452 的漏洞利用代码。可通过 LazyValue 将已安装的恶意 APP 提权至系统 APP | https://github.com/michalbednarski/LeakValue | https://github.com/michalbednarski?tab=followers |  | None | None | 16 | 0 | 2 | 0 | 0 | Java | 0 | 0 | 1| 

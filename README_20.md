@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 平猫的音乐 | gh_f6e103434039 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA | 1| 
 | 人机与认知实验室 | gh_9c3c1f805cb8 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ | 1| 
 | 丁司图 | gh_ea35ef49ac14 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ | 1| 
 | 长个新的脑袋 | gh_12ca60dcf67f | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow | 1| 
@@ -4177,6 +4178,7 @@
 | mudongliang | Linux 平台的漏洞 PoC、Writeup 收集 | https://github.com/mudongliang/LinuxFlaw | https://github.com/mudongliang?tab=followers | Faculty/Researcher at HUST on Software & System Security | Wuhan, CN | Huazhong University of Science and Technology | 23 | 0 | 0 | 0 | 0 | SCSS,C,Shell,Dockerfile | 0 | 0 | 1| 
 | mttaggart | OffensiveNotion: Notion as a platform for offensive operat... | https://github.com/mttaggart/OffensiveNotion | https://github.com/mttaggart?tab=followers |  | None | None | 47 | 0 | 365 | 0 | 0 | Vue,JavaScript,Rust | 0 | 0 | 1| 
 | mrrrgn | simple-rootkit：attack against gcc and Python via kernel module | https://github.com/mrrrgn/simple-rootkit | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| mrphrazer | Obfuscation Detection 一个用于自动检查二进制文件中的混淆代码和状态机的脚本/工具/Binary Ninja插件 | https://github.com/mrphrazer/obfuscation_detection | https://github.com/mrphrazer?tab=followers |  | None | None | 24 | 0 | 5 | 0 | 0 | Python | 0 | 0 | 1| 
 | mromnia | FB Event Map API | https://github.com/mromnia/fb_event_map | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | mq1n | 一个可以借助有物理内存读写权限的驱动实现调用任意内核函数的库。 | https://github.com/mq1n/VDM// | None |  | Turkey | None | 1200 | 0 | 0 | 0 | 0 | C++ | 178 | 100 | 1| 
 | moxie0 | sslsniff:A tool for automated MITM attacks on SSL connections | https://github.com/moxie0/sslsniff | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
