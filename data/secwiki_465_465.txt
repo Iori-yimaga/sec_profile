@@ -1,0 +1,8 @@
+20230123	Web安全	https://tttang.com/archive/1875/	记一次Webshell检测引擎绕过测试	tttang.com	tttang.com	/archive/1875/
+20230123	Web安全	https://github.com/bit4woo/Fiora	Fiora：漏洞PoC框架Nuclei的图形版	github.com	github.com	/bit4woo/Fiora
+20230123	漏洞分析	https://mp.weixin.qq.com/s/Fl7oz6VXI8k5Qn0MOk61aw	CVE-2022-41080_41082 Microsoft Exchange Server OWASSRF远程代码执行漏洞分析	qq.com	mp.weixin.qq.com	/s/Fl7oz6VXI8k5Qn0MOk61aw
+20230123	恶意分析	https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw	自动化提取恶意文档中的shellcode	qq.com	mp.weixin.qq.com	/s/xEHnaBmpH0zrhMKBvjxoGw
+20230123	恶意分析	https://xz.aliyun.com/t/12054	各种架构ELF后门生成工具	aliyun.com	xz.aliyun.com	/t/12054
+20230123	杂志	https://www.sec-wiki.com/weekly/464	SecWiki周刊（第464期)	sec-wiki.com	www.sec-wiki.com	/weekly/464
+20230123	数据挖掘	https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ	DARPA的可解释人工智能程序	qq.com	mp.weixin.qq.com	/s/F9Dtvrlu8AU15HhTVQQojQ
+20230123	论文	https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA	成体系：大论文的另一关键环节	qq.com	mp.weixin.qq.com	/s/GK6VncT-WbHz0Euuf7drZA

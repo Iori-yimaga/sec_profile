@@ -14,7 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
-| 平猫的音乐 | gh_f6e103434039 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA | 1| 
+| 平猫的音乐 | gh_f6e103434039 | 大论文写作小技巧 | https://mp.weixin.qq.com/s/kYgU4YEAbxmemwytw9Ooig | 2| 
 | 人机与认知实验室 | gh_9c3c1f805cb8 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ | 1| 
 | 丁司图 | gh_ea35ef49ac14 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ | 1| 
 | 长个新的脑袋 | gh_12ca60dcf67f | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow | 1| 
@@ -33,7 +33,7 @@
 | 源影安全实验室 | MetaShadow | CobaltStrike4.5 分析总结 | https://mp.weixin.qq.com/s/K47FXTMEWfB_474aHAGU5g | 2| 
 | Gartner公司 | GartnerChina | Gartner发布2022年中国安全技术成熟度曲线 | https://mp.weixin.qq.com/s/7nxdi3UlEcJXMi53gJOzSw | 1| 
 | 三正科技公司 | sanzhengkeji | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg | 1| 
-| 信安文摘 | share-for-life | 【日常分享】- IDEA-JetBrains全系列产品授权 | https://mp.weixin.qq.com/s?__biz=Mzg3OTEwMzIzNA==&mid=2247484344&idx=1&sn=1ab0a2aeff225cb6e42ac15742f4faa5&chksm=cf08dfd5f87f56c39ffb3b9a47fc6b2d6a94919ad2d5b246680764fc27dcdefadad2436d6c85&scene=178&cur_album_id=2311011542760505346#rd | 2| 
+| 信安文摘 | share-for-life | 【日常分享】- IDEA-JetBrains全系列产品授权 | https://mp.weixin.qq.com/s?__biz=Mzg3OTEwMzIzNA==&mid=2247484344&idx=1&sn=1ab0a2aeff225cb6e42ac15742f4faa5&chksm=cf08dfd5f87f56c39ffb3b9a47fc6b2d6a94919ad2d5b246680764fc27dcdefadad2436d6c85&scene=178&cur_album_id=2311011542760505346#rd | 3| 
 | 天极智库 | gh_90d775fd9c26 | 【国际视野】欧洲安全局发布《2022年网络安全威胁全景》报告 | https://mp.weixin.qq.com/s/U-YwbRs7tDU93vwgpLywRw | 1| 
 | 摄星 | Vulinsight | 漏洞管理十大度量指标 | https://mp.weixin.qq.com/s/EExp6-IOTDd_WJwoWkj4Fw | 2| 
 | 开源情报技术研究院 | gh_d1f65c3b3e5b | 如何跨平台追踪社交媒体用户 | https://mp.weixin.qq.com/s/91R2D4G__VH3kGu4HSBssQ | 1| 
@@ -946,7 +946,7 @@
 | 装备参考 | Armament999 | 信息战部队：美国海军的新型作战力量 | https://mp.weixin.qq.com/s/xq2Yoba8UPvZG6Hlv51rNQ | 1| 
 | 智能运维前沿 | AIOps_Tsinghua | 基于主动学习的异常检测 | https://mp.weixin.qq.com/s/wxarbgNuasxaPsZ3Dh4z6g | 1| 
 | 安智客 | china_safer | 2018年中国网络安全产业报告 | https://mp.weixin.qq.com/s/t54wFWBxA1iKr74LB_KFRg | 1| 
-| 云影实验室 | Yunying_Lab |  | https://mp.weixin.qq.com/s/6FZqeG3ys2rYpuz7nXr_Lw | 2| 
+| 云影实验室 | Yunying_Lab |  | https://mp.weixin.qq.com/s/6FZqeG3ys2rYpuz7nXr_Lw | 3| 
 | 红队防线 | klionsec | 跨平台横向移动 [ wmi利用 ] | https://mp.weixin.qq.com/s/7YidkhJvmVBxFhYcD7pIfQ | 2| 
 | 国家信息安全服务资质 | gh_2e911008c3ff | 中国信息安全测评中心孙明亮 位华 王琰：风险评估服务能力成熟度模型研究 | https://mp.weixin.qq.com/s/y9Qx4htmcoWgC96G2sWvpw | 1| 
 | DWord | gh_d3505f95dd6c | 正解HTTPS与中间人攻击 | https://mp.weixin.qq.com/s/E0_NRjpsyCCZtNgzuXU5Jw | 1| 
