@@ -4156,6 +4156,7 @@
 | nologic | idaref:IDA Pro Instruction Reference Plugin | https://github.com/nologic/idaref | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | nimia | Scanner of DROWN attack against TLS | https://github.com/nimia/public_drown_scanner | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | nil0x42 | phpsploit: Stealth post-exploitation framework | https://github.com/nil0x42/phpsploit | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| nikn0laty | pdfkit命令执行漏洞CVE-2022-25765 Exp | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765 | https://github.com/nikn0laty?tab=followers |  | None | None | 1 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | nghiadt1098 | Windows 内核 CVE-2020-16889 漏洞的 PoC | https://github.com/nghiadt1098/MyResearch/tree/main/CVE-2020-16889 | https://www.facebook.com/nghiadt1098 | Viettel Cyber Security | Ha Noi, Viet Nam | None | 31 | 0 | 0 | 0 | 0 | Java,Python,JavaScript,C++,Pascal,HTML | 0 | 2 | 1| 
 | nforest | dumplib:Windows Kernel Dump Analyzer | https://github.com/nforest/dumplib | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | nezha-dt | nezha - 一款差分模糊测试工具: | https://github.com/nezha-dt/nezha | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C++ | 0 | 0 | 1| 
@@ -4169,6 +4170,7 @@
 | napocahv | Napoca - Bitdefender 开源的 Hypervisor，提供多个安全相关的功能 | https://github.com/napocahv/napoca | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C | 87 | 22 | 1| 
 | naparuba | shinken:Flexible and scalable monitoring framework | https://github.com/naparuba/shinken | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | nanshihui | toolforspider:网络空间指纹扫描工具 | https://github.com/nanshihui/toolforspider | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 2| 
+| nanabingies | Dell dbutil_2_3.sys 驱动提权漏洞的exp | https://github.com/nanabingies/CVE-2021-21551 | https://github.com/nanabingies?tab=followers | if you base your expectations on what you see, you blind yourself to the possibilities of what could be | Accra, Ghana | None | 21 | 0 | 21 | 0 | 0 | Assembly,C++ | 0 | 0 | 1| 
 | n1nj4sec | Pupy: opensource RAT written in Python | https://github.com/n1nj4sec/pupy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | n0n5m1l3 | RF Hacking with a Flipper Zero | https://github.com/n0n5m1l3/Presentations | https://github.com/n0n5m1l3?tab=followers |  | None | None | 44 | 0 | 160 | 0 | 0 | Python,C#,C,C++ | 0 | 0 | 1| 
 | n0fate | chainbreaker:Mac OS X Keychain Forensic Tool | https://github.com/n0fate/chainbreaker | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
