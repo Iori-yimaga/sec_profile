@@ -1,0 +1,11 @@
+20230130	Web安全	https://mp.weixin.qq.com/s/vsdbYACk2ShI3tx0dnOxpA	Nacos accessToken 权限认证绕过漏洞及思考	qq.com	mp.weixin.qq.com	/s/vsdbYACk2ShI3tx0dnOxpA
+20230130	恶意分析	https://book.yunzhan365.com/tkgd/ftku/mobile/index.html	2022年度APT高级威胁报告	yunzhan365.com	book.yunzhan365.com	/tkgd/ftku/mobile/index.html
+20230130	无线安全	https://mp.weixin.qq.com/s/TvEZKKzyRyb1_jVU1YeEMg	九阶段太空攻击研究与战术分析框架和七层美国防太空架构	qq.com	mp.weixin.qq.com	/s/TvEZKKzyRyb1_jVU1YeEMg
+20230130	论文	https://mp.weixin.qq.com/s/kYgU4YEAbxmemwytw9Ooig	大论文写作小技巧	qq.com	mp.weixin.qq.com	/s/kYgU4YEAbxmemwytw9Ooig
+20230130	Web安全	https://mp.weixin.qq.com/s/BvHzbgWA1alO7N2fkEfMYQ	php://filter过滤器利用之代码执行漏洞	qq.com	mp.weixin.qq.com	/s/BvHzbgWA1alO7N2fkEfMYQ
+20230130	杂志	https://www.sec-wiki.com/weekly/465	SecWiki周刊（第465期)	sec-wiki.com	www.sec-wiki.com	/weekly/465
+20230130	Web安全	https://mp.weixin.qq.com/s/Rrx6x5M_28YRcQQCdxuEeQ	分享Jar包分析工具：jar-analyzer	qq.com	mp.weixin.qq.com	/s/Rrx6x5M_28YRcQQCdxuEeQ
+20230130	恶意分析	https://mp.weixin.qq.com/s/pAVrIQ0b66Y_YoSH3DLoIA	开源软件供应链攻击回顾	qq.com	mp.weixin.qq.com	/s/pAVrIQ0b66Y_YoSH3DLoIA
+20230130	Web安全	https://xz.aliyun.com/t/12094	C2服务器隐藏与Linux上线	aliyun.com	xz.aliyun.com	/t/12094
+20230130	无线安全	https://mp.weixin.qq.com/s/X-Fvs9TUPO1UT7BZsIOtnw	25美元破解Starlink 星链终端路由器	qq.com	mp.weixin.qq.com	/s/X-Fvs9TUPO1UT7BZsIOtnw
+20230130	运维安全	https://mp.weixin.qq.com/s/uTjXfgYTP5ZHZpwPuFXNwA	美国NSA安全运营关键原则	qq.com	mp.weixin.qq.com	/s/uTjXfgYTP5ZHZpwPuFXNwA
