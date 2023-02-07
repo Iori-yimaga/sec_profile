@@ -4881,6 +4881,7 @@
 | Ch0pin | medusa - 基于 FRIDA 实现的 Java 动态二进制插桩框架，目标场景是恶意软件 Trace | https://github.com/Ch0pin/medusa | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | Canbing007 | wukong: 悟空扫描器 | https://github.com/Canbing007/wukong | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | CN-Chrome-DevTools | Chrome 开发者工具中文手册 | https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| CMEPW | 一个如何绕过Antivirus的知识思维导图。 | https://github.com/CMEPW/BypassAV | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Go,C,TypeScript | 0 | 0 | 1| 
 | CIRCL | AIL framework - Analysis Information Leak framework | https://github.com/CIRCL/AIL-framework | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | CERT-Polska | DRAKVUF - Hypervisor 层面的恶意软件自动化分析系统 | https://github.com/CERT-Polska/drakvuf-sandbox | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Java,Python,JavaScript,C++,PHP | 189 | 35 | 1| 
 | CERT-BDF | CERT-BDF/Cortex: Powerful Observable Analysis Engine | https://github.com/CERT-BDF/Cortex | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
