@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 威胁棱镜 | THREAT_PRISM | 在线沙盒的 ATT&CK 映射能力调研 | https://mp.weixin.qq.com/s/m_eh9bWeYdKxnffSwbeMLQ | 1| 
 | 赛博攻防悟道 | lookvul | 美国NSA安全运营关键原则 | https://mp.weixin.qq.com/s/uTjXfgYTP5ZHZpwPuFXNwA | 1| 
 | 安全客 | anquanbobao | 【技术分享】开源软件供应链攻击回顾 | https://mp.weixin.qq.com/s/pAVrIQ0b66Y_YoSH3DLoIA | 1| 
 | 太空安全 | SateSec | 25美元破解Starlink 星链终端路由器 | https://mp.weixin.qq.com/s/X-Fvs9TUPO1UT7BZsIOtnw | 2| 
