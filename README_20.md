@@ -2112,7 +2112,7 @@
 | CunningLogic | DUMLRacer - Root Exploit for DJI Drones and Controllers: | https://github.com/CunningLogic/DUMLRacer | None |  | None | None | 120 | 0 | 36 | 296 | 12 | Shell,Java,C++ | 85 | 39 | 1| 
 | worawit | Eternalchampion SMB 漏洞(MS17-010)的多个 PoC: | https://github.com/worawit/MS17-010 | None |  | Thailand | None | 3 | 0 | 6 | 295 | 0 | Python,Go,C | 1100 | 629 | 1| 
 | 0xInfection | TIDoS-Framework - Web 应用程序渗透测试框架: | https://github.com/0xInfection/TIDoS-Framework | https://twitter.com/0xInfection | I am just an Infected Geek... | None | CodeSploit | 4 | 0 | 64 | 295 | 0 | Python | 0 | 0 | 1| 
-| mazen160 | An exploit for Apache Struts CVE-2017-5638 | https://github.com/mazen160/struts-pwn | https://mazinahmed.net | Information Security Specialist / Penetration Tester | None | None | 15 | 0 | 0 | 294 | 0 | Python,Shell | 341 | 119 | 4| 
+| mazen160 | An exploit for Apache Struts CVE-2017-5638 | https://github.com/mazen160/struts-pwn | https://mazinahmed.net | Information Security Specialist / Penetration Tester | None | None | 15 | 0 | 0 | 294 | 0 | Python,Shell | 341 | 119 | 5| 
 | CalebFenton | Seeing a lot of traffic around an Android app deobfuscation blog post compels me to remind everyone about | https://github.com/CalebFenton/simplify | https://github.com/Sentinel-One | I break stuff to make it better. | Union City, CA | @Sentinel-One | 27 | 0 | 115 | 294 | 26 | YARA,Ruby,Java,Smali | 0 | 0 | 4| 
 | BigNerd95 | Chimay-Red - Vault 7 CIA 泄漏的 Mikrotik 漏洞利用 POC: | https://github.com/BigNerd95/Chimay-Red | https://bignerd95.blogspot.it/ | Computer Science Student at UniTo (University of Turin). I love reverse engineering of embedded systems. | Italy | None | 40 | 0 | 225 | 294 | 16 | Python,C,Shell | 0 | 0 | 2| 
 | milo2012 | pathbrute - Web 路径暴力破解工具: | https://github.com/milo2012/pathbrute | http://milo2012.wordpress.com |  | None | None | 65 | 0 | 131 | 292 | 5 | Python,Go,PowerShell | 381 | 179 | 2| 
@@ -4514,6 +4514,7 @@
 | cjdd3b | Hands-on with machine learning | https://github.com/cjdd3b/nicar2015/tree/master/machine-learning | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | cisco-sas | kitty : Fuzzing Framework written in python : | https://github.com/cisco-sas/kitty | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | cisco-config-analysis-tool | ccat - Cisco 配置分析工具: | https://github.com/cisco-config-analysis-tool/ccat | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
+| cisagov | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,HTML,Python,Open,JavaScript,TypeScript,TSQL,HCL | 0 | 0 | 1| 
 | cider-security-research | Top 10 CI/CD Security Risks | https://github.com/cider-security-research/top-10-cicd-security-risks | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 2| 
 | chuhades | CMS-Exploit-Framework | https://github.com/chuhades/CMS-Exploit-Framework | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | chtg | Php Codz Hacking | https://github.com/chtg/phpcodz | https://github.com/chtg?tab=followers |  | China | None | 2 | 0 | 2 | 0 | 0 | C | 0 | 0 | 1| 
@@ -4577,6 +4578,7 @@
 | atimorin | scada-tools | https://github.com/atimorin/scada-tools | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | astarasikov | 有研究员公开了一个 Fuzz macOS GPU 相关模块的 Fuzzer | https://github.com/astarasikov/macos-gpu-fuzzing-public | https://allsoftwaresucks.blogspot.com |  | Moscow, Russia | None | 63 | 0 | 0 | 0 | 0 | Objective-C,Java,C | 41 | 14 | 1| 
 | ashishb | Android Security Awesome，Android 安全方向的资料整理 | https://github.com/ashishb/android-security-awesome | https://ashishb.net | Software Engineer - SF Bay area https://ashishb.net/about/ | United States | None | 94 | 0 | 0 | 0 | 0 | Python,Go,Shell,Makefile | 4800 | 1200 | 1| 
+| ashemery | 香普兰学院的逆向和二进制漏洞利用课程相关的配套练习 | https://github.com/ashemery/exploitation-course/tree/master/labs | https://github.com/ashemery?tab=followers | [Between Teams of Red and Blue, Im with the Purple Team] | USA | https://www.cyber5w.com | 37 | 0 | 20 | 0 | 0 | Python,Shell,PowerShell | 0 | 0 | 1| 
 | arieljt | VT Code Similarity Yara Generator | https://github.com/arieljt/VTCodeSimilarity-YaraGen | https://twitter.com/arieljt |  | None | None | 3 | 0 | 0 | 0 | 0 | Python | 34 | 6 | 1| 
 | arbor-jjones | Loading Cuckoo Sandbox results in IDA Pro | https://github.com/arbor-jjones/idataco | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | aquasecurity | Trivy - 在容器镜像、文件系统、Git Repo 中扫描漏洞的工具 | https://github.com/aquasecurity/trivy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Python,Shell,Dockerfile,TypeScript | 0 | 0 | 1| 
