@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 恒星EDU | cyberslab | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA | 1| 
+| 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 1| 
+| 墨菲安全 | murphy_sec | 软件供应链安全 2022 年回顾 | https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g | 1| 
 | 太空安全 | SateSec | 25美元破解Starlink 星链终端路由器 | https://mp.weixin.qq.com/s/X-Fvs9TUPO1UT7BZsIOtnw | 2| 
 | 4ra1n | sec-4ra1n | 分享Jar包分析工具：jar-analyzer | https://mp.weixin.qq.com/s/Rrx6x5M_28YRcQQCdxuEeQ | 1| 
 | 平猫的音乐 | gh_f6e103434039 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA | 2| 
@@ -744,7 +747,7 @@
 | 腾讯安全智能 | TX_Security_AI | 基于图挖掘的安全事件分析 | https://mp.weixin.qq.com/s/ARfMqrUxiPKmbMcV_yaluw | 3| 
 | 浅黑科技 | qianheikeji | CTF：一部黑客心灵史 | https://mp.weixin.qq.com/s/wEqBaZmO8FwOyGrcWDNgYQ | 13| 
 | 国际安全智库 | guoji-anquanzhiku | “震网”十年谜底终浮水面, 伊朗核计划流产源于内鬼“间谍行动” | https://mp.weixin.qq.com/s/ORW8qWCpgQFJh8-bsaIg3w | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 18| 
+| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 19| 
 | Hacking就是好玩 |  | 对乌云漏洞库payload的整理以及Burp辅助插件 | https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw | 4| 
 | 行业研究报告 | report88 | 2018-2019年网络安全行业深度报告 | https://mp.weixin.qq.com/s/z-LN2AlMezEmJVekbDndcw | 1| 
 | 编程技术宇宙 | ProgramUniverse | 我是一个流氓软件线程 | https://mp.weixin.qq.com/s/-ggUa3aWkjjHjr9VwQL9TQ | 5| 
@@ -760,7 +763,7 @@
 | 安恒信息 | DBAPP2013 | 如何基于沙箱的威胁情报平台上搭建ATT&CK展示界面？ | https://mp.weixin.qq.com/s/YcQRAkRRo63OnRYWokl0nw | 34| 
 | 复旦白泽战队 | fdwhitzard | 白泽带你去参会@CCS19, London, UK丨论文分享（上） | https://mp.weixin.qq.com/s/gYqamT3WXiyj79mjBQYRiA | 2| 
 | heysec | bloodzer007 | 计算机与网络安全系列书单推荐 | https://mp.weixin.qq.com/s/kEH85B2L8hsTKQjaSluTVQ | 20| 
-| 404 Not F0und |  | 从Black Hat Speaker到国内外研究者：强化学习的安全应用 | https://mp.weixin.qq.com/s/YcH2P38_N4aZtGAc2ktkJw | 8| 
+| 404 Not F0und |  | 从Black Hat Speaker到国内外研究者：强化学习的安全应用 | https://mp.weixin.qq.com/s/YcH2P38_N4aZtGAc2ktkJw | 9| 
 | 法学学术前沿 | frontiers-of-law | 前沿, 刘艳红：网络爬虫行为的刑事规制 | https://mp.weixin.qq.com/s/O9ue3cZjw5kfVFyFkoaeUg | 1| 
 | 南方法治报 | nffzb1433 | 广东公安“净网2019”专项行动典型网络违法犯罪案例 | https://mp.weixin.qq.com/s/XIAaaZetvfLa5KO-7Q6rlg | 1| 
 | 开放知识图谱 | OpenKG-CN | 论文浅尝 , 探索将预训练语言模型用于事件抽取和事件生成 | https://mp.weixin.qq.com/s/8G-d3VT_I6ucRVrGm4VO2A | 7| 
@@ -806,7 +809,7 @@
 | 道法术 |  | [法]从SOAR中求解应用安全建设强运营突围之法 | https://mp.weixin.qq.com/s/sedpOhSxEGSdaxX8SACIMA | 3| 
 | 安全喷子 |  | 网络安全“圣地”之行 | https://mp.weixin.qq.com/s/xxU0R5eVcP_42VVd2DQeXQ | 11| 
 | 奇安信 CERT |  | WebLogic安全研究报告 | https://mp.weixin.qq.com/s/qxkV_7MZVhUYYq5QGcwCtQ | 14| 
-| 绿盟科技 | NSFOCUS-weixin | 2019TechWorld技术嘉年华精华大放送【附PPT下载】 | https://mp.weixin.qq.com/s/pHYpHw1PuLddW2NJZZzA6A | 50| 
+| 绿盟科技 | NSFOCUS-weixin | 2019TechWorld技术嘉年华精华大放送【附PPT下载】 | https://mp.weixin.qq.com/s/pHYpHw1PuLddW2NJZZzA6A | 51| 
 | 汉客儿 |  | 一次美丽的误会引发对函数调用保护的思考 | https://mp.weixin.qq.com/s/wna8pBu1s_jNI8kDeBGEwA | 15| 
 | 水滴安全实验室 | EversecLab | 物联网固件漏洞挖掘——经典命令执行漏洞分析复现 | https://mp.weixin.qq.com/s/KPw81stOcBthxZHlanS0BA | 10| 
 | 威胁情报小屋 |  | 海莲花攻击手法概述 | https://mp.weixin.qq.com/s/IrM60hbB6dWdbWxpFbO1lA | 1| 
@@ -3572,7 +3575,7 @@
 | hi-WenR0 | MLCheckWebshell:机器学习检测Webshell | https://github.com/hi-WenR0/MLCheckWebshell | http://www.wenr0.me |  | None | None | 6 | 0 | 159 | 17 | 9 | C,Python,JavaScript,HTML,PHP,CSS | 75 | 26 | 1| 
 | egaus | MaliciousMacroBot: classify and cluster Microsoft office document | https://github.com/egaus/MaliciousMacroBot | None |  | None | None | 11 | 0 | 1 | 17 | 0 | Python,Bro,Jupyter | 102 | 18 | 1| 
 | binary1985 | Microsoft ADFS 服务中可基于时间来枚举用户的漏洞披露: 1) https://github.com/binary1985/VulnerabilityDisclosure/blob/master/ADFS-Timing-Attack; 2) | https://github.com/binary1985/VulnerabilityDisclosure/blob/master/ADFS-Timing-Attack; | None |  | None | None | 37 | 0 | 5 | 17 | 6 | Python,Ruby,Roff | 21 | 6 | 1| 
-| batteryshark | 商用硬件Token设备软件实现中安全问题 | https://github.com/batteryshark/writeups/tree/master/20190417 | None |  | New York, NY | Stonefish Systems | 46 | 0 | 2 | 17 | 0 | Python,C | 24 | 2 | 1| 
+| batteryshark | 商用硬件Token设备软件实现中安全问题 | https://github.com/batteryshark/writeups/tree/master/20190417 | None |  | New York, NY | Stonefish Systems | 46 | 0 | 2 | 17 | 0 | Python,C | 24 | 2 | 2| 
 | baronpan | SysmonHunter：一个简单的基于ATT&CK的Sysmon日志狩猎工具 | https://github.com/baronpan/SysmonHunter | http://threatmobile.blogspot.com |  | None | None | 11 | 0 | 10 | 17 | 5 | Python,Batchfile,JavaScript,Java,PowerShell | 31 | 7 | 1| 
 | STEALTHbits | poshkatz - Mimikatz PowerShell 模块: | https://github.com/STEALTHbits/poshkatz | https://www.stealthbits.com/ | STEALTHbits Technologies is a cybersecurity software company focused on protecting an organization’s sensitive data and credentials | Hawthorne, NJ | STEALTHbits Technologies | 3 | 0 | 0 | 17 | 0 | PowerShell | 125 | 16 | 1| 
 | P1CKLES | SharpBox - 一个基于 C# 的工具,通过 Dropbox API 对 Dropbox 进行压缩和加密: | https://github.com/P1CKLES/SharpBox | http://pickles.xyz |  | Charles Town, WV. | Specter Ops | 6 | 0 | 1 | 17 | 8 | C#,Swift | 59 | 18 | 1| 
@@ -4464,6 +4467,7 @@
 | dipjyotimetia | HybridTestFramewrok: End to End testing of Web, API and Se... | https://github.com/dipjyotimetia/HybridTestFramewrok#setup--tools | https://github.com/dipjyotimetia?tab=followers | Software Engineer | Melbourne, Australia | anz | 435 | 0 | 0 | 0 | 0 | Go,TypeScript,Java | 0 | 0 | 1| 
 | dionach | CMSmap:a python open source CMS scanner | https://github.com/dionach/CMSmap | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | didi | Sharingan是一个基于go语言编写的流量录制回放工具，合项目重构、回归测试等。 | https://github.com/didi/sharingan | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Vue,Java,Python,Kotlin,JavaScript,C++,TypeScript,Objective-C,HTML,Go,CSS | 15800 | 2200 | 2| 
+| dicegang | DiceCTF 2023 Offical sourcecode && env && sol | https://github.com/dicegang/dicectf-2023-challenges | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,HTML,JavaScript | 0 | 0 | 1| 
 | diafygi | webrtc-ips:STUN IP Address requests for WebRTC | https://github.com/diafygi/webrtc-ips | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | detuxsandbox | detux : Analyze linux malwares on x86, x86-64,ARM,MIPS ,MIPSEL cpu architecture - The Multiplatform Linux Sandbox : | https://github.com/detuxsandbox/detux | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | depasonico | ByWaf: a web application penetration testing framework (WAPTF) | https://github.com/depasonico/OWASP-ByWaf | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
@@ -5311,6 +5315,7 @@
 # zhihu_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 如何写好一篇高质量的IEEE/ACM Transaction级别的计算机科学论... | https://www.zhihu.com/question/22790506/answer/990626321| 
 | 推荐系统排序环节的特征Embedding建模 | https://zhuanlan.zhihu.com/p/573576653| 
 | 基于语音数据的实体和关系抽取 | https://zhuanlan.zhihu.com/p/573667782| 
 | Google数据安全自动化建设之路（白皮书） | https://zhuanlan.zhihu.com/p/564689012| 

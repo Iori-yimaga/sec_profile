@@ -1,14 +1,14 @@
-Python	15
-C	8
+Python	16
+C	10
+C++	7
 Java	6
-C++	6
+JavaScript	6
 Go	6
-JavaScript	5
 TypeScript	3
 Shell	3
+HTML	3
 PHP	3
 Solidity	2
-HTML	2
 PowerShell	2
 Rust	2
 Open	1
@@ -18,3 +18,4 @@ HCL	1
 TSQL	1
 Assembly	1
 Ruby	1
+C#	1

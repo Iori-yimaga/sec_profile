@@ -1,8 +1,8 @@
-Python	1151
-C	722
-JavaScript	692
+Python	1152
+C	723
+JavaScript	693
 C++	592
-HTML	503
+HTML	504
 Java	497
 Shell	473
 Go	440
