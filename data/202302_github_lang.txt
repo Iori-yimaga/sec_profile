@@ -1,5 +1,5 @@
-Python	9
-C	4
+Python	10
+C	5
 Shell	4
 JavaScript	4
 C++	3
@@ -7,6 +7,7 @@ HTML	3
 Go	3
 TypeScript	2
 PHP	2
+Rust	2
 CSS	1
 Assembly	1
 TSQL	1
@@ -14,4 +15,3 @@ C#	1
 HCL	1
 Open	1
 PowerShell	1
-Rust	1

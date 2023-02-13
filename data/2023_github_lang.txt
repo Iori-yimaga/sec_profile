@@ -1,5 +1,5 @@
-Python	17
-C	11
+Python	18
+C	12
 C++	8
 JavaScript	7
 Go	7
@@ -7,8 +7,8 @@ Java	6
 Shell	4
 HTML	4
 TypeScript	3
+Rust	3
 PHP	3
-Rust	2
 Solidity	2
 PowerShell	2
 TSQL	1

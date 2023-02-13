@@ -1,0 +1,15 @@
+20230206	数据挖掘	https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw	ChatGPT研究框架（80页PPT）	qq.com	mp.weixin.qq.com	/s/YtJn2pfdS_on1nSATOylYw
+20230206	Web安全	https://github.com/phplaber/yawf	Yawf: 开源的 Web 漏洞自动化检测工具	github.com	github.com	/phplaber/yawf
+20230206	论文	https://mp.weixin.qq.com/s/m_eh9bWeYdKxnffSwbeMLQ	在线沙盒的 ATT&CK 映射能力调研	qq.com	mp.weixin.qq.com	/s/m_eh9bWeYdKxnffSwbeMLQ
+20230206	Web安全	https://mp.weixin.qq.com/s/7AwMJQjH8_zWUT3bWkoEzQ	换种思路做入侵检测	qq.com	mp.weixin.qq.com	/s/7AwMJQjH8_zWUT3bWkoEzQ
+20230206	杂志	https://www.sec-wiki.com/weekly/466	SecWiki周刊（第466期)	sec-wiki.com	www.sec-wiki.com	/weekly/466
+20230206	数据挖掘	https://mp.weixin.qq.com/s/sZstPhuQSHN85rP_3urOWw	ChatGPT概念“狂飙”	qq.com	mp.weixin.qq.com	/s/sZstPhuQSHN85rP_3urOWw
+20230206	恶意分析	https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g	软件供应链安全 2022 年回顾	qq.com	mp.weixin.qq.com	/s/RQDqv7GxCo2bQqnlfsXt8g
+20230206	其它	https://mp.weixin.qq.com/s/w5Go3qqC8vJnJKL4k9R0Bg	2022网络空间安全重大项目发展概况	qq.com	mp.weixin.qq.com	/s/w5Go3qqC8vJnJKL4k9R0Bg
+20230206	论文	https://www.zhihu.com/question/22790506/answer/990626321	如何写好一篇高质量的IEEE/ACM Transaction级别的计算机科学论文?	zhihu.com	www.zhihu.com	/question/22790506/answer/990626321
+20230206	Web安全	https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA	某运营商外网打点到内网横向渗透的全过程	qq.com	mp.weixin.qq.com	/s/AVEydEVTWqcOMVcA7amBVA
+20230206	取证分析	https://mp.weixin.qq.com/s/ScR0FLsUi9-zLUmKAAXDTQ	2022全国微信泄密典型案例	qq.com	mp.weixin.qq.com	/s/ScR0FLsUi9-zLUmKAAXDTQ
+20230206	运维安全	https://mp.weixin.qq.com/s/QqoVOAgzXzHafvZmtXWTxg	ChatGPT在安全运营中的应用初探	qq.com	mp.weixin.qq.com	/s/QqoVOAgzXzHafvZmtXWTxg
+20230206	观点	https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ	ChatGPT 对网络安全的影响	qq.com	mp.weixin.qq.com	/s/oEddKCs1kXeyQBxUz5trEQ
+20230206	其它	https://zhuanlan.zhihu.com/p/603726514	ZKP in Hidden Order Group 未知阶群内的零知识证明	zhihu.com	zhuanlan.zhihu.com	/p/603726514
+20230206	取证分析	https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg	程序执行痕迹进行取证的多种方式	qq.com	mp.weixin.qq.com	/s/TQBPJr-g2FUbwYtX6JzHPg
