@@ -1,9 +1,9 @@
-Python	18
+Python	19
 C	12
 C++	8
+Go	8
+Java	7
 JavaScript	7
-Go	7
-Java	6
 Shell	4
 HTML	4
 TypeScript	3
