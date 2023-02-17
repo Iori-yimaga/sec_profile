@@ -4489,6 +4489,7 @@
 | danieleperera | 用于在网络上收集，抓取和监视洋葱站点的扩展工具 | https://github.com/danieleperera/OnionIngestor | None |  | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript | 25 | 5 | 1| 
 | daniel-thompson | 基于MicroPython的智能手表开发环境手册指南（包括Pine64 PineTime）项目介绍。 | https://github.com/daniel-thompson/wasp-os | http://redfelineninja.org.uk/daniel/ |  | Bristol, UK | None | 70 | 0 | 0 | 0 | 0 | Python,C,Shell | 179 | 64 | 1| 
 | daniel-araujo | proctal : Manipulates the address space of a running program on Linux : | https://github.com/daniel-araujo/proctal | https://gitlab.com/daniel-araujo | Moved to GitLab | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
+| daem0nc0re | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection | https://github.com/daem0nc0re?tab=followers |  | None | None | 10 | 0 | 0 | 0 | 0 | C#,Assembly | 0 | 0 | 1| 
 | d4rk-d4nph3 | 勒索软件相关的报告收集 | https://github.com/d4rk-d4nph3/Ransomware-Reports | https://twitter.com/bh4b3sh | Turing Complete | CVE-2020-9000+ | NT AUTHORITY\SYSTEM | 25 | 0 | 0 | 0 | 0 | C#,Python,Shell | 31 | 6 | 1| 
 | d4rckh | gorilla - 用于生成密码字段的工具 | https://github.com/d4rckh/gorilla | https://github.com/d4rckh?tab=followers | young man from romania with security as a hobby | Romania | None | 87 | 0 | 342 | 0 | 0 | Rust,Nim | 0 | 0 | 1| 
 | d3ckx1 | Fvuln: 一款自动化工具 | https://github.com/d3ckx1/Fvuln | https://github.com/d3ckx1?tab=followers | a penetration test | None | None | 24 | 0 | 4 | 0 | 0 | Python,HTML | 0 | 0 | 2| 
@@ -5437,6 +5438,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| Java反序列化预备全知 | https://xz.aliyun.com/t/12155| 
 | Tailscale在内网渗透中利用的研究 | https://xz.aliyun.com/t/12151| 
 | C2服务器隐藏与Linux上线 | https://xz.aliyun.com/t/12094| 
 | 各种架构ELF后门生成工具 | https://xz.aliyun.com/t/12054| 

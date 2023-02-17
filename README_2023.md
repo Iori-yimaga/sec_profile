@@ -95,6 +95,7 @@
 | jafarlihi | modreveal 找出当前Linux机器的隐藏Linux内核模块的工具 | https://github.com/jafarlihi/modreveal | https://github.com/jafarlihi?tab=followers |  | Baku, Azerbaijan | None | 29 | 0 | 2 | 0 | 0 | Go,C,Java,C++ | 0 | 0 | 1| 
 | iczc | RealWorld CTF 5th 区块链挑战- realwrap Writeup | https://github.com/iczc/rwctf-5th-realwrap | https://github.com/iczc?tab=followers | Blockchain Security | Earth, Solar System | None | 20 | 0 | 1600 | 0 | 0 | Python,Go,JavaScript,Solidity | 0 | 0 | 1| 
 | dicegang | DiceCTF 2023 Offical sourcecode && env && sol | https://github.com/dicegang/dicectf-2023-challenges | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,HTML,JavaScript | 0 | 0 | 1| 
+| daem0nc0re | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection | https://github.com/daem0nc0re?tab=followers |  | None | None | 10 | 0 | 0 | 0 | 0 | C#,Assembly | 0 | 0 | 1| 
 | cisagov | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,HTML,Python,Open,JavaScript,TypeScript,TSQL,HCL | 0 | 0 | 1| 
 | blackorbird | 2022年APT组织分析年鉴 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022%20Yearbook%20of%20APT%20group%20Analysis.pdf | https://github.com/blackorbird?tab=followers | APT hunter threat analyst | https://twitter.com/blackorbird | https://twitter.com/blackorbird | 46 | 0 | 125 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | bit4woo | Fiora：漏洞PoC框架Nuclei的图形版 | https://github.com/bit4woo/Fiora | https://github.com/ossdao-org | Creating with coding,Learning by doing,Learning by sharing! @ossdao-org•AIRDROP-0x028f231db6db1ef2f6bdb7bbc2da41bac976cdcc | shenzhen | https://space.bilibili.com/527442393 | 108 | 0 | 912 | 0 | 0 | Python,Java | 0 | 0 | 1| 
@@ -153,6 +154,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| Java反序列化预备全知 | https://xz.aliyun.com/t/12155| 
 | Tailscale在内网渗透中利用的研究 | https://xz.aliyun.com/t/12151| 
 | C2服务器隐藏与Linux上线 | https://xz.aliyun.com/t/12094| 
 | 各种架构ELF后门生成工具 | https://xz.aliyun.com/t/12054| 
