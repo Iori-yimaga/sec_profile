@@ -14,8 +14,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 网络空间安全军民融合创新中心 | jmrh1226 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ | 2| 
 | 安全学术圈 | secquan | 2023年国家自然科学基金安全领域部分题目列表 | https://mp.weixin.qq.com/s/uKg6pek3tJfdcB_RuyDoLw | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 盘点 , 2022全国微信泄密典型案例 | https://mp.weixin.qq.com/s/ScR0FLsUi9-zLUmKAAXDTQ | 2| 
 | 专注安管平台 | gh_48603b9bb05a | ChatGPT在安全运营中的应用初探 | https://mp.weixin.qq.com/s/QqoVOAgzXzHafvZmtXWTxg | 1| 
 | CNCERT国家工程研究中心 | NELCERT | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ | 1| 
 | APTHunter | gh_5e5d0798abea | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg | 1| 
@@ -24,6 +24,7 @@
 | 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 1| 
 | 绿盟科技 | NSFOCUS-weixin | ChatGPT概念“狂飙”，你追了吗？ | https://mp.weixin.qq.com/s/sZstPhuQSHN85rP_3urOWw | 1| 
 | 墨菲安全 | murphy_sec | 软件供应链安全 2022 年回顾 | https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g | 1| 
+| 信息安全与通信保密杂志社 | cismag2013 | 2022网络空间安全重大项目发展概况 | https://mp.weixin.qq.com/s/w5Go3qqC8vJnJKL4k9R0Bg | 3| 
 | 404 Not F0und | AI4Security | 换种思路做入侵检测 | https://mp.weixin.qq.com/s/7AwMJQjH8_zWUT3bWkoEzQ | 1| 
 | 威胁棱镜 | THREAT_PRISM | 在线沙盒的 ATT&CK 映射能力调研 | https://mp.weixin.qq.com/s/m_eh9bWeYdKxnffSwbeMLQ | 2| 
 | 赛博攻防悟道 | lookvul | 美国NSA安全运营关键原则 | https://mp.weixin.qq.com/s/uTjXfgYTP5ZHZpwPuFXNwA | 1| 
