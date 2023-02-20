@@ -1,6 +1,6 @@
-Python	12
-C	5
-JavaScript	5
+Python	13
+C	6
+JavaScript	6
 Shell	4
 Go	4
 C++	3
@@ -13,6 +13,7 @@ PHP	2
 Rust	2
 CSS	1
 TSQL	1
+Solidity	1
 HCL	1
 Open	1
 PowerShell	1

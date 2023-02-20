@@ -1,6 +1,6 @@
 Python	1154
 C	724
-JavaScript	694
+JavaScript	695
 C++	593
 HTML	505
 Java	498
@@ -60,13 +60,13 @@ TSQL	9
 PLpgSQL	8
 Zeek	8
 Smali	8
+Solidity	8
 Starlark	7
 Clojure	7
 SCSS	7
 SaltStack	7
 Cuda	7
 ActionScript	7
-Solidity	7
 D	6
 FreeMarker	6
 Julia	6
