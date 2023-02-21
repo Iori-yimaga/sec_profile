@@ -1,0 +1,10 @@
+20230213	Web安全	https://xz.aliyun.com/t/12151	Tailscale在内网渗透中利用的研究	aliyun.com	xz.aliyun.com	/t/12151
+20230213	其它	https://mp.weixin.qq.com/s/uKg6pek3tJfdcB_RuyDoLw	2023年国家自然科学基金安全领域部分题目列表	qq.com	mp.weixin.qq.com	/s/uKg6pek3tJfdcB_RuyDoLw
+20230213	Web安全	https://xz.aliyun.com/t/12155	Java反序列化预备全知	aliyun.com	xz.aliyun.com	/t/12155
+20230213	恶意分析	https://mp.weixin.qq.com/s/6zEkXro7WFjNQWPWv53NcA	网络流量异常检测综述	qq.com	mp.weixin.qq.com	/s/6zEkXro7WFjNQWPWv53NcA
+20230213	设备安全	https://paper.seebug.org/2048/	某 T 路由器固件解压缩探秘	seebug.org	paper.seebug.org	/2048/
+20230213	杂志	https://www.sec-wiki.com/weekly/467	SecWiki周刊（第467期)	sec-wiki.com	www.sec-wiki.com	/weekly/467
+20230213	其它	https://mp.weixin.qq.com/s/mFNypNlbdWRcDxyFs7Ff4g	2022年全球国防网络空间情况综述（网军建设篇-上）	qq.com	mp.weixin.qq.com	/s/mFNypNlbdWRcDxyFs7Ff4g
+20230213	恶意分析	https://mp.weixin.qq.com/s/SpmgKfG2eeWCPMZ4RqEDPA	VirusTotal 版本的引擎与桌面版引擎的比较分析	qq.com	mp.weixin.qq.com	/s/SpmgKfG2eeWCPMZ4RqEDPA
+20230213	漏洞分析	https://paper.seebug.org/2049/	Citrix CVE-2022-27518 漏洞分析	seebug.org	paper.seebug.org	/2049/
+20230213	其它	https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ	2022年全球国防网络空间情况综述（网军建设篇-下）	qq.com	mp.weixin.qq.com	/s/wJttA6_73oMQsOGS2CIhlQ

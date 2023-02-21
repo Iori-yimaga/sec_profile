@@ -1,7 +1,7 @@
 Python	1154
-C	724
+C	725
 JavaScript	695
-C++	593
+C++	594
 HTML	505
 Java	498
 Shell	474
@@ -13,7 +13,7 @@ CSS	226
 PHP	225
 TypeScript	190
 Rust	158
-Objective-C	141
+Objective-C	142
 Jupyter	119
 Dockerfile	79
 Assembly	75
@@ -100,6 +100,7 @@ Q#	2
 POV-Ray	2
 Classic	2
 Brainfuck	2
+OpenSCAD	2
 AngelScript	2
 Boo	2
 Prolog	2
@@ -122,7 +123,6 @@ Crystal	1
 Protocol	1
 Less	1
 Nextflow	1
-OpenSCAD	1
 ApacheConf	1
 Haxe	1
 HLSL	1
