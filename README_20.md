@@ -14,11 +14,12 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| vivo千镜 | gh_54ff3f871510 | 浅谈应用分发平台标准动态 | https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg | 1| 
 | CNCERT国家工程研究中心 | NELCERT | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ | 1| 
 | APTHunter | gh_5e5d0798abea | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg | 1| 
 | ABC123安全研究实验室 | abc123network | 第51篇：某运营商外网打点到内网横向渗透的全过程 | https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA | 1| 
 | 恒星EDU | cyberslab | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA | 1| 
-| 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 1| 
+| 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 2| 
 | 墨菲安全 | murphy_sec | 软件供应链安全 2022 年回顾 | https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g | 1| 
 | 4ra1n | sec-4ra1n | 分享Jar包分析工具：jar-analyzer | https://mp.weixin.qq.com/s/Rrx6x5M_28YRcQQCdxuEeQ | 1| 
 | 太空安全 | SateSec | 九阶段太空攻击研究与战术分析框架和七层美国防太空架构 | https://mp.weixin.qq.com/s/TvEZKKzyRyb1_jVU1YeEMg | 2| 
@@ -453,7 +454,7 @@
 | 知帆科技 | chaindigg | 浅析利用虚拟货币洗钱 | https://mp.weixin.qq.com/s/hoXNYkaOF4SWNzK4W8l-8w | 1| 
 | 汉堡爱好者 | burgerk1 | 越权漏洞治理实践（自动检测部分IDOR） | https://mp.weixin.qq.com/s/GG8cdvpYoGVs4l-G_YvSag | 2| 
 | 乌雲安全 | hackctf | 干货,利用pocsuite3框架编写poc实战案例 | https://mp.weixin.qq.com/s/LN5gJnKpunfWGJ6yQQtHuw | 49| 
-| 莫哥谈安全 | gh_247dfbdf3d43 | D3FEND学习笔记 | https://mp.weixin.qq.com/s/WsCgI6ilaGL8XJPUJUTCdQ | 5| 
+| 莫哥谈安全 | gh_247dfbdf3d43 | D3FEND学习笔记 | https://mp.weixin.qq.com/s/WsCgI6ilaGL8XJPUJUTCdQ | 6| 
 | 社媒派SMP | CIPS-SMP | THUIR司法类案检索技术研究进展 | https://mp.weixin.qq.com/s/VgOKXX0mJSWol0CKOUMJOA | 1| 
 | 甲方安全建设 | blueteams | Active Directory 证书服务快速防御指南 | https://mp.weixin.qq.com/s/XTl9WkdZwCKke_0tLOUr2w | 34| 
 | 灾难控制 局 | SecDamageControl | Elkeid-RASP 发布，易部署的RASP方案。 | https://mp.weixin.qq.com/s/o0rSOLQ34-Ph0aY-_5tfSA | 1| 
@@ -826,7 +827,7 @@
 | 安比实验室 | secbitlabs | 初识「零知识」与「证明」 | https://mp.weixin.qq.com/s/XQL_taBhPkCHGZOBc24MyQ | 1| 
 | 安全客 | anquanbobao | Black hat USA 2019 议题预览 | https://mp.weixin.qq.com/s/TCKOmHt2MbeMI6MO5zq4HQ | 85| 
 | 安全回忆录 | Sec-Huiyilu | Commix命令注入靶场空格过滤的绕过测试 | https://mp.weixin.qq.com/s/81gI5nFHSVYR5w648Z2oJQ | 1| 
-| 中国信息安全 | chinainfosec | 专题 , AI加持，威胁免疫——工业互联网安全体系建设 | https://mp.weixin.qq.com/s/iywreVZ81o_bYKhuCHQl6Q | 114| 
+| 中国信息安全 | chinainfosec | 专题 , AI加持，威胁免疫——工业互联网安全体系建设 | https://mp.weixin.qq.com/s/iywreVZ81o_bYKhuCHQl6Q | 115| 
 | Docker | dockerone | 容器日志采集利器：Filebeat深度剖析与实践 | https://mp.weixin.qq.com/s/H9ExikY7bd2-YVEqGZmsOA | 2| 
 | 网络空间安全军民融合创新中心 | jmrh1226 | 病毒武器智能化技术现状与运用趋势 | https://mp.weixin.qq.com/s/ojfjlJEdGSIjrR2ptYhPSw | 12| 
 | 百度安全实验室 | BaiduX_lab | 聪明人的笨功夫 -- MesaTEE安全形式化验证实践 | https://mp.weixin.qq.com/s/X5PyWgQFZ11wLx8gpFtXOg | 9| 
@@ -4358,7 +4359,7 @@
 | hungryfoolou | CVE漏洞信息爬取 | https://github.com/hungryfoolou/Vulnerability_Mining/tree/master/craw | None |  | None | XiDian University | 6 | 0 | 10 | 0 | 3 | Python,C,HTML | 75 | 39 | 1| 
 | humiaozuzu | awesome-flask: A curated list of awesome Flask resources and plugins | https://github.com/humiaozuzu/awesome-flask | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | httpvoid | 在 Rails 找 Gadget 实现 Ruby Deserialization 漏洞的利用 | https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
-| horizon3ai | 微软 Azure 云 OMI Agent RCE 漏洞的 PoC | https://github.com/horizon3ai/CVE-2021-38647 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
+| horizon3ai | 微软 Azure 云 OMI Agent RCE 漏洞的 PoC | https://github.com/horizon3ai/CVE-2021-38647 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 2| 
 | honeytrap | honeytrap - 一款蜜罐框架: | https://github.com/honeytrap/honeytrap | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,Lua,HTML,Go,Ruby,CSS | 0 | 0 | 1| 
 | honeynet | APKinspector: analyze the Android applications | https://github.com/honeynet/apkinspector/ | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | hmgle | 将指定进程 TCP 连接重定向到 SOCKS5 或 HTTP 代理 | https://github.com/hmgle/graftcp | https://github.com/hmgle?tab=followers |  | China | None | 78 | 0 | 0 | 0 | 0 | Python,C,Erlang | 0 | 0 | 1| 
@@ -4861,6 +4862,7 @@
 | Eitenne | roxysploit - 漏洞利用框架: | https://github.com/Eitenne/roxysploit | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 2| 
 | EdgeSecurityTeam | Edge Security Team 整理的各类服务、组件的安全漏洞库。 注：可能存在风险，建议在隔离的环境中运行、测试其中的相关工具、代码、脚本。 | https://github.com/EdgeSecurityTeam/Vulnerability | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | EXHades | 一些网络空间搜索引擎相关的资料 | https://github.com/EXHades/CyberSpaceSearchEngine-Research | https://github.com/OmenSec | Never stop Thinking! | World wide,Gensokyo | @OmenSec @Ouroboros-SEC | 35 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
+| DvorakDwarf | 该工具可以将任意文件以视频形式存储，将视频上传到视频网站进而使用其免费的云存储 | https://github.com/DvorakDwarf/Infinite-Storage-Glitch | https://github.com/DvorakDwarf?tab=followers | Contact over discord, preferably. Discord: HistidineDwarf#8927 | Nowhere | Middle of | 13 | 0 | 26 | 0 | 0 | Python,Shell,Rust | 0 | 0 | 1| 
 | Dump-GUY | 在调试器中 Trace fopen 函数的调用 | https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/Tracing%20C%20function%20fopen/Tracing%20C%20function%20fopen.md | https://github.com/Dump-GUY?tab=followers | Forensic and Malware Analyst, RE - CERT | CZE | None | 21 | 0 | 0 | 0 | 0 | Python,YARA | 0 | 0 | 1| 
 | Droidzzzio | 用于枚举子域wordlist，php文件路径，html文件路径和js文件路径的开源工具 | https://github.com/Droidzzzio/EnumerationList | https://twitter.com/ShMalav | Security Researcher Bug Bounty Hunter | INDIA | None | 44 | 0 | 0 | 0 | 0 | Python | 32 | 8 | 1| 
 | DiabloHorn | undetected-meterpreter-stagers:Custom stagers with python encrypting proxy | https://github.com/DiabloHorn/undetected-meterpreter-stagers | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 

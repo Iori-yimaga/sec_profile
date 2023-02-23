@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 莫哥谈安全 | gh_247dfbdf3d43 | ChatGPT在MITREATT&CK落地中的应用 | https://mp.weixin.qq.com/s/hehFQbR6lqAABEDhrxtIBg | 1| 
+| 中国信息安全 | chinainfosec | 论坛·2022全球网空态势回顾 , 2022年度欧盟网络安全态势综述 | https://mp.weixin.qq.com/s/UoQwrnXr8OTfjyDzOT6xmg | 1| 
+| vivo千镜 | gh_54ff3f871510 | 浅谈应用分发平台标准动态 | https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg | 1| 
 | 网络空间安全军民融合创新中心 | jmrh1226 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ | 2| 
 | 安全学术圈 | secquan | 2023年国家自然科学基金安全领域部分题目列表 | https://mp.weixin.qq.com/s/uKg6pek3tJfdcB_RuyDoLw | 1| 
 | 专注安管平台 | gh_48603b9bb05a | ChatGPT在安全运营中的应用初探 | https://mp.weixin.qq.com/s/QqoVOAgzXzHafvZmtXWTxg | 1| 
@@ -21,7 +24,7 @@
 | APTHunter | gh_5e5d0798abea | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg | 1| 
 | ABC123安全研究实验室 | abc123network | 第51篇：某运营商外网打点到内网横向渗透的全过程 | https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA | 1| 
 | 恒星EDU | cyberslab | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA | 1| 
-| 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 1| 
+| 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 2| 
 | 绿盟科技 | NSFOCUS-weixin | ChatGPT概念“狂飙”，你追了吗？ | https://mp.weixin.qq.com/s/sZstPhuQSHN85rP_3urOWw | 1| 
 | 墨菲安全 | murphy_sec | 软件供应链安全 2022 年回顾 | https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g | 1| 
 | 信息安全与通信保密杂志社 | cismag2013 | 2022网络空间安全重大项目发展概况 | https://mp.weixin.qq.com/s/w5Go3qqC8vJnJKL4k9R0Bg | 3| 
@@ -50,6 +53,7 @@
 | nanabingies | Dell dbutil_2_3.sys 驱动提权漏洞的exp | https://github.com/nanabingies/CVE-2021-21551 | https://github.com/nanabingies?tab=followers | if you base your expectations on what you see, you blind yourself to the possibilities of what could be | Accra, Ghana | None | 21 | 0 | 21 | 0 | 0 | Assembly,C++ | 0 | 0 | 1| 
 | mazen160 | 一个用于检测secrets的正则表达式集合，可以在各种文件中匹配secrets。 | https://github.com/mazen160/secrets-patterns-db | https://github.com/mazen160?tab=followers | Cyber Security Engineer (Offensive Security) | None | None | 31 | 0 | 7 | 0 | 0 | Python,Shell | 0 | 0 | 1| 
 | kurogai | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects | https://github.com/kurogai?tab=followers | Web Developer and Penetration Tester (HackTheBox Competitive Player) | Luanda / Angola | None | 61 | 0 | 144 | 0 | 0 | Python,JavaScript,Java | 0 | 0 | 1| 
+| horizon3ai | Fortinet FortiNAC CVE-2022-39952的POC，未授权解压缩可导致任意文件写入，通过crontab实现RCE | https://github.com/horizon3ai/CVE-2022-39952 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | dicegang | DiceCTF 2023 Offical sourcecode && env && sol | https://github.com/dicegang/dicectf-2023-challenges | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,HTML,JavaScript | 0 | 0 | 1| 
 | daem0nc0re | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection | https://github.com/daem0nc0re?tab=followers |  | None | None | 10 | 0 | 0 | 0 | 0 | C#,Assembly | 0 | 0 | 1| 
 | cisagov | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,HTML,Python,Open,JavaScript,TypeScript,TSQL,HCL | 0 | 0 | 1| 
@@ -57,6 +61,7 @@
 | batteryshark | 利用 QEMU + GDB 帮助魔改，逆向和理解嵌入式系统内核 | https://github.com/batteryshark/writeups/wiki/Go-to-Shell---Reverse-Engineering-Kernel-Modifications-with-QEMU-gdb | https://github.com/batteryshark?tab=followers |  | None | None | 65 | 0 | 13 | 0 | 0 | C#,C,C++ | 0 | 0 | 1| 
 | ashemery | 香普兰学院的逆向和二进制漏洞利用课程相关的配套练习 | https://github.com/ashemery/exploitation-course/tree/master/labs | https://github.com/ashemery?tab=followers | [Between Teams of Red and Blue, Im with the Purple Team] | USA | https://www.cyber5w.com | 37 | 0 | 20 | 0 | 0 | Python,Shell,PowerShell | 0 | 0 | 1| 
 | GuardianAudits | GMX合约的审计报告 | https://github.com/GuardianAudits/Audits/tree/main/GMX | https://github.com/GuardianAudits?tab=followers |  | None | None | 5 | 0 | 0 | 0 | 0 | JavaScript,Solidity | 0 | 0 | 1| 
+| DvorakDwarf | 该工具可以将任意文件以视频形式存储，将视频上传到视频网站进而使用其免费的云存储 | https://github.com/DvorakDwarf/Infinite-Storage-Glitch | https://github.com/DvorakDwarf?tab=followers | Contact over discord, preferably. Discord: HistidineDwarf#8927 | Nowhere | Middle of | 13 | 0 | 26 | 0 | 0 | Python,Shell,Rust | 0 | 0 | 1| 
 | Cyber-Buddy | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt | https://github.com/Cyber-Buddy?tab=followers |  | None | None | 1 | 0 | 1 | 0 | 0 | Go | 0 | 0 | 1| 
 | ChromeDevTools | Chrome Devtools的RFC，将允许用户本地覆写http reponse的header。 | https://github.com/ChromeDevTools/rfcs/discussions/4 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,JavaScript | 0 | 0 | 1| 
 | CMEPW | 一个如何绕过Antivirus的知识思维导图。 | https://github.com/CMEPW/BypassAV | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Go,C,TypeScript | 0 | 0 | 1| 

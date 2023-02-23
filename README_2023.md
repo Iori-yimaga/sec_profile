@@ -14,12 +14,14 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 莫哥谈安全 | gh_247dfbdf3d43 | ChatGPT在MITREATT&CK落地中的应用 | https://mp.weixin.qq.com/s/hehFQbR6lqAABEDhrxtIBg | 1| 
+| vivo千镜 | gh_54ff3f871510 | 浅谈应用分发平台标准动态 | https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg | 1| 
 | 网络空间安全军民融合创新中心 | jmrh1226 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ | 2| 
 | CNCERT国家工程研究中心 | NELCERT | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ | 1| 
 | APTHunter | gh_5e5d0798abea | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg | 1| 
 | ABC123安全研究实验室 | abc123network | 第51篇：某运营商外网打点到内网横向渗透的全过程 | https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA | 1| 
 | 恒星EDU | cyberslab | MISC｜西湖论剑·2022中国杭州网络安全技能大赛初赛官方Write Up | https://mp.weixin.qq.com/s/t6z7VjlW09b9A3Fv2bt7dA | 1| 
-| 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 1| 
+| 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 2| 
 | 绿盟科技 | NSFOCUS-weixin | ChatGPT概念“狂飙”，你追了吗？ | https://mp.weixin.qq.com/s/sZstPhuQSHN85rP_3urOWw | 1| 
 | 墨菲安全 | murphy_sec | 软件供应链安全 2022 年回顾 | https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g | 1| 
 | 404 Not F0und | AI4Security | 换种思路做入侵检测 | https://mp.weixin.qq.com/s/7AwMJQjH8_zWUT3bWkoEzQ | 1| 
@@ -48,7 +50,7 @@
 | 迪哥讲事 | growing0101 | 赏金猎人系列-如何测试文件上传功能 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247487158&idx=1&sn=6373bf434deaaa6a9a055f9c0400b512&chksm=e8a604d5dfd18dc361addad111cb78a461baf4e6a3a954799b9c8ed8230fce6707f727f1f0ab&scene=21#wechat_redirect | 1| 
 | 红队蓝军 | Xx_Security | 域内定位个人PC的三种方式 | https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw | 1| 
 | 华为安全 | HuaweiSecurity | 安全态势感知专家说第2期：人工智能技术在态势感知的应用 | https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg | 1| 
-| 中国信息安全 | chinainfosec | 法治 , 网络爬虫犯罪的量刑问题及对策 | https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og | 1| 
+| 中国信息安全 | chinainfosec | 法治 , 网络爬虫犯罪的量刑问题及对策 | https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og | 2| 
 | 专注安管平台 | gh_48603b9bb05a | Forrester：2022年安全分析平台厂商评估 | https://mp.weixin.qq.com/s/p1U1M0UvzdaNccVqt7914g | 2| 
 | FuzzWiki | gh_fcf21e658324 | 2022年CCF B级以上期刊fuzz论文汇总｜技术进展 | https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg | 1| 
 | FOFA | gh_d79c8913fde8 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g | 1| 
@@ -96,6 +98,7 @@
 | kurogai | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects | https://github.com/kurogai?tab=followers | Web Developer and Penetration Tester (HackTheBox Competitive Player) | Luanda / Angola | None | 61 | 0 | 144 | 0 | 0 | Python,JavaScript,Java | 0 | 0 | 1| 
 | jafarlihi | modreveal 找出当前Linux机器的隐藏Linux内核模块的工具 | https://github.com/jafarlihi/modreveal | https://github.com/jafarlihi?tab=followers |  | Baku, Azerbaijan | None | 29 | 0 | 2 | 0 | 0 | Go,C,Java,C++ | 0 | 0 | 1| 
 | iczc | RealWorld CTF 5th 区块链挑战- realwrap Writeup | https://github.com/iczc/rwctf-5th-realwrap | https://github.com/iczc?tab=followers | Blockchain Security | Earth, Solar System | None | 20 | 0 | 1600 | 0 | 0 | Python,Go,JavaScript,Solidity | 0 | 0 | 1| 
+| horizon3ai | Fortinet FortiNAC CVE-2022-39952的POC，未授权解压缩可导致任意文件写入，通过crontab实现RCE | https://github.com/horizon3ai/CVE-2022-39952 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | dicegang | DiceCTF 2023 Offical sourcecode && env && sol | https://github.com/dicegang/dicectf-2023-challenges | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,HTML,JavaScript | 0 | 0 | 1| 
 | daem0nc0re | 用于研究windows进程执行技术的工具包 | https://github.com/daem0nc0re/TangledWinExec/tree/main/ReflectiveDLLInjection | https://github.com/daem0nc0re?tab=followers |  | None | None | 10 | 0 | 0 | 0 | 0 | C#,Assembly | 0 | 0 | 1| 
 | cisagov | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,HTML,Python,Open,JavaScript,TypeScript,TSQL,HCL | 0 | 0 | 1| 
@@ -112,6 +115,7 @@
 | PaulNorman01 | Forensia:RedTeam后渗透阶段的痕迹清理工具 | https://github.com/PaulNorman01/Forensia | https://github.com/PaulNorman01?tab=followers | Cybersecurity researcher , Coder , Geek ! | None | None | 3 | 0 | 1 | 0 | 0 | C,C++ | 0 | 0 | 1| 
 | GuardianAudits | GMX合约的审计报告 | https://github.com/GuardianAudits/Audits/tree/main/GMX | https://github.com/GuardianAudits?tab=followers |  | None | None | 5 | 0 | 0 | 0 | 0 | JavaScript,Solidity | 0 | 0 | 1| 
 | Fndroid | Windows 上的 clash_for_windows 在 0.20.12 在订阅一个恶意链接时存在远程命令执行漏洞。因为对订阅文件中 rule-providers 的 path 的不安全处理导致 cfw-setting.yaml 会被覆盖，cfw-setting.yaml 中 parsers 的 js代码将会被执行 | https://github.com/Fndroid/clash_for_windows_pkg/issues/3891 | https://github.com/Fndroid?tab=followers |  | China | None | 82 | 0 | 186 | 0 | 0 |  | 0 | 0 | 1| 
+| DvorakDwarf | 该工具可以将任意文件以视频形式存储，将视频上传到视频网站进而使用其免费的云存储 | https://github.com/DvorakDwarf/Infinite-Storage-Glitch | https://github.com/DvorakDwarf?tab=followers | Contact over discord, preferably. Discord: HistidineDwarf#8927 | Nowhere | Middle of | 13 | 0 | 26 | 0 | 0 | Python,Shell,Rust | 0 | 0 | 1| 
 | DallasFR | WalkerGate:通过查找ntdll的内存解析以进行系统调用 | https://github.com/DallasFR/WalkerGate | https://github.com/DallasFR?tab=followers |  | None | None | 14 | 0 | 2 | 0 | 0 | C | 0 | 0 | 1| 
 | D1rkMtr | 劫持cscapi.dll以劫持explorer.exe来进行持久化驻留 | https://github.com/D1rkMtr/ExplorerPersist | https://github.com/D1rkMtr?tab=followers | Malware dev , C2 dev | None | None | 47 | 0 | 47 | 0 | 0 | C++ | 0 | 0 | 1| 
 | Cyber-Buddy | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt | https://github.com/Cyber-Buddy?tab=followers |  | None | None | 1 | 0 | 1 | 0 | 0 | Go | 0 | 0 | 1| 
