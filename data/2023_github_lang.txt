@@ -4,10 +4,10 @@ JavaScript	10
 C++	10
 Go	9
 Java	8
-Shell	5
+Shell	6
+Rust	5
 HTML	5
 TypeScript	4
-Rust	4
 Solidity	3
 C#	3
 PHP	3

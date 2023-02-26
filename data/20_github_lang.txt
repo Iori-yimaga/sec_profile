@@ -4,7 +4,7 @@ JavaScript	695
 C++	595
 HTML	506
 Java	498
-Shell	475
+Shell	476
 Go	441
 C#	305
 Ruby	263
@@ -12,7 +12,7 @@ PowerShell	246
 CSS	226
 PHP	225
 TypeScript	190
-Rust	159
+Rust	160
 Objective-C	142
 Jupyter	119
 Dockerfile	79
