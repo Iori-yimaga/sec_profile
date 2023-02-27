@@ -1,8 +1,8 @@
-Python	1156
+Python	1157
 C	726
 JavaScript	695
 C++	595
-HTML	506
+HTML	507
 Java	498
 Shell	476
 Go	441
@@ -59,11 +59,11 @@ Nix	9
 TSQL	9
 PLpgSQL	8
 Zeek	8
+SCSS	8
 Smali	8
 Solidity	8
 Starlark	7
 Clojure	7
-SCSS	7
 SaltStack	7
 Cuda	7
 ActionScript	7

@@ -1,0 +1,21 @@
+20230220	法规	https://mp.weixin.qq.com/s/5T7pCReDif6tzCd56m3zKA	个人信息出境标准合同办法	qq.com	mp.weixin.qq.com	/s/5T7pCReDif6tzCd56m3zKA
+20230220	其它	https://mp.weixin.qq.com/s/YNuzTwVrINd3eSWlHGVMFQ	如何研究一家网络安全公司？	qq.com	mp.weixin.qq.com	/s/YNuzTwVrINd3eSWlHGVMFQ
+20230220	取证分析	https://www.dwcon.cn/uploads/file/2023/02/21/1676967277745514.pdf	精准EDR能力白皮书	dwcon.cn	www.dwcon.cn	/uploads/file/2023/02/21/1676967277745514.pdf
+20230220	取证分析	https://mp.weixin.qq.com/s/hehFQbR6lqAABEDhrxtIBg	ChatGPT在MITREATT&CK落地中的应用	qq.com	mp.weixin.qq.com	/s/hehFQbR6lqAABEDhrxtIBg
+20230220	杂志	https://www.sec-wiki.com/weekly/468	SecWiki周刊（第468期)	sec-wiki.com	www.sec-wiki.com	/weekly/468
+20230220	恶意分析	https://mp.weixin.qq.com/s/tQE0BtclxX6McZRoO5MKVg	2022网络金融黑产研究报告	qq.com	mp.weixin.qq.com	/s/tQE0BtclxX6McZRoO5MKVg
+20230220	恶意分析	https://mp.weixin.qq.com/s/Mg-eC9NOThERVu_fjBOzkw	一种基于网络流量风险数据聚类的APT攻击溯源方法	qq.com	mp.weixin.qq.com	/s/Mg-eC9NOThERVu_fjBOzkw
+20230220	观点	https://mp.weixin.qq.com/s/ph5GnQFIGcSzi-9H-YlJTA	从攻击视角探讨ChatGPT对网络安全的影响	qq.com	mp.weixin.qq.com	/s/ph5GnQFIGcSzi-9H-YlJTA
+20230220	恶意分析	https://mp.weixin.qq.com/s/unvQR8lneWQVP3bHj3fOWA	2022年度反诈报告	qq.com	mp.weixin.qq.com	/s/unvQR8lneWQVP3bHj3fOWA
+20230220	其它	https://mp.weixin.qq.com/s/UoQwrnXr8OTfjyDzOT6xmg	论坛·2022全球网空态势回顾	qq.com	mp.weixin.qq.com	/s/UoQwrnXr8OTfjyDzOT6xmg
+20230220	移动安全	https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg	浅谈应用分发平台标准动态	qq.com	mp.weixin.qq.com	/s/8sN0OBkwveVDQu9aQMXDfg
+20230220	Web安全	https://mp.weixin.qq.com/s/CWWXLJyO_kv3C2L3djhbHg	chatGPT生成webshell实践与探究	qq.com	mp.weixin.qq.com	/s/CWWXLJyO_kv3C2L3djhbHg
+20230220	会议	https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/schedule/	云原生安全峰会原始PPTX	linuxfoundation.org	events.linuxfoundation.org	/cloudnativesecuritycon-north-america/program/schedule/
+20230220	恶意分析	https://mp.weixin.qq.com/s/_eLxhU_8b52RtAmNOqKgLw	通过 Rank-1 相似性矩阵分解建模反病毒引擎共识演化	qq.com	mp.weixin.qq.com	/s/_eLxhU_8b52RtAmNOqKgLw
+20230220	恶意分析	https://book.yunzhan365.com/tkgd/ikxy/mobile/index.html	2022年度BOTNET趋势报告	yunzhan365.com	book.yunzhan365.com	/tkgd/ikxy/mobile/index.html
+20230220	Web安全	https://mp.weixin.qq.com/s/EIGuFDXojTazH3gDV8vkVg	ChatGPT在信息安全竞赛中出题与解题实践	qq.com	mp.weixin.qq.com	/s/EIGuFDXojTazH3gDV8vkVg
+20230220	Web安全	https://mp.weixin.qq.com/s/YHFuh42FvDWSx3j4kzwhqw	[HTB] NodeBlog Writeup	qq.com	mp.weixin.qq.com	/s/YHFuh42FvDWSx3j4kzwhqw
+20230220	Web安全	https://pan.baidu.com/s/1Dpcrte795U5myCckVANyZg?pwd=1234	2022年ABC123公众号年刊_PDF	baidu.com	pan.baidu.com	/s/1Dpcrte795U5myCckVANyZg
+20230220	恶意分析	https://mp.weixin.qq.com/s/7lmd4jFM3UWIZRbXzf3TWA	针对开发者的供应链攻击	qq.com	mp.weixin.qq.com	/s/7lmd4jFM3UWIZRbXzf3TWA
+20230220	数据挖掘	https://mp.weixin.qq.com/s/gGpg1fKQTZqSHakyVrkTig	从用户视角评估俄乌冲突中乌克兰互联网稳定性	qq.com	mp.weixin.qq.com	/s/gGpg1fKQTZqSHakyVrkTig
+20230220	恶意分析	https://github.com/RF-CTI/SANS-summit/blob/master/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit.md	2022 SANS 网络威胁情报峰会资料	github.com	github.com	/RF-CTI/SANS-summit/blob/master/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit.md
