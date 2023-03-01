@@ -14,9 +14,14 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 世界科技研究与发展 | globesci | 【优先发布】美国国防高级研究计划局近5年国防科研经费预算活动的趋势与特点 | https://mp.weixin.qq.com/s/WMdWdIOBwQJNoOi9wMvnrw | 1| 
+| Art Of Hunting | gh_d3ebfd9e0148 | [AOH 019]逆向分析微信本地数据库加密 | https://mp.weixin.qq.com/s/u0ZrxBYN-Shg2_e8mGIoaQ | 1| 
+| 王建硕 | gardendewalle | ChatGPT 中，G、P、T 分别是什么意思？ | https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA | 1| 
+| 深信服千里目安全技术中心 | gh_c644c6e98b08 | 【高级威胁追踪】伪造Cisco VPN证书更新程序的C3木马 | https://mp.weixin.qq.com/s/iKPm0T3aR3Shjiw_W6jTsw | 1| 
+| DarkNavy | DarkNavyCom | 「 深蓝洞察 」2022 年度最“不可赦”漏洞 | https://mp.weixin.qq.com/s/P_EYQxOEupqdU0BJMRqWsw | 1| 
 | T00ls安全 | T00lsSec | chatGPT生成webshell实践与探究 | https://mp.weixin.qq.com/s/CWWXLJyO_kv3C2L3djhbHg | 1| 
-| 360数字安全 | gh_6db130c5163e | 《2022年度反诈报告》重磅发布！ | https://mp.weixin.qq.com/s/unvQR8lneWQVP3bHj3fOWA | 1| 
 | vivo千镜 | gh_54ff3f871510 | 浅谈应用分发平台标准动态 | https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg | 1| 
+| 360数字安全 | gh_6db130c5163e | 《2022年度反诈报告》重磅发布！ | https://mp.weixin.qq.com/s/unvQR8lneWQVP3bHj3fOWA | 1| 
 | CNCERT国家工程研究中心 | NELCERT | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ | 1| 
 | APTHunter | gh_5e5d0798abea | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg | 1| 
 | ABC123安全研究实验室 | abc123network | 第51篇：某运营商外网打点到内网横向渗透的全过程 | https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA | 1| 
@@ -268,7 +273,7 @@
 | 数据库开发 | DataBase1024 | 使用MySQL，请用好 JSON 这张牌！ | https://mp.weixin.qq.com/s?__biz=MzI3NDA4OTk1OQ==&mid=2649916873&idx=1&sn=3b383fe075034ef973e6553d747da595 | 19| 
 | 微步在线 | Threatbook | 企业常见四种内部威胁，第一种最容易中招 , 微步一周荐读 | https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650171190&idx=1&sn=90358fb4013e10f5499d24d0accb8f6e | 9| 
 | 安恒信息资讯 | DBAPP688023 | 通知,安恒信息春节应急保障 7*24小时为您在线 | https://mp.weixin.qq.com/s?__biz=MzkwODE2OTU0NA==&mid=2247485131&idx=1&sn=3ed9779e09cd188b2a396d61868a0f6f | 1| 
-| 安天集团 | Antiylab | 冬训营丨2021年网络安全威胁回顾 | https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650186693&idx=1&sn=f2f236c72d7a194c190474ed2d8b86d1 | 10| 
+| 安天集团 | Antiylab | 冬训营丨2021年网络安全威胁回顾 | https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650186693&idx=1&sn=f2f236c72d7a194c190474ed2d8b86d1 | 11| 
 | 安全圈 | ChinaAnQuan | 【安全圈】北美IT公司调查表明：勒索软件团伙正在加大力度招募内部人员来协助攻击 | https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2651991947&idx=4&sn=a775a6c5673df5d367e2be5a2bc594a9 | 86| 
 | yudays实验室 | None | CVE-2021-4034权限提升漏洞 | https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247484773&idx=1&sn=0709ca817b3ac9f4f2c36782a355d2f4 | 2| 
 | PeiQi文库 | PeiQi_wiki | 漏洞预警：Linux Polkit权限提升漏洞 CVE-2021-4034 | https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247490120&idx=1&sn=ac5c8f68369df6e7c257322e3dbcbb0c | 4| 
@@ -318,7 +323,7 @@
 | 涛动宏观 | jinrongjianghu123123 | 官方首次解读地下钱庄 | https://mp.weixin.qq.com/s/-JrUb49rnegnGzPMElSUFg | 1| 
 | 腾讯IT技术 | TencentITTech | AI系列（一）：换个思路检测隐蔽C2 | https://mp.weixin.qq.com/s/JsvxtiRg8fEq51iTgGfPwQ | 1| 
 | 安全硬核 | THU-COOGLE | SiliFuzz：从软件角度发现处理器电路缺陷 | https://mp.weixin.qq.com/s/QPYTxin66lwCxZEphCOTew | 1| 
-| 数据治理体系 | DGsystem | 详解数据治理和数据分类分级 | https://mp.weixin.qq.com/s/EeUrNvd1-pFO1_ybMHKcpw | 2| 
+| 数据治理体系 | DGsystem | 详解数据治理和数据分类分级 | https://mp.weixin.qq.com/s/EeUrNvd1-pFO1_ybMHKcpw | 3| 
 | 山城铁骑安服战队 | gh_152ec7aac209 | shellcode免杀初探！ | https://mp.weixin.qq.com/s/5BVxYS7HR0ndRQbSB49eBQ | 1| 
 | 数据安全研究院 | gh_66f2d6fee2d3 | 阅读笔记 I 挖掘0day的新“姿势” | https://mp.weixin.qq.com/s/zHiBVe-1hVM-llC7S2ws4w | 1| 
 | Lycoris Security | gh_1a0c9eea6b2a | 利用统计方式检测beacon通信 | https://mp.weixin.qq.com/s/-oImqjZyYDiODYWg98xWZw | 1| 
@@ -713,7 +718,7 @@
 | 爱奇艺技术产品团队 | iQIYI-TP | 爱奇艺在日志实时数据监控的探索与实践 | https://mp.weixin.qq.com/s/wal_BVdp8yunXXPFpUy-gw | 9| 
 | 工业菜园 | gycy-2019 | 菜农观点 , 陆宝华：关于智慧城市安全的讨论 | https://mp.weixin.qq.com/s/1-xpgttndYIXGkyspTIp1w | 1| 
 | 哈工大SCIR | HIT_SCIR | 赛尔笔记 , 机器阅读理解简述 | https://mp.weixin.qq.com/s/Rm1uFunX9IRQaL_rUAZxfQ | 1| 
-| 青衣十三楼飞花堂 |  | burp pro 2020.2 | https://mp.weixin.qq.com/s/WXdEvc0p04KjyOlmb4qtRg | 45| 
+| 青衣十三楼飞花堂 |  | burp pro 2020.2 | https://mp.weixin.qq.com/s/WXdEvc0p04KjyOlmb4qtRg | 46| 
 | 永安在线反欺诈 | YongAnOnline | 业务安全蓝军测评标准白皮书 | https://mp.weixin.qq.com/s/23fcilR_XhrGLWSaKv21zA | 2| 
 | 小议安全 | xiaoyianquan | 零信任架构远程办公实战 | https://mp.weixin.qq.com/s/Kgm0wuPeQHX7fJoUondz4Q | 4| 
 | Tide安全团队 | TideSec | 远控免杀专题(30)-Python加载shellcode免杀-8种方式(VT免杀率10-69) | https://mp.weixin.qq.com/s/HyBSqrF_kl2ARaCYAMefgA | 89| 
@@ -851,7 +856,7 @@
 | 高效运维 | greatops | 利用 ELK 搭建 Docker 容器化应用日志中心 | https://mp.weixin.qq.com/s/7A4lI1zeE5_BljzbKkInbw | 24| 
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
-| 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 102| 
+| 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 103| 
 | 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 197| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
@@ -983,7 +988,7 @@
 | 瑶台视界 | worldview18 | 兰德报告《与中国开战》46000字全译本 | https://mp.weixin.qq.com/s/hKz9HNmt49av5I0teKIFHg | 1| 
 | 战略前沿技术 | Tech999 | 【The ABCs of DARPA】26个字母带你了解DARPA | https://mp.weixin.qq.com/s/vl6OcqS5v7oP-8PrW95Pww | 4| 
 | 安全实践 | SecurityPractice | IoT安全测试之通信测试环境及方法 | https://mp.weixin.qq.com/s/yPNxqzQ0qHtQarNBUPBzQg | 1| 
-| 金融电子化 | fcmag1993 | 实战Practice丨基于攻击视角完善信息安全弹性防御体系的思考 | https://mp.weixin.qq.com/s/DDfdRVaVvTgQ5ldXqmgQ3g | 6| 
+| 金融电子化 | fcmag1993 | 实战Practice丨基于攻击视角完善信息安全弹性防御体系的思考 | https://mp.weixin.qq.com/s/DDfdRVaVvTgQ5ldXqmgQ3g | 7| 
 | JavaGuide | Java_Guide | 可能是把Docker的概念讲的最清楚的一篇文章 | https://mp.weixin.qq.com/s/xSbYTJmLuqsyYEDEIsndZw | 1| 
 | DoraHacks | dorahacks |  | https://mp.weixin.qq.com/s/aUS7qm6T7FT1fgj17oUR1A | 1| 
 | 论智 | jqr_AI | 一文概览机器学习面临的所有攻击类型 | https://mp.weixin.qq.com/s/ixdE3ld0qOOpj7F_kLmmSg | 1| 
@@ -4033,7 +4038,7 @@
 | snare | A hacky debugger UI | https://github.com/snare/voltron | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | smarttang | baseline_testing：Linux的配置检查工具 | https://github.com/smarttang/baseline_testing | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | smallkirby | 借助 tty_struct 结构体的 Linux 内核漏洞的利用 | https://github.com/smallkirby/kernelpwn/blob/master/technique/tty_struct.md | https://github.com/smallkirby?tab=followers | a | Tokyo | None | 49 | 0 | 154 | 0 | 0 | C,Shell,Rust,Vue | 0 | 0 | 1| 
-| slowmist | 区块链黑暗森林自救手册 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,HTML,Ruby | 0 | 0 | 1| 
+| slowmist | 区块链黑暗森林自救手册 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,HTML,Ruby | 0 | 0 | 2| 
 | sleirsgoevy | PS4 6.72 版本固件的越狱利用代码 | https://github.com/sleirsgoevy/ps4jb | None |  | None | None | 38 | 0 | 0 | 0 | 0 | Python,C,JavaScript | 379 | 107 | 1| 
 | sleeyax | 用于 Hook Burp 的 HTTP/TLS 栈以篡改浏览器指纹的扩展 | https://github.com/sleeyax/burp-awesome-tls | https://github.com/sleeyax?tab=followers | Using the right skills for the right job | Belgium | None | 118 | 0 | 450 | 0 | 0 | Go,C#,TypeScript,Rust | 0 | 0 | 1| 
 | skylot | jadx:Dex to Java decompiler | https://github.com/skylot/jadx | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 2| 
@@ -4277,6 +4282,7 @@
 | kubesphere | KubeEye - 为 Kubernetes 设计的巡检工具，用于发现 Kubernetes 资源（使用 OPA ）、集群组件、集群节点（使用Node-Problem-Detector）等配置是否符合最佳实践 | https://github.com/kubesphere/kubeeye | None | None | None | None | 0 | 0 | 0 | 0 | 0 | SCSS,Shell,Java,Jinja,JavaScript,HTML,Go,Dockerfile,Mustache | 0 | 0 | 1| 
 | kromtech | s3-inspector - 检测 AWS S3 Bucket 权限的工具: | https://github.com/kromtech/s3-inspector | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Objective-C,C | 0 | 0 | 1| 
 | krol3 | Container Security Checklist: From the image to the workload | https://github.com/krol3/container-security-checklist | https://github.com/aquasecurity | Software Developer @aquasecurity / CKA / CKAD | Brazil | @aquasecurity | 100 | 0 | 71 | 0 | 0 | HTML,Dockerfile | 0 | 0 | 1| 
+| kraken-ng | 模块化的、支持多语言的webshell | https://github.com/kraken-ng/Kraken | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C#,PHP | 0 | 0 | 1| 
 | kotobukki | BigDataAudit: security vulns detector for Hadoop and Spark 大数据安全检测工具 | https://github.com/kotobukki/BigDataAudit | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | koalaman | ShellCheck, a static analysis tool for shell scripts | https://github.com/koalaman/shellcheck | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | knrdl | yamot - 基于 Web 的 Linux/BSD 服务器监控工具: | https://github.com/knrdl/yamot | None |  | Berlin, Germany | None | 1 | 0 | 0 | 0 | 0 | HTML | 0 | 0 | 1| 

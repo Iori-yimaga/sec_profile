@@ -14,6 +14,16 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 世界科技研究与发展 | globesci | 【优先发布】美国国防高级研究计划局近5年国防科研经费预算活动的趋势与特点 | https://mp.weixin.qq.com/s/WMdWdIOBwQJNoOi9wMvnrw | 1| 
+| Art Of Hunting | gh_d3ebfd9e0148 | [AOH 019]逆向分析微信本地数据库加密 | https://mp.weixin.qq.com/s/u0ZrxBYN-Shg2_e8mGIoaQ | 1| 
+| 青衣十三楼飞花堂 | scz------ | 加密SOCKS5信道中防DNS泄露 | https://mp.weixin.qq.com/s/SNu9SXFFT1xA6LH4r81YOw | 1| 
+| 金融电子化 | fcmag1993 | 案例 , 中国农业银行企业级SaaS化脆弱性管理平台建设实践 | https://mp.weixin.qq.com/s/9WoNVqGmc-KMPlPHTn5kwg | 1| 
+| 王建硕 | gardendewalle | ChatGPT 中，G、P、T 分别是什么意思？ | https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA | 1| 
+| 深信服千里目安全技术中心 | gh_c644c6e98b08 | 【高级威胁追踪】伪造Cisco VPN证书更新程序的C3木马 | https://mp.weixin.qq.com/s/iKPm0T3aR3Shjiw_W6jTsw | 1| 
+| 数据治理体系 | DGsystem | 一起学习《数字中国建设整体布局规划》 | https://mp.weixin.qq.com/s/zUmy99B8wx7p8MrXVoYD1g | 1| 
+| 安天集团 | Antiylab | 活跃的hoze挖矿木马分析 | https://mp.weixin.qq.com/s/-mZD0pPbeIgxoTUNNFBnrw | 1| 
+| 安全牛 | aqniu-wx | 网络靶场：划时代的新型网络安全基础设施 | https://mp.weixin.qq.com/s/EVrDJfoL2_I5_o4flRo3Kg | 1| 
+| DarkNavy | DarkNavyCom | 「 深蓝洞察 」2022 年度最“不可赦”漏洞 | https://mp.weixin.qq.com/s/P_EYQxOEupqdU0BJMRqWsw | 1| 
 | 山石网科安全技术研究院 | HSN_LAB | ChatGPT在信息安全竞赛中出题与解题实践 | https://mp.weixin.qq.com/s/EIGuFDXojTazH3gDV8vkVg | 1| 
 | 嘶吼专业版 | Pro4hou | 针对开发者的供应链攻击 | https://mp.weixin.qq.com/s/7lmd4jFM3UWIZRbXzf3TWA | 1| 
 | T00ls安全 | T00lsSec | chatGPT生成webshell实践与探究 | https://mp.weixin.qq.com/s/CWWXLJyO_kv3C2L3djhbHg | 1| 
@@ -21,9 +31,9 @@
 | 网信中国 | cacweixin | 个人信息出境标准合同办法 | https://mp.weixin.qq.com/s/5T7pCReDif6tzCd56m3zKA | 1| 
 | 一个人的安全笔记 | xjiek2015 | [HTB] NodeBlog Writeup | https://mp.weixin.qq.com/s/YHFuh42FvDWSx3j4kzwhqw | 1| 
 | 轻金融 | Qjinrong | 工行发布《2022网络金融黑产研究报告》 | https://mp.weixin.qq.com/s/tQE0BtclxX6McZRoO5MKVg | 1| 
-| 360数字安全 | gh_6db130c5163e | 《2022年度反诈报告》重磅发布！ | https://mp.weixin.qq.com/s/unvQR8lneWQVP3bHj3fOWA | 1| 
 | 莫哥谈安全 | gh_247dfbdf3d43 | ChatGPT在MITREATT&CK落地中的应用 | https://mp.weixin.qq.com/s/hehFQbR6lqAABEDhrxtIBg | 1| 
 | vivo千镜 | gh_54ff3f871510 | 浅谈应用分发平台标准动态 | https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg | 1| 
+| 360数字安全 | gh_6db130c5163e | 《2022年度反诈报告》重磅发布！ | https://mp.weixin.qq.com/s/unvQR8lneWQVP3bHj3fOWA | 1| 
 | 网络空间安全军民融合创新中心 | jmrh1226 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ | 2| 
 | CNCERT国家工程研究中心 | NELCERT | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ | 1| 
 | APTHunter | gh_5e5d0798abea | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg | 1| 
@@ -91,6 +101,7 @@
 | voidz0r | ImageMagick 任意文件读的POC。漏洞存在于PNG的generator中。 | https://github.com/voidz0r/CVE-2022-44268 | https://github.com/voidz0r?tab=followers | Security Engineer, Security Researcher and Developer. I love to break things and I get mad at the 3rd nested loop. | Anywhere | DHL Express | 29 | 0 | 4 | 0 | 0 | Python,PHP,JavaScript,Rust | 0 | 0 | 1| 
 | tihmstar | homepod越狱工具 | https://github.com/tihmstar/homepwn#3d-print-version | https://github.com/tihmstar?tab=followers | My PGP Key fingerprint can be found in my Twitter bio: https://twitter.com/tihmstar | None | None | 85 | 0 | 15 | 0 | 0 | OpenSCAD,C,Objective-C,C++ | 0 | 0 | 1| 
 | teambi0s | bi0sCTF 2022 Offical source code && env && sol | https://github.com/teambi0s/bi0sCTF/tree/main/2022 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Python,JavaScript,C++,HTML,CSS | 0 | 0 | 1| 
+| slowmist | 区块链常见漏洞列表 | https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Go,HTML,Ruby | 0 | 0 | 1| 
 | s0duku | VMware Workstation Heap OOB 漏洞POC。 | https://github.com/s0duku/cve-2022-31705 | https://github.com/s0duku?tab=followers | NJFU | None | None | 123 | 0 | 106 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
 | romainthomas | 一款基于LIEF和LLVM的对Objective-C语言二进制文件中类成员分析的工具。 | https://github.com/romainthomas/iCDump | https://github.com/lief-project | Security Engineer working on mobile, obfuscation and file formats. Author & maintainer of @lief-project / @open-obfuscator | None | @lief-project @open-obfuscator | 50 | 0 | 331 | 0 | 0 | Java,C++ | 0 | 0 | 1| 
 | potmdehex | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf | https://github.com/potmdehex?tab=followers | Reverse Engineer | None | None | 12 | 0 | 10 | 0 | 0 | C,Ruby | 0 | 0 | 1| 
@@ -105,6 +116,7 @@
 | michalbednarski | CVE-2022-20452 的漏洞利用代码。可通过 LazyValue 将已安装的恶意 APP 提权至系统 APP | https://github.com/michalbednarski/LeakValue | https://github.com/michalbednarski?tab=followers |  | None | None | 16 | 0 | 2 | 0 | 0 | Java | 0 | 0 | 1| 
 | mazen160 | 一个用于检测secrets的正则表达式集合，可以在各种文件中匹配secrets。 | https://github.com/mazen160/secrets-patterns-db | https://github.com/mazen160?tab=followers | Cyber Security Engineer (Offensive Security) | None | None | 31 | 0 | 7 | 0 | 0 | Python,Shell | 0 | 0 | 1| 
 | kurogai | 100 Red Team Projects for Pentesters and Network Managers | https://github.com/kurogai/100-redteam-projects | https://github.com/kurogai?tab=followers | Web Developer and Penetration Tester (HackTheBox Competitive Player) | Luanda / Angola | None | 61 | 0 | 144 | 0 | 0 | Python,JavaScript,Java | 0 | 0 | 1| 
+| kraken-ng | 模块化的、支持多语言的webshell | https://github.com/kraken-ng/Kraken | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C#,PHP | 0 | 0 | 1| 
 | jafarlihi | modreveal 找出当前Linux机器的隐藏Linux内核模块的工具 | https://github.com/jafarlihi/modreveal | https://github.com/jafarlihi?tab=followers |  | Baku, Azerbaijan | None | 29 | 0 | 2 | 0 | 0 | Go,C,Java,C++ | 0 | 0 | 1| 
 | iczc | RealWorld CTF 5th 区块链挑战- realwrap Writeup | https://github.com/iczc/rwctf-5th-realwrap | https://github.com/iczc?tab=followers | Blockchain Security | Earth, Solar System | None | 20 | 0 | 1600 | 0 | 0 | Python,Go,JavaScript,Solidity | 0 | 0 | 1| 
 | horizon3ai | Fortinet FortiNAC CVE-2022-39952的POC，未授权解压缩可导致任意文件写入，通过crontab实现RCE | https://github.com/horizon3ai/CVE-2022-39952 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
