@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 顺丰安全应急响应中心 | SFSRC- | 容器行为异常自学习引擎 | https://mp.weixin.qq.com/s/LlTfNx1DbgS_dO7X9xVVAg | 1| 
+| 绿盟科技研究通讯 | nsfocus_research | ChatGPT潜在的八大“安全隐患”洞察 | https://mp.weixin.qq.com/s/a4ZBuI3SMNobWDeaXrEJ_w | 1| 
+| 一个人的安全笔记 | xjiek2015 | [HTB] SteamCloud Writeup | https://mp.weixin.qq.com/s/UU9FiZ61X8_XnaoDTv3ovA | 1| 
 | 世界科技研究与发展 | globesci | 【优先发布】美国国防高级研究计划局近5年国防科研经费预算活动的趋势与特点 | https://mp.weixin.qq.com/s/WMdWdIOBwQJNoOi9wMvnrw | 1| 
 | Art Of Hunting | gh_d3ebfd9e0148 | [AOH 019]逆向分析微信本地数据库加密 | https://mp.weixin.qq.com/s/u0ZrxBYN-Shg2_e8mGIoaQ | 1| 
 
