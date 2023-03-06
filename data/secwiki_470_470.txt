@@ -1,0 +1,22 @@
+20230227	法规	https://mp.weixin.qq.com/s/zUmy99B8wx7p8MrXVoYD1g	数字中国建设整体布局规划	qq.com	mp.weixin.qq.com	/s/zUmy99B8wx7p8MrXVoYD1g
+20230227	文档	https://www.cnnic.net.cn/NMediaFile/2022/0926/MAIN1664183425619U2MS433V3V.pdf	第50次《中国互联网络发展状况统计报告》	cnnic.net.cn	www.cnnic.net.cn	/NMediaFile/2022/0926/MAIN1664183425619U2MS433V3V.pdf
+20230227	移动安全	https://mp.weixin.qq.com/s/P_EYQxOEupqdU0BJMRqWsw	2022 年度最“不可赦”漏洞	qq.com	mp.weixin.qq.com	/s/P_EYQxOEupqdU0BJMRqWsw
+20230227	杂志	https://www.sec-wiki.com/weekly/469	SecWiki周刊（第469期)	sec-wiki.com	www.sec-wiki.com	/weekly/469
+20230227	漏洞分析	https://mp.weixin.qq.com/s/u0ZrxBYN-Shg2_e8mGIoaQ	逆向分析微信本地数据库加密	qq.com	mp.weixin.qq.com	/s/u0ZrxBYN-Shg2_e8mGIoaQ
+20230227	运维安全	https://mp.weixin.qq.com/s/9WoNVqGmc-KMPlPHTn5kwg	企业级SaaS化脆弱性管理平台建设实践	qq.com	mp.weixin.qq.com	/s/9WoNVqGmc-KMPlPHTn5kwg
+20230227	数据挖掘	https://mp.weixin.qq.com/s/WMdWdIOBwQJNoOi9wMvnrw	美国国防高级研究计划局近5年国防科研经费预算活动的趋势与特点	qq.com	mp.weixin.qq.com	/s/WMdWdIOBwQJNoOi9wMvnrw
+20230227	数据挖掘	https://arxiv.org/pdf/2204.06974.pdf	在机器学习模型中植入不可检测的后门	arxiv.org	arxiv.org	/pdf/2204.06974.pdf
+20230227	其它	https://mp.weixin.qq.com/s/EVrDJfoL2_I5_o4flRo3Kg	网络靶场：划时代的新型网络安全基础设施	qq.com	mp.weixin.qq.com	/s/EVrDJfoL2_I5_o4flRo3Kg
+20230227	恶意分析	https://mp.weixin.qq.com/s/iKPm0T3aR3Shjiw_W6jTsw	伪造Cisco VPN证书更新程序的C3木马	qq.com	mp.weixin.qq.com	/s/iKPm0T3aR3Shjiw_W6jTsw
+20230227	Web安全	https://mp.weixin.qq.com/s/SNu9SXFFT1xA6LH4r81YOw	加密SOCKS5信道中防DNS泄露	qq.com	mp.weixin.qq.com	/s/SNu9SXFFT1xA6LH4r81YOw
+20230227	文档	https://docs.qq.com/pdf/DT0tXT2l4TlFLYUtG?&u=2f6f19393f7e4f08b1a6d90a50ad8d3a	中国网络安全市场洞察报告（2022年）	qq.com	docs.qq.com	/pdf/DT0tXT2l4TlFLYUtG
+20230227	恶意分析	https://mp.weixin.qq.com/s/-mZD0pPbeIgxoTUNNFBnrw	活跃的hoze挖矿木马分析	qq.com	mp.weixin.qq.com	/s/-mZD0pPbeIgxoTUNNFBnrw
+20230227	Web安全	https://mp.weixin.qq.com/s/9ZUKARK1q0U5nSqM2bSbAw	记一次从linux打进域控	qq.com	mp.weixin.qq.com	/s/9ZUKARK1q0U5nSqM2bSbAw
+20230227	数据挖掘	https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA	ChatGPT 中，G、P、T 分别是什么意思？	qq.com	mp.weixin.qq.com	/s/vXoYeA7w6l_WiKmDHogdTA
+20230227	观点	https://mp.weixin.qq.com/s/a4ZBuI3SMNobWDeaXrEJ_w	ChatGPT潜在的八大“安全隐患”洞察	qq.com	mp.weixin.qq.com	/s/a4ZBuI3SMNobWDeaXrEJ_w
+20230227	无线安全	https://mp.weixin.qq.com/s/Vd-7v9fJ5uyv7_XDBb5QfQ	星链StarLink终端信号分析和信关站设计图（更新）	qq.com	mp.weixin.qq.com	/s/Vd-7v9fJ5uyv7_XDBb5QfQ
+20230227	会议	https://flink-learning.org.cn/activity/detail/d3d092c45467c40fb8526c4ec2141be2?name=activity&tab=suoyou&page=1	Apache Flink 2022 平台建设大会视频及PPT	flink-learning.org.cn	flink-learning.org.cn	/activity/detail/d3d092c45467c40fb8526c4ec2141be2
+20230227	运维安全	https://mp.weixin.qq.com/s/LlTfNx1DbgS_dO7X9xVVAg	容器行为异常自学习引擎	qq.com	mp.weixin.qq.com	/s/LlTfNx1DbgS_dO7X9xVVAg
+20230227	Web安全	https://mp.weixin.qq.com/s/UU9FiZ61X8_XnaoDTv3ovA	[HTB] SteamCloud Writeup	qq.com	mp.weixin.qq.com	/s/UU9FiZ61X8_XnaoDTv3ovA
+20230227	文档	https://pan.baidu.com/share/init?surl=rIn1ikOgPYC31UN-tGmJPw&pwd=KYAQ	2023年开源安全和风险分析	baidu.com	pan.baidu.com	/share/init
+20230227	论文	https://mp.weixin.qq.com/s/ZRIFX2GmP8niyUfiWj8ewA	NDSS 2023 论文录用列表	qq.com	mp.weixin.qq.com	/s/ZRIFX2GmP8niyUfiWj8ewA
