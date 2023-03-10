@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 小红书技术REDtech | gh_f510929429e3 | 小红书社区反作弊探索与实践 | https://mp.weixin.qq.com/s/05s4wkPkSnZ7vILNtgnu0w | 1| 
+| 威胁棱镜 | THREAT_PRISM | 大规模 DNS 流量中检测恶意请求 | https://mp.weixin.qq.com/s/7x7lajReBrdU3OcRJaOBWw | 1| 
+| dada安全研究所 | CyberBugs | 上古版本panabit审计 | https://mp.weixin.qq.com/s/wODk1OgYmab_EM9f0Fi7Lg | 1| 
 | 安全学术圈 | secquan | 对Java第三方库使用、更新、风险的实证评估 | https://mp.weixin.qq.com/s/x0oyQQY6AOwN8XAyg3E6nA | 2| 
 | 安全小子大杂烩 | hl666sec | 记一次从linux打进域控 | https://mp.weixin.qq.com/s/9ZUKARK1q0U5nSqM2bSbAw | 1| 
 | 太空安全 | SateSec | 星链StarLink终端信号分析和信关站设计图（更新） | https://mp.weixin.qq.com/s/Vd-7v9fJ5uyv7_XDBb5QfQ | 1| 
