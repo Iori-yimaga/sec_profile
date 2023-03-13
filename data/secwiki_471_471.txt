@@ -1,0 +1,19 @@
+20230306	法规	http://www.gov.cn/zhengce/zhengceku/2023-03/04/content_5744506.htm	证券期货业网络和信息安全管理办法	www.gov.cn	www.gov.cn	/zhengce/zhengceku/2023-03/04/content_5744506.htm
+20230306	恶意分析	https://mp.weixin.qq.com/s/7x7lajReBrdU3OcRJaOBWw	大规模 DNS 流量中检测恶意请求	qq.com	mp.weixin.qq.com	/s/7x7lajReBrdU3OcRJaOBWw
+20230306	Web安全	https://mp.weixin.qq.com/s/05s4wkPkSnZ7vILNtgnu0w	社区反作弊探索与实践	qq.com	mp.weixin.qq.com	/s/05s4wkPkSnZ7vILNtgnu0w
+20230306	数据挖掘	https://mp.weixin.qq.com/s/x0oyQQY6AOwN8XAyg3E6nA	对Java第三方库使用、更新、风险的实证评估	qq.com	mp.weixin.qq.com	/s/x0oyQQY6AOwN8XAyg3E6nA
+20230306	杂志	https://www.sec-wiki.com/weekly/470	SecWiki周刊（第470期)	sec-wiki.com	www.sec-wiki.com	/weekly/470
+20230306	取证分析	https://paper.seebug.org/2053/	黑客背后的猎人	seebug.org	paper.seebug.org	/2053/
+20230306	其它	https://mp.weixin.qq.com/s/yb2VuHzagO3MTsO3Lv5LSA	美军“前出狩猎”网络作战行动与影响分析	qq.com	mp.weixin.qq.com	/s/yb2VuHzagO3MTsO3Lv5LSA
+20230306	恶意分析	https://mp.weixin.qq.com/s/mUPfCI_5-YjsbnO7990SXA	APT-KGL:基于威胁知识和异构溯源图学习的智能APT检测系统	qq.com	mp.weixin.qq.com	/s/mUPfCI_5-YjsbnO7990SXA
+20230306	恶意分析	https://mp.weixin.qq.com/s/ioZIdJGP1yjT_vxDJ4-UyQ	数据驱动的未知网络威胁检测综述	qq.com	mp.weixin.qq.com	/s/ioZIdJGP1yjT_vxDJ4-UyQ
+20230306	Web安全	https://mp.weixin.qq.com/s/wODk1OgYmab_EM9f0Fi7Lg	上古版本panabit审计	qq.com	mp.weixin.qq.com	/s/wODk1OgYmab_EM9f0Fi7Lg
+20230306	Web安全	https://turn1tup.github.io/2022/09/20/JAVA-RASP%E9%AB%98%E6%95%88%E6%A3%80%E6%B5%8BSQL%E6%B3%A8%E5%85%A5/	JAVA-RASP高效检测SQL注入	github.io	turn1tup.github.io	/2022/09/20/JAVA-RASP%E9%AB%98%E6%95%88%E6%A3%80%E6%B5%8BSQL%E6%B3%A8%E5%85%A5/
+20230306	运维安全	https://mp.weixin.qq.com/s/xdIKU-w4_eMxV265Qp4vQA	Nginx流量镜像(Mirror)	qq.com	mp.weixin.qq.com	/s/xdIKU-w4_eMxV265Qp4vQA
+20230306	观点	https://mp.weixin.qq.com/s/5R4CWSFwFACxkAClwgxQRw	从宏碁安全事件想到构建有韧性网络安全新范式	qq.com	mp.weixin.qq.com	/s/5R4CWSFwFACxkAClwgxQRw
+20230306	Web安全	https://mp.weixin.qq.com/s/Qb2m6RAmr5Oy6TCvi9X-ow	手把手带你入门PHP-Parser	qq.com	mp.weixin.qq.com	/s/Qb2m6RAmr5Oy6TCvi9X-ow
+20230306	Web安全	https://mp.weixin.qq.com/s/OwSZWCshBKJW0b5du7Juhw	Zabbix与Jumpserver后渗透小记	qq.com	mp.weixin.qq.com	/s/OwSZWCshBKJW0b5du7Juhw
+20230306	运维安全	https://mp.weixin.qq.com/s/GjMdGmPG7AH2ilzcJh08fw	镜像扫描Layer分析对比	qq.com	mp.weixin.qq.com	/s/GjMdGmPG7AH2ilzcJh08fw
+20230306	Web安全	https://mp.weixin.qq.com/s/pIJZfxLheqbtyylDJNvqUA	基于Neo4j的网络安全知识图谱构建分析	qq.com	mp.weixin.qq.com	/s/pIJZfxLheqbtyylDJNvqUA
+20230306	其它	https://mp.weixin.qq.com/s/dmhJMVect8JincvZLMyW2w	2022年度俄罗斯网络空间安全态势综述	qq.com	mp.weixin.qq.com	/s/dmhJMVect8JincvZLMyW2w
+20230306	比赛	https://mp.weixin.qq.com/s/5UY-4SPHvPD8hS2Jy8jhgw	CTF中RSA常见攻击方法	qq.com	mp.weixin.qq.com	/s/5UY-4SPHvPD8hS2Jy8jhgw

@@ -14,10 +14,19 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 老杨吃西瓜不吐葡萄皮 | HelloYangwg_20220222 | 从宏碁安全事件想到构建有韧性网络安全新范式 | https://mp.weixin.qq.com/s/5R4CWSFwFACxkAClwgxQRw | 1| 
+| 信息安全与通信保密杂志社 | cismag2013 | 基于Neo4j的网络安全知识图谱构建分析 | https://mp.weixin.qq.com/s/pIJZfxLheqbtyylDJNvqUA | 2| 
+| 中国信息安全 | chinainfosec | 论坛·2022全球网空态势回顾 , 2022年度俄罗斯网络空间安全态势综述 | https://mp.weixin.qq.com/s/dmhJMVect8JincvZLMyW2w | 1| 
+| Tide安全团队 | TideSec | CTF中RSA常见攻击方法 | https://mp.weixin.qq.com/s/5UY-4SPHvPD8hS2Jy8jhgw | 1| 
+| 虎符智库 | TT_Thinktank | 深度：美军“前出狩猎”网络作战行动与影响分析 | https://mp.weixin.qq.com/s/yb2VuHzagO3MTsO3Lv5LSA | 1| 
+| 薛定谔的猿 | yeapes | Nginx流量镜像(Mirror) | https://mp.weixin.qq.com/s/xdIKU-w4_eMxV265Qp4vQA | 1| 
+| 王小明的事 | Struggle_of_a_noob | Zabbix与Jumpserver后渗透小记 | https://mp.weixin.qq.com/s/OwSZWCshBKJW0b5du7Juhw | 1| 
+| 微步在线研究响应中心 | gh_280024a09930 | PHP反混淆实战 , 手把手带你入门PHP-Parser | https://mp.weixin.qq.com/s/Qb2m6RAmr5Oy6TCvi9X-ow | 1| 
+| 安全学术圈 | secquan | APT-KGL:基于威胁知识和异构溯源图学习的智能APT检测系统 | https://mp.weixin.qq.com/s/mUPfCI_5-YjsbnO7990SXA | 3| 
+| 在酒吧喝牛奶的牛仔 | gh_266f5cc317ca | 镜像扫描Layer分析对比 | https://mp.weixin.qq.com/s/GjMdGmPG7AH2ilzcJh08fw | 1| 
 | 小红书技术REDtech | gh_f510929429e3 | 小红书社区反作弊探索与实践 | https://mp.weixin.qq.com/s/05s4wkPkSnZ7vILNtgnu0w | 1| 
 | 威胁棱镜 | THREAT_PRISM | 大规模 DNS 流量中检测恶意请求 | https://mp.weixin.qq.com/s/7x7lajReBrdU3OcRJaOBWw | 1| 
 | dada安全研究所 | CyberBugs | 上古版本panabit审计 | https://mp.weixin.qq.com/s/wODk1OgYmab_EM9f0Fi7Lg | 1| 
-| 安全学术圈 | secquan | 对Java第三方库使用、更新、风险的实证评估 | https://mp.weixin.qq.com/s/x0oyQQY6AOwN8XAyg3E6nA | 2| 
 | 安全小子大杂烩 | hl666sec | 记一次从linux打进域控 | https://mp.weixin.qq.com/s/9ZUKARK1q0U5nSqM2bSbAw | 1| 
 | 太空安全 | SateSec | 星链StarLink终端信号分析和信关站设计图（更新） | https://mp.weixin.qq.com/s/Vd-7v9fJ5uyv7_XDBb5QfQ | 1| 
 | 顺丰安全应急响应中心 | SFSRC- | 容器行为异常自学习引擎 | https://mp.weixin.qq.com/s/LlTfNx1DbgS_dO7X9xVVAg | 1| 
