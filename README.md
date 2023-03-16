@@ -14,10 +14,16 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 阿里安全响应中心 | alisrc | RASP攻防中的矛与盾 | https://mp.weixin.qq.com/s/ObMxPKXUBNvhRtav0uJpWQ | 1| 
+| 红队蓝军 | Xx_Security | 利用自定义堆栈进行 Shellcode 开发 | https://mp.weixin.qq.com/s/5p0YwBeZr-8Wu2oY08FkiA | 1| 
+| 开源情报技术研究院 | gh_d1f65c3b3e5b | 2022年漏洞态势特点情况报告 | https://mp.weixin.qq.com/s/Up8f-Qb6niHa8MN0faT10g | 1| 
+| 娜璋AI安全之家 | gh_91f1fe28fc6e | [系统安全] 四十三.Powershell恶意代码检测系列 (4)论文总结及抽象语法树（AST）提取 | https://mp.weixin.qq.com/s/puwgUeM0ftBzlvybUD9xkg | 1| 
+| 国家互联网应急中心CNCERT | CNCERTCC | “地图导航类”App个人信息收集情况测试报告 | https://mp.weixin.qq.com/s/UerkjOkRkDWag5-FEM2OZA | 1| 
+| 中国计算机学会 | ccfvoice | CCCF精选 , 密态对抗——网络空间高隐蔽威胁透视的发展方向 | https://mp.weixin.qq.com/s/5LnIoymYyySdaN-UynheJQ | 1| 
+| M01N Team | m01nteam | ChatGPT在社工攻击和反钓鱼中的应用 | https://mp.weixin.qq.com/s/rCIS-J4jo1fBtcTuivj6PA | 1| 
 | 榫卯江湖 | cnxct_coder | eCapture旁观者支持Golang tls/https加密明文捕获 | https://mp.weixin.qq.com/s/O7bxwa5wV1u785jOkJwh1Q | 1| 
 | Bypass | Bypass-- | AD域安全攻防实践（附攻防矩阵图） | https://mp.weixin.qq.com/s/SvGz8mHOBlgEc9O2hBHCEQ | 1| 
 | 老杨吃西瓜不吐葡萄皮 | HelloYangwg_20220222 | 从宏碁安全事件想到构建有韧性网络安全新范式 | https://mp.weixin.qq.com/s/5R4CWSFwFACxkAClwgxQRw | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 基于Neo4j的网络安全知识图谱构建分析 | https://mp.weixin.qq.com/s/pIJZfxLheqbtyylDJNvqUA | 2| 
 | 中国信息安全 | chinainfosec | 论坛·2022全球网空态势回顾 , 2022年度俄罗斯网络空间安全态势综述 | https://mp.weixin.qq.com/s/dmhJMVect8JincvZLMyW2w | 1| 
 | Tide安全团队 | TideSec | CTF中RSA常见攻击方法 | https://mp.weixin.qq.com/s/5UY-4SPHvPD8hS2Jy8jhgw | 1| 
 | 虎符智库 | TT_Thinktank | 深度：美军“前出狩猎”网络作战行动与影响分析 | https://mp.weixin.qq.com/s/yb2VuHzagO3MTsO3Lv5LSA | 1| 
@@ -25,8 +31,9 @@
 | 王小明的事 | Struggle_of_a_noob | Zabbix与Jumpserver后渗透小记 | https://mp.weixin.qq.com/s/OwSZWCshBKJW0b5du7Juhw | 1| 
 | 微步在线研究响应中心 | gh_280024a09930 | PHP反混淆实战 , 手把手带你入门PHP-Parser | https://mp.weixin.qq.com/s/Qb2m6RAmr5Oy6TCvi9X-ow | 1| 
 | 在酒吧喝牛奶的牛仔 | gh_266f5cc317ca | 镜像扫描Layer分析对比 | https://mp.weixin.qq.com/s/GjMdGmPG7AH2ilzcJh08fw | 1| 
+| 信息安全与通信保密杂志社 | cismag2013 | 数据驱动的未知网络威胁检测综述 | https://mp.weixin.qq.com/s/ioZIdJGP1yjT_vxDJ4-UyQ | 2| 
 | 小红书技术REDtech | gh_f510929429e3 | 小红书社区反作弊探索与实践 | https://mp.weixin.qq.com/s/05s4wkPkSnZ7vILNtgnu0w | 1| 
-| 威胁棱镜 | THREAT_PRISM | 大规模 DNS 流量中检测恶意请求 | https://mp.weixin.qq.com/s/7x7lajReBrdU3OcRJaOBWw | 1| 
+| 威胁棱镜 | THREAT_PRISM | 大规模 DNS 流量中检测恶意请求 | https://mp.weixin.qq.com/s/7x7lajReBrdU3OcRJaOBWw | 2| 
 | dada安全研究所 | CyberBugs | 上古版本panabit审计 | https://mp.weixin.qq.com/s/wODk1OgYmab_EM9f0Fi7Lg | 1| 
 | 安全学术圈 | secquan | NDSS 2023 论文录用列表 | https://mp.weixin.qq.com/s/ZRIFX2GmP8niyUfiWj8ewA | 3| 
 | 安全小子大杂烩 | hl666sec | 记一次从linux打进域控 | https://mp.weixin.qq.com/s/9ZUKARK1q0U5nSqM2bSbAw | 1| 
