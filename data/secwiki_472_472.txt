@@ -1,0 +1,23 @@
+20230313	Web安全	https://mp.weixin.qq.com/s/SvGz8mHOBlgEc9O2hBHCEQ	AD域安全攻防实践（附攻防矩阵图）	qq.com	mp.weixin.qq.com	/s/SvGz8mHOBlgEc9O2hBHCEQ
+20230313	Web安全	https://mp.weixin.qq.com/s/O7bxwa5wV1u785jOkJwh1Q	eCapture旁观者支持Golang tls/https加密明文捕获	qq.com	mp.weixin.qq.com	/s/O7bxwa5wV1u785jOkJwh1Q
+20230313	Web安全	https://mp.weixin.qq.com/s/rCIS-J4jo1fBtcTuivj6PA	ChatGPT在社工攻击和反钓鱼中的应用	qq.com	mp.weixin.qq.com	/s/rCIS-J4jo1fBtcTuivj6PA
+20230313	Web安全	https://d3fend.notion.site/d3fend/WIKI-V0-3-33e49c4f6b9545a19ec175df6267272b	先进攻防知识WIKI	notion.site	d3fend.notion.site	/d3fend/WIKI-V0-3-33e49c4f6b9545a19ec175df6267272b
+20230313	运维安全	https://mp.weixin.qq.com/s/Up8f-Qb6niHa8MN0faT10g	2022年漏洞态势特点情况报告	qq.com	mp.weixin.qq.com	/s/Up8f-Qb6niHa8MN0faT10g
+20230313	恶意分析	https://shs3.b.qianxin.com/ti_portal_upload_s3/0245f2617a9e788e66e3bbd3213fb6d8.pdf	全球高级持续性威胁（APT）2022年度报告	qianxin.com	shs3.b.qianxin.com	/ti_portal_upload_s3/0245f2617a9e788e66e3bbd3213fb6d8.pdf
+20230313	漏洞分析	https://mp.weixin.qq.com/s/5p0YwBeZr-8Wu2oY08FkiA	利用自定义堆栈进行 Shellcode 开发	qq.com	mp.weixin.qq.com	/s/5p0YwBeZr-8Wu2oY08FkiA
+20230313	Web安全	https://xz.aliyun.com/t/12295	浅谈在数据包被加密和签名保护时的渗透方式	aliyun.com	xz.aliyun.com	/t/12295
+20230313	恶意分析	https://mp.weixin.qq.com/s/qDi5bIkoun3nBQU25tsp7Q	基于真实数据的移动赌博诈骗分析	qq.com	mp.weixin.qq.com	/s/qDi5bIkoun3nBQU25tsp7Q
+20230313	漏洞分析	https://mp.weixin.qq.com/s/bB8a0Pgh23zy2tlxxtnV1g	VulDeePecker:基于深度学习的漏洞检测系统	qq.com	mp.weixin.qq.com	/s/bB8a0Pgh23zy2tlxxtnV1g
+20230313	Web安全	https://mp.weixin.qq.com/s/ObMxPKXUBNvhRtav0uJpWQ	RASP攻防中的矛与盾	qq.com	mp.weixin.qq.com	/s/ObMxPKXUBNvhRtav0uJpWQ
+20230313	恶意分析	https://mp.weixin.qq.com/s/mfdps7XMYSZWAkDU4RnqiA	深入了解 VirusTotal 的数据与文件聚类	qq.com	mp.weixin.qq.com	/s/mfdps7XMYSZWAkDU4RnqiA
+20230313	杂志	https://www.sec-wiki.com/weekly/471	SecWiki周刊（第471期)	sec-wiki.com	www.sec-wiki.com	/weekly/471
+20230313	漏洞分析	https://mp.weixin.qq.com/s/gUUuyJ84eU55UgcUdRcvmw	百万级文件的Bug定位	qq.com	mp.weixin.qq.com	/s/gUUuyJ84eU55UgcUdRcvmw
+20230313	移动安全	https://mp.weixin.qq.com/s/UerkjOkRkDWag5-FEM2OZA	“地图导航类”App个人信息收集情况测试报告	qq.com	mp.weixin.qq.com	/s/UerkjOkRkDWag5-FEM2OZA
+20230313	恶意分析	https://mp.weixin.qq.com/s/5LnIoymYyySdaN-UynheJQ	密态对抗——网络空间高隐蔽威胁透视的发展方向	qq.com	mp.weixin.qq.com	/s/5LnIoymYyySdaN-UynheJQ
+20230313	恶意分析	https://mp.weixin.qq.com/s/puwgUeM0ftBzlvybUD9xkg	[系统安全] 四十三.Powershell恶意代码检测系列	qq.com	mp.weixin.qq.com	/s/puwgUeM0ftBzlvybUD9xkg
+20230313	漏洞分析	https://mp.weixin.qq.com/s/fuxZV0rZxFGacNvqmCxBSQ	JavaScript 项目中的依赖异味	qq.com	mp.weixin.qq.com	/s/fuxZV0rZxFGacNvqmCxBSQ
+20230313	漏洞分析	https://mp.weixin.qq.com/s/3L3DggJnShNRlF5kv6igiw	UUID的弊端以及雪花算法	qq.com	mp.weixin.qq.com	/s/3L3DggJnShNRlF5kv6igiw
+20230313	Web安全	https://mp.weixin.qq.com/s/QTG55QpuiqM8tf9utcKf9g	[HTB] Pandora Writeup	qq.com	mp.weixin.qq.com	/s/QTG55QpuiqM8tf9utcKf9g
+20230313	无线安全	https://mp.weixin.qq.com/s/zqNOciFMCoFbNppYx0454g	美军太空战态势感知能力建设	qq.com	mp.weixin.qq.com	/s/zqNOciFMCoFbNppYx0454g
+20230313	运维安全	https://book.yunzhan365.com/tkgd/pdrf/mobile/index.html	2022年度网络空间测绘报告	yunzhan365.com	book.yunzhan365.com	/tkgd/pdrf/mobile/index.html
+20230313	恶意分析	https://mp.weixin.qq.com/s/7GqDuiTx5BQyIX34PBRg9w	对窃密恶意软件及其操作者的大规模研究	qq.com	mp.weixin.qq.com	/s/7GqDuiTx5BQyIX34PBRg9w
