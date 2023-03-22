@@ -59,6 +59,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | slowmist | 区块链常见漏洞列表 | https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Go,HTML,Ruby | 0 | 0 | 1| 
 | matthieu-hackwitharts | Win32平台下的一个关于入侵方面的知识库，既有注入PE格式之类的基础知识，也有一些EDR bypass这种攻击技巧 | https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet | https://github.com/matthieu-hackwitharts?tab=followers |  | None | None | 9 | 0 | 7 | 0 | 0 | Python,C,PowerShell,C++ | 0 | 0 | 1| 
+| XaFF-XaFF | Black Angel Rootkit 是一个 Windows 11/10 x64 内核模式 Rootkit，可以加载启用的 DSE，同时保持其全部功能。专为红队设计。 可以通过使用 kdmappe 加载来绕过 DSE | https://github.com/XaFF-XaFF/Black-Angel-Rootkit | https://github.com/XaFF-XaFF?tab=followers | 18y/o | Poland | None | 15 | 0 | 25 | 0 | 0 | C#,Assembly,C++ | 0 | 0 | 1| 
+| Impalabs | PD虚拟机逃逸漏洞（CVE-2023-27326）的EXP | https://github.com/Impalabs/CVE-2023-27326 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Rust | 0 | 0 | 1| 
+| Anof-cyber | APTRS：一款功能强大的自动化渗透测试报告系统 | https://github.com/Anof-cyber/APTRS | https://github.com/Anof-cyber?tab=followers | Infosec , Hacker , Penetration Tester 👨‍💻 Cyber Security , Automation ⚡⏩ Code , Bash , Python , Django ❤️ Lead AnoF 🖤 | India | None | 19 | 0 | 254 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
 
 
 # medium_xuanwu 推荐

@@ -1,7 +1,10 @@
-Python	2
-C	1
-C++	1
-HTML	1
+Python	3
+C	2
+C++	2
+HTML	2
+Assembly	1
+C#	1
 Go	1
 Ruby	1
 PowerShell	1
+Rust	1
