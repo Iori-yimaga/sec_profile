@@ -39,7 +39,7 @@
 | 小红书技术REDtech | gh_f510929429e3 | 小红书社区反作弊探索与实践 | https://mp.weixin.qq.com/s/05s4wkPkSnZ7vILNtgnu0w | 1| 
 | 威胁棱镜 | THREAT_PRISM | 大规模 DNS 流量中检测恶意请求 | https://mp.weixin.qq.com/s/7x7lajReBrdU3OcRJaOBWw | 2| 
 | dada安全研究所 | CyberBugs | 上古版本panabit审计 | https://mp.weixin.qq.com/s/wODk1OgYmab_EM9f0Fi7Lg | 1| 
-| 安全学术圈 | secquan | NDSS 2023 论文录用列表 | https://mp.weixin.qq.com/s/ZRIFX2GmP8niyUfiWj8ewA | 5| 
+| 安全学术圈 | secquan | NDSS 2023 论文录用列表 | https://mp.weixin.qq.com/s/ZRIFX2GmP8niyUfiWj8ewA | 6| 
 | 安全小子大杂烩 | hl666sec | 记一次从linux打进域控 | https://mp.weixin.qq.com/s/9ZUKARK1q0U5nSqM2bSbAw | 1| 
 | 太空安全 | SateSec | 星链StarLink终端信号分析和信关站设计图（更新） | https://mp.weixin.qq.com/s/Vd-7v9fJ5uyv7_XDBb5QfQ | 1| 
 | 顺丰安全应急响应中心 | SFSRC- | 容器行为异常自学习引擎 | https://mp.weixin.qq.com/s/LlTfNx1DbgS_dO7X9xVVAg | 1| 
@@ -62,6 +62,7 @@
 | XaFF-XaFF | Black Angel Rootkit 是一个 Windows 11/10 x64 内核模式 Rootkit，可以加载启用的 DSE，同时保持其全部功能。专为红队设计。 可以通过使用 kdmappe 加载来绕过 DSE | https://github.com/XaFF-XaFF/Black-Angel-Rootkit | https://github.com/XaFF-XaFF?tab=followers | 18y/o | Poland | None | 15 | 0 | 25 | 0 | 0 | C#,Assembly,C++ | 0 | 0 | 1| 
 | Impalabs | PD虚拟机逃逸漏洞（CVE-2023-27326）的EXP | https://github.com/Impalabs/CVE-2023-27326 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Rust | 0 | 0 | 1| 
 | Anof-cyber | APTRS：一款功能强大的自动化渗透测试报告系统 | https://github.com/Anof-cyber/APTRS | https://github.com/Anof-cyber?tab=followers | Infosec , Hacker , Penetration Tester 👨‍💻 Cyber Security , Automation ⚡⏩ Code , Bash , Python , Django ❤️ Lead AnoF 🖤 | India | None | 19 | 0 | 254 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
+| 4ra1n | jar-analyzer 一个用于分析Jar包的GUI工具 | https://github.com/4ra1n/jar-analyzer | https://github.com/4ra1n?tab=followers | 寒蝉凄切 对长亭晚 骤雨初歇 | None | None | 20 | 0 | 69 | 0 | 0 | Go,Dockerfile,HTML,Java | 0 | 0 | 1| 
 
 
 # medium_xuanwu 推荐
@@ -92,6 +93,9 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| Python沙箱逃逸学习记录 | https://xz.aliyun.com/t/12303| 
+| 探究公众号接口漏洞：从后台登录口到旁站getshell | https://xz.aliyun.com/t/12321| 
+| Node.js些许漏洞 | https://xz.aliyun.com/t/12328| 
 | 浅谈在数据包被加密和签名保护时的渗透方式 | https://xz.aliyun.com/t/12295| 
 
 

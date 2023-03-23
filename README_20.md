@@ -865,7 +865,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 103| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 202| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 203| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -4956,7 +4956,7 @@
 | 7Hxz233 | Lilac 2020 暑期pwn培训课件 | https://github.com/7Hxz233/Lilac_2020_summer_pwn | None | None | None | None | 0 | 0 | 0 | 0 | 0 | PostScript,C,HTML,Ruby,PHP | 0 | 0 | 1| 
 | 78ResearchLab | Windows IKE RCE 漏洞的 PoC（CVE-2022-34721） | https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-34721 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | 4x99 | 码小六 - GitHub 代码泄露监控系统 | https://github.com/4x99/code6 | None |  | None | None | 2 | 0 | 1 | 0 | 0 | PHP | 73 | 14 | 1| 
-| 4ra1n | Java安全研究与安全开发面试题总结 | https://github.com/4ra1n/JavaSecInterview | https://github.com/4ra1n?tab=followers | Eloim Essaim | China | @chaitin | 12 | 0 | 2 | 0 | 0 | Python,Go,Java | 0 | 0 | 2| 
+| 4ra1n | Java安全研究与安全开发面试题总结 | https://github.com/4ra1n/JavaSecInterview | https://github.com/4ra1n?tab=followers | Eloim Essaim | China | @chaitin | 12 | 0 | 2 | 0 | 0 | Python,Go,Java | 0 | 0 | 3| 
 | 4ido10n | latest Burpsuite Pro v1.7.03 introduced and cracked version download | https://github.com/4ido10n/latest-Burpsuite-Pro-v1.7.03-cracked-version | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | 3v4Si0N | HTTP-revshell: 用于Red team练习和渗透测试者的Powershell脚本工具，通过HTTP/S协议反向链接。 | https://github.com/3v4Si0N/HTTP-revshell | None | Security Analyst at @Deloitte | Spain | https://twitter.com/3v4Si0N | 10 | 0 | 0 | 0 | 0 | Python,C,PowerShell | 205 | 29 | 1| 
 | 360PegasusTeam | WiFi-Miner-Detector - 之前有报道 星巴克 WiFi 被用来劫持用户笔记本挖矿,这个工具用于检测这种恶意 WiFi: | https://github.com/360PegasusTeam/WiFi-Miner-Detector | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
@@ -5466,6 +5466,9 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| Python沙箱逃逸学习记录 | https://xz.aliyun.com/t/12303| 
+| 探究公众号接口漏洞：从后台登录口到旁站getshell | https://xz.aliyun.com/t/12321| 
+| Node.js些许漏洞 | https://xz.aliyun.com/t/12328| 
 | 浅谈在数据包被加密和签名保护时的渗透方式 | https://xz.aliyun.com/t/12295| 
 | Java反序列化预备全知 | https://xz.aliyun.com/t/12155| 
 | Tailscale在内网渗透中利用的研究 | https://xz.aliyun.com/t/12151| 
