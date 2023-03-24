@@ -1,12 +1,12 @@
-Python	3
+Python	4
+C	3
 HTML	3
-C	2
 C++	2
 Go	2
-Java	1
+Assembly	1
 Dockerfile	1
 C#	1
-Assembly	1
+Java	1
 Ruby	1
 PowerShell	1
 Rust	1
