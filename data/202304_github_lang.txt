@@ -1,0 +1,3 @@
+Python	1
+SCSS	1
+Shell	1
