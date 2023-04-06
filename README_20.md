@@ -577,7 +577,7 @@
 | 公安部网安局 | gh_e406f4bcdf34 | 公安机关网安部门打击网络黑产犯罪工作取得显著成效 | https://mp.weixin.qq.com/s/h53qn-2vODsakiCxf9CvXQ | 1| 
 | 陌陌安全 | MomoSecurity | 陌陌数据安全探索与实践 | https://mp.weixin.qq.com/s/yGLrdlpSmEe5ChiVn4b8Kg | 7| 
 | pirogue | p1r06u3 | 越权扫描器碎碎念 | https://mp.weixin.qq.com/s/yMpAiue7OT1I8E3C5Dkngw | 1| 
-| CodeWisdom | gh_2395906a410f | 技术分享, 基于静态依赖分析的安卓GUI自动化探测方法 | https://mp.weixin.qq.com/s/YQDxUqo_ufjt3cuDNOUfwQ | 5| 
+| CodeWisdom | gh_2395906a410f | 技术分享, 基于静态依赖分析的安卓GUI自动化探测方法 | https://mp.weixin.qq.com/s/YQDxUqo_ufjt3cuDNOUfwQ | 6| 
 | 360Quake空间测绘 | gh_0284fd4851e7 | 利用JARM指纹进行TLS服务端标记 | https://mp.weixin.qq.com/s/CTBO22SuQft1dBoHv2WRQg | 4| 
 | ATLAS Academy | atlas-cyber-academy | 2020网络安全大事记 - 监管判例篇 | https://mp.weixin.qq.com/s/60-O9GGYPNZZW6KVvY_c8w | 1| 
 | 青藤实验室 | gh_151a64925040 | SharePoint Rce 系列分析（一） | https://mp.weixin.qq.com/s/FfHc8TFUs_4H8JHWbYv3FQ | 3| 

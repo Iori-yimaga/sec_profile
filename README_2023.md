@@ -101,7 +101,7 @@
 | huasec | ihuahua04 | 利用空间测绘进行威胁分析 | https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg | 1| 
 | 阿里开发者 | ali_tech | 一文梳理Code Review方法论与实践总结 | https://mp.weixin.qq.com/s/_4MFrQSYOIGYRdDGOJPDKQ | 1| 
 | 蛇矛实验室 | Cybersnaker | 安全开发之Pcshare流程分析 | https://mp.weixin.qq.com/s/R1Fgyj0pUCxFGq4-YFfMXw | 1| 
-| CodeWisdom | gh_2395906a410f | 关于大模型时代软件智能化开发的一点展望 | https://mp.weixin.qq.com/s/UTcnFq53JjIMsShmKtQvDw | 1| 
+| CodeWisdom | gh_2395906a410f | 关于大模型时代软件智能化开发的一点展望 | https://mp.weixin.qq.com/s/UTcnFq53JjIMsShmKtQvDw | 2| 
 | 迪哥讲事 | growing0101 | 赏金猎人系列-如何测试文件上传功能 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247487158&idx=1&sn=6373bf434deaaa6a9a055f9c0400b512&chksm=e8a604d5dfd18dc361addad111cb78a461baf4e6a3a954799b9c8ed8230fce6707f727f1f0ab&scene=21#wechat_redirect | 1| 
 | 红队蓝军 | Xx_Security | 域内定位个人PC的三种方式 | https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw | 2| 
 | 华为安全 | HuaweiSecurity | 安全态势感知专家说第2期：人工智能技术在态势感知的应用 | https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg | 2| 
