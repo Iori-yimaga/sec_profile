@@ -1,5 +1,5 @@
 Python	28
-C	18
+C	19
 C++	14
 Go	13
 Java	12
@@ -7,7 +7,7 @@ JavaScript	12
 Shell	8
 HTML	8
 Rust	7
-C#	6
+C#	7
 TypeScript	5
 PHP	5
 PowerShell	4
