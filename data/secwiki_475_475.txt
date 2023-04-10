@@ -1,0 +1,8 @@
+20230403	Web安全	https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ	Mininode:减少NodeJS程序攻击面	qq.com	mp.weixin.qq.com	/s/0Y5uOIqF-HFf2gXpUPB0lQ
+20230403	编程技术	https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA	智能化时代的软件工程：拥抱大模型的正确姿势	qq.com	mp.weixin.qq.com	/s/A_SZzbyHTu22004YJmUZWA
+20230403	杂志	https://www.sec-wiki.com/weekly/474	SecWiki周刊（第474期)	sec-wiki.com	www.sec-wiki.com	/weekly/474
+20230403	Web安全	https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA	Web3 项目安全实践要求	qq.com	mp.weixin.qq.com	/s/hBTDv5Jd0FLdLu0UKjzrGA
+20230403	恶意分析	https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA	内存马流程理解与手写 EXP	qq.com	mp.weixin.qq.com	/s/2BSrWaB0B7cn0ng4BAwUHA
+20230403	移动安全	https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA	应用安全演进之路	qq.com	mp.weixin.qq.com	/s/6ra8myOLJPRtbEd2JrAiNA
+20230403	漏洞分析	https://www.anquanke.com/post/id/287753	CVE-2023-21839 WebLogic Server RCE分析	anquanke.com	www.anquanke.com	/post/id/287753
+20230403	无线安全	https://green-m.me//2023/04/06/message-sync-with-linux/	Linux 服务器短信接收同步	green-m.me	green-m.me	//2023/04/06/message-sync-with-linux/

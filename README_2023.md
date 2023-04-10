@@ -14,20 +14,23 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
+| LemonSec | lemon-sec | 内存马流程理解与手写 EXP | https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA | 1| 
+| 慢雾科技 | SlowMist | 慢雾出品 , Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA | 1| 
 | 公安部网络安全等级保护中心 | gh_f5f6bf3d09af | 基于等级保护思路的应用软件开发安全关键要素探讨 | https://mp.weixin.qq.com/s/J8nQRKXBMDBQqTl2InO9pg | 1| 
 | 守望者实验室 | WatcherLAB | 供应链安全实践：基于风险的“供应链攻击面”梳理和分析 | https://mp.weixin.qq.com/s/xk8VFdgRfkcKCnP4xi5qmQ | 1| 
 | 学术plus | caeit-e | 英国防部发布云战略路线图： 构建数字骨干 助力数字转型 | https://mp.weixin.qq.com/s/MOODFHGrf_aeXs5G3FzavQ | 1| 
 | Seebug漏洞平台 | seebug_org | 原创Paper , parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | https://mp.weixin.qq.com/s/AB3LiDutpMQm9C1eumy9IQ | 1| 
 | Azure云科技 | MS_CEChina | CISO 聚焦 , AI驱动的微软安全防护：安全不仅仅是默认的，也是可以预测的 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow | 1| 
 | 藏剑安全 | cangjiansafe | 渗透实战,记一次RCE+heapdump信息泄露引发的血案 | https://mp.weixin.qq.com/s/6ZDto8QAUKTur5s_haGFdw | 1| 
-| Thoughtworks洞见 | TW-Insights | 浅谈基于深度学习的漏洞检测 | https://mp.weixin.qq.com/s/fM5qAnQxWXLfAofgVqcWvw | 1| 
 | 网安寻路人 | DataProtection101 | 内容算法服务中正能量内容源识别和流量分发机制不足的初步思考 | https://mp.weixin.qq.com/s/Arh4u6xHqjP0utSPE3dd-A | 1| 
 | 清华大学智能法治研究院 | THUIAIL | 系统安全 ,《欧洲网络安全技能框架》解读 | https://mp.weixin.qq.com/s/CS2FUz62CBwcSKWqPAQdaQ | 1| 
 | 深潜之眼 | sqzy_20000129 | rakshasa-跨平台、稳定、隐秘的多级代理内网穿透工具 | https://mp.weixin.qq.com/s/8Ul3SLIlyhHVF7R6ekciBw | 1| 
 | 千寻安服 | scaf_0123 | Java执行命令过程即命令拼接问题 | https://mp.weixin.qq.com/s/vUgHj6jkIGuXX4X66NutnQ | 1| 
+| Thoughtworks洞见 | TW-Insights | 浅谈基于深度学习的漏洞检测 | https://mp.weixin.qq.com/s/fM5qAnQxWXLfAofgVqcWvw | 1| 
 | Th0r安全 | gh_3ad192d9c87f | 纵向突破-漏洞归纳总结 | https://mp.weixin.qq.com/s/64WVh50cU31QXfL2FNN6oA | 1| 
-| Fortinet防特网 | Fortinet_CN | 使用说明 I 使用 GWLB 和 FortiGate 作为流量镜像的替代方案 | https://mp.weixin.qq.com/s/83q9laF1LHWoSTdkwj3tnA | 1| 
 | JetBrains | JetBrainsChina | 通过 Qodana 的污点分析保护 PHP 代码 | https://mp.weixin.qq.com/s/QbcLigLj_sUWx5awghX7qQ | 1| 
+| Fortinet防特网 | Fortinet_CN | 使用说明 I 使用 GWLB 和 FortiGate 作为流量镜像的替代方案 | https://mp.weixin.qq.com/s/83q9laF1LHWoSTdkwj3tnA | 1| 
 | 安全分析与研究 | MalwareAnalysis | 分享一些常用的恶意软件分析工具 | https://mp.weixin.qq.com/s/X29iHBf3Qa5Jk4cwckrbrA | 1| 
 | Java知音 | Java_friends | UUID的弊端以及雪花算法 | https://mp.weixin.qq.com/s/3L3DggJnShNRlF5kv6igiw | 1| 
 | 海洋防务前沿 | maritime-defense | 美军太空战态势感知能力建设 | https://mp.weixin.qq.com/s/zqNOciFMCoFbNppYx0454g | 1| 

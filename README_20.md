@@ -14,10 +14,11 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
 | Azure云科技 | MS_CEChina | CISO 聚焦 , AI驱动的微软安全防护：安全不仅仅是默认的，也是可以预测的 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow | 1| 
 | 清华大学智能法治研究院 | THUIAIL | 系统安全 ,《欧洲网络安全技能框架》解读 | https://mp.weixin.qq.com/s/CS2FUz62CBwcSKWqPAQdaQ | 1| 
-| Fortinet防特网 | Fortinet_CN | 使用说明 I 使用 GWLB 和 FortiGate 作为流量镜像的替代方案 | https://mp.weixin.qq.com/s/83q9laF1LHWoSTdkwj3tnA | 1| 
 | JetBrains | JetBrainsChina | 通过 Qodana 的污点分析保护 PHP 代码 | https://mp.weixin.qq.com/s/QbcLigLj_sUWx5awghX7qQ | 1| 
+| Fortinet防特网 | Fortinet_CN | 使用说明 I 使用 GWLB 和 FortiGate 作为流量镜像的替代方案 | https://mp.weixin.qq.com/s/83q9laF1LHWoSTdkwj3tnA | 1| 
 | Java知音 | Java_friends | UUID的弊端以及雪花算法 | https://mp.weixin.qq.com/s/3L3DggJnShNRlF5kv6igiw | 1| 
 | 海洋防务前沿 | maritime-defense | 美军太空战态势感知能力建设 | https://mp.weixin.qq.com/s/zqNOciFMCoFbNppYx0454g | 1| 
 | 老杨吃西瓜不吐葡萄皮 | HelloYangwg_20220222 | 从宏碁安全事件想到构建有韧性网络安全新范式 | https://mp.weixin.qq.com/s/5R4CWSFwFACxkAClwgxQRw | 1| 
@@ -439,7 +440,7 @@
 | 天億网络安全 | tywlaq | 实战｜内网穿透之多层代理 | https://mp.weixin.qq.com/s?__biz=MzU4ODU1MzAyNg==&mid=2247497089&idx=1&sn=aac08b7ca24183c0adbaf3d41802958e | 18| 
 | 大余安全 | dayuST123 | HackTheBox-Linux-Book | https://mp.weixin.qq.com/s?__biz=Mzg3MDMxMTg3OQ==&mid=2247496896&idx=1&sn=d8770ce626cee915f9fb47dc78c75b59 | 20| 
 | Top security | Top_security | Cobalt Strike4.0学习 | https://mp.weixin.qq.com/s?__biz=Mzg3MDU0NjQyMg==&mid=2247486923&idx=1&sn=25799dce98c0d186eb90e03f9b76ee09 | 6| 
-| LemonSec | lemon-sec | PHP项目安全：使用PHP的访问限制 | https://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247516711&idx=1&sn=091bf05174d6fae1f6be7a4d56e77f9d | 66| 
+| LemonSec | lemon-sec | PHP项目安全：使用PHP的访问限制 | https://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247516711&idx=1&sn=091bf05174d6fae1f6be7a4d56e77f9d | 67| 
 | RCE TEAM | gh_3688f58729a9 | 文件上云 - 对象存储的攻击方式 | https://mp.weixin.qq.com/s/eZ8OAO5ELgUNvVricIStGA | 1| 
 | 我是安服 | scaf_0123 | 攻防演练之反序列化漏洞与内存马 | https://mp.weixin.qq.com/s/q3h8Lqby_LKZo-8wMYl7nw | 4| 
 | 微言晓意 | WeYanXY | 安全运营中心（SOC）技术框架 | https://mp.weixin.qq.com/s/4LmvqBYJeTOPa237-vaZeQ | 7| 
@@ -979,7 +980,7 @@
 | 国家信息安全服务资质 | gh_2e911008c3ff | 中国信息安全测评中心孙明亮 位华 王琰：风险评估服务能力成熟度模型研究 | https://mp.weixin.qq.com/s/y9Qx4htmcoWgC96G2sWvpw | 1| 
 | DWord | gh_d3505f95dd6c | 正解HTTPS与中间人攻击 | https://mp.weixin.qq.com/s/E0_NRjpsyCCZtNgzuXU5Jw | 1| 
 | 安惞杂谈 | anxin_zatan | 基于DREAD模型的漏洞等级计算 | https://mp.weixin.qq.com/s/-gHMhj1Qdl1N5rCne61m4Q | 1| 
-| 慢雾科技 | SlowMist | ⼀个通杀绝⼤多数交易平台的 XSS 0day 漏洞 | https://mp.weixin.qq.com/s/yfbKf_5Nk2NXFl2-xlFqKg | 13| 
+| 慢雾科技 | SlowMist | ⼀个通杀绝⼤多数交易平台的 XSS 0day 漏洞 | https://mp.weixin.qq.com/s/yfbKf_5Nk2NXFl2-xlFqKg | 14| 
 | 徐阿衡 | xu_a_heng | 知识抽取-实体及关系抽取 | https://mp.weixin.qq.com/s/I8TmSSQxJPG7KudHKqDrtA | 1| 
 | 平安集团安全应急响应中心 | PSRC_Team |  | https://mp.weixin.qq.com/s/6q3zAaS4jV_Mw3qvgtngBw | 11| 
 | 掮客酒馆 | SecurityPub | 互联网公司移动安全领域的探索与实践 | https://mp.weixin.qq.com/s/5whLNkfSUpW6zQNxQf7HqQ | 3| 

@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
+| LemonSec | lemon-sec | 内存马流程理解与手写 EXP | https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA | 1| 
+| 慢雾科技 | SlowMist | 慢雾出品 , Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA | 1| 
 | CodeWisdom | gh_2395906a410f | 智能化时代的软件工程：拥抱大模型的正确姿势 | https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA | 1| 
 | 安全学术圈 | secquan | Mininode:减少NodeJS程序攻击面 | https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ | 2| 
 | 威胁棱镜 | THREAT_PRISM | 以 AI 速度赋能防御 | https://mp.weixin.qq.com/s/e6W2Uy64i9cY7U7-3FnoxQ | 1| 
