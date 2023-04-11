@@ -14,13 +14,14 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| ABC123安全研究实验室 | abc123network | 第56篇：美国安全局NSA入侵西北工业大学流程图梳理和分析（上篇） | https://mp.weixin.qq.com/s/Ba2NcOKGbpw9tj4ka6gaZA | 1| 
 | 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
 | LemonSec | lemon-sec | 内存马流程理解与手写 EXP | https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA | 1| 
 | 慢雾科技 | SlowMist | 慢雾出品 , Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA | 1| 
 | CodeWisdom | gh_2395906a410f | 智能化时代的软件工程：拥抱大模型的正确姿势 | https://mp.weixin.qq.com/s/A_SZzbyHTu22004YJmUZWA | 1| 
-| 安全学术圈 | secquan | Mininode:减少NodeJS程序攻击面 | https://mp.weixin.qq.com/s/0Y5uOIqF-HFf2gXpUPB0lQ | 2| 
 | 威胁棱镜 | THREAT_PRISM | 以 AI 速度赋能防御 | https://mp.weixin.qq.com/s/e6W2Uy64i9cY7U7-3FnoxQ | 1| 
 | 公安部网络安全等级保护中心 | gh_f5f6bf3d09af | 基于等级保护思路的应用软件开发安全关键要素探讨 | https://mp.weixin.qq.com/s/J8nQRKXBMDBQqTl2InO9pg | 1| 
+| 安全学术圈 | secquan | 利用静态提取的代码特征对过拟合补丁进行自动分类 | https://mp.weixin.qq.com/s/NcTHJFSF6w6R7XO-ejtzzA | 3| 
 | 守望者实验室 | WatcherLAB | 供应链安全实践：基于风险的“供应链攻击面”梳理和分析 | https://mp.weixin.qq.com/s/xk8VFdgRfkcKCnP4xi5qmQ | 1| 
 | 学术plus | caeit-e | 英国防部发布云战略路线图： 构建数字骨干 助力数字转型 | https://mp.weixin.qq.com/s/MOODFHGrf_aeXs5G3FzavQ | 1| 
 | Seebug漏洞平台 | seebug_org | 原创Paper , parse-server 从原型污染到 RCE 漏洞(CVE-2022-39396) 分析 | https://mp.weixin.qq.com/s/AB3LiDutpMQm9C1eumy9IQ | 1| 
