@@ -159,7 +159,7 @@
 | 信安小屋 | CTF_Writeup | 赋能图片的免杀技巧 | https://mp.weixin.qq.com/s?__biz=MzI3ODkyOTYxOA==&mid=2247485160&idx=1&sn=81135b947892c56858e083c3881988e9 | 2| 
 | OnionSec | gh_8ab0e346e1df | 简单写一点情报挖掘猎捕的内容与思考 | https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247484464&idx=1&sn=8b9212ac6a403cabc68dd7fe92cd27d9 | 1| 
 | 维度之眼 | ku_guo_1 | 郑州云智信安-招聘英雄帖【多岗位】 | https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDcxNw==&mid=2247484157&idx=1&sn=0edf47631a8f4dd4995b88f3d828eb3d | 1| 
-| 千寻安服 | scaf_0123 | 千寻笔记：应急响应实践小Tips | https://mp.weixin.qq.com/s?__biz=MzkzMzI3OTczNA==&mid=2247484780&idx=1&sn=b49a411924abc4dd71a7362f0ba836ac | 3| 
+| 千寻安服 | scaf_0123 | 千寻笔记：应急响应实践小Tips | https://mp.weixin.qq.com/s?__biz=MzkzMzI3OTczNA==&mid=2247484780&idx=1&sn=b49a411924abc4dd71a7362f0ba836ac | 4| 
 | EDI安全 | EDISEC | SUSCTF SU Writeup | https://mp.weixin.qq.com/s?__biz=MzIzMTQ4NzE2Ng==&mid=2247492116&idx=1&sn=86e5ae1091a20e4ef0e802f5b33b9917 | 2| 
 | 福韵 开源情报研究 | FuyunOsint | 转载 , 【研究池】域外势力操控社交媒体的手段路径及应对策略 | https://mp.weixin.qq.com/s?__biz=MzU4NTg4Mzc0MA==&mid=2247534512&idx=1&sn=057cf2595c50b7224fa8971f919cd7d9 | 4| 
 | 蝰蛇安全实验室 | InfoSecLab | 信息收集——进阶版 | https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247488281&idx=1&sn=72d7419d3e960912188db1602576714e | 1| 
@@ -3961,6 +3961,7 @@
 | wkz | kmemd - 利用 GDB 调试器查看 Linux 内核的运行时内存 | https://github.com/wkz/kmemd | https://github.com/wkz?tab=followers |  | Sweden | None | 37 | 0 | 54 | 0 | 0 | C,Shell | 0 | 0 | 1| 
 | wireapp | 桌面版本 Wire 应用因使用 Electron 不当导致 RCE 漏洞 | https://github.com/wireapp/wire-desktop/security/advisories/GHSA-5gpx-9976-ggpm | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Groovy,C,TypeScript,Java,HTML,Scala,JavaScript,Shell,Objective-C,Haskell,Swift,HCL | 2900 | 516 | 1| 
 | winsiderss | System Informer - 一款开源的 Windows 资源监控和软件调试工具 | https://github.com/winsiderss/systeminformer | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C | 0 | 0 | 1| 
+| whitead | Paper QA，一个从 PDF 或文本文件中进行问答的最小包，它使用 OpenAI 嵌入和一个名为 FAISS 的矢量数据库来嵌入和搜索带有文本引用的文档 | https://github.com/whitead/paper-qa | https://github.com/whitead?tab=followers |  | Rochester, NY | University of Rochester | 62 | 0 | 414 | 0 | 0 | Python,JavaScript,Jupyter | 0 | 0 | 1| 
 | wh1t3p1g | TABBY：一款针对Java语言的静态代码分析工具 | https://github.com/wh1t3p1g/tabby | https://github.com/wh1t3p1g?tab=followers | Study On Web Security && Code review (semi-auto and manual) | None | Never Stop Exploiting | 29 | 0 | 1500 | 0 | 0 | PHP,Java | 0 | 0 | 2| 
 | wgpsec | TIG 威胁情报收集 | https://github.com/wgpsec/tig | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | weiboad | fiery: APM for PHP 基于PHP的分布式跟踪系统 | https://github.com/weiboad/fiery | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Objective-C,PHP,Java,C++ | 0 | 0 | 1| 
@@ -4143,6 +4144,7 @@
 | potmdehex | 有研究员公开了一个利用 CVE-2021-30937 漏洞实现 iOS 15.0 - 15.1.1 内核读写的 Exploit | https://github.com/potmdehex/multicast_bytecopy | https://github.com/potmdehex?tab=followers | Reverse Engineer | None | None | 11 | 0 | 8 | 0 | 0 | C,Ruby | 0 | 0 | 3| 
 | plummm | SyzScope - 自动化评估 Bug 安全影响的工具（Paper） | https://github.com/plummm/SyzScope | https://github.com/plummm?tab=followers | 37 | California | University of California, Riverside | 33 | 0 | 115 | 0 | 0 | C#,Python,C,HTML | 0 | 0 | 1| 
 | pleed | PyQemu - dynamic binary instrumentation based crypto detection framework. | https://github.com/pleed/pyqemu | None |  | None | None | 1 | 0 | 0 | 0 | 0 | C | 18 | 9 | 1| 
+| plasma-umass | SQLwrite 将 AI 集成到您的数据库中：自动将自然语言查询转换为 SQL，然后运行 ​​SQL 查询。据我们所知，这是首次将 LLM 集成到生产数据库管理中以实现自然语言查询 | https://github.com/plasma-umass/SQLwrite | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Jupyter,Python,JavaScript,C++ | 0 | 0 | 1| 
 | piskvorky | (Python)Gensim集成基于Textrank的文本摘要模块 | https://github.com/piskvorky/gensim/pull/324 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | pinauten | Fugu15 - 研究员 Linus Henze 放出了他的 iOS 15.4.1 越狱工具 | https://github.com/pinauten/Fugu15 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Swift | 0 | 0 | 1| 
 | pikvm | 基于Raspberry Pi的开源性廉价DIY IP-KVM系统。 | https://github.com/pikvm/pikvm | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell,Makefile,Batchfile | 538 | 21 | 1| 

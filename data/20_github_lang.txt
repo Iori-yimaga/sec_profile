@@ -1,7 +1,7 @@
-Python	1160
-C	728
-JavaScript	697
-C++	598
+Python	1162
+C	729
+JavaScript	699
+C++	599
 HTML	509
 Java	501
 Shell	477
@@ -11,10 +11,10 @@ Ruby	264
 PowerShell	247
 CSS	227
 PHP	225
-TypeScript	191
+TypeScript	192
 Rust	160
 Objective-C	142
-Jupyter	119
+Jupyter	121
 Dockerfile	80
 Assembly	76
 Perl	73
