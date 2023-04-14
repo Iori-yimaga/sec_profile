@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 中央政法委长安剑 | changan-j | 国家安全机关公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg | 1| 
 | 无限手套Infinity Gauntlet | gh_8d126cb22752 | 关于对ISO/IEC 27002中威胁情报的思考 | https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg | 1| 
 | 数据科学重点实验室 | sjkx2013- | 学术观点 , 从技术“玩具”到治理工具：将ChatGPT引入公共治理领域的风险与策略 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA | 1| 
 | 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
@@ -835,7 +836,7 @@
 | 道法术 |  | [法]从SOAR中求解应用安全建设强运营突围之法 | https://mp.weixin.qq.com/s/sedpOhSxEGSdaxX8SACIMA | 3| 
 | 安全喷子 |  | 网络安全“圣地”之行 | https://mp.weixin.qq.com/s/xxU0R5eVcP_42VVd2DQeXQ | 11| 
 | 奇安信 CERT |  | WebLogic安全研究报告 | https://mp.weixin.qq.com/s/qxkV_7MZVhUYYq5QGcwCtQ | 14| 
-| 绿盟科技 | NSFOCUS-weixin | 2019TechWorld技术嘉年华精华大放送【附PPT下载】 | https://mp.weixin.qq.com/s/pHYpHw1PuLddW2NJZZzA6A | 51| 
+| 绿盟科技 | NSFOCUS-weixin | 2019TechWorld技术嘉年华精华大放送【附PPT下载】 | https://mp.weixin.qq.com/s/pHYpHw1PuLddW2NJZZzA6A | 52| 
 | 汉客儿 |  | 一次美丽的误会引发对函数调用保护的思考 | https://mp.weixin.qq.com/s/wna8pBu1s_jNI8kDeBGEwA | 15| 
 | 水滴安全实验室 | EversecLab | 物联网固件漏洞挖掘——经典命令执行漏洞分析复现 | https://mp.weixin.qq.com/s/KPw81stOcBthxZHlanS0BA | 10| 
 | 威胁情报小屋 |  | 海莲花攻击手法概述 | https://mp.weixin.qq.com/s/IrM60hbB6dWdbWxpFbO1lA | 1| 
@@ -3238,7 +3239,7 @@
 | fei-ke | WeiboImageReverse: Chrome 插件，反查微博图片po主 | https://github.com/fei-ke/WeiboImageReverse | None |  | None | None | 48 | 0 | 435 | 38 | 9 | JavaScript,Java | 0 | 0 | 1| 
 | f3d0x0 | GPON 家庭路由器远程代码执行漏洞利用脚本: | https://github.com/f3d0x0/GPON | https://twitter.com/f3d__ | Security researcher · hacking · pentesting · beat-making · sometimes teaching · crypto | Italy | None | 4 | 0 | 0 | 38 | 0 | Python,C,HTML | 183 | 61 | 1| 
 | evilmog | ntlmv1-multi - 将 NTLMv1/NTLMv1-ESS/MSCHAPv2 Hash 转换成方便 Hashcat 破解的 DES 模式的工具: | https://github.com/evilmog/ntlmv1-multi/ | None |  | None | None | 20 | 0 | 3 | 38 | 0 | Python,Shell,PowerShell | 199 | 42 | 1| 
-| danielplohmann | apiscout - aims at simplifying Windows API import recovery on arbitrary memory dumps. Based on IDAPython, pefile. | https://github.com/danielplohmann/apiscout | https://github.com/fkie | Malware Researcher. Working for Fraunhofer @fkie. | None | None | 7 | 0 | 79 | 38 | 0 | Python | 0 | 0 | 2| 
+| danielplohmann | apiscout - aims at simplifying Windows API import recovery on arbitrary memory dumps. Based on IDAPython, pefile. | https://github.com/danielplohmann/apiscout | https://github.com/fkie | Malware Researcher. Working for Fraunhofer @fkie. | None | None | 7 | 0 | 79 | 38 | 0 | Python | 0 | 0 | 3| 
 | dahall | Vanara - 方便从 .NET 调用 Windows Native API 而写的 .NET 字节码库 | https://github.com/dahall/Vanara | None | Ive been writing and designing code for over 20 years for both commercial and open source use. I work as a CTO for tech firm. | United States | None | 14 | 0 | 2 | 38 | 0 | C# | 304 | 69 | 1| 
 | Ptr32Void | Last week I released OSTrICa - #opensource #threat #intelligence collector on #github | https://github.com/Ptr32Void/OSTrICa | None |  | None | None | 3 | 0 | 0 | 38 | 0 | Python | 264 | 84 | 1| 
 | tylabs | Quicksand.io API python examples take command line options to upload or search | https://github.com/tylabs/quicksand_tools | https://tylabs.com | Tools to detect malware in common document formats. | Canada | tylabs | 17 | 0 | 30 | 37 | 0 | Bro,Python,C,HTML,PHP | 113 | 30 | 4| 
