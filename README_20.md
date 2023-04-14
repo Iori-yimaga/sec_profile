@@ -14,6 +14,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 无限手套Infinity Gauntlet | gh_8d126cb22752 | 关于对ISO/IEC 27002中威胁情报的思考 | https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg | 1| 
+| 数据科学重点实验室 | sjkx2013- | 学术观点 , 从技术“玩具”到治理工具：将ChatGPT引入公共治理领域的风险与策略 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA | 1| 
 | 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
 | Azure云科技 | MS_CEChina | CISO 聚焦 , AI驱动的微软安全防护：安全不仅仅是默认的，也是可以预测的 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow | 1| 
 | 清华大学智能法治研究院 | THUIAIL | 系统安全 ,《欧洲网络安全技能框架》解读 | https://mp.weixin.qq.com/s/CS2FUz62CBwcSKWqPAQdaQ | 1| 
@@ -201,7 +203,7 @@
 | Sec盾 | Sec_Shield | 最新实战挖洞教程（附工具下载） | https://mp.weixin.qq.com/s?__biz=MzI2NzE4MTI0MQ==&mid=2247486317&idx=1&sn=f0a160e27ade9080a1d7abb1a767823e | 2| 
 | OSC开源社区 | oschina2013 | 「气」语言：系统。打印行（\"你好，世界\"） | https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650139905&idx=1&sn=fb4e9d2282bd326310d5d69177d02210 | 1| 
 | GitHubDaily | GitHubDaily | 被无数白嫖党称为「女神」，她的网站终于更新了！ | https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457970421&idx=1&sn=458ece0466579f4e031143b7b002756d | 1| 
-| 红队蓝军 | Xx_Security | 进程强杀初探 | https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247488113&idx=1&sn=c6a61a87edee53dc6b41684a6a4fa5f6 | 12| 
+| 红队蓝军 | Xx_Security | 进程强杀初探 | https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247488113&idx=1&sn=c6a61a87edee53dc6b41684a6a4fa5f6 | 13| 
 | 君立渗透测试研究中心 | gh_13db991d0609 | 起底一个仍在高速发展中的勒索组织  —— ALPHV | https://mp.weixin.qq.com/s?__biz=Mzg5OTEzMjc4OA==&mid=2247487889&idx=1&sn=2ac0e1e61b0257321e5949aafc03c35b | 2| 
 | backdoor | None | 钉钉RCE | https://mp.weixin.qq.com/s?__biz=MzI5MzkwMzU1Nw==&mid=2247484800&idx=1&sn=9901c4a6741a4c29558e49d4e4a9687a | 3| 
 | 轻金融 | Qjinrong | 工行发布《2021网络金融黑产研究报告》（附全文） | https://mp.weixin.qq.com/s/nsj0UowJWxm8niS3ITT8OA | 2| 
@@ -366,7 +368,7 @@
 | 盘古石取证 | Panguite_CN | 基于web日志的溯源 | https://mp.weixin.qq.com/s?__biz=Mzg3MjE1NjQ0NA==&mid=2247491660&idx=1&sn=abe114ae2d012b570a7b7d26534de400 | 8| 
 | 利刃信安 | LRXAEGZ | Mac Nessus 10.0.0 | https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247493357&idx=1&sn=0b874172955fd93014a647199b12d71b | 26| 
 | 8ypass | sec_in_guangdong | codeql学习笔记1 | https://mp.weixin.qq.com/s?__biz=MzI0NDM5OTYxNg==&mid=2247484470&idx=1&sn=5d44f38fed0c78af9882cfa38262a059 | 2| 
-| 军机故阁 | gh_e57baf46bdf5 | 入侵案例分析 | https://mp.weixin.qq.com/s?__biz=MzU5Mjk3MDA5Ng==&mid=2247483917&idx=1&sn=754ca2901e5ed22e93ee95db1c5e762c | 3| 
+| 军机故阁 | gh_e57baf46bdf5 | 入侵案例分析 | https://mp.weixin.qq.com/s?__biz=MzU5Mjk3MDA5Ng==&mid=2247483917&idx=1&sn=754ca2901e5ed22e93ee95db1c5e762c | 4| 
 | TeamsSix | teamssix-com | 代码审计 , Maven 基础知识 | https://mp.weixin.qq.com/s?__biz=MzI5Mzk5NTIwMg==&mid=2247486500&idx=1&sn=a9e87893056ee6b6513dd4f9db076a0a | 8| 
 | 墨雪飘影 | SG-CXZ | 免扫码登录腾讯企业邮箱 | https://mp.weixin.qq.com/s?__biz=MzI3NzI4OTkyNw==&mid=2247487677&idx=1&sn=541d15351c374601f79edbe0d3ce9e59 | 4| 
 | 科技锐新 | qimingyu_java | 一文彻底搞懂Spark | https://mp.weixin.qq.com/s/Uc-EaqL4Q9HchOH3JNQ53A | 1| 
@@ -470,7 +472,7 @@
 | 绿盟科技威胁情报 | NSFOCUS_NTI | Lorec53组织分析报告- 攻击组件部分 | https://mp.weixin.qq.com/s/t_d8I4l0SnzGDXLRmmQzYg | 3| 
 | 中国教育网络 | cernet | 一场关于网络安全伦理审查的对话 | https://mp.weixin.qq.com/s/8NlY3I49UxDirA7Pe8h7Cw | 1| 
 | leveryd | gh_8d7f6ed4daff | 安全建设-攻防思路与实践（一） | https://mp.weixin.qq.com/s/mnHGLZ_e3tWkxCL-DPAAvQ | 8| 
-| FuzzWiki | gh_fcf21e658324 | 浅谈并行化模糊测试技术 | https://mp.weixin.qq.com/s/I-2IllKVbUvOm1x9mMiihw | 13| 
+| FuzzWiki | gh_fcf21e658324 | 浅谈并行化模糊测试技术 | https://mp.weixin.qq.com/s/I-2IllKVbUvOm1x9mMiihw | 14| 
 | 知帆科技 | chaindigg | 浅析利用虚拟货币洗钱 | https://mp.weixin.qq.com/s/hoXNYkaOF4SWNzK4W8l-8w | 1| 
 | 汉堡爱好者 | burgerk1 | 越权漏洞治理实践（自动检测部分IDOR） | https://mp.weixin.qq.com/s/GG8cdvpYoGVs4l-G_YvSag | 2| 
 | 乌雲安全 | hackctf | 干货,利用pocsuite3框架编写poc实战案例 | https://mp.weixin.qq.com/s/LN5gJnKpunfWGJ6yQQtHuw | 49| 
@@ -664,7 +666,7 @@
 | 威努特工控安全 | winicssec_bj | 工控防火墙测试之功能篇_Fuzzing测试 | https://mp.weixin.qq.com/s/Qn7-bl5Qvw6_Qtg9QYKZ7w | 24| 
 | 三六零CERT | CERT-360 | 现代化SOAR的产品化落地（一） | https://mp.weixin.qq.com/s/E72-K43f-TkLv2WIHqKyKA | 36| 
 | AINLP | nlpjob | ​【特征工程】时序特征挖掘的奇技淫巧 | https://mp.weixin.qq.com/s/AennHGMpuoZTRo_4ud5m3w | 1| 
-| 360威胁情报中心 | CoreSec360 | 被低估的混乱军团 -WellMess(APT-C-42)组织网络渗透和供应链攻击行动揭秘 | https://mp.weixin.qq.com/s/WmzryWNNJVV7mXABQ1Yu8g | 19| 
+| 360威胁情报中心 | CoreSec360 | 被低估的混乱军团 -WellMess(APT-C-42)组织网络渗透和供应链攻击行动揭秘 | https://mp.weixin.qq.com/s/WmzryWNNJVV7mXABQ1Yu8g | 20| 
 | 虚拟框架 | gh_39c8fb2fc8b4 | 一个依赖库更新引发的血案：QQ 号被冻结技术分析 | https://mp.weixin.qq.com/s/ZaPQx8aWxUWqDMsjAEDgGA | 2| 
 | 网易易盾 | yidun_163yun | 企业等保2.0的那些事儿 | https://mp.weixin.qq.com/s/LNIWi26YWjmp2mh9jO23iA | 1| 
 | Seebug漏洞平台 | seebug_org | 溯源黑帽利用 Web 编辑器漏洞非法植入 SEO 页面事件 | https://mp.weixin.qq.com/s/SqPu88RALGMOPeAJ34uNeQ | 15| 
@@ -893,7 +895,7 @@
 | 仙人掌情报站 | sec-cactus | [搬砖手册]基于Packetbeat探索搭建轻量级网络流量监测系统 | https://mp.weixin.qq.com/s/Tx9nHxvp9ezd0hf1PZcmiQ | 6| 
 | 信安之路 | xazlsec | DataCon 的 DNS 恶意流量检查一题回顾 | https://mp.weixin.qq.com/s/M-J4FhGA5zg1WZCA9-Houg | 244| 
 | 安天 | Antiylab | 安天发布“方程式组织”攻击中东SWIFT服务商事件复盘分析报告 | https://mp.weixin.qq.com/s/3ZQhn32NB6p-LwndB2o2zQ | 20| 
-| 奇安信威胁情报中心 |  | 银钩：针对国内网银用户的钓鱼的攻击活动 | https://mp.weixin.qq.com/s/QINNIBQDY2bvLi795LsOoA | 66| 
+| 奇安信威胁情报中心 |  | 银钩：针对国内网银用户的钓鱼的攻击活动 | https://mp.weixin.qq.com/s/QINNIBQDY2bvLi795LsOoA | 67| 
 | HLB虎狼帮 | hlbhulangbang | ESET分析了Turla APT对武器化PowerShell的使用 | https://mp.weixin.qq.com/s/tNI54MlsN9bFKnm9kL6G-Q | 1| 
 | FreeBuf | freebuf | 基于EVE-NG平台上构建企业内网攻防环境 | https://mp.weixin.qq.com/s/vBYxrmnBoM-Abl_y1v4DtA | 173| 
 | 绿盟科技行业BG第一业务本部 |  | 军工行业工控安全防护思路 | https://mp.weixin.qq.com/s/AVRYyob-bQdRRQ8i15SK3w | 1| 
@@ -4619,6 +4621,7 @@
 | ashishb | Android Security Awesome，Android 安全方向的资料整理 | https://github.com/ashishb/android-security-awesome | https://ashishb.net | Software Engineer - SF Bay area https://ashishb.net/about/ | United States | None | 94 | 0 | 0 | 0 | 0 | Python,Go,Shell,Makefile | 4800 | 1200 | 1| 
 | ashemery | 香普兰学院的逆向和二进制漏洞利用课程相关的配套练习 | https://github.com/ashemery/exploitation-course/tree/master/labs | https://github.com/ashemery?tab=followers | [Between Teams of Red and Blue, Im with the Purple Team] | USA | https://www.cyber5w.com | 37 | 0 | 20 | 0 | 0 | Python,Shell,PowerShell | 0 | 0 | 1| 
 | arieljt | VT Code Similarity Yara Generator | https://github.com/arieljt/VTCodeSimilarity-YaraGen | https://twitter.com/arieljt |  | None | None | 3 | 0 | 0 | 0 | 0 | Python | 34 | 6 | 1| 
+| aress31 | burpgpt 利用 AI 的强大功能来检测传统扫描仪可能遗漏的安全漏洞。通过利用 AI 和自然语言处理，该扩展程序简化了安全评估流程，并为安全专业人员提供了对扫描的应用程序或端点的更高级别的概览 | https://github.com/aress31/burpgpt | https://github.com/aress31?tab=followers | Keep calm and hack something, but remember to wear a ninja mask for added stealth. 🥷🏼😎 | Warrington, United Kingdom | @aegiscyber | 49 | 0 | 468 | 0 | 0 | Python,Shell,Java,Smali | 0 | 0 | 1| 
 | arbor-jjones | Loading Cuckoo Sandbox results in IDA Pro | https://github.com/arbor-jjones/idataco | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | aquasecurity | Trivy - 在容器镜像、文件系统、Git Repo 中扫描漏洞的工具 | https://github.com/aquasecurity/trivy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Python,Shell,Dockerfile,TypeScript | 0 | 0 | 1| 
 | appsecco | DVNA – Damn Vulnerable NodeJS Application | https://github.com/appsecco/dvna | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,Java,Python,JavaScript,C#,Visual,HTML,ActionScript,PHP,CSS | 439 | 129 | 2| 
@@ -4710,6 +4713,7 @@
 | StarCrossPortal | QingTing: 安全工具编排平台 | https://github.com/StarCrossPortal/QingTing | None | None | None | None | 0 | 0 | 0 | 0 | 0 | PHP,Java,Rust,C++ | 0 | 0 | 2| 
 | SpyGuard | SpyGuard - 增强版的 TinyCheck，通过网络流量检测主机是否已经被攻陷 | https://github.com/SpyGuard/SpyGuard | https://github.com/SpyGuard?tab=followers |  | None | None | 1 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | SpiralBL0CK | Chrome Pwning & V8 Pwning 入手 | https://github.com/SpiralBL0CK/Browser-Pwning-/blob/main/README.md | https://github.com/SpiralBL0CK?tab=followers | A simple beginner programmer. | None | None | 70 | 0 | 0 | 0 | 0 | Python,C,HTML,C++ | 0 | 0 | 1| 
+| SpiderLabs | Web Cache Deception Burp Extension - 用于测试应用程序是否易受 Web 缓存欺骗攻击（Cache deception）攻击的 Burp 扩展，攻击者可以利用它从受害者的 Web 缓存中获取敏感数据 | https://github.com/SpiderLabs/Airachnid-Burp-Extension | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Python,C++,Perl,C#,Ruby,PowerShell | 0 | 0 | 1| 
 | SparkSharly | Deep Learning for detection with XSS | https://github.com/SparkSharly/DL_for_xss | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | SnaffCon | Snaffler - 渗透测试项目中帮助探测 Windows/AD 环境的工具 | https://github.com/SnaffCon/Snaffler | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C#,Go,HTML | 0 | 0 | 1| 
 | SmoothHacker | 基于 KVM 实现的 Linux 内核快照 Fuzzer | https://github.com/SmoothHacker/LateRegistration | https://github.com/SmoothHacker?tab=followers |  | Chicago, USA | None | 8 | 0 | 0 | 0 | 0 | Python,C | 0 | 0 | 1| 

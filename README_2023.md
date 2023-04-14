@@ -14,6 +14,10 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 无限手套Infinity Gauntlet | gh_8d126cb22752 | 关于对ISO/IEC 27002中威胁情报的思考 | https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg | 1| 
+| 数据科学重点实验室 | sjkx2013- | 学术观点 , 从技术“玩具”到治理工具：将ChatGPT引入公共治理领域的风险与策略 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA | 1| 
+| 军机故阁 | gh_e57baf46bdf5 | 用AI开发逼真的社交傀儡帐户 | https://mp.weixin.qq.com/s/uLhtDWn_o2n4sAGJVQOJXg | 1| 
+| 360威胁情报中心 | CoreSec360 | APT-C-28（ScarCruft）组织对韩国地区攻击活动分析 | https://mp.weixin.qq.com/s/RHbsCLzahLP0zGgC3N5pPQ | 1| 
 | 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
 | LemonSec | lemon-sec | 内存马流程理解与手写 EXP | https://mp.weixin.qq.com/s/2BSrWaB0B7cn0ng4BAwUHA | 1| 
 | 慢雾科技 | SlowMist | 慢雾出品 , Web3 项目安全实践要求 | https://mp.weixin.qq.com/s/hBTDv5Jd0FLdLu0UKjzrGA | 1| 
@@ -99,18 +103,18 @@
 | 长个新的脑袋 | gh_12ca60dcf67f | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow | 1| 
 | 银针安全 | SilverNeedleLab | 一个高度可定制化的JNDI和Java反序列化利用工具 | https://mp.weixin.qq.com/s/-OE1MlqaCUl7gmSPVNBr7g | 1| 
 | 绿盟科技研究通讯 | nsfocus_research | 开源软件安全性分析 | https://mp.weixin.qq.com/s/dDHmQkWhSchnD7kTBtKymw | 2| 
-| 奇安信威胁情报中心 | gh_166784eae33e | 疑似Kasablanka组织近期针对俄罗斯的攻击活动分析 | https://mp.weixin.qq.com/s/b0FSKQ6D3MvlA8yX3v4IUg | 1| 
+| 奇安信威胁情报中心 | gh_166784eae33e | 疑似Kasablanka组织近期针对俄罗斯的攻击活动分析 | https://mp.weixin.qq.com/s/b0FSKQ6D3MvlA8yX3v4IUg | 2| 
 | r3kapig | r3kapig-team | idek 2022* Forensics Writeup by r3kapig | https://mp.weixin.qq.com/s/sEk8lFgn8hP7RNapcqvb5Q | 3| 
 | huasec | ihuahua04 | 利用空间测绘进行威胁分析 | https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg | 1| 
 | 阿里开发者 | ali_tech | 一文梳理Code Review方法论与实践总结 | https://mp.weixin.qq.com/s/_4MFrQSYOIGYRdDGOJPDKQ | 1| 
 | 蛇矛实验室 | Cybersnaker | 安全开发之Pcshare流程分析 | https://mp.weixin.qq.com/s/R1Fgyj0pUCxFGq4-YFfMXw | 1| 
 | CodeWisdom | gh_2395906a410f | 关于大模型时代软件智能化开发的一点展望 | https://mp.weixin.qq.com/s/UTcnFq53JjIMsShmKtQvDw | 2| 
 | 迪哥讲事 | growing0101 | 赏金猎人系列-如何测试文件上传功能 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247487158&idx=1&sn=6373bf434deaaa6a9a055f9c0400b512&chksm=e8a604d5dfd18dc361addad111cb78a461baf4e6a3a954799b9c8ed8230fce6707f727f1f0ab&scene=21#wechat_redirect | 1| 
-| 红队蓝军 | Xx_Security | 域内定位个人PC的三种方式 | https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw | 2| 
+| 红队蓝军 | Xx_Security | 域内定位个人PC的三种方式 | https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw | 3| 
 | 华为安全 | HuaweiSecurity | 安全态势感知专家说第2期：人工智能技术在态势感知的应用 | https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg | 2| 
 | 中国信息安全 | chinainfosec | 法治 , 网络爬虫犯罪的量刑问题及对策 | https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og | 4| 
 | 专注安管平台 | gh_48603b9bb05a | Forrester：2022年安全分析平台厂商评估 | https://mp.weixin.qq.com/s/p1U1M0UvzdaNccVqt7914g | 3| 
-| FuzzWiki | gh_fcf21e658324 | 2022年CCF B级以上期刊fuzz论文汇总｜技术进展 | https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg | 2| 
+| FuzzWiki | gh_fcf21e658324 | 2022年CCF B级以上期刊fuzz论文汇总｜技术进展 | https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg | 3| 
 | FOFA | gh_d79c8913fde8 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g | 1| 
 | DataCon大数据安全分析竞赛 | gh_a0316d342599 | 冠军Writeup大放送 , DataCon2022网络流量分析赛道之“见世面”战队 | https://mp.weixin.qq.com/s/uOB1kZ7YIJ27IlyXtaYPYA | 2| 
 | 长亭技术沙盒 | chaitintech_release | RWCTF 5th ShellFind Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ | 1| 
@@ -176,6 +180,7 @@
 | batteryshark | 利用 QEMU + GDB 帮助魔改，逆向和理解嵌入式系统内核 | https://github.com/batteryshark/writeups/wiki/Go-to-Shell---Reverse-Engineering-Kernel-Modifications-with-QEMU-gdb | https://github.com/batteryshark?tab=followers |  | None | None | 65 | 0 | 13 | 0 | 0 | C#,C,C++ | 0 | 0 | 1| 
 | bAuh0lz | CVE-2023-0297:pyLoad中由于js2py的eval_js安全配置不当导致未授权RCE | https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad | https://github.com/bAuh0lz?tab=followers |  | None | None | 8 | 0 | 5 | 0 | 0 | Python,PHP | 0 | 0 | 1| 
 | ashemery | 香普兰学院的逆向和二进制漏洞利用课程相关的配套练习 | https://github.com/ashemery/exploitation-course/tree/master/labs | https://github.com/ashemery?tab=followers | [Between Teams of Red and Blue, Im with the Purple Team] | USA | https://www.cyber5w.com | 37 | 0 | 20 | 0 | 0 | Python,Shell,PowerShell | 0 | 0 | 1| 
+| aress31 | burpgpt 利用 AI 的强大功能来检测传统扫描仪可能遗漏的安全漏洞。通过利用 AI 和自然语言处理，该扩展程序简化了安全评估流程，并为安全专业人员提供了对扫描的应用程序或端点的更高级别的概览 | https://github.com/aress31/burpgpt | https://github.com/aress31?tab=followers | Keep calm and hack something, but remember to wear a ninja mask for added stealth. 🥷🏼😎 | Warrington, United Kingdom | @aegiscyber | 49 | 0 | 468 | 0 | 0 | Python,Shell,Java,Smali | 0 | 0 | 1| 
 | alt3kx | CVE-2023-24055:KeePass 配置文件具有写入权限的攻击者可以修改它并注入恶意触发器,可以泄露密码 | https://github.com/alt3kx/CVE-2023-24055_PoC | https://github.com/alt3kx?tab=followers | Red Teamer , PentTester , Bug Bounty , 0day guy! , Researcher , Lone Wolf...l opinions expressed are mine 🇪🇺 | France | None | 49 | 0 | 11 | 0 | 0 | C | 0 | 0 | 1| 
 | akamai | 利用 Windows CryptoAPI 中的欺骗漏洞(CVE-2022-34689),Poc的攻击分为两种:一种利用 Chrome v48,另一种侧重于crypt32.dll中易受攻击的MD5 | https://github.com/akamai/akamai-security-research/tree/main/PoCs/CVE-2022-34689 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,Go,Swift,PowerShell,Rust | 0 | 0 | 1| 
 | XaFF-XaFF | Black Angel Rootkit 是一个 Windows 11/10 x64 内核模式 Rootkit，可以加载启用的 DSE，同时保持其全部功能。专为红队设计。 可以通过使用 kdmappe 加载来绕过 DSE | https://github.com/XaFF-XaFF/Black-Angel-Rootkit | https://github.com/XaFF-XaFF?tab=followers | 18y/o | Poland | None | 15 | 0 | 25 | 0 | 0 | C#,Assembly,C++ | 0 | 0 | 1| 
@@ -183,6 +188,7 @@
 | TheBlupper | idek 2022* CTF Hardest Demon Bloodbath by Riot题目的writeup | https://github.com/TheBlupper/ctf_writeups/tree/main/idek2022/Hardest%20Demon%20Bloodbath%20by%20Riot | https://github.com/TheBlupper?tab=followers | git: gud is not a git command. See git --help. | None | None | 6 | 0 | 5 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
 | SunWeb3Sec | Web3 安全-链上威胁分析教学 | https://github.com/SunWeb3Sec/DeFiHackLabs#web3-cybersecurity-academy | https://github.com/SunWeb3Sec?tab=followers | Lets make Web3 more secure! | None | None | 9 | 0 | 8 | 0 | 0 | Solidity | 0 | 0 | 1| 
 | StarCrossPortal | Swallow-开源代码审计系统 | https://github.com/StarCrossPortal/swallow | None | None | None | None | 0 | 0 | 0 | 0 | 0 | PHP,Java,Rust,C++ | 0 | 0 | 1| 
+| SpiderLabs | Web Cache Deception Burp Extension - 用于测试应用程序是否易受 Web 缓存欺骗攻击（Cache deception）攻击的 Burp 扩展，攻击者可以利用它从受害者的 Web 缓存中获取敏感数据 | https://github.com/SpiderLabs/Airachnid-Burp-Extension | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Python,C++,Perl,C#,Ruby,PowerShell | 0 | 0 | 1| 
 | RF-CTI | 2022 SANS 网络威胁情报峰会资料 | https://github.com/RF-CTI/SANS-summit/blob/master/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,SCSS,HTML | 0 | 0 | 1| 
 | Qihoo360 | safe-rules: 详细的C/C++编程规范指南 | https://github.com/Qihoo360/safe-rules | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Scala,JavaScript,C++,Go | 0 | 0 | 1| 
 | PaulNorman01 | Forensia:RedTeam后渗透阶段的痕迹清理工具 | https://github.com/PaulNorman01/Forensia | https://github.com/PaulNorman01?tab=followers | Cybersecurity researcher , Coder , Geek ! | None | None | 3 | 0 | 1 | 0 | 0 | C,C++ | 0 | 0 | 1| 

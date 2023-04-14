@@ -14,6 +14,13 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 无限手套Infinity Gauntlet | gh_8d126cb22752 | 关于对ISO/IEC 27002中威胁情报的思考 | https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg | 1| 
+| 数据科学重点实验室 | sjkx2013- | 学术观点 , 从技术“玩具”到治理工具：将ChatGPT引入公共治理领域的风险与策略 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA | 1| 
+| 奇安信威胁情报中心 | gh_166784eae33e | RedGoBot 团伙武器库更新并转向暗网 | https://mp.weixin.qq.com/s/luO1PsjafK-b8z006VGG_A | 1| 
+| 军机故阁 | gh_e57baf46bdf5 | 用AI开发逼真的社交傀儡帐户 | https://mp.weixin.qq.com/s/uLhtDWn_o2n4sAGJVQOJXg | 1| 
+| FuzzWiki | gh_fcf21e658324 | 2022软件工程领域顶会fuzz技术研究相关论文汇总｜技术进展 | https://mp.weixin.qq.com/s/n7nrfoZcJXtMEKitkOL5rA | 1| 
+| 360威胁情报中心 | CoreSec360 | APT-C-28（ScarCruft）组织对韩国地区攻击活动分析 | https://mp.weixin.qq.com/s/RHbsCLzahLP0zGgC3N5pPQ | 1| 
+| 红队蓝军 | Xx_Security | Beacon内存特征修改绕过卡巴斯基 | https://mp.weixin.qq.com/s/cnX-6dQmUd0OQMikR2FG0g | 1| 
 | 千寻安服 | scaf_0123 | 机器学习检测Cobalt Strike流量 | https://mp.weixin.qq.com/s/BgTQ98yfLALrYkHbsh_Agw | 1| 
 | ABC123安全研究实验室 | abc123network | 第56篇：美国安全局NSA入侵西北工业大学流程图梳理和分析（上篇） | https://mp.weixin.qq.com/s/Ba2NcOKGbpw9tj4ka6gaZA | 1| 
 | 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
@@ -41,6 +48,8 @@
 | plasma-umass | SQLwrite 将 AI 集成到您的数据库中：自动将自然语言查询转换为 SQL，然后运行 ​​SQL 查询。据我们所知，这是首次将 LLM 集成到生产数据库管理中以实现自然语言查询 | https://github.com/plasma-umass/SQLwrite | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Jupyter,Python,JavaScript,C++ | 0 | 0 | 1| 
 | leftp | DPAPISnoop 是一种可用于使用 Hashcat / JtR 破解 DES3 哈希的工具。拥有管理员权限后，它可以在本地或远程上下文 (SMB) 中运行 | https://github.com/leftp/DPAPISnoop | https://github.com/leftp?tab=followers |  | GR | None | 405 | 0 | 404 | 0 | 0 | C#,C | 0 | 0 | 1| 
 | binsync | BinSync 是一个基于 Git 版本控制系统构建的反编译器协作工具，可实现与反编译器无关的细粒度逆向工程协作。 | https://github.com/binsync/binsync | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,SCSS | 0 | 0 | 1| 
+| aress31 | burpgpt 利用 AI 的强大功能来检测传统扫描仪可能遗漏的安全漏洞。通过利用 AI 和自然语言处理，该扩展程序简化了安全评估流程，并为安全专业人员提供了对扫描的应用程序或端点的更高级别的概览 | https://github.com/aress31/burpgpt | https://github.com/aress31?tab=followers | Keep calm and hack something, but remember to wear a ninja mask for added stealth. 🥷🏼😎 | Warrington, United Kingdom | @aegiscyber | 49 | 0 | 468 | 0 | 0 | Python,Shell,Java,Smali | 0 | 0 | 1| 
+| SpiderLabs | Web Cache Deception Burp Extension - 用于测试应用程序是否易受 Web 缓存欺骗攻击（Cache deception）攻击的 Burp 扩展，攻击者可以利用它从受害者的 Web 缓存中获取敏感数据 | https://github.com/SpiderLabs/Airachnid-Burp-Extension | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Python,C++,Perl,C#,Ruby,PowerShell | 0 | 0 | 1| 
 | 0xPugazh | 包含多种不同应用的fuzz字典汇总 | https://github.com/0xPugazh/fuzz4bounty | https://github.com/0xPugazh?tab=followers | Wannbe Hacker... | TamilNadu, India | Remote | 16 | 0 | 352 | 0 | 0 | Shell | 0 | 0 | 1| 
 
 
