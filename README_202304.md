@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 知识产权那点事 | IPR888888 | 网络游戏黑灰产的反法规制探析 | https://mp.weixin.qq.com/s/-7abZY7xc04NLZIFwyQzaw | 1| 
+| Tide安全团队 | TideSec | 从JS到内网横向 | https://mp.weixin.qq.com/s/KrbCMEn_8C7XcsHxGSwnIA | 1| 
+| GobySec | gobysec | 跨越语言的艺术：Weblogic序列化漏洞与IIOP协议 | https://mp.weixin.qq.com/s/VotuOtXW-IjD3kKg91UgsQ | 1| 
 | 绿盟科技 | NSFOCUS-weixin | RSA 2023创新沙盒盘点｜Relyance AI：利用语义分析和代码审计实现数据治理左移 | https://mp.weixin.qq.com/s/UWwN1iYdd3v-CpTnt8o1hQ | 1| 
 | 中央政法委长安剑 | changan-j | 国家安全机关公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg | 1| 
 | 无限手套Infinity Gauntlet | gh_8d126cb22752 | 关于对ISO/IEC 27002中威胁情报的思考 | https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg | 1| 
