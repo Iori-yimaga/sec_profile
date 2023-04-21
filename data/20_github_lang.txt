@@ -1,6 +1,6 @@
-Python	1164
+Python	1165
 C	730
-JavaScript	699
+JavaScript	700
 C++	600
 HTML	509
 Java	502
@@ -54,13 +54,13 @@ Arduino	10
 Puppet	10
 Bro	10
 Logos	9
+SCSS	9
 R	9
 Smali	9
 Nix	9
 TSQL	9
 PLpgSQL	8
 Zeek	8
-SCSS	8
 Solidity	8
 Starlark	7
 Clojure	7
