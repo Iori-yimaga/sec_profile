@@ -1,0 +1,45 @@
+20230410	法规	http://www.cac.gov.cn/2023-04/11/c_1682854275475410.htm	生成式人工智能服务管理办法（征求意见稿）	cac.gov.cn	www.cac.gov.cn	/2023-04/11/c_1682854275475410.htm
+20230410	法规	https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg	公布一批危害国家安全典型案例	qq.com	mp.weixin.qq.com	/s/OjyITQumPYtSBQ41EpNFqg
+20230410	取证分析	https://mp.weixin.qq.com/s/Ba2NcOKGbpw9tj4ka6gaZA	NSA入侵西北工业大学流程图梳理和分析（上篇）	qq.com	mp.weixin.qq.com	/s/Ba2NcOKGbpw9tj4ka6gaZA
+20230410	运维安全	https://mp.weixin.qq.com/s/BgTQ98yfLALrYkHbsh_Agw	机器学习检测Cobalt Strike流量	qq.com	mp.weixin.qq.com	/s/BgTQ98yfLALrYkHbsh_Agw
+20230410	恶意分析	http://www.china-cia.org.cn/home/WorkDetail?id=643368b50200340e00ff4fc7	美国情报机构网络攻击的历史回顾	china-cia.org.cn	www.china-cia.org.cn	/home/WorkDetail
+20230410	漏洞分析	https://mp.weixin.qq.com/s/n7nrfoZcJXtMEKitkOL5rA	2022软件工程领域顶会fuzz技术研究相关论文汇总	qq.com	mp.weixin.qq.com	/s/n7nrfoZcJXtMEKitkOL5rA
+20230410	数据挖掘	https://mp.weixin.qq.com/s/uLhtDWn_o2n4sAGJVQOJXg	用AI开发逼真的社交傀儡帐户	qq.com	mp.weixin.qq.com	/s/uLhtDWn_o2n4sAGJVQOJXg
+20230410	数据挖掘	https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA	ChatGPT等新一代人工智能技术的社会影响及其治理	qq.com	mp.weixin.qq.com	/s/C4sjpxuIW4jl030ZTNKKXA
+20230410	取证分析	https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg	关于对ISO/IEC 27002中威胁情报的思考	qq.com	mp.weixin.qq.com	/s/PhUNbAri9u8SMZDWPw2YTg
+20230410	Web安全	https://mp.weixin.qq.com/s/KrbCMEn_8C7XcsHxGSwnIA	从JS到内网横向	qq.com	mp.weixin.qq.com	/s/KrbCMEn_8C7XcsHxGSwnIA
+20230410	恶意分析	https://mp.weixin.qq.com/s/luO1PsjafK-b8z006VGG_A	RedGoBot 团伙武器库更新并转向暗网	qq.com	mp.weixin.qq.com	/s/luO1PsjafK-b8z006VGG_A
+20230410	恶意分析	https://mp.weixin.qq.com/s/-7abZY7xc04NLZIFwyQzaw	网络游戏黑灰产的反法规制探析	qq.com	mp.weixin.qq.com	/s/-7abZY7xc04NLZIFwyQzaw
+20230410	Web安全	https://mp.weixin.qq.com/s/cnX-6dQmUd0OQMikR2FG0g	Beacon内存特征修改绕过卡巴斯基	qq.com	mp.weixin.qq.com	/s/cnX-6dQmUd0OQMikR2FG0g
+20230410	Web安全	https://github.com/qianxiao996/FrameScan-GUI	FrameScan-GUI: 图形化界面的cms漏洞检测框架	github.com	github.com	/qianxiao996/FrameScan-GUI
+20230410	数据挖掘	https://mp.weixin.qq.com/s/UWwN1iYdd3v-CpTnt8o1hQ	利用语义分析和代码审计实现数据治理左移	qq.com	mp.weixin.qq.com	/s/UWwN1iYdd3v-CpTnt8o1hQ
+20230410	恶意分析	https://mp.weixin.qq.com/s/097y6Vt9hVtL1gGM7Ngn8Q	JSLIM:通过瘦身技术减少已知JS漏洞	qq.com	mp.weixin.qq.com	/s/097y6Vt9hVtL1gGM7Ngn8Q
+20230410	Web安全	https://mp.weixin.qq.com/s/VotuOtXW-IjD3kKg91UgsQ	跨越语言的艺术：Weblogic序列化漏洞与IIOP协议	qq.com	mp.weixin.qq.com	/s/VotuOtXW-IjD3kKg91UgsQ
+20230410	杂志	https://www.sec-wiki.com/weekly/475	SecWiki周刊（第475期)	sec-wiki.com	www.sec-wiki.com	/weekly/475
+20230410	编程技术	https://mp.weixin.qq.com/s/AbTOA-tW24tnqC6A12MC5A	精简JS应用:一种去除JavaScript库中未使用函数的方法	qq.com	mp.weixin.qq.com	/s/AbTOA-tW24tnqC6A12MC5A
+20230417	法规	http://www.sca.gov.cn/sca/hdjl/2020-08/20/content_1060779.shtml	商用密码管理条例（修订草案征求意见稿）	sca.gov.cn	www.sca.gov.cn	/sca/hdjl/2020-08/20/content_1060779.shtml
+20230417	Web安全	https://mp.weixin.qq.com/s/A6Kjej2pfcCjuY7qey5irw	自动化漏洞赏金(bugbounty)和xscan扫描器总结	qq.com	mp.weixin.qq.com	/s/A6Kjej2pfcCjuY7qey5irw
+20230417	Web安全	https://orange-cyberdefense.github.io/ocd-mindmaps/	AD攻击思维导图	github.io	orange-cyberdefense.github.io	/ocd-mindmaps/
+20230417	其它	https://mp.weixin.qq.com/s/nZu4p5ZSmyzOVhQleIXQpg	云原生安全-从k8s日志审计视角检测自动化工具攻击	qq.com	mp.weixin.qq.com	/s/nZu4p5ZSmyzOVhQleIXQpg
+20230417	杂志	https://www.sec-wiki.com/weekly/476	SecWiki周刊（第476期)	sec-wiki.com	www.sec-wiki.com	/weekly/476
+20230417	其它	https://mp.weixin.qq.com/s/HWz7CWjJwLm6FfwgMi37sA	Sam Altman 的创业手册	qq.com	mp.weixin.qq.com	/s/HWz7CWjJwLm6FfwgMi37sA
+20230417	数据挖掘	https://mp.weixin.qq.com/s/dI-bhaUb1Vre7UVyMqZSOg	ChatGPT谈开源大模型的风险与版权控制策略	qq.com	mp.weixin.qq.com	/s/dI-bhaUb1Vre7UVyMqZSOg
+20230417	运维安全	https://zhuanlan.zhihu.com/p/622636229	在企业安全建设中真的需要SOAR么？	zhihu.com	zhuanlan.zhihu.com	/p/622636229
+20230417	其它	http://www.abs.ac.cn/module/download/downfile.jsp?classid=0&filename=181c30599c734118b9436c42f9a839da.pdf	广播电视和网络视听深度伪造防范技术要求（2022版）	abs.ac.cn	www.abs.ac.cn	/module/download/downfile.jsp
+20230417	取证分析	https://mp.weixin.qq.com/s/tFT0r_u7upU0d_U7R-Kivg	从不同角度分析当前网络犯罪	qq.com	mp.weixin.qq.com	/s/tFT0r_u7upU0d_U7R-Kivg
+20230417	Web安全	https://mp.weixin.qq.com/s/cplbL_TUKjCuGTpI7YCKQg	一个AK/SK泄露检测的实现思路	qq.com	mp.weixin.qq.com	/s/cplbL_TUKjCuGTpI7YCKQg
+20230417	移动安全	https://mp.weixin.qq.com/s/eMcBrkMwiX4T9rlPbaSafg	检测浏览器扩展的数据收集行为与其声明的隐私策略的不一致性	qq.com	mp.weixin.qq.com	/s/eMcBrkMwiX4T9rlPbaSafg
+20230417	漏洞分析	https://mp.weixin.qq.com/s/vqw4-uCos-pxA5yPsm54rQ	DIE：基于保留属性变异的JavaScript浏览器引擎模糊测试工具	qq.com	mp.weixin.qq.com	/s/vqw4-uCos-pxA5yPsm54rQ
+20230417	观点	https://mp.weixin.qq.com/s/gzKbqCh5qvT3dUG7CyDvfA	网络安全产品管理政策遇重大调整，什么情况？	qq.com	mp.weixin.qq.com	/s/gzKbqCh5qvT3dUG7CyDvfA
+20230417	运维安全	https://mp.weixin.qq.com/s/SectHc6cA3hHi5yBAEHNBg	Prometheus + Grafana，开源监控神器！	qq.com	mp.weixin.qq.com	/s/SectHc6cA3hHi5yBAEHNBg
+20230417	漏洞分析	https://mp.weixin.qq.com/s/aakTQ9fgUVzG61uEPySLXA	Wordpress 6.1.1 后台命令执行	qq.com	mp.weixin.qq.com	/s/aakTQ9fgUVzG61uEPySLXA
+20230417	观点	https://mp.weixin.qq.com/s/Xq0XD7QO-OcEQ-HVlIctPg	废除销许？公告发布后对行业有哪些影响？	qq.com	mp.weixin.qq.com	/s/Xq0XD7QO-OcEQ-HVlIctPg
+20230417	恶意分析	https://mp.weixin.qq.com/s/O-ka76bQcfTwSfBPXCfsLA	关于反病毒引擎间不一致的研究	qq.com	mp.weixin.qq.com	/s/O-ka76bQcfTwSfBPXCfsLA
+20230417	恶意分析	https://mp.weixin.qq.com/s/LrfbCW9fHq_BzCoBgaEeNA	2023年地下网络犯罪态势观察与发现	qq.com	mp.weixin.qq.com	/s/LrfbCW9fHq_BzCoBgaEeNA
+20230417	观点	https://mp.weixin.qq.com/s/6GPD7bzwWP01aF4qI4XLhQ	从美方推动零信任战略过程看网络安全创新的规律特点	qq.com	mp.weixin.qq.com	/s/6GPD7bzwWP01aF4qI4XLhQ
+20230417	漏洞分析	https://mp.weixin.qq.com/s/Tmw4xHGanVtR_9y-ow2zOg	同源检测技术在供应链安全治理中的应用	qq.com	mp.weixin.qq.com	/s/Tmw4xHGanVtR_9y-ow2zOg
+20230417	论文	https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate	Statistics of acceptance rate for the top conferences	github.com	github.com	/liupuz/Computer-Security-Conference-Acceptance-Rate
+20230417	漏洞分析	https://mp.weixin.qq.com/s/UdmohY-oCNfbY194PCzvMQ	基于失败测试用例相似性的补丁正确性预测	qq.com	mp.weixin.qq.com	/s/UdmohY-oCNfbY194PCzvMQ
+20230417	取证分析	https://mp.weixin.qq.com/s/3NXLUL86P-4tYLO3oZ7A7g	AttacKG:从网络威胁情报报告构建技术知识图谱	qq.com	mp.weixin.qq.com	/s/3NXLUL86P-4tYLO3oZ7A7g
+20230417	编程技术	https://mp.weixin.qq.com/s/TPu5F3vJrD4MaBK_ZztCKw	Stubbifier: 去除动态服务端 JavaScript 应用的膨胀代码	qq.com	mp.weixin.qq.com	/s/TPu5F3vJrD4MaBK_ZztCKw
+20230417	运维安全	https://mp.weixin.qq.com/s/5z7HA-t5zUzd4kuPROb4Hg	打造机密计算的安全底座	qq.com	mp.weixin.qq.com	/s/5z7HA-t5zUzd4kuPROb4Hg
