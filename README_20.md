@@ -14,13 +14,15 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 1| 
+| Desync InfoSec | gh_1a0c9eea6b2a | 参加了多次攻防演练后，不知你的蓝队能否检测这些勒索组织TTPs！ | https://mp.weixin.qq.com/s/5Ll9j8HIj4dWhxavOyX75Q | 1| 
 | 悬镜安全 | Anpro-tech | SCA技术进阶系列（二）：代码同源检测技术在供应链安全治理中的应用 | https://mp.weixin.qq.com/s/Tmw4xHGanVtR_9y-ow2zOg | 1| 
 | 小贝说安全 | xiaobeisaq | 网络安全产品管理政策遇重大调整，什么情况？ | https://mp.weixin.qq.com/s/gzKbqCh5qvT3dUG7CyDvfA | 1| 
 | Founder Park | Founder-Park | Sam Altman 的创业手册 , 周末长文 | https://mp.weixin.qq.com/s/HWz7CWjJwLm6FfwgMi37sA | 1| 
 | 知识产权那点事 | IPR888888 | 网络游戏黑灰产的反法规制探析 | https://mp.weixin.qq.com/s/-7abZY7xc04NLZIFwyQzaw | 1| 
-| 中央政法委长安剑 | changan-j | 国家安全机关公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg | 1| 
 | 无限手套Infinity Gauntlet | gh_8d126cb22752 | 关于对ISO/IEC 27002中威胁情报的思考 | https://mp.weixin.qq.com/s/PhUNbAri9u8SMZDWPw2YTg | 1| 
 | 数据科学重点实验室 | sjkx2013- | 学术观点 , 从技术“玩具”到治理工具：将ChatGPT引入公共治理领域的风险与策略 | https://mp.weixin.qq.com/s/C4sjpxuIW4jl030ZTNKKXA | 1| 
+| 中央政法委长安剑 | changan-j | 国家安全机关公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg | 1| 
 | 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
 | Azure云科技 | MS_CEChina | CISO 聚焦 , AI驱动的微软安全防护：安全不仅仅是默认的，也是可以预测的 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow | 1| 
 | 清华大学智能法治研究院 | THUIAIL | 系统安全 ,《欧洲网络安全技能框架》解读 | https://mp.weixin.qq.com/s/CS2FUz62CBwcSKWqPAQdaQ | 1| 
@@ -284,7 +286,7 @@
 | 奇安信病毒响应中心 | gh_416eb7efb780 | 每周勒索威胁摘要 | https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247489215&idx=1&sn=ca816d8c8ccb63f178d0e97035bfbc40 | 5| 
 | 天驿安全 | tianyisec | 雪影，一款集合诸多功能的安全工具 | https://mp.weixin.qq.com/s?__biz=MzkxNjIxNDQyMQ==&mid=2247487622&idx=1&sn=4f3fa08fd191ebe748c8e1a6954c23af | 36| 
 | WhITECat安全团队 | WhITECat_007 | 迷糊的提权方式以及利用ssrf到最终提权靶机 | https://mp.weixin.qq.com/s?__biz=MzAwMzc2MDQ3NQ==&mid=2247486559&idx=1&sn=d3fcd82c9b6aea8d8bcf3e9686371551 | 7| 
-| 顺丰安全应急响应中心 | SFSRC- | SFSRC安全情报奖励计划正式运行 | https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247484190&idx=1&sn=9d2bda66d60dfa6bc6f3819471469d34 | 3| 
+| 顺丰安全应急响应中心 | SFSRC- | SFSRC安全情报奖励计划正式运行 | https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247484190&idx=1&sn=9d2bda66d60dfa6bc6f3819471469d34 | 4| 
 | 网络安全编程与黑客程序员 | gh_70d3f225d0bb | 利用分块传输吊打所有WAF | https://mp.weixin.qq.com/s?__biz=Mzg5NDMzNjYxOA==&mid=2247495122&idx=1&sn=839f1565f9a8fc29b7b2e2c26c6b5057 | 16| 
 | 程序员阿甘 | gh_a2e36d69d566 | linux中的交互式进程查看命令htop | https://mp.weixin.qq.com/s?__biz=MzI4MTkzNDIyMg==&mid=2247495268&idx=1&sn=fb64bfb20dc818431ea816a71f80ffdb | 33| 
 | 福韵 网络情报研究 | FuyunOsint | 【情报工具】分享24个国内外政府开放数据平台 | https://mp.weixin.qq.com/s?__biz=MzU4NTg4Mzc0MA==&mid=2247532941&idx=1&sn=eee821b9f38ab7212174722c7d675100 | 11| 
@@ -778,7 +780,7 @@
 | 腾讯安全智能 | TX_Security_AI | 基于图挖掘的安全事件分析 | https://mp.weixin.qq.com/s/ARfMqrUxiPKmbMcV_yaluw | 3| 
 | 浅黑科技 | qianheikeji | CTF：一部黑客心灵史 | https://mp.weixin.qq.com/s/wEqBaZmO8FwOyGrcWDNgYQ | 13| 
 | 国际安全智库 | guoji-anquanzhiku | “震网”十年谜底终浮水面, 伊朗核计划流产源于内鬼“间谍行动” | https://mp.weixin.qq.com/s/ORW8qWCpgQFJh8-bsaIg3w | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 24| 
+| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 25| 
 | Hacking就是好玩 |  | 对乌云漏洞库payload的整理以及Burp辅助插件 | https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw | 5| 
 | 行业研究报告 | report88 | 2018-2019年网络安全行业深度报告 | https://mp.weixin.qq.com/s/z-LN2AlMezEmJVekbDndcw | 1| 
 | 编程技术宇宙 | ProgramUniverse | 我是一个流氓软件线程 | https://mp.weixin.qq.com/s/-ggUa3aWkjjHjr9VwQL9TQ | 5| 
@@ -877,7 +879,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 211| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 212| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -4006,6 +4008,7 @@
 | tomchop | malcom：Malware Communications Analyzer | https://github.com/tomchop/malcom | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | tombkeeper | ROPs_are_for_the_99% | https://github.com/tombkeeper/Talks/blob/master/CanSecWest_2014/ROPs_are_for_the_99%25_%5BCSW2014%5D.pdf | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | tmallfe | 跨终端实践-天猫试戴的解决方案 | https://github.com/tmallfe/tmallfe.github.io/issues/4 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| tkmru | EDR 绕过 PoC合集 | https://github.com/tkmru/awesome-edr-bypass | https://github.com/tkmru?tab=followers | 電脳ケロちゃん / Co-Founder & CTO of Sterra Security Co.,Ltd. / Metasploit GSoC 2017 / Black Hat USA 2020-2021 Arsenal / Black Hat USA 2021-2022 Arsenal | Japan | None | 97 | 0 | 826 | 0 | 0 | Python,Go,Java | 0 | 0 | 1| 
 | tillmannw | prowler:Base Code for P2P Network Crawlers | https://github.com/tillmannw/prowler | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | tihmstar | iOS 15.1 kernel exploit POC for CVE-2021-30955 | https://github.com/tihmstar/desc_race-fun_public | https://github.com/tihmstar?tab=followers | My PGP Key fingerprint can be found in my Twitter bio: https://twitter.com/tihmstar | None | None | 81 | 0 | 15 | 0 | 0 | C,Objective-C,C++ | 0 | 0 | 2| 
 | threatstream | Deploying Dionaea on a Raspberry Pi using MHN | https://github.com/threatstream/mhn/wiki/Deploying-Dionaea-on-a-Raspberry-Pi | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
@@ -4114,7 +4117,7 @@
 | riskawarrior | 渗透测试书签 | https://github.com/riskawarrior/pentest-bookmarks#forums | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | riramar | A security scanner for HTTP response headers. | https://github.com/riramar/hsecscan | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | rfunix | Pompem:Find exploit tool | https://github.com/rfunix/Pompem | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
-| revng | 用于将二进制文件翻译成 LLVM IR 的 revng 工具将启用新的函数边界分析、控制流分析方案 | https://github.com/revng/revng/commit/74a35bca105572d4aa4f5d0fdfde7854c076cc51 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell,Assembly,C++ | 0 | 0 | 2| 
+| revng | 用于将二进制文件翻译成 LLVM IR 的 revng 工具将启用新的函数边界分析、控制流分析方案 | https://github.com/revng/revng/commit/74a35bca105572d4aa4f5d0fdfde7854c076cc51 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell,Assembly,C++ | 0 | 0 | 3| 
 | reviewdog | reviewdog: Automated code review tool integrated with any ... | https://github.com/reviewdog/reviewdog | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Ruby,JavaScript,Shell,Go,Dockerfile | 0 | 0 | 1| 
 | reverse-shell | routersploit: The Router Exploitation Framework | https://github.com/reverse-shell/routersploit | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | returntocorp | semgrep:Find bug variants with patterns that look like sou... | https://github.com/returntocorp/semgrep | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,OCaml,Go,Ruby | 0 | 0 | 1| 
@@ -4232,6 +4235,7 @@
 | mogutt | mogutt:企业办公即时通信软件 | https://github.com/mogutt/README | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | modzero | 趋势科技 Deep Security Agent Linux 版本 root 提权漏洞 PoC | https://github.com/modzero/MZ-21-02-Trendmicro | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,Java,Python,JavaScript,C++,Perl,C# | 0 | 0 | 1| 
 | modernizing | 代码分析与自动化重构 | https://github.com/modernizing/modernization | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Kotlin,TypeScript,Rust,C# | 0 | 0 | 1| 
+| mo-xiaoxi | GPTSecurity: 安全领域智能革命的知识库 | https://github.com/mo-xiaoxi/GPTSecurity | https://github.com/mo-xiaoxi?tab=followers | CTF Player of Tea-Deliverers, Blue-Lotus. Ph.D. Student at Tsinghua University. Research on Protocol Security. | China | Tsinghua University | 82 | 0 | 992 | 0 | 0 | Python,C#,PHP,CSS | 0 | 0 | 1| 
 | mitre-attack | Joystick :transform the ATT&CK Evaluations data into concise views | https://github.com/mitre-attack/joystick | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,HTML,Python,JavaScript,Zeek,PowerShell | 0 | 0 | 2| 
 | missDronio | MySQL盲注检测脚本 | https://github.com/missDronio/blindy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | minisllc | Domain Hunter - 域名信誉对于攻击者从事钓鱼和 C&C 很重要,所以攻击者开始尝试注册一些过期的历史信誉良好的域名,用于躲避检测。Domain Hunter 这个工具用于识别这类域名: | https://github.com/minisllc/domainhunter | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
