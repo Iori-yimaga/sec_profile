@@ -5,8 +5,8 @@ JavaScript	15
 Java	14
 Go	14
 Shell	9
+HTML	9
 C#	9
-HTML	8
 TypeScript	7
 Rust	7
 PHP	6
