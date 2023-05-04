@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 腾讯开源 | tencentopen | 开源项目发布｜SessionAnalytics - 基于互联网用户Session会话的用户路径分析和挖掘系统 | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg | 1| 
 | 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 1| 
 | Desync InfoSec | gh_1a0c9eea6b2a | 参加了多次攻防演练后，不知你的蓝队能否检测这些勒索组织TTPs！ | https://mp.weixin.qq.com/s/5Ll9j8HIj4dWhxavOyX75Q | 1| 
@@ -3984,7 +3985,7 @@
 | vxunderground | vxunderground 按照不同语言收集的恶意软件源码 | https://github.com/vxunderground/MalwareSourceCode | https://vx-underground.org | The largest collection of malware source code, samples, and papers on the internet. | International | None | 2 | 0 | 0 | 0 | 0 | Go,Assembly | 2800 | 276 | 1| 
 | vusec | Implementation of our S&P16 paper: A Tough Call: Mitigating Advanced Code-Reuse | https://github.com/vusec/typearmor | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Java,OCaml,C++ | 0 | 0 | 3| 
 | voidz0r | ImageMagick 任意文件读的POC。漏洞存在于PNG的generator中。 | https://github.com/voidz0r/CVE-2022-44268 | https://github.com/voidz0r?tab=followers | Security Engineer, Security Researcher and Developer. I love to break things and I get mad at the 3rd nested loop. | Anywhere | DHL Express | 29 | 0 | 4 | 0 | 0 | Python,PHP,JavaScript,Rust | 0 | 0 | 1| 
-| vivo | MoonBox: 无侵入的流量录制与回放平台 | https://github.com/vivo/MoonBox | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| vivo | MoonBox: 无侵入的流量录制与回放平台 | https://github.com/vivo/MoonBox | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,TypeScript,Java,C++ | 0 | 0 | 1| 
 | vivisect | @ mattifestation @ Carlos_Perez @ FixTheExchange @ Lee_Holmes It uses @ invisig0ths vivisect disassembler | https://github.com/vivisect/vivisect | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | virtualabs | BtleJack: a new Bluetooth Low Energy swiss-army knife | https://github.com/virtualabs/btlejack | https://github.com/virtualabs?tab=followers | Proud dad, happy geek, random hacker. | None | None | 51 | 0 | 0 | 0 | 0 | Python,C,Java,C++ | 0 | 0 | 1| 
 | viraintel | OWASP-Nettacker - 一款自动化的渗透测试框架: | https://github.com/viraintel/OWASP-Nettacker | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
