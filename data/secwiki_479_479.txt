@@ -1,0 +1,20 @@
+20230501	其它	https://zhuanlan.zhihu.com/p/625937937	一篇13页1.3万字的博士论文致谢	zhihu.com	zhuanlan.zhihu.com	/p/625937937
+20230501	数据挖掘	https://mp.weixin.qq.com/s/sbyIeWCvCA5IH7hJpB9rig	从GPT-4、网络安全到大模型不扩散	qq.com	mp.weixin.qq.com	/s/sbyIeWCvCA5IH7hJpB9rig
+20230501	观点	https://mp.weixin.qq.com/s/GjQXq7hsC0_IQWHeIxvgAA	甲方安全从业人员的职业发展建议	qq.com	mp.weixin.qq.com	/s/GjQXq7hsC0_IQWHeIxvgAA
+20230501	漏洞分析	https://xz.aliyun.com/t/12495	浅谈Docker逃逸	aliyun.com	xz.aliyun.com	/t/12495
+20230501	Web安全	https://xz.aliyun.com/t/12494	Tomcat反序列化注入回显内存马	aliyun.com	xz.aliyun.com	/t/12494
+20230501	其它	https://mp.weixin.qq.com/s/a6zBpIVfaUVo75JI1bz4qg	总结一下自己CNVD原创证书获取姿势	qq.com	mp.weixin.qq.com	/s/a6zBpIVfaUVo75JI1bz4qg
+20230501	漏洞分析	https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg	基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术	qq.com	mp.weixin.qq.com	/s/IEFxeXW8hkq7MR4yaRVmTg
+20230501	杂志	https://www.sec-wiki.com/weekly/478	SecWiki周刊（第478期)	sec-wiki.com	www.sec-wiki.com	/weekly/478
+20230501	运维安全	https://mp.weixin.qq.com/s/VTC6kUVNItfwxq2RIQmc5g	Java项目第三方库漏洞兼容修复	qq.com	mp.weixin.qq.com	/s/VTC6kUVNItfwxq2RIQmc5g
+20230501	漏洞分析	https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g	WECHAT二维码闪退分析	qq.com	mp.weixin.qq.com	/s/gwdKkFN-KXAK_Hop5irT-g
+20230501	漏洞分析	https://github.com/panda-re/panda	panda: Platform for Architecture-Neutral Dynamic Analysis	github.com	github.com	/panda-re/panda
+20230501	Web安全	https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQgjmgl.pdf	攻击面管理产品市场分析报告	csreviews.cn	www.csreviews.cn	/wp-content/uploads/2023/05/SSAQgjmgl.pdf
+20230501	取证分析	https://mp.weixin.qq.com/s/vRLtrxVxwjLj64qWuty20g	2022年俄乌冲突战场动态测绘年度报告	qq.com	mp.weixin.qq.com	/s/vRLtrxVxwjLj64qWuty20g
+20230501	漏洞分析	https://mp.weixin.qq.com/s/1hdwAZP7mckA1CXnDhs1sw	利用现有补丁和相似代码的自动化程序修复	qq.com	mp.weixin.qq.com	/s/1hdwAZP7mckA1CXnDhs1sw
+20230501	恶意分析	https://mp.weixin.qq.com/s/x9vLogtY53MSxybrz851tA	APTSHIELD：一个稳定、高效、实时的Linux主机APT检测系统	qq.com	mp.weixin.qq.com	/s/x9vLogtY53MSxybrz851tA
+20230501	数据挖掘	https://mp.weixin.qq.com/s/KJvk5Eyqoa3Z9kvlcLxGtg	图结构相似性度量	qq.com	mp.weixin.qq.com	/s/KJvk5Eyqoa3Z9kvlcLxGtg
+20230501	Web安全	https://xz.aliyun.com/t/12505	BadUsb实现免杀及插及上线C2服务器	aliyun.com	xz.aliyun.com	/t/12505
+20230501	数据挖掘	https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg	从RSAC2023看ChatGPT如何用于网络攻击	qq.com	mp.weixin.qq.com	/s/Ttda20-YfjI21vSfAKbdgg
+20230501	漏洞分析	https://mp.weixin.qq.com/s/OwQ3B5vjpr9ZsvOXftJoQg	VM2沙箱逃逸漏洞分析	qq.com	mp.weixin.qq.com	/s/OwQ3B5vjpr9ZsvOXftJoQg
+20230501	Web安全	https://xz.aliyun.com/t/12498	网络隧道：突破内网的通行证	aliyun.com	xz.aliyun.com	/t/12498

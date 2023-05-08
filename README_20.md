@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 奇安信产业发展研究中心 | gh_1e73e218cf57 | RSAC2023丨从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg | 1| 
 | 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 1| 
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 腾讯开源 | tencentopen | 开源项目发布｜SessionAnalytics - 基于互联网用户Session会话的用户路径分析和挖掘系统 | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg | 1| 
@@ -106,7 +107,7 @@
 | 安全内参 | anquanneican | Black Hat 2022上最值得关注的十大议题 | https://mp.weixin.qq.com/s/urcX3HeERhAPmNYp_9K6BA | 3| 
 | ATEC | Alipay_SecurityLab | 【武汉大学王骞分享】从数据视角看，如何安全地实现更好的AI | https://mp.weixin.qq.com/s/u3lnWpACDETKBJfjxUq6RQ | 1| 
 | 小晨说数据 | flink-spark | 数据治理宝典！从0-1搭建企业级数据治理体系 | https://mp.weixin.qq.com/s/YvH7V1vivriHRYYMlaj-xQ | 1| 
-| 拨开云雾 | Under_Sakura | 实时缺陷预测工具调研 | https://mp.weixin.qq.com/s/OkHvy5PV5bq6hVzqxoJx5g | 4| 
+| 拨开云雾 | Under_Sakura | 实时缺陷预测工具调研 | https://mp.weixin.qq.com/s/OkHvy5PV5bq6hVzqxoJx5g | 5| 
 | 安全防御 | anquanfangyu | NeuVector----功能丰富且强大的容器安全开源软件 | https://mp.weixin.qq.com/s/vJsH8GATbiC7-nnu58SDWw | 2| 
 | 风炫安全 | fengxuansec | 一次曲折的代码审计+渗透+绕过WAF+提权实战 | https://mp.weixin.qq.com/s/hRwYtDZ-dqqznhS3LdSxUA | 1| 
 | 可信区块链推进计划 | gh_0416fd0ec88a | Web3发展前瞻研究｜研究报告先导预告 | https://mp.weixin.qq.com/s/NdrE-lmTsIZC8XRKEAZjNw | 1| 
@@ -877,12 +878,12 @@
 | SecPulse安全脉搏 | SecPulse | 网络安全学习方法论之体系的重要性 | https://mp.weixin.qq.com/s/yXA4BRbMfJNPQ68_-Nme6g | 16| 
 | PolarisLab | PolarisLab | Hacking WildFly | https://mp.weixin.qq.com/s/KQ_17nJBPRcOTn-rPBRKTQ | 9| 
 | APT攻击 | cncg_team | 展望未来的APT发展之路 | https://mp.weixin.qq.com/s/1w6-HwD2u9GRP6IMm5xScg | 6| 
-| ADLab | v_adlab | 启明星辰ADLab：智能音箱网络安全与隐私研究报告 | https://mp.weixin.qq.com/s/suXWmn_PM6zmm3loYO1Zgw | 14| 
+| ADLab | v_adlab | 启明星辰ADLab：智能音箱网络安全与隐私研究报告 | https://mp.weixin.qq.com/s/suXWmn_PM6zmm3loYO1Zgw | 15| 
 | 高效运维 | greatops | 利用 ELK 搭建 Docker 容器化应用日志中心 | https://mp.weixin.qq.com/s/7A4lI1zeE5_BljzbKkInbw | 24| 
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 216| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 217| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -5505,6 +5506,8 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| BadUsb实现免杀及插及上线C2服务器 | https://xz.aliyun.com/t/12505| 
+| 网络隧道：突破内网的通行证 | https://xz.aliyun.com/t/12498| 
 | Tomcat反序列化注入回显内存马 | https://xz.aliyun.com/t/12494| 
 | 浅谈Docker逃逸 | https://xz.aliyun.com/t/12495| 
 | JSP WebShell攻防(三)之动态代理类绕过 | https://ti.aliyun.com/#/log?id=32| 
