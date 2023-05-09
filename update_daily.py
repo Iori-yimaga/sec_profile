@@ -50,11 +50,11 @@ if __name__ == "__main__":
     """ 
     """
     proxy = {
-        "http": "socks://127.0.0.1:1081",
-        'https': "socks://127.0.0.1:1081",
+        "http": "socks://127.0.0.1:1080",
+        'https': "socks://127.0.0.1:1080",
 
     }
-    proxy = None
+    #proxy = None
 
     scraw(proxy=proxy)
 
