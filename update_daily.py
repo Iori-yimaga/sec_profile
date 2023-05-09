@@ -50,8 +50,8 @@ if __name__ == "__main__":
     """ 
     """
     proxy = {
-        "http": "socks://127.0.0.1:1080",
-        'https': "socks://127.0.0.1:1080",
+        "http": "socks5://127.0.0.1:1080",
+        'https': "socks5://127.0.0.1:1080",
 
     }
     #proxy = None
