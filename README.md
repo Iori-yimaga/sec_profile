@@ -14,6 +14,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 威胁棱镜 | THREAT_PRISM | GreyNoise 如何计算 IP 的相似性 | https://mp.weixin.qq.com/s/mhySu_-_aa1SiqAOy1EEWA | 1| 
+| 奇安信威胁情报中心 | gh_166784eae33e | 高通GPS服务“隐蔽后门”事件分析 | https://mp.weixin.qq.com/s/jSSMANLVucBD36hw0JqTnQ | 1| 
 | 安全行者老霍 | gh_c2b78e839fd7 | 十大开源攻击模拟（BAS）工具 | https://mp.weixin.qq.com/s/M8YF_S3z6OwOT-2TKsp3mQ | 1| 
 | 安全小飞侠 | AvFisher | 从云上攻防态势分析展望云服务安全架构设计框架发展 | https://mp.weixin.qq.com/s/zVfRwoXC7YhFv7SK-yOLSw | 1| 
 | 信息安全与通信保密杂志社 | cismag2013 | 从美公布 2024 财年预算看网络空间发展 | https://mp.weixin.qq.com/s/rrMSCaSy0hL3_h1eOekkvA | 2| 
@@ -25,7 +27,7 @@
 | 安在 | AnZer_SH | 百家 , 李维春：甲方安全从业人员的职业发展建议 | https://mp.weixin.qq.com/s/GjQXq7hsC0_IQWHeIxvgAA | 1| 
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 404 Not F0und | AI4Security | 从GPT-4、网络安全到大模型不扩散 | https://mp.weixin.qq.com/s/sbyIeWCvCA5IH7hJpB9rig | 1| 
-| 安全学术圈 | secquan | Java项目第三方库漏洞兼容修复 | https://mp.weixin.qq.com/s/VTC6kUVNItfwxq2RIQmc5g | 4| 
+| 安全学术圈 | secquan | Java项目第三方库漏洞兼容修复 | https://mp.weixin.qq.com/s/VTC6kUVNItfwxq2RIQmc5g | 6| 
 
 
 # 组织github账号 推荐
@@ -37,6 +39,7 @@
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | panda-re | panda: Platform for Architecture-Neutral Dynamic Analysis | https://github.com/panda-re/panda | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Python,C++,HTML,Go,Rust | 0 | 0 | 1| 
+| Kudaes | 可修改 Rust 编写的 dll 入口点的工具，以混淆代码的字符串文字，可用作自定义 dll 入口点 | https://github.com/Kudaes/CustomEntryPoint | https://github.com/Kudaes?tab=followers | nt authority\kurosh | Madrid | None | 14 | 0 | 280 | 0 | 0 | Rust,C++ | 0 | 0 | 1| 
 
 
 # medium_xuanwu 推荐
