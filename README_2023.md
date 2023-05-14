@@ -14,17 +14,20 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 中国保密协会科学技术分会 | gh_be4f21d557c0 | 浅谈物联网设备安全 | https://mp.weixin.qq.com/s/D9D4ZSd5ij4mIvAXwqU60g | 1| 
+| SecIN技术平台 | sec-in | 原创 , CodeQL与AST之间联系 | https://mp.weixin.qq.com/s/pzq35orr_guqPeSiTMmiYw | 1| 
+| 刨洞技术交流 | gh_55f3b3854b4b | 关于GOIP设备的勘验和服务器渗透实战 | https://mp.weixin.qq.com/s/jGYO5cwGnMfJMenm7ZmLBg | 1| 
 | 安全行者老霍 | gh_c2b78e839fd7 | 十大开源攻击模拟（BAS）工具 | https://mp.weixin.qq.com/s/M8YF_S3z6OwOT-2TKsp3mQ | 1| 
 | 安全小飞侠 | AvFisher | 从云上攻防态势分析展望云服务安全架构设计框架发展 | https://mp.weixin.qq.com/s/zVfRwoXC7YhFv7SK-yOLSw | 1| 
 | ADLab | v_adlab | VM2沙箱逃逸漏洞分析 | https://mp.weixin.qq.com/s/OwQ3B5vjpr9ZsvOXftJoQg | 1| 
 | 奇安信产业发展研究中心 | gh_1e73e218cf57 | RSAC2023丨从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg | 1| 
 | 猪猪谈安全 | zzt-anquan | 总结一下自己CNVD原创证书获取姿势 | https://mp.weixin.qq.com/s/a6zBpIVfaUVo75JI1bz4qg | 1| 
-| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 1| 
+| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 2| 
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 腾讯开源 | tencentopen | 开源项目发布｜SessionAnalytics - 基于互联网用户Session会话的用户路径分析和挖掘系统 | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg | 1| 
 | 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 1| 
 | OnionSec | gh_8ab0e346e1df | 对Code Insight的学习笔记 | https://mp.weixin.qq.com/s/ldCto4vZBXLBdgjJYABr7A | 1| 
-| Desync InfoSec | gh_1a0c9eea6b2a | 参加了多次攻防演练后，不知你的蓝队能否检测这些勒索组织TTPs！ | https://mp.weixin.qq.com/s/5Ll9j8HIj4dWhxavOyX75Q | 1| 
+| Desync InfoSec | gh_1a0c9eea6b2a | 参加了多次攻防演练后，不知你的蓝队能否检测这些勒索组织TTPs！ | https://mp.weixin.qq.com/s/5Ll9j8HIj4dWhxavOyX75Q | 3| 
 | 网安国际 | inforsec | 【InForSec2023 年会论坛回顾】张殷乾：打造机密计算的安全底座 | https://mp.weixin.qq.com/s/5z7HA-t5zUzd4kuPROb4Hg | 1| 
 | 悬镜安全 | Anpro-tech | SCA技术进阶系列（二）：代码同源检测技术在供应链安全治理中的应用 | https://mp.weixin.qq.com/s/Tmw4xHGanVtR_9y-ow2zOg | 1| 
 | Hacking就是好玩 | gh_aed6cfc863ed | 自动化漏洞赏金(bugbounty)和xscan扫描器总结 | https://mp.weixin.qq.com/s/A6Kjej2pfcCjuY7qey5irw | 1| 
@@ -72,7 +75,7 @@
 | 榫卯江湖 | cnxct_coder | eCapture旁观者支持Golang tls/https加密明文捕获 | https://mp.weixin.qq.com/s/O7bxwa5wV1u785jOkJwh1Q | 1| 
 | Bypass | Bypass-- | AD域安全攻防实践（附攻防矩阵图） | https://mp.weixin.qq.com/s/SvGz8mHOBlgEc9O2hBHCEQ | 2| 
 | 老杨吃西瓜不吐葡萄皮 | HelloYangwg_20220222 | 从宏碁安全事件想到构建有韧性网络安全新范式 | https://mp.weixin.qq.com/s/5R4CWSFwFACxkAClwgxQRw | 1| 
-| Tide安全团队 | TideSec | CTF中RSA常见攻击方法 | https://mp.weixin.qq.com/s/5UY-4SPHvPD8hS2Jy8jhgw | 2| 
+| Tide安全团队 | TideSec | CTF中RSA常见攻击方法 | https://mp.weixin.qq.com/s/5UY-4SPHvPD8hS2Jy8jhgw | 4| 
 | 虎符智库 | TT_Thinktank | 深度：美军“前出狩猎”网络作战行动与影响分析 | https://mp.weixin.qq.com/s/yb2VuHzagO3MTsO3Lv5LSA | 1| 
 | 薛定谔的猿 | yeapes | Nginx流量镜像(Mirror) | https://mp.weixin.qq.com/s/xdIKU-w4_eMxV265Qp4vQA | 1| 
 | 王小明的事 | Struggle_of_a_noob | Zabbix与Jumpserver后渗透小记 | https://mp.weixin.qq.com/s/OwSZWCshBKJW0b5du7Juhw | 1| 
@@ -102,7 +105,7 @@
 | 莫哥谈安全 | gh_247dfbdf3d43 | ChatGPT在MITREATT&CK落地中的应用 | https://mp.weixin.qq.com/s/hehFQbR6lqAABEDhrxtIBg | 1| 
 | vivo千镜 | gh_54ff3f871510 | 浅谈应用分发平台标准动态 | https://mp.weixin.qq.com/s/8sN0OBkwveVDQu9aQMXDfg | 1| 
 | 360数字安全 | gh_6db130c5163e | 《2022年度反诈报告》重磅发布！ | https://mp.weixin.qq.com/s/unvQR8lneWQVP3bHj3fOWA | 1| 
-| 网络空间安全军民融合创新中心 | jmrh1226 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ | 2| 
+| 网络空间安全军民融合创新中心 | jmrh1226 | 2022年全球国防网络空间情况综述（网军建设篇-下） | https://mp.weixin.qq.com/s/wJttA6_73oMQsOGS2CIhlQ | 3| 
 | CNCERT国家工程研究中心 | NELCERT | ChatGPT 对网络安全的影响 | https://mp.weixin.qq.com/s/oEddKCs1kXeyQBxUz5trEQ | 1| 
 | APTHunter | gh_5e5d0798abea | 程序执行痕迹进行取证的多种方式 | https://mp.weixin.qq.com/s/TQBPJr-g2FUbwYtX6JzHPg | 1| 
 | ABC123安全研究实验室 | abc123network | 第51篇：某运营商外网打点到内网横向渗透的全过程 | https://mp.weixin.qq.com/s/AVEydEVTWqcOMVcA7amBVA | 2| 
@@ -139,7 +142,7 @@
 | 中国信息安全 | chinainfosec | 法治 , 网络爬虫犯罪的量刑问题及对策 | https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og | 7| 
 | 专注安管平台 | gh_48603b9bb05a | Forrester：2022年安全分析平台厂商评估 | https://mp.weixin.qq.com/s/p1U1M0UvzdaNccVqt7914g | 3| 
 | FuzzWiki | gh_fcf21e658324 | 2022年CCF B级以上期刊fuzz论文汇总｜技术进展 | https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg | 4| 
-| FOFA | gh_d79c8913fde8 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g | 1| 
+| FOFA | gh_d79c8913fde8 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g | 2| 
 | DataCon大数据安全分析竞赛 | gh_a0316d342599 | 冠军Writeup大放送 , DataCon2022网络流量分析赛道之“见世面”战队 | https://mp.weixin.qq.com/s/uOB1kZ7YIJ27IlyXtaYPYA | 2| 
 | 长亭技术沙盒 | chaitintech_release | RWCTF 5th ShellFind Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ | 1| 
 | 认知独省 | cogniti0n | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA | 1| 
@@ -166,6 +169,7 @@
 # 私人github账号 推荐
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
+| yardenshafir | 从 nsi dll 生成 WNF 符号的工具 | https://github.com/yardenshafir/WinDbg_Scripts/blob/master/symbolBuilderWnf.js | https://github.com/yardenshafir?tab=followers | A circus artist with a visual studio license | None | https://windows-internals.com/ | 21 | 0 | 2 | 0 | 0 | C,JavaScript,C++ | 0 | 0 | 1| 
 | xander-wang | logvision: 分布式实时日志分析与入侵检测系统 | https://github.com/xander-wang/logvision | https://github.com/xander-wang?tab=followers | null | Nanjing | None | 9 | 0 | 22 | 0 | 0 | Python,C,JavaScript,CSS | 0 | 0 | 1| 
 | whitead | Paper QA，一个从 PDF 或文本文件中进行问答的最小包，它使用 OpenAI 嵌入和一个名为 FAISS 的矢量数据库来嵌入和搜索带有文本引用的文档 | https://github.com/whitead/paper-qa | https://github.com/whitead?tab=followers |  | Rochester, NY | University of Rochester | 62 | 0 | 414 | 0 | 0 | Python,JavaScript,Jupyter | 0 | 0 | 1| 
 | voidz0r | ImageMagick 任意文件读的POC。漏洞存在于PNG的generator中。 | https://github.com/voidz0r/CVE-2022-44268 | https://github.com/voidz0r?tab=followers | Security Engineer, Security Researcher and Developer. I love to break things and I get mad at the 3rd nested loop. | Anywhere | DHL Express | 29 | 0 | 4 | 0 | 0 | Python,PHP,JavaScript,Rust | 0 | 0 | 1| 
@@ -179,7 +183,9 @@
 | s0duku | VMware Workstation Heap OOB 漏洞POC。 | https://github.com/s0duku/cve-2022-31705 | https://github.com/s0duku?tab=followers | NJFU | None | None | 123 | 0 | 106 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
 | romainthomas | 一款基于LIEF和LLVM的对Objective-C语言二进制文件中类成员分析的工具。 | https://github.com/romainthomas/iCDump | https://github.com/lief-project | Security Engineer working on mobile, obfuscation and file formats. Author & maintainer of @lief-project / @open-obfuscator | None | @lief-project @open-obfuscator | 50 | 0 | 331 | 0 | 0 | Java,C++ | 0 | 0 | 1| 
 | revng | Revng - 可将支持架构（目前为 i386、x86-64、MIPS、ARM、AArch64 和 s390x）的 ELF 二进制文件的 QEMU 中间表示（一系列 TCG 指令）翻译成 LLVM IR的静态二进制二进制翻译器 | https://github.com/revng/revng/tree/feature/llvm-16 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,TypeScript,C++ | 0 | 0 | 1| 
+| r3x5ur | unveilr: 一款小程序安全评估工具 | https://github.com/r3x5ur/unveilr | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | qianxiao996 | FrameScan-GUI: 图形化界面的cms漏洞检测框架 | https://github.com/qianxiao996/FrameScan-GUI | https://github.com/qianxiao996?tab=followers |  | None | None | 46 | 0 | 237 | 0 | 0 | Python,Java | 0 | 0 | 1| 
+| prescience-data | dark-knowledge: 浏览器指纹与隐私安全相关论文 | https://github.com/prescience-data/dark-knowledge | https://github.com/prescience-data?tab=followers |  | None | @undetectio | 23 | 0 | 794 | 0 | 0 | TypeScript,JavaScript | 0 | 0 | 1| 
 | potmdehex | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf | https://github.com/potmdehex?tab=followers | Reverse Engineer | None | None | 12 | 0 | 10 | 0 | 0 | C,Ruby | 0 | 0 | 1| 
 | plasma-umass | SQLwrite 将 AI 集成到您的数据库中：自动将自然语言查询转换为 SQL，然后运行 ​​SQL 查询。据我们所知，这是首次将 LLM 集成到生产数据库管理中以实现自然语言查询 | https://github.com/plasma-umass/SQLwrite | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Jupyter,Python,JavaScript,C++ | 0 | 0 | 1| 
 | phplaber | Yawf: 开源的 Web 漏洞自动化检测工具 | https://github.com/phplaber/yawf | https://github.com/phplaber?tab=followers | Security researcher | Nanjing, China | None | 7 | 0 | 384 | 0 | 0 | Python,Go,PHP | 0 | 0 | 1| 
@@ -289,6 +295,7 @@
 # xz_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 记对一次诈骗组织渗透的实例 | https://xz.aliyun.com/t/12523| 
 | BadUsb实现免杀及插及上线C2服务器 | https://xz.aliyun.com/t/12505| 
 | 网络隧道：突破内网的通行证 | https://xz.aliyun.com/t/12498| 
 | Tomcat反序列化注入回显内存马 | https://xz.aliyun.com/t/12494| 
