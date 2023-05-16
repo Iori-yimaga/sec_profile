@@ -1,0 +1,23 @@
+20230508	Web安全	https://mp.weixin.qq.com/s/M8YF_S3z6OwOT-2TKsp3mQ	十大开源攻击模拟（BAS）工具	qq.com	mp.weixin.qq.com	/s/M8YF_S3z6OwOT-2TKsp3mQ
+20230508	恶意分析	https://mp.weixin.qq.com/s/jSSMANLVucBD36hw0JqTnQ	高通GPS服务“隐蔽后门”事件分析	qq.com	mp.weixin.qq.com	/s/jSSMANLVucBD36hw0JqTnQ
+20230508	漏洞分析	https://mp.weixin.qq.com/s/ownd6UdJbiyzO9rjqKEdzQ	隐匿在commit中的安全漏洞（DSN 2019）	qq.com	mp.weixin.qq.com	/s/ownd6UdJbiyzO9rjqKEdzQ
+20230508	运维安全	https://mp.weixin.qq.com/s/zVfRwoXC7YhFv7SK-yOLSw	从云上攻防态势分析展望云服务安全架构设计框架发展	qq.com	mp.weixin.qq.com	/s/zVfRwoXC7YhFv7SK-yOLSw
+20230508	恶意分析	https://mp.weixin.qq.com/s/mhySu_-_aa1SiqAOy1EEWA	GreyNoise 如何计算 IP 的相似性	qq.com	mp.weixin.qq.com	/s/mhySu_-_aa1SiqAOy1EEWA
+20230508	数据挖掘	https://mp.weixin.qq.com/s/EcefkWsjF3wjG2MsHnsAFw	Python项目中的依赖分析	qq.com	mp.weixin.qq.com	/s/EcefkWsjF3wjG2MsHnsAFw
+20230508	其它	https://mp.weixin.qq.com/s/rrMSCaSy0hL3_h1eOekkvA	从美公布 2024 财年预算看网络空间发展	qq.com	mp.weixin.qq.com	/s/rrMSCaSy0hL3_h1eOekkvA
+20230508	编程技术	https://mp.weixin.qq.com/s/36NkhrNmV0M-7rVAIZ1ARQ	针对静态API误用检测器的系统化评估	qq.com	mp.weixin.qq.com	/s/36NkhrNmV0M-7rVAIZ1ARQ
+20230508	杂志	https://www.sec-wiki.com/weekly/479	SecWiki周刊（第479期)	sec-wiki.com	www.sec-wiki.com	/weekly/479
+20230508	文档	https://www.blackhat.com/asia-23/briefings/schedule/index.html	Black Hat Asia 2023 议题文档	blackhat.com	www.blackhat.com	/asia-23/briefings/schedule/index.html
+20230508	移动安全	https://github.com/r3x5ur/unveilr	unveilr: 一款小程序安全评估工具	github.com	github.com	/r3x5ur/unveilr
+20230508	Web安全	https://mp.weixin.qq.com/s/nHoacEmOb5lx2c0Wra7gzw	内网主机探测工具合集	qq.com	mp.weixin.qq.com	/s/nHoacEmOb5lx2c0Wra7gzw
+20230508	Web安全	https://xz.aliyun.com/t/12523	记对一次诈骗组织渗透的实例	aliyun.com	xz.aliyun.com	/t/12523
+20230508	取证分析	https://mp.weixin.qq.com/s/b2Waw-tOSVMjHdH0TcKA0A	涉网犯罪网站下线后的线索追踪	qq.com	mp.weixin.qq.com	/s/b2Waw-tOSVMjHdH0TcKA0A
+20230508	恶意分析	https://mp.weixin.qq.com/s/whUhV6__HvmbXQfcfFeRJA	Cobalt Strike防护指南（一）	qq.com	mp.weixin.qq.com	/s/whUhV6__HvmbXQfcfFeRJA
+20230508	Web安全	https://mp.weixin.qq.com/s/pzq35orr_guqPeSiTMmiYw	CodeQL与AST之间联系	qq.com	mp.weixin.qq.com	/s/pzq35orr_guqPeSiTMmiYw
+20230508	设备安全	https://mp.weixin.qq.com/s/D9D4ZSd5ij4mIvAXwqU60g	浅谈物联网设备安全	qq.com	mp.weixin.qq.com	/s/D9D4ZSd5ij4mIvAXwqU60g
+20230508	取证分析	https://mp.weixin.qq.com/s/jGYO5cwGnMfJMenm7ZmLBg	关于GOIP设备的勘验和服务器渗透实战	qq.com	mp.weixin.qq.com	/s/jGYO5cwGnMfJMenm7ZmLBg
+20230508	移动安全	https://mp.weixin.qq.com/s/4zPvQERYOujdzLItpAPNFQ	Burp+Charles联动安卓APP抓包	qq.com	mp.weixin.qq.com	/s/4zPvQERYOujdzLItpAPNFQ
+20230508	其它	https://mp.weixin.qq.com/s/yDO16j9M4KvX3IfJVxxwnA	美国网络司令部发布新版技术挑战问题指南	qq.com	mp.weixin.qq.com	/s/yDO16j9M4KvX3IfJVxxwnA
+20230508	论文	https://github.com/prescience-data/dark-knowledge	dark-knowledge: 浏览器指纹与隐私安全相关论文	github.com	github.com	/prescience-data/dark-knowledge
+20230508	漏洞分析	https://mp.weixin.qq.com/s/vebophROwiyr8U4YltzspA	3CXDesktopApp供应链攻击分析	qq.com	mp.weixin.qq.com	/s/vebophROwiyr8U4YltzspA
+20230508	恶意分析	https://mp.weixin.qq.com/s/JjWtmrwkOYiNKsXoDd04Fw	Cobalt Strike 防护指南（二）	qq.com	mp.weixin.qq.com	/s/JjWtmrwkOYiNKsXoDd04Fw
