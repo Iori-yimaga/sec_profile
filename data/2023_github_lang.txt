@@ -1,4 +1,4 @@
-Python	39
+Python	40
 C	26
 C++	21
 JavaScript	18
@@ -9,9 +9,9 @@ C#	10
 TypeScript	9
 Rust	9
 Shell	9
-PHP	7
+PHP	8
 PowerShell	6
-CSS	4
+CSS	5
 SCSS	3
 Assembly	3
 Solidity	3
