@@ -1,7 +1,7 @@
 Python	1168
-C	733
+C	734
 JavaScript	700
-C++	604
+C++	605
 HTML	510
 Java	504
 Shell	478
@@ -9,10 +9,10 @@ Go	448
 C#	308
 Ruby	265
 PowerShell	249
+PHP	227
 CSS	227
-PHP	226
 TypeScript	195
-Rust	162
+Rust	163
 Objective-C	142
 Jupyter	121
 Dockerfile	80

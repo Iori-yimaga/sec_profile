@@ -1,12 +1,12 @@
-C++	4
-C	3
+C++	5
+C	4
 Python	3
+PHP	3
+Rust	3
 TypeScript	2
 JavaScript	2
 C#	2
 Go	2
-PHP	2
-Rust	2
 Java	1
 HTML	1
 CSS	1

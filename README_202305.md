@@ -14,6 +14,11 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 安全研究GoSSIP | GoSSIPSJTU | G.O.S.S.I.P 阅读推荐 2023-05-22 太空奥德赛 | https://mp.weixin.qq.com/s/o9N4sA2gjgM-SGpWMgQd3g | 1| 
+| 中国信息安全 | chinainfosec | 前沿 , 基于能力成熟度模型的车联网漏洞管理探索 | https://mp.weixin.qq.com/s/IcmYIiy6d-rYanuMQGTydA | 1| 
+| SecUN安全村 | sec-un | 大模型在威胁情报中应用可行性研究报告丨安全村 | https://mp.weixin.qq.com/s/G6JzGDkYJ1oQ4BHoYu5HlQ | 1| 
+| Hugging Face | gh_504339124f0f | StarCoder: 最先进的代码大模型 | https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q | 1| 
+| FuzzWiki | gh_fcf21e658324 | PolyFuzz：针对多语言软件的灰盒模糊测试｜技术进展 | https://mp.weixin.qq.com/s/OC_zWpFETGRw8oVXGToSSw | 1| 
 | 极思 | WhoAmSven | 【极思】为什么必须做安全度量？ | https://mp.weixin.qq.com/s/8fvPXP8gCVxNLyhaadozNg | 1| 
 | 安全杂谈 | close_3873219902 | Linux 系统安全机制及技术大观 | https://mp.weixin.qq.com/s/OrJ4wgbBrxnfrTaXlA0h7A | 1| 
 | 太空安全 | SateSec | 星链StarLink通信对抗体系建设思路探索 | https://mp.weixin.qq.com/s/Spsqdcmr4vkGXTig-xiW3g | 1| 
@@ -59,6 +64,7 @@
 | panda-re | panda: Platform for Architecture-Neutral Dynamic Analysis | https://github.com/panda-re/panda | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Python,C++,HTML,Go,Rust | 0 | 0 | 1| 
 | dru1d-foofus | 使用 impacket 库和 LDAP 查询编写的支持 NTLM 和 Kerberos 身份验证的 LAPS dump 工具 | https://github.com/dru1d-foofus/GetLAPSPassword/ | https://github.com/dru1d-foofus?tab=followers | just hacking all the things, but doing a bad job at it | Roanoke, VA | CDW | 40 | 0 | 36 | 0 | 0 | Python,Go,C,PowerShell,C# | 0 | 0 | 1| 
 | commixproject | 自动检测命令注入类漏洞的工具 | https://github.com/commixproject/commix/blob/master/README.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PHP,CSS | 0 | 0 | 1| 
+| alfarom256 | HP Hardware Diagnostics 的 EtdSupp 驱动程序的 漏洞利用 CVE-2023-32673/PSR-2022-0209 | https://github.com/alfarom256/HPHardwareDiagnostics-PoC | https://github.com/alfarom256?tab=followers |  | None | None | 70 | 0 | 82 | 0 | 0 | C,PHP,Rust,C++ | 0 | 0 | 1| 
 | Xyrem | 一个允许您模拟 Hyper-V 并拦截 Windows 内核执行的内核调用的库 | https://github.com/Xyrem/HyperDeceit | https://github.com/Xyrem?tab=followers | I like exploring and breaking stuff 😂 Discord: Xyrem#1152 | None | None | 11 | 0 | 10 | 0 | 0 | C++ | 0 | 0 | 1| 
 | Kudaes | 可修改 Rust 编写的 dll 入口点的工具，以混淆代码的字符串文字，可用作自定义 dll 入口点 | https://github.com/Kudaes/CustomEntryPoint | https://github.com/Kudaes?tab=followers | nt authority\kurosh | Madrid | None | 14 | 0 | 280 | 0 | 0 | Rust,C++ | 0 | 0 | 1| 
 
