@@ -1,0 +1,15 @@
+20230515	运维安全	https://mp.weixin.qq.com/s/8fvPXP8gCVxNLyhaadozNg	为什么必须做安全度量	qq.com	mp.weixin.qq.com	/s/8fvPXP8gCVxNLyhaadozNg
+20230515	漏洞分析	https://mp.weixin.qq.com/s/Z43o2qewofuDazskP0EWig	对最危险软件安全漏洞的评估	qq.com	mp.weixin.qq.com	/s/Z43o2qewofuDazskP0EWig
+20230515	Web安全	https://mp.weixin.qq.com/s/usHrpgxCvGsu9vvf0SMSBQ	基于Caddy实现的C2前置代理	qq.com	mp.weixin.qq.com	/s/usHrpgxCvGsu9vvf0SMSBQ
+20230515	文档	https://www.csreviews.cn/wp-content/uploads/2023/05/SSAQ2023quanjingtu.pdf	2023年中国网络安全市场全景图	csreviews.cn	www.csreviews.cn	/wp-content/uploads/2023/05/SSAQ2023quanjingtu.pdf
+20230515	杂志	https://www.sec-wiki.com/weekly/480	SecWiki周刊（第480期)	sec-wiki.com	www.sec-wiki.com	/weekly/480
+20230515	Web安全	https://mp.weixin.qq.com/s/vpzapVjgbo2DH9FKxj689w	准备好迎接三方 Cookie 的终结	qq.com	mp.weixin.qq.com	/s/vpzapVjgbo2DH9FKxj689w
+20230515	恶意分析	https://mp.weixin.qq.com/s/AraWGEFNlGyIPccWppNYUQ	解析美军“前出狩猎”网络行动	qq.com	mp.weixin.qq.com	/s/AraWGEFNlGyIPccWppNYUQ
+20230515	恶意分析	https://mp.weixin.qq.com/s/kOYqbc4RZqbxiNpQgC-2sg	基于威胁情报的高效网络威胁监测架构	qq.com	mp.weixin.qq.com	/s/kOYqbc4RZqbxiNpQgC-2sg
+20230515	数据挖掘	https://mp.weixin.qq.com/s/OrJ4wgbBrxnfrTaXlA0h7A	Linux 系统安全机制及技术大观	qq.com	mp.weixin.qq.com	/s/OrJ4wgbBrxnfrTaXlA0h7A
+20230515	Web安全	https://mp.weixin.qq.com/s/ZMWh64ajw-Gjw6Ks7EK4IQ	通过突变分析暴露库的API误用	qq.com	mp.weixin.qq.com	/s/ZMWh64ajw-Gjw6Ks7EK4IQ
+20230515	无线安全	https://mp.weixin.qq.com/s/Spsqdcmr4vkGXTig-xiW3g	星链StarLink通信对抗体系建设思路探索	qq.com	mp.weixin.qq.com	/s/Spsqdcmr4vkGXTig-xiW3g
+20230515	Web安全	https://blog.xlab.app/p/1e632d6d/	披露一个恶意Chrome扩展程序	xlab.app	blog.xlab.app	/p/1e632d6d/
+20230515	恶意分析	https://mp.weixin.qq.com/s/XDP8WJLDVt6gJLC-fNFz2Q	以文件为中心的 IoT 恶意软件网络分析	qq.com	mp.weixin.qq.com	/s/XDP8WJLDVt6gJLC-fNFz2Q
+20230515	取证分析	https://mp.weixin.qq.com/s/vNFzvuw5fCxvqqmEyeyImg	利用FAVICONS缓存进行浏览器持续追踪	qq.com	mp.weixin.qq.com	/s/vNFzvuw5fCxvqqmEyeyImg
+20230515	Web安全	https://mgeeky.tech/uploads/WarCon22%20-%20Modern%20Initial%20Access%20and%20Evasion%20Tactics.pdf	Modern Initial Access and Evasion Tactics	mgeeky.tech	mgeeky.tech	/uploads/WarCon22%20-%20Modern%20Initial%20Access%20and%20Evasion%20Tactics.pdf
