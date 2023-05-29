@@ -14,13 +14,14 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| Web3天空之城 | Web3SkyCity | State of GPT：大神Andrej揭秘OpenAI大模型原理和训练过程 | https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg?from=timeline | 1| 
 | 货拉拉安全应急响应中心 | lalasrc | 货拉拉数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw | 1| 
 | 丁永博的成长日记 | gh_26cb3abead85 | 免登录读取别人的WX聊天记录 | https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w | 1| 
 | Hugging Face | gh_504339124f0f | StarCoder: 最先进的代码大模型 | https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q | 1| 
 | 安全杂谈 | close_3873219902 | Linux 系统安全机制及技术大观 | https://mp.weixin.qq.com/s/OrJ4wgbBrxnfrTaXlA0h7A | 1| 
 | 刨洞技术交流 | gh_55f3b3854b4b | 关于GOIP设备的勘验和服务器渗透实战 | https://mp.weixin.qq.com/s/jGYO5cwGnMfJMenm7ZmLBg | 1| 
 | 奇安信产业发展研究中心 | gh_1e73e218cf57 | RSAC2023丨从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg | 1| 
-| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 2| 
+| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 3| 
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 腾讯开源 | tencentopen | 开源项目发布｜SessionAnalytics - 基于互联网用户Session会话的用户路径分析和挖掘系统 | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg | 1| 
 | 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 2| 
@@ -124,7 +125,7 @@
 | CSDN | CSDNnews | 在软件工程领域，搞科研的这十年！ | https://mp.weixin.qq.com/s/mCJ2EJ_hzQOsrIVAhXiqpw | 1| 
 | 放之 | ECyberSecurity | 设计你的安全架构OKR | https://mp.weixin.qq.com/s/MUV-TAw0AkCI3sAhaHxK1g | 3| 
 | 华为安全 | HuaweiSecurity | RSAC2022解读丨人工智能安全洞察—在对抗中前进 | https://mp.weixin.qq.com/s/EoLBu75UYlF9DJ2Ff_oyBw | 4| 
-| 中国指挥与控制学会 | c2_china | 陆军院士：陆海空天一体化信息网络发展研究 | https://mp.weixin.qq.com/s/rr-t9NScVRzqVV7bzCp9Hg | 1| 
+| 中国指挥与控制学会 | c2_china | 陆军院士：陆海空天一体化信息网络发展研究 | https://mp.weixin.qq.com/s/rr-t9NScVRzqVV7bzCp9Hg | 2| 
 | 优主张 | yzhuzhang | 浅谈企业安全建设“道”与“术”--道篇 | https://mp.weixin.qq.com/s/6JMofN8KlLj03nFfFIKsxg | 1| 
 | 360漏洞研究院 | gh_9dfd76b8e0c2 | 技术前瞻｜下一代Windows漏洞利用：攻击通用日志文件系统 | https://mp.weixin.qq.com/s/RkgSyKtLmwCFFQHY429Lkg | 2| 
 | 智能汽车设计 | qcznsj | 毕马威：2022车联网数据安全监管研究报告 | https://mp.weixin.qq.com/s/CaWLiMWO_fhbLWt3DVMXbA | 1| 

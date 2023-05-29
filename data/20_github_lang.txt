@@ -1,12 +1,12 @@
-Python	1169
-C	735
-JavaScript	701
+Python	1170
+C	736
+JavaScript	702
 C++	606
 HTML	510
-Java	504
-Shell	479
+Java	505
+Shell	480
 Go	448
-C#	308
+C#	309
 Ruby	265
 PowerShell	250
 PHP	228
@@ -27,7 +27,7 @@ Batchfile	53
 Vue	48
 CMake	45
 Scala	43
-HCL	36
+HCL	37
 Visual	34
 Vim	31
 Haskell	26
@@ -36,8 +36,8 @@ Dart	25
 Rich	23
 OCaml	23
 Emacs	20
+Elixir	19
 Groovy	19
-Elixir	18
 CoffeeScript	18
 Verilog	17
 XSLT	17

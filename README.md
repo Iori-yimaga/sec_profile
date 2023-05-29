@@ -14,6 +14,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| Web3天空之城 | Web3SkyCity | State of GPT：大神Andrej揭秘OpenAI大模型原理和训练过程 | https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg?from=timeline | 1| 
+| 中国指挥与控制学会 | c2_china | 美国陆军云计划2022 | https://mp.weixin.qq.com/s/53Vj7_t4NtPZKau1tXRVwg | 1| 
 | 希潭实验室 | abc123network | 第63篇：美国NSA量子注入攻击的流量特征及检测方法 | https://mp.weixin.qq.com/s/ZegkbgHKbwTgWe0ZFxV6lQ | 1| 
 | ChaMd5安全团队 | chamd5sec | TotolinkT10漏洞分析 | https://mp.weixin.qq.com/s/6kC02ABzeBnhjPeAs6lyrQ | 1| 
 | 货拉拉安全应急响应中心 | lalasrc | 货拉拉数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw | 1| 
@@ -24,13 +26,13 @@
 | SecUN安全村 | sec-un | 大模型在威胁情报中应用可行性研究报告丨安全村 | https://mp.weixin.qq.com/s/G6JzGDkYJ1oQ4BHoYu5HlQ | 1| 
 | Hugging Face | gh_504339124f0f | StarCoder: 最先进的代码大模型 | https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q | 1| 
 | FuzzWiki | gh_fcf21e658324 | PolyFuzz：针对多语言软件的灰盒模糊测试｜技术进展 | https://mp.weixin.qq.com/s/OC_zWpFETGRw8oVXGToSSw | 1| 
+| 虎符智库 | TT_Thinktank | 深度：如何构建基于威胁情报的高效网络威胁监测架构 | https://mp.weixin.qq.com/s/kOYqbc4RZqbxiNpQgC-2sg | 1| 
 | 极思 | WhoAmSven | 【极思】为什么必须做安全度量？ | https://mp.weixin.qq.com/s/8fvPXP8gCVxNLyhaadozNg | 1| 
 | 安全杂谈 | close_3873219902 | Linux 系统安全机制及技术大观 | https://mp.weixin.qq.com/s/OrJ4wgbBrxnfrTaXlA0h7A | 1| 
 | 太空安全 | SateSec | 星链StarLink通信对抗体系建设思路探索 | https://mp.weixin.qq.com/s/Spsqdcmr4vkGXTig-xiW3g | 1| 
-| NISL实验室 | NISL_THU2020 | 【论文分享】利用FAVICONS缓存进行浏览器持续追踪 | https://mp.weixin.qq.com/s/vNFzvuw5fCxvqqmEyeyImg | 1| 
 | code秘密花园 | code_mmhy | 准备好迎接三方 Cookie 的终结 | https://mp.weixin.qq.com/s/vpzapVjgbo2DH9FKxj689w | 1| 
+| NISL实验室 | NISL_THU2020 | 【论文分享】利用FAVICONS缓存进行浏览器持续追踪 | https://mp.weixin.qq.com/s/vNFzvuw5fCxvqqmEyeyImg | 1| 
 | Gcow安全团队 | Gcow666 | 基于Caddy实现的C2前置代理 - RedCaddy | https://mp.weixin.qq.com/s/usHrpgxCvGsu9vvf0SMSBQ | 1| 
-| 虎符智库 | TT_Thinktank | 深度：如何构建基于威胁情报的高效网络威胁监测架构 | https://mp.weixin.qq.com/s/kOYqbc4RZqbxiNpQgC-2sg | 1| 
 | FOFA | gh_d79c8913fde8 | 最佳实践｜涉网犯罪网站下线后的线索追踪 | https://mp.weixin.qq.com/s/b2Waw-tOSVMjHdH0TcKA0A | 1| 
 | 网络空间安全军民融合创新中心 | jmrh1226 | 美国网络司令部发布新版技术挑战问题指南 | https://mp.weixin.qq.com/s/yDO16j9M4KvX3IfJVxxwnA | 1| 
 | 安全行者老霍 | gh_c2b78e839fd7 | 十大开源攻击模拟（BAS）工具 | https://mp.weixin.qq.com/s/M8YF_S3z6OwOT-2TKsp3mQ | 1| 
@@ -46,7 +48,7 @@
 | 拨开云雾 | Under_Sakura | 图结构相似性度量 | https://mp.weixin.qq.com/s/KJvk5Eyqoa3Z9kvlcLxGtg | 1| 
 | 奇安信产业发展研究中心 | gh_1e73e218cf57 | RSAC2023丨从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg | 1| 
 | 猪猪谈安全 | zzt-anquan | 总结一下自己CNVD原创证书获取姿势 | https://mp.weixin.qq.com/s/a6zBpIVfaUVo75JI1bz4qg | 1| 
-| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 2| 
+| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 3| 
 | 安在 | AnZer_SH | 百家 , 李维春：甲方安全从业人员的职业发展建议 | https://mp.weixin.qq.com/s/GjQXq7hsC0_IQWHeIxvgAA | 1| 
 | 信息安全与通信保密杂志社 | cismag2013 | 2022年俄乌冲突战场动态测绘年度报告 | https://mp.weixin.qq.com/s/vRLtrxVxwjLj64qWuty20g | 4| 
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
@@ -67,7 +69,7 @@
 | r3x5ur | unveilr: 一款小程序安全评估工具 | https://github.com/r3x5ur/unveilr | https://github.com/r3x5ur?tab=followers | 一枚小菜蛋🥚 | Hangzhou | None | 9 | 0 | 55 | 0 | 0 | TypeScript,Java,PHP | 0 | 0 | 1| 
 | prescience-data | dark-knowledge: 浏览器指纹与隐私安全相关论文 | https://github.com/prescience-data/dark-knowledge | https://github.com/prescience-data?tab=followers |  | None | @undetectio | 23 | 0 | 794 | 0 | 0 | TypeScript,JavaScript | 0 | 0 | 1| 
 | panda-re | panda: Platform for Architecture-Neutral Dynamic Analysis | https://github.com/panda-re/panda | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Python,C++,HTML,Go,Rust | 0 | 0 | 1| 
-| nccgroup | libslub 是一个 python 库，用于检查 Linux 内核堆实现的 SLUB 管理结构和对象分配（Linux 内核堆实现），可用于 GDB 调试器 | https://github.com/nccgroup/libslub | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| nccgroup | libslub 是一个 python 库，用于检查 Linux 内核堆实现的 SLUB 管理结构和对象分配（Linux 内核堆实现），可用于 GDB 调试器 | https://github.com/nccgroup/libslub | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Java,Python,JavaScript,C#,Elixir,HCL | 0 | 0 | 1| 
 | dru1d-foofus | 使用 impacket 库和 LDAP 查询编写的支持 NTLM 和 Kerberos 身份验证的 LAPS dump 工具 | https://github.com/dru1d-foofus/GetLAPSPassword/ | https://github.com/dru1d-foofus?tab=followers | just hacking all the things, but doing a bad job at it | Roanoke, VA | CDW | 40 | 0 | 36 | 0 | 0 | Python,Go,C,PowerShell,C# | 0 | 0 | 1| 
 | commixproject | 自动检测命令注入类漏洞的工具 | https://github.com/commixproject/commix/blob/master/README.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PHP,CSS | 0 | 0 | 1| 
 | alfarom256 | HP Hardware Diagnostics 的 EtdSupp 驱动程序的 漏洞利用 CVE-2023-32673/PSR-2022-0209 | https://github.com/alfarom256/HPHardwareDiagnostics-PoC | https://github.com/alfarom256?tab=followers |  | None | None | 70 | 0 | 82 | 0 | 0 | C,PHP,Rust,C++ | 0 | 0 | 1| 
