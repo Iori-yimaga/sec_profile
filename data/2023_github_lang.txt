@@ -1,4 +1,4 @@
-Python	42
+Python	44
 C	29
 C++	23
 JavaScript	20
@@ -10,13 +10,14 @@ Rust	10
 HTML	10
 PHP	10
 TypeScript	9
-PowerShell	7
+PowerShell	8
 CSS	5
+Ruby	4
 SCSS	3
 Assembly	3
 Solidity	3
 HCL	3
-Ruby	3
+Dockerfile	2
 Swift	2
 Jupyter	2
 Objective-C	2
@@ -25,7 +26,6 @@ Scala	1
 OpenSCAD	1
 Perl	1
 TSQL	1
-Dockerfile	1
 Elixir	1
 Kotlin	1
 Smali	1
