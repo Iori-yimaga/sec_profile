@@ -1,7 +1,7 @@
-Python	44
+Python	45
 C	29
 C++	23
-JavaScript	20
+JavaScript	21
 Java	17
 Go	17
 Shell	11
@@ -12,10 +12,10 @@ PHP	10
 TypeScript	9
 PowerShell	8
 CSS	5
+Assembly	4
+Solidity	4
 Ruby	4
 SCSS	3
-Assembly	3
-Solidity	3
 HCL	3
 Dockerfile	2
 Swift	2

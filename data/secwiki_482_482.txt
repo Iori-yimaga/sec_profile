@@ -1,0 +1,21 @@
+20230522	法规	http://www.gov.cn/zhengce/zhengceku/202305/content_6875928.htm	商用密码管理条例	www.gov.cn	www.gov.cn	/zhengce/zhengceku/202305/content_6875928.htm
+20230522	取证分析	https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w	免登录读取别人的WX聊天记录	qq.com	mp.weixin.qq.com	/s/ub1eQespid6BeODGM7kh8w
+20230522	数据挖掘	https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q	StarCoder: 最先进的代码大模型	qq.com	mp.weixin.qq.com	/s/f-WwzLcEO-ZJczI-_bZh3Q
+20230522	运维安全	https://mp.weixin.qq.com/s/HOduKBW15WdmaBhB9e3lFg	实践之后，我们来谈谈如何建设SOAR	qq.com	mp.weixin.qq.com	/s/HOduKBW15WdmaBhB9e3lFg
+20230522	漏洞分析	https://mp.weixin.qq.com/s/IcmYIiy6d-rYanuMQGTydA	基于能力成熟度模型的车联网漏洞管理探索	qq.com	mp.weixin.qq.com	/s/IcmYIiy6d-rYanuMQGTydA
+20230522	杂志	https://www.sec-wiki.com/weekly/481	SecWiki周刊（第481期)	sec-wiki.com	www.sec-wiki.com	/weekly/481
+20230522	Web安全	https://mp.weixin.qq.com/s/pSaq6iPhQLzCF3nNYJqKwA	应急纪实-一场“驻场”的攻击对抗	qq.com	mp.weixin.qq.com	/s/pSaq6iPhQLzCF3nNYJqKwA
+20230522	运维安全	https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw	数据加密治理实践	qq.com	mp.weixin.qq.com	/s/i0eFo4duuSAxOjfELERxuw
+20230522	漏洞分析	https://mp.weixin.qq.com/s/6kC02ABzeBnhjPeAs6lyrQ	TotolinkT10漏洞分析	qq.com	mp.weixin.qq.com	/s/6kC02ABzeBnhjPeAs6lyrQ
+20230522	取证分析	https://book.yunzhan365.com/tkgd/hykn/mobile/index.html	网络空间地图测绘理论体系白皮书	yunzhan365.com	book.yunzhan365.com	/tkgd/hykn/mobile/index.html
+20230522	Web安全	https://blog.xlab.app/p/8fbece25/	从Office诱饵到鸡肋RCE	xlab.app	blog.xlab.app	/p/8fbece25/
+20230522	恶意分析	https://mp.weixin.qq.com/s/_E3UiIilHFf7lDpcbFkTRw	Botconf 2023 议题速递	qq.com	mp.weixin.qq.com	/s/_E3UiIilHFf7lDpcbFkTRw
+20230522	Web安全	https://blog.xlab.app/p/766bba8a/	eval5 前端沙箱逃逸与CSP Bypass	xlab.app	blog.xlab.app	/p/766bba8a/
+20230522	取证分析	https://mp.weixin.qq.com/s/ZegkbgHKbwTgWe0ZFxV6lQ	量子注入攻击的流量特征及检测方法	qq.com	mp.weixin.qq.com	/s/ZegkbgHKbwTgWe0ZFxV6lQ
+20230522	Web安全	https://mp.weixin.qq.com/s/uVUlorcCPGi0ZEg5ztwc_Q	Java反序列化回显学习之Tomcat通用回显	qq.com	mp.weixin.qq.com	/s/uVUlorcCPGi0ZEg5ztwc_Q
+20230522	无线安全	https://mp.weixin.qq.com/s/o9N4sA2gjgM-SGpWMgQd3g	人造卫星安全技术分析	qq.com	mp.weixin.qq.com	/s/o9N4sA2gjgM-SGpWMgQd3g
+20230522	漏洞分析	https://www.sec-in.com/article/2043	细谈使用CodeQL进行反序列化链的挖掘过程	sec-in.com	www.sec-in.com	/article/2043
+20230522	漏洞分析	https://mp.weixin.qq.com/s/OC_zWpFETGRw8oVXGToSSw	PolyFuzz：针对多语言软件的灰盒模糊测试	qq.com	mp.weixin.qq.com	/s/OC_zWpFETGRw8oVXGToSSw
+20230522	其它	https://mp.weixin.qq.com/s/53Vj7_t4NtPZKau1tXRVwg	美国陆军云计划2022	qq.com	mp.weixin.qq.com	/s/53Vj7_t4NtPZKau1tXRVwg
+20230522	其它	https://mp.weixin.qq.com/s/0PzrjsryPwrFeCCsou9Gyg	一种网络空间安全体系结构建模方法研究	qq.com	mp.weixin.qq.com	/s/0PzrjsryPwrFeCCsou9Gyg
+20230522	恶意分析	https://mp.weixin.qq.com/s/G6JzGDkYJ1oQ4BHoYu5HlQ	大模型在威胁情报中应用可行性研究报告	qq.com	mp.weixin.qq.com	/s/G6JzGDkYJ1oQ4BHoYu5HlQ

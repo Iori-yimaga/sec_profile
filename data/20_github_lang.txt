@@ -1,6 +1,6 @@
-Python	1170
+Python	1171
 C	736
-JavaScript	702
+JavaScript	703
 C++	606
 HTML	510
 Java	505
@@ -16,7 +16,7 @@ Rust	163
 Objective-C	142
 Jupyter	121
 Dockerfile	80
-Assembly	76
+Assembly	77
 Perl	74
 Swift	70
 Makefile	61
@@ -57,11 +57,11 @@ Logos	9
 SCSS	9
 R	9
 Smali	9
+Solidity	9
 Nix	9
 TSQL	9
 PLpgSQL	8
 Zeek	8
-Solidity	8
 Starlark	7
 Clojure	7
 SaltStack	7
