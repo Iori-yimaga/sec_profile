@@ -14,6 +14,13 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 看雪学苑 | ikanxue | 用 Qiling/Unicorn 框架来 dump il2cpp | https://mp.weixin.qq.com/s/zu5jZp0-CT8m0obklXP3lQ | 1| 
+| 信息安全与通信保密杂志社 | cismag2013 | 从俄乌冲突看网络威慑理论的创新发展 | https://mp.weixin.qq.com/s/0nu_OSY16L-Oj-2CXTkO2g | 2| 
+| 互联网后端架构 | fullstack888 | 作业帮在多云环境下的高可用双活架构优化实践 | https://mp.weixin.qq.com/s/oVxun0-2M9royJUWqi8k7Q | 1| 
+| Qunar技术沙龙 | QunarTL | Qunar万亿级Elasticsearch集群节点迁移实战 | https://mp.weixin.qq.com/s/zpz6k4lXQlvvBx756hyWQA | 1| 
+| NISL实验室 | NISL_THU2020 | 【成果介绍】TsuKing：通过级联组合域名服务器构成强力放大攻击 | https://mp.weixin.qq.com/s/ZXbC-jcbFJ4gYUQQKKL77A | 1| 
+| 黑哥虾撩 | gh_67cfd5e45750 | Operation Triangulation 卡巴斯基被黑 | https://mp.weixin.qq.com/s/j4DVSXCmRqZaSohIl-KBTg | 1| 
+| 落水轩 | gh_c10ee4802699 | BH ASIA 2023内鬼数据安全解决方案 | https://mp.weixin.qq.com/s/AUA5ec7a0Gv0r_Pm0BFk4Q | 1| 
 | 君哥的体历 | jungedetili | 金融企业安全建设探索之异常访问检测系统 | https://mp.weixin.qq.com/s/T6yJD_MIZf5d1qnCMQ43HA | 1| 
 | 赛博攻防悟道 | lookvul | 检测响应的保真度漏斗模型精解 | https://mp.weixin.qq.com/s/V5SCIgkV5xO57h860LTY2A | 1| 
 | 珞珈之戍 | luojiazhishu | 【论文推荐】分析移动赌博诈骗的真实数据 | https://mp.weixin.qq.com/s/vrv4gk6xsJMqiz9bUtd59A | 1| 
