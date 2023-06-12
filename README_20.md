@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| Numen Cyber Labs | gh_06b147bc90bd | Numen独家:Win32k提权漏洞CVE-2023-29936漏洞解析以EXP构造 | https://mp.weixin.qq.com/s/41ugLvwpbwaJvWUI6wuSNA | 1| 
 | 黑哥虾撩 | gh_67cfd5e45750 | Operation Triangulation 卡巴斯基被黑 | https://mp.weixin.qq.com/s/j4DVSXCmRqZaSohIl-KBTg | 1| 
 | 珞珈之戍 | luojiazhishu | 【论文推荐】分析移动赌博诈骗的真实数据 | https://mp.weixin.qq.com/s/vrv4gk6xsJMqiz9bUtd59A | 1| 
 | 企业管理现代化创新成果 | QGGC1990 | 国家电网有限公司：特大型电网企业基于实战攻防的主动网络安全管理 | https://mp.weixin.qq.com/s/3Z3ZLfIJdjNgBNh-fayr5A | 1| 
@@ -65,7 +66,7 @@
 | 计算机文艺复兴 | gh_111b1f3866f6 | ChatGPT研究框架（80页PPT）, 国君计算机 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 2| 
 | 墨菲安全 | murphy_sec | 软件供应链安全 2022 年回顾 | https://mp.weixin.qq.com/s/RQDqv7GxCo2bQqnlfsXt8g | 1| 
 | 4ra1n | sec-4ra1n | 分享Jar包分析工具：jar-analyzer | https://mp.weixin.qq.com/s/Rrx6x5M_28YRcQQCdxuEeQ | 1| 
-| 太空安全 | SateSec | 九阶段太空攻击研究与战术分析框架和七层美国防太空架构 | https://mp.weixin.qq.com/s/TvEZKKzyRyb1_jVU1YeEMg | 5| 
+| 太空安全 | SateSec | 九阶段太空攻击研究与战术分析框架和七层美国防太空架构 | https://mp.weixin.qq.com/s/TvEZKKzyRyb1_jVU1YeEMg | 8| 
 | 平猫的音乐 | gh_f6e103434039 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA | 2| 
 | 人机与认知实验室 | gh_9c3c1f805cb8 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ | 1| 
 | 丁司图 | gh_ea35ef49ac14 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ | 1| 
@@ -551,7 +552,7 @@
 | 红数位 | safetop | Pwn2Own 2021全程（附结果和录像视频） | https://mp.weixin.qq.com/s/blwGELCaPKC1HTczBcWkfQ | 28| 
 | 娜璋AI安全之家 | gh_91f1fe28fc6e | [AI安全论文] 03.什么是生成对抗网络？GAN的前世今生（Goodfellow） | https://mp.weixin.qq.com/s/CGngRxjVtOKHNsTrXBiD7w | 17| 
 | 哔哩哔哩安全应急响应中心 | gh_951c3555f599 | DGA域名检测的工程实践 | https://mp.weixin.qq.com/s/GlWqTWQzBfoXt8J8uJAPRQ | 2| 
-| NISL实验室 | NISL_THU2020 | 【研究成果】国内伪基站垃圾短信生态系统研究 | https://mp.weixin.qq.com/s/te4igYM_PHbf2xedXdmQxw | 10| 
+| NISL实验室 | NISL_THU2020 | 【研究成果】国内伪基站垃圾短信生态系统研究 | https://mp.weixin.qq.com/s/te4igYM_PHbf2xedXdmQxw | 11| 
 | 火线安全平台 | huoxian_cn | 洞态IAST Agent正式开源 | https://mp.weixin.qq.com/s/iSHmK4Fbl0whDvIH-u8tag | 6| 
 | 泰阿安全实验室 | gh_d80f12be026a | 剑指钓鱼基建自动化的想法 | https://mp.weixin.qq.com/s/5ofJ6J1KVQIvVB3dZdIVng | 3| 
 | 补天平台 | Patchingthesky | 硬核黑客笔记 - 怒吼吧电磁波 (上) | https://mp.weixin.qq.com/s/SUjjKY_TIj10rpQW9tkH9A | 11| 
@@ -570,7 +571,7 @@
 | 涛涛不帅 | gh_39db459d9552 | VMware vCenter RCE (CVE-2021-21972) 漏洞复现与 Exp 编写 | https://mp.weixin.qq.com/s/2pvaQborwMM8UHnWS_CeXA | 1| 
 | 小面包的储物柜 | afubread | 浅谈如何有效落地DevSecOps（很浅很浅） | https://mp.weixin.qq.com/s/5eX3-SCfvFfRitb9_onjvw | 1| 
 | 网安思考 | gh_e53abd003964 | 美军网络空间作战理论体系初探 | https://mp.weixin.qq.com/s/Im-bacvc_1GGvLPtRspicw | 5| 
-| 安全研究GoSSIP | GoSSIPSJTU | NDSS 2021 参会小记—2月22日论文报告 | https://mp.weixin.qq.com/s/LI49ioKYMksguQMqKH1Rcw | 17| 
+| 安全研究GoSSIP | GoSSIPSJTU | NDSS 2021 参会小记—2月22日论文报告 | https://mp.weixin.qq.com/s/LI49ioKYMksguQMqKH1Rcw | 18| 
 | 我的安全学习笔记 | gh_3b8ed48b5c15 | 安利一款还不错的开源工具—Nuclei | https://mp.weixin.qq.com/s/C_-FRZMqF4ifzlx-ij4iIQ | 1| 
 | 思想花火 | ttfirework | 做信息安全BP的一些感悟 | https://mp.weixin.qq.com/s/qygwMIGX3PhbnKuPwQqfUQ | 3| 
 | 小迪随笔 | i-little-monster | 苹果隐私十年史：变与不变（1）突变与营销 | https://mp.weixin.qq.com/s/qqQ1BgFshie288wZEWGaEw | 5| 
@@ -808,7 +809,7 @@
 | 网信中国 | cacweixin | 国家互联网信息办公室关于《网络安全威胁信息发布管理办法（征求意见稿）》公开征求意见的通知 | https://mp.weixin.qq.com/s/uu3fnM8OzC8JRcIiJkIX8w | 7| 
 | 最高人民法院 | ch_zgrmfy | 司法大数据专题报告：网络犯罪特点和趋势 | https://mp.weixin.qq.com/s/ZxYS6Dwa2XVOZ8ku-PbKog | 1| 
 | 安恒信息 | DBAPP2013 | 如何基于沙箱的威胁情报平台上搭建ATT&CK展示界面？ | https://mp.weixin.qq.com/s/YcQRAkRRo63OnRYWokl0nw | 34| 
-| 复旦白泽战队 | fdwhitzard | 白泽带你去参会@CCS19, London, UK丨论文分享（上） | https://mp.weixin.qq.com/s/gYqamT3WXiyj79mjBQYRiA | 2| 
+| 复旦白泽战队 | fdwhitzard | 白泽带你去参会@CCS19, London, UK丨论文分享（上） | https://mp.weixin.qq.com/s/gYqamT3WXiyj79mjBQYRiA | 3| 
 | heysec | bloodzer007 | 计算机与网络安全系列书单推荐 | https://mp.weixin.qq.com/s/kEH85B2L8hsTKQjaSluTVQ | 20| 
 | 404 Not F0und |  | 从Black Hat Speaker到国内外研究者：强化学习的安全应用 | https://mp.weixin.qq.com/s/YcH2P38_N4aZtGAc2ktkJw | 10| 
 | 法学学术前沿 | frontiers-of-law | 前沿, 刘艳红：网络爬虫行为的刑事规制 | https://mp.weixin.qq.com/s/O9ue3cZjw5kfVFyFkoaeUg | 1| 
@@ -827,7 +828,7 @@
 | jaxsec |  | Linux For Pentester: socat Privilege Escalation(中英对照) | https://mp.weixin.qq.com/s?__biz=MzI5OTYzMjU1OA==&mid=2247483759&idx=1&sn=13cc7388d74532d0c77e2429e5c0ea2e&chksm=ec92d3aedbe55ab8573dad78ea7f0c68c3eae83c1fb585b9ee058f7d4d9b11b062d3566c5b92&mpshare=1&scene=23&srcid=&sharer_sharetime=1571632808853&sha | 3| 
 | AD风险实验室 |  | 业务安全的资源层攻防时代 | https://mp.weixin.qq.com/s/nkf5yRrAw-IA5_ROD6Za4g | 1| 
 | 川云安全团队 | cyunsec | Kibana < 6.6.1 代码执行漏洞复现笔记 | https://mp.weixin.qq.com/s/3r41HE3bnNHhWOw42uziTQ | 1| 
-| 穿过丛林 |  | 容器云安全防御机制动态评估与优化框架 | https://mp.weixin.qq.com/s/-g2MLk7i0QBToxdE-RHjSw | 17| 
+| 穿过丛林 |  | 容器云安全防御机制动态评估与优化框架 | https://mp.weixin.qq.com/s/-g2MLk7i0QBToxdE-RHjSw | 19| 
 | 电网头条 | sgcctop | 刚刚，国家电网公司发布《泛在电力物联网白皮书2019》 | https://mp.weixin.qq.com/s/gWLm5KMfkSlhNr0ptmIYwQ | 1| 
 | 暗影安全实验室 | Eversec_Lab | 反间谍之旅003 | https://mp.weixin.qq.com/s/ZxsyB4ELKdV84eHh6zn1iQ | 1| 
 | Viola后花园 | Viola_deepblue | Signal Sciences 下一代WAF | https://mp.weixin.qq.com/s/daH3UatnuUvkFIq9BrZPyg | 8| 
@@ -870,7 +871,7 @@
 | 安比实验室 | secbitlabs | 初识「零知识」与「证明」 | https://mp.weixin.qq.com/s/XQL_taBhPkCHGZOBc24MyQ | 1| 
 | 安全客 | anquanbobao | Black hat USA 2019 议题预览 | https://mp.weixin.qq.com/s/TCKOmHt2MbeMI6MO5zq4HQ | 86| 
 | 安全回忆录 | Sec-Huiyilu | Commix命令注入靶场空格过滤的绕过测试 | https://mp.weixin.qq.com/s/81gI5nFHSVYR5w648Z2oJQ | 1| 
-| 中国信息安全 | chinainfosec | 专题 , AI加持，威胁免疫——工业互联网安全体系建设 | https://mp.weixin.qq.com/s/iywreVZ81o_bYKhuCHQl6Q | 122| 
+| 中国信息安全 | chinainfosec | 专题 , AI加持，威胁免疫——工业互联网安全体系建设 | https://mp.weixin.qq.com/s/iywreVZ81o_bYKhuCHQl6Q | 123| 
 | Docker | dockerone | 容器日志采集利器：Filebeat深度剖析与实践 | https://mp.weixin.qq.com/s/H9ExikY7bd2-YVEqGZmsOA | 2| 
 | 网络空间安全军民融合创新中心 | jmrh1226 | 病毒武器智能化技术现状与运用趋势 | https://mp.weixin.qq.com/s/ojfjlJEdGSIjrR2ptYhPSw | 13| 
 | 百度安全实验室 | BaiduX_lab | 聪明人的笨功夫 -- MesaTEE安全形式化验证实践 | https://mp.weixin.qq.com/s/X5PyWgQFZ11wLx8gpFtXOg | 9| 
@@ -5409,6 +5410,7 @@
 # zhihu_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 形式化方法的研究方向到底是干什么的？ | https://www.zhihu.com/question/37328298| 
 | 一篇13页1.3万字的博士论文致谢 | https://zhuanlan.zhihu.com/p/625937937| 
 | 在企业安全建设中真的需要SOAR么？ | https://zhuanlan.zhihu.com/p/622636229| 
 | 隐私、安全和密码学的研究趋势 ——来自微软研究院的研究成果... | https://zhuanlan.zhihu.com/p/616161071| 

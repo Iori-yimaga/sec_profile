@@ -1,0 +1,22 @@
+20230605	Web安全	https://book.yunzhan365.com/tkgd/qywa/mobile/index.html	《2022攻击技术发展趋势年度报告》精华版	yunzhan365.com	book.yunzhan365.com	/tkgd/qywa/mobile/index.html
+20230605	杂志	https://www.sec-wiki.com/weekly/483	SecWiki周刊（第483期)	sec-wiki.com	www.sec-wiki.com	/weekly/483
+20230605	漏洞分析	https://mp.weixin.qq.com/s/1UYiHGDBimZbetdX9gPUKA	大破Office签名保护	qq.com	mp.weixin.qq.com	/s/1UYiHGDBimZbetdX9gPUKA
+20230605	恶意分析	https://mp.weixin.qq.com/s/5XaemiUxjHolgmuFSorr6Q	ESEC/FSE22：基于数据投毒的代码搜索后门攻击	qq.com	mp.weixin.qq.com	/s/5XaemiUxjHolgmuFSorr6Q
+20230605	运维安全	https://mp.weixin.qq.com/s/zpz6k4lXQlvvBx756hyWQA	万亿级Elasticsearch集群节点迁移实战	qq.com	mp.weixin.qq.com	/s/zpz6k4lXQlvvBx756hyWQA
+20230605	Web安全	https://www.sec-in.com/article/2197	从Rome看二次反序列化	sec-in.com	www.sec-in.com	/article/2197
+20230605	漏洞分析	https://mp.weixin.qq.com/s/DRAAiWE4HiscWB1ZIFB0hA	USENIX Security 22 -度量漏洞生命周期的方法	qq.com	mp.weixin.qq.com	/s/DRAAiWE4HiscWB1ZIFB0hA
+20230605	观点	https://mp.weixin.qq.com/s/0nu_OSY16L-Oj-2CXTkO2g	从俄乌冲突看网络威慑理论的创新发展	qq.com	mp.weixin.qq.com	/s/0nu_OSY16L-Oj-2CXTkO2g
+20230605	取证分析	https://mp.weixin.qq.com/s/ZXbC-jcbFJ4gYUQQKKL77A	通过级联组合域名服务器构成强力放大攻击	qq.com	mp.weixin.qq.com	/s/ZXbC-jcbFJ4gYUQQKKL77A
+20230605	运维安全	https://mp.weixin.qq.com/s/oVxun0-2M9royJUWqi8k7Q	多云环境下的高可用双活架构优化实践	qq.com	mp.weixin.qq.com	/s/oVxun0-2M9royJUWqi8k7Q
+20230605	设备安全	https://mp.weixin.qq.com/s/zu5jZp0-CT8m0obklXP3lQ	用 Qiling/Unicorn 框架来 dump il2cpp	qq.com	mp.weixin.qq.com	/s/zu5jZp0-CT8m0obklXP3lQ
+20230605	Web安全	https://www.cnblogs.com/index-html/p/inject-js-into-a-gzipped-html-without-decompressing.html	HTTP 网关 GZIP 页面零开销注入 JS	cnblogs.com	www.cnblogs.com	/index-html/p/inject-js-into-a-gzipped-html-without-decompressing.html
+20230605	取证分析	https://www.hedysx.com/2913.html	TCP/UDP 端口复用器	hedysx.com	www.hedysx.com	/2913.html
+20230605	无线安全	https://mp.weixin.qq.com/s/Sa8oTKMVgOgiGDBMxSWG0g	复盘卫星大战 Hack-A-Sat 1 天基攻防竞赛	qq.com	mp.weixin.qq.com	/s/Sa8oTKMVgOgiGDBMxSWG0g
+20230605	编程技术	https://www.cnxct.com/linux-file-system-fsnotify-notes/	Linux上文件监控的踩坑分享	cnxct.com	www.cnxct.com	/linux-file-system-fsnotify-notes/
+20230605	恶意分析	https://mp.weixin.qq.com/s/SiClmwLxyOdLIShNz4fDiA	Under the Dark: 隐匿矿池滥用分析研究	qq.com	mp.weixin.qq.com	/s/SiClmwLxyOdLIShNz4fDiA
+20230605	漏洞分析	https://paper.seebug.org/2070/	黑盒 fuzz 工具 Jackalope 的使用	seebug.org	paper.seebug.org	/2070/
+20230605	无线安全	https://mp.weixin.qq.com/s/Iyg_N71AAeThNRJ_hu_dvg	复盘卫星大战 Hack-A-Sat 3 天基攻防竞赛	qq.com	mp.weixin.qq.com	/s/Iyg_N71AAeThNRJ_hu_dvg
+20230605	漏洞分析	https://www.zhihu.com/question/37328298	形式化方法的研究方向到底是干什么的？	zhihu.com	www.zhihu.com	/question/37328298
+20230605	漏洞分析	https://mp.weixin.qq.com/s/Y5KDJr_8YrIuHeACdIEG7w	面向文化多样性与内容安全的网络治理研究	qq.com	mp.weixin.qq.com	/s/Y5KDJr_8YrIuHeACdIEG7w
+20230605	无线安全	https://mp.weixin.qq.com/s/Vjhs07c7H0dt5T6iZsr5Gg	复盘卫星大战 Hack-A-Sat 2 天基攻防竞赛	qq.com	mp.weixin.qq.com	/s/Vjhs07c7H0dt5T6iZsr5Gg
+20230605	漏洞分析	https://mp.weixin.qq.com/s/41ugLvwpbwaJvWUI6wuSNA	Win32k提权漏洞CVE-2023-29936漏洞解析以EXP构造	qq.com	mp.weixin.qq.com	/s/41ugLvwpbwaJvWUI6wuSNA

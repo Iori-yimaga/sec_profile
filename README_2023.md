@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 穿过丛林 | gh_f90eac70537b | IEEE TDSC22：基于深度学习的细粒度漏洞检测框架VulDeeLocator | https://mp.weixin.qq.com/s/CTsdbwCcaX_Ni-9rdUEUNQ | 2| 
+| Numen Cyber Labs | gh_06b147bc90bd | Numen独家:Win32k提权漏洞CVE-2023-29936漏洞解析以EXP构造 | https://mp.weixin.qq.com/s/41ugLvwpbwaJvWUI6wuSNA | 1| 
+| 复旦白泽战队 | fdwhitzard | 白泽带你读论文｜How Long Do Vulnerabilities Live in the Code? | https://mp.weixin.qq.com/s/DRAAiWE4HiscWB1ZIFB0hA | 1| 
 | 互联网后端架构 | fullstack888 | 作业帮在多云环境下的高可用双活架构优化实践 | https://mp.weixin.qq.com/s/oVxun0-2M9royJUWqi8k7Q | 1| 
 | Qunar技术沙龙 | QunarTL | Qunar万亿级Elasticsearch集群节点迁移实战 | https://mp.weixin.qq.com/s/zpz6k4lXQlvvBx756hyWQA | 1| 
 | 黑哥虾撩 | gh_67cfd5e45750 | Operation Triangulation 卡巴斯基被黑 | https://mp.weixin.qq.com/s/j4DVSXCmRqZaSohIl-KBTg | 1| 
@@ -23,7 +26,7 @@
 | 中国网安 | zgwawatx | 【专题研究第013期】Palantir 大数据能力分析研究 | https://mp.weixin.qq.com/s/CIT3izspkz7_r6KpbnBtDg | 1| 
 | Web3天空之城 | Web3SkyCity | State of GPT：大神Andrej揭秘OpenAI大模型原理和训练过程 | https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg?from=timeline | 1| 
 | 货拉拉安全应急响应中心 | lalasrc | 货拉拉数据加密治理实践 | https://mp.weixin.qq.com/s/i0eFo4duuSAxOjfELERxuw | 1| 
-| 安全研究GoSSIP | GoSSIPSJTU | G.O.S.S.I.P 阅读推荐 2023-05-22 太空奥德赛 | https://mp.weixin.qq.com/s/o9N4sA2gjgM-SGpWMgQd3g | 1| 
+| 安全研究GoSSIP | GoSSIPSJTU | G.O.S.S.I.P 阅读推荐 2023-05-22 太空奥德赛 | https://mp.weixin.qq.com/s/o9N4sA2gjgM-SGpWMgQd3g | 2| 
 | 君哥的体历 | jungedetili | e1knot：实践之后，我们来谈谈如何建设SOAR | https://mp.weixin.qq.com/s/HOduKBW15WdmaBhB9e3lFg | 2| 
 | 中国指挥与控制学会 | c2_china | 美国陆军云计划2022 | https://mp.weixin.qq.com/s/53Vj7_t4NtPZKau1tXRVwg | 1| 
 | 丁永博的成长日记 | gh_26cb3abead85 | 免登录读取别人的WX聊天记录 | https://mp.weixin.qq.com/s/ub1eQespid6BeODGM7kh8w | 1| 
@@ -117,7 +120,7 @@
 | 山石网科安全技术研究院 | HSN_LAB | ChatGPT在信息安全竞赛中出题与解题实践 | https://mp.weixin.qq.com/s/EIGuFDXojTazH3gDV8vkVg | 1| 
 | 嘶吼专业版 | Pro4hou | 针对开发者的供应链攻击 | https://mp.weixin.qq.com/s/7lmd4jFM3UWIZRbXzf3TWA | 1| 
 | T00ls安全 | T00lsSec | chatGPT生成webshell实践与探究 | https://mp.weixin.qq.com/s/CWWXLJyO_kv3C2L3djhbHg | 1| 
-| NISL实验室 | NISL_THU2020 | 【论文分享】从用户视角评估俄乌冲突中乌克兰互联网稳定性 | https://mp.weixin.qq.com/s/gGpg1fKQTZqSHakyVrkTig | 5| 
+| NISL实验室 | NISL_THU2020 | 【论文分享】从用户视角评估俄乌冲突中乌克兰互联网稳定性 | https://mp.weixin.qq.com/s/gGpg1fKQTZqSHakyVrkTig | 6| 
 | 网信中国 | cacweixin | 个人信息出境标准合同办法 | https://mp.weixin.qq.com/s/5T7pCReDif6tzCd56m3zKA | 2| 
 | 一个人的安全笔记 | xjiek2015 | [HTB] NodeBlog Writeup | https://mp.weixin.qq.com/s/YHFuh42FvDWSx3j4kzwhqw | 5| 
 | 轻金融 | Qjinrong | 工行发布《2022网络金融黑产研究报告》 | https://mp.weixin.qq.com/s/tQE0BtclxX6McZRoO5MKVg | 1| 
@@ -137,7 +140,7 @@
 | 安全客 | anquanbobao | 【技术分享】开源软件供应链攻击回顾 | https://mp.weixin.qq.com/s/pAVrIQ0b66Y_YoSH3DLoIA | 2| 
 | 4ra1n | sec-4ra1n | 分享Jar包分析工具：jar-analyzer | https://mp.weixin.qq.com/s/Rrx6x5M_28YRcQQCdxuEeQ | 1| 
 | 有价值炮灰 | dust1337 | iptables 在 Android 抓包中的妙用 | https://mp.weixin.qq.com/s/P0ESUUXBmq2aQnrqDHsDaw | 1| 
-| 太空安全 | SateSec | 九阶段太空攻击研究与战术分析框架和七层美国防太空架构 | https://mp.weixin.qq.com/s/TvEZKKzyRyb1_jVU1YeEMg | 5| 
+| 太空安全 | SateSec | 九阶段太空攻击研究与战术分析框架和七层美国防太空架构 | https://mp.weixin.qq.com/s/TvEZKKzyRyb1_jVU1YeEMg | 8| 
 | 信安文摘 | share-for-life | 【安全记录】- Nacos accessToken 权限认证绕过漏洞及思考 | https://mp.weixin.qq.com/s/vsdbYACk2ShI3tx0dnOxpA | 1| 
 | 云影实验室 | gh_d86289b99724 | php://filter过滤器利用之代码执行漏洞 | https://mp.weixin.qq.com/s/BvHzbgWA1alO7N2fkEfMYQ | 1| 
 | 平猫的音乐 | gh_f6e103434039 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA | 2| 
@@ -158,7 +161,7 @@
 | 迪哥讲事 | growing0101 | 赏金猎人系列-如何测试文件上传功能 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247487158&idx=1&sn=6373bf434deaaa6a9a055f9c0400b512&chksm=e8a604d5dfd18dc361addad111cb78a461baf4e6a3a954799b9c8ed8230fce6707f727f1f0ab&scene=21#wechat_redirect | 1| 
 | 红队蓝军 | Xx_Security | 域内定位个人PC的三种方式 | https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw | 3| 
 | 华为安全 | HuaweiSecurity | 安全态势感知专家说第2期：人工智能技术在态势感知的应用 | https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg | 2| 
-| 中国信息安全 | chinainfosec | 法治 , 网络爬虫犯罪的量刑问题及对策 | https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og | 9| 
+| 中国信息安全 | chinainfosec | 法治 , 网络爬虫犯罪的量刑问题及对策 | https://mp.weixin.qq.com/s/wLmhVB6Ch_hEjt3W90m_Og | 10| 
 | 专注安管平台 | gh_48603b9bb05a | Forrester：2022年安全分析平台厂商评估 | https://mp.weixin.qq.com/s/p1U1M0UvzdaNccVqt7914g | 3| 
 | FuzzWiki | gh_fcf21e658324 | 2022年CCF B级以上期刊fuzz论文汇总｜技术进展 | https://mp.weixin.qq.com/s/ex__TFMsWXtft83g677DTg | 5| 
 | FOFA | gh_d79c8913fde8 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g | 2| 
@@ -308,6 +311,7 @@
 # zhihu_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 形式化方法的研究方向到底是干什么的？ | https://www.zhihu.com/question/37328298| 
 | 一篇13页1.3万字的博士论文致谢 | https://zhuanlan.zhihu.com/p/625937937| 
 | 在企业安全建设中真的需要SOAR么？ | https://zhuanlan.zhihu.com/p/622636229| 
 | 隐私、安全和密码学的研究趋势 ——来自微软研究院的研究成果... | https://zhuanlan.zhihu.com/p/616161071| 
