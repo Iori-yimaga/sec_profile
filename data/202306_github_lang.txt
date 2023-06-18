@@ -1,4 +1,4 @@
-Python	1
+Python	2
+JavaScript	2
 Solidity	1
 Assembly	1
-JavaScript	1
