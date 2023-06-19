@@ -1,11 +1,11 @@
-Python	1171
+Python	1172
 C	736
-JavaScript	703
-C++	606
-HTML	510
-Java	505
+JavaScript	704
+C++	607
+HTML	511
+Java	506
 Shell	480
-Go	448
+Go	449
 C#	309
 Ruby	265
 PowerShell	250

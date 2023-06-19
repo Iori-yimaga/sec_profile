@@ -1,4 +1,9 @@
-Python	2
-JavaScript	2
+JavaScript	3
+Python	3
+Java	1
 Solidity	1
+C++	1
+HTML	1
+Go	1
 Assembly	1
+Rust	1
