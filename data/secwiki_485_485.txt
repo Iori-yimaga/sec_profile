@@ -1,0 +1,30 @@
+20230612	法规	https://mp.weixin.qq.com/s/ZXlFRyuxCAB1m-iDpWqDNg	关于依法惩治网络暴力违法犯罪的指导意见（征求意见稿）	qq.com	mp.weixin.qq.com	/s/ZXlFRyuxCAB1m-iDpWqDNg
+20230612	运维安全	https://mp.weixin.qq.com/s/oYuOnfw-jGzcHrOvVkb3kg	安全事件运营SOP：webshell事件	qq.com	mp.weixin.qq.com	/s/oYuOnfw-jGzcHrOvVkb3kg
+20230612	Web安全	https://www.sec-in.com/article/2177	windows权限维持	sec-in.com	www.sec-in.com	/article/2177
+20230612	运维安全	https://mp.weixin.qq.com/s/8G93W_3jJj8Hp7IZ9wGwLQ	浅谈基于全景式画像构建终端安全防护体系的探索与实践	qq.com	mp.weixin.qq.com	/s/8G93W_3jJj8Hp7IZ9wGwLQ
+20230612	其它	https://mp.weixin.qq.com/s/591RHcJGe_GTkyGjk-dy3g	2022年网络安全公司研发投入、研发薪酬分析	qq.com	mp.weixin.qq.com	/s/591RHcJGe_GTkyGjk-dy3g
+20230612	Web安全	https://mp.weixin.qq.com/s/-Bpdq1vtbpzQb3YnmaFc2Q	安全事件运营SOP：网络攻击	qq.com	mp.weixin.qq.com	/s/-Bpdq1vtbpzQb3YnmaFc2Q
+20230612	Web安全	https://mp.weixin.qq.com/s/EdwnmFA2flf9a--TVd7feQ	应急能力提升7：整体总结与提升	qq.com	mp.weixin.qq.com	/s/EdwnmFA2flf9a--TVd7feQ
+20230612	运维安全	https://mp.weixin.qq.com/s/0Msva-RqsIrj9hOSPkUGEw	安全事件运营SOP：钓鱼邮件	qq.com	mp.weixin.qq.com	/s/0Msva-RqsIrj9hOSPkUGEw
+20230612	漏洞分析	https://mp.weixin.qq.com/s/w6und9w0CAlcISrrJX4vnA	针对二维码解析库的 Fuzzing 测试	qq.com	mp.weixin.qq.com	/s/w6und9w0CAlcISrrJX4vnA
+20230612	漏洞分析	https://mp.weixin.qq.com/s/pO2miaqlHZMSYial8rdfwA	自动利用生成	qq.com	mp.weixin.qq.com	/s/pO2miaqlHZMSYial8rdfwA
+20230612	运维安全	https://mp.weixin.qq.com/s/bk_mzU67VnQ2PiMKAuO7ng	安全运营中心SOC告警降噪方法讨论	qq.com	mp.weixin.qq.com	/s/bk_mzU67VnQ2PiMKAuO7ng
+20230612	恶意分析	https://mp.weixin.qq.com/s/wJBe_YBWbEEkaZPOVI0oZg	流行域名列表的是与非	qq.com	mp.weixin.qq.com	/s/wJBe_YBWbEEkaZPOVI0oZg
+20230612	取证分析	https://bbs.kanxue.com/thread-273759.htm	聊聊大厂设备指纹获取和对抗&设备指纹	kanxue.com	bbs.kanxue.com	/thread-273759.htm
+20230612	取证分析	https://mp.weixin.qq.com/s/iy2EqkzQUJAIizIkoKQYGw	基于主动网络探测的低成本高精度IP地理定位	qq.com	mp.weixin.qq.com	/s/iy2EqkzQUJAIizIkoKQYGw
+20230612	恶意分析	https://mp.weixin.qq.com/s/9WiPv0-cKqR-dbJCBcKsfg	根服务器视角看 DNS 解析安全	qq.com	mp.weixin.qq.com	/s/9WiPv0-cKqR-dbJCBcKsfg
+20230612	Web安全	https://mp.weixin.qq.com/s/pm6tS976rq_cBuMO7g9ZhA	安全事件SOP：基于实践的安全事件简述	qq.com	mp.weixin.qq.com	/s/pm6tS976rq_cBuMO7g9ZhA
+20230612	运维安全	https://mp.weixin.qq.com/s/g0gdyn5pIwdC1Ap_jXgU6Q	安全事件运营SOP：蜜罐告警	qq.com	mp.weixin.qq.com	/s/g0gdyn5pIwdC1Ap_jXgU6Q
+20230612	Web安全	https://mp.weixin.qq.com/s/aQ256sJVJjouslqA88ENvQ	从敏捷视角看漏洞管理	qq.com	mp.weixin.qq.com	/s/aQ256sJVJjouslqA88ENvQ
+20230612	设备安全	https://github.com/qilingframework/qiling/issues/134	Collection of works, presentations, blogpost, etc for Qiling related projects	github.com	github.com	/qilingframework/qiling/issues/134
+20230612	漏洞分析	https://mp.weixin.qq.com/s/CTsdbwCcaX_Ni-9rdUEUNQ	IEEE TDSC22：基于深度学习的细粒度漏洞检测框架VulDeeLocator	qq.com	mp.weixin.qq.com	/s/CTsdbwCcaX_Ni-9rdUEUNQ
+20230612	设备安全	https://mp.weixin.qq.com/s/Nr9j5OFUZawfOEYlySRgcQ	无硬件依赖新型全系统物联网设备固件虚拟化方案研究	qq.com	mp.weixin.qq.com	/s/Nr9j5OFUZawfOEYlySRgcQ
+20230612	设备安全	https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A	硬件辅助的可信执行环境	qq.com	mp.weixin.qq.com	/s/wS3o-g0JAMNiZr91CqPA5A
+20230612	运维安全	https://mp.weixin.qq.com/s/NZQpqD5jrZ2NLXZDBjCzcQ	信息驱动的电网安全态势知识图谱智能构建技术研究	qq.com	mp.weixin.qq.com	/s/NZQpqD5jrZ2NLXZDBjCzcQ
+20230612	取证分析	https://mp.weixin.qq.com/s/T0r6guJn18jcUHsbi_lH9g	聊聊大厂设备指纹其二&Hunter环境检测思路详解	qq.com	mp.weixin.qq.com	/s/T0r6guJn18jcUHsbi_lH9g
+20230612	恶意分析	https://mp.weixin.qq.com/s/2n2QPkuChzTCezseMHIwMQ	基于Cssom的暗链检测技术	qq.com	mp.weixin.qq.com	/s/2n2QPkuChzTCezseMHIwMQ
+20230612	恶意分析	https://mp.weixin.qq.com/s/7Jub7xULn2ao0TJ8iRdjvA	安卓恶意软件的分类解释研究	qq.com	mp.weixin.qq.com	/s/7Jub7xULn2ao0TJ8iRdjvA
+20230612	运维安全	https://mp.weixin.qq.com/s/Sj8v2CAW7j70ZjMv8a-OGQ	企业网络安全预算场景下的风险量化评估探索与研究	qq.com	mp.weixin.qq.com	/s/Sj8v2CAW7j70ZjMv8a-OGQ
+20230612	设备安全	https://blog.seeflower.dev/archives/253/	利用widevine确定浏览器客户端的唯一性	seeflower.dev	blog.seeflower.dev	/archives/253/
+20230612	Web安全	https://xz.aliyun.com/t/12611	从模糊测试到源码定位：探索 Go 库中的 bug	aliyun.com	xz.aliyun.com	/t/12611
+20230612	杂志	https://www.sec-wiki.com/weekly/484	SecWiki周刊（第484期)	sec-wiki.com	www.sec-wiki.com	/weekly/484
