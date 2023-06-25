@@ -803,7 +803,7 @@
 | 腾讯安全智能 | TX_Security_AI | 基于图挖掘的安全事件分析 | https://mp.weixin.qq.com/s/ARfMqrUxiPKmbMcV_yaluw | 3| 
 | 浅黑科技 | qianheikeji | CTF：一部黑客心灵史 | https://mp.weixin.qq.com/s/wEqBaZmO8FwOyGrcWDNgYQ | 13| 
 | 国际安全智库 | guoji-anquanzhiku | “震网”十年谜底终浮水面, 伊朗核计划流产源于内鬼“间谍行动” | https://mp.weixin.qq.com/s/ORW8qWCpgQFJh8-bsaIg3w | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 32| 
+| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 33| 
 | Hacking就是好玩 |  | 对乌云漏洞库payload的整理以及Burp辅助插件 | https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw | 5| 
 | 行业研究报告 | report88 | 2018-2019年网络安全行业深度报告 | https://mp.weixin.qq.com/s/z-LN2AlMezEmJVekbDndcw | 1| 
 | 编程技术宇宙 | ProgramUniverse | 我是一个流氓软件线程 | https://mp.weixin.qq.com/s/-ggUa3aWkjjHjr9VwQL9TQ | 5| 
@@ -902,7 +902,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 224| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 225| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -4170,7 +4170,7 @@
 | r00tSe7en | Mail-Probe: 邮箱探针后台管理系统 | https://github.com/r00tSe7en/Mail-Probe | https://www.se7ensec.cn/ | One China | China | NULL | 27 | 0 | 0 | 0 | 0 | Shell,HTML,PowerShell | 5 | 3 | 1| 
 | quiet | TCP over sound on Android : | https://github.com/quiet/org.quietmodem.Quiet | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,CMake,Python,JavaScript,Objective-C,HTML,Rust | 0 | 0 | 1| 
 | quarkslab | When eBPF meets TLS，来自 CanSecWest 会议 | https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Python,JavaScript,C++,Shell,Go | 0 | 0 | 3| 
-| qilingframework | Collection of works, presentations, blogpost, etc for Qili... | https://github.com/qilingframework/qiling/issues/134 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
+| qilingframework | Collection of works, presentations, blogpost, etc for Qiling related projects | https://github.com/qilingframework/qiling/issues/134 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
 | qianshanhai | q-shell:Unix remote login tool, rootkit shell tool | https://github.com/qianshanhai/q-shell/ | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | python-security | pyt - 用于检测 Python Web 应用安全漏洞的静态扫描工具: | https://github.com/python-security/pyt | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | pyppeteer | pyppeteer2 - 用于控制 Headless Chrome 的 puppeteer 的 Python 移植版 | https://github.com/pyppeteer/pyppeteer2 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
@@ -4730,7 +4730,7 @@
 | WooYun | TangScan:唐朝Web漏洞扫描器框架 | https://github.com/WooYun/TangScan | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | Wilfred | Difftastic - 支持语法格式的 Diff 工具 | https://github.com/Wilfred/difftastic | https://github.com/Wilfred?tab=followers | PL enthusiast, Emacs addict, and Hacklang contributor. | Bay Area, USA | None | 393 | 0 | 1700 | 0 | 0 | C,JavaScript,Emacs,Rust | 0 | 0 | 1| 
 | WhitewidowScanner | whitewidow - SQL 漏洞扫描器: | https://github.com/WhitewidowScanner/whitewidow | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Ruby | 0 | 0 | 1| 
-| Wh04m1001 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP | https://github.com/Wh04m1001?tab=followers | OSCP,OSEP,CRTO,CRTP,CRTE,PACES | None | Infigo IS | 37 | 0 | 123 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
+| Wh04m1001 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP | https://github.com/Wh04m1001?tab=followers | OSCP,OSEP,CRTO,CRTP,CRTE,PACES | None | Infigo IS | 37 | 0 | 123 | 0 | 0 | Python,C,C++ | 0 | 0 | 2| 
 | Weik1 | Artillery: JAVA 插件化漏洞扫描器 | https://github.com/Weik1/Artillery | https://github.com/Weik1?tab=followers | 这个人很懒，什么都没有留下 | None | None | 30 | 0 | 28 | 0 | 0 | Python,JavaScript,PHP,Java,HTML | 0 | 0 | 1| 
 | WebKit | WebKit 引入 JIT-Caging 特性实现细粒度的 PAC 保护机制 | https://github.com/WebKit/webkit/commit/2ffeeff4dfb86a74ae695dea8671fccc423559ad | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Makefile | 0 | 0 | 2| 
 | VVard0g | ThreatHuner-Playbook: 从Windows事件和Sysmon日志分析取证 | https://github.com/VVard0g/ThreatHunter-Playbook | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 

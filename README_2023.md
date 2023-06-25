@@ -21,11 +21,11 @@
 | leveryd | gh_8d7f6ed4daff | 浅谈云原生安全建设 | https://mp.weixin.qq.com/s/HA_w_gEe-GOFZXGsOg_Iog | 1| 
 | 海燕技术栈 | we_are_dreamer | 基于Cssom的暗链检测技术 | https://mp.weixin.qq.com/s/2n2QPkuChzTCezseMHIwMQ | 1| 
 | 风眼实验室 | gh_aa426cddbf75 | 基于主动网络探测的低成本高精度IP地理定位 | https://mp.weixin.qq.com/s/iy2EqkzQUJAIizIkoKQYGw | 1| 
-| 中国人工智能学会 | CAAI-1981 | AI研习丨信息驱动的电网安全态势知识图谱智能构建技术研究 | https://mp.weixin.qq.com/s/NZQpqD5jrZ2NLXZDBjCzcQ | 1| 
 | 最高人民法院 | ch_zgrmfy | 《最高人民法院、最高人民检察院、公安部关于依法惩治网络暴力违法犯罪的指导意见（征求意见稿）》面向社会公开征求意见 | https://mp.weixin.qq.com/s/ZXlFRyuxCAB1m-iDpWqDNg | 1| 
-| 内构安全 | gh_def0974405fe | 每周论文讨论(17) , 自动利用生成 | https://mp.weixin.qq.com/s/pO2miaqlHZMSYial8rdfwA | 1| 
-| COMPASS Lab | gh_5f715fbda2b0 | 【论文分享】硬件辅助的可信执行环境 | https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A | 1| 
 | 我的安全视界观 | CANI_Security | 安全事件运营SOP【5】webshell事件 | https://mp.weixin.qq.com/s/oYuOnfw-jGzcHrOvVkb3kg | 7| 
+| 内构安全 | gh_def0974405fe | 每周论文讨论(17) , 自动利用生成 | https://mp.weixin.qq.com/s/pO2miaqlHZMSYial8rdfwA | 1| 
+| 中国人工智能学会 | CAAI-1981 | AI研习丨信息驱动的电网安全态势知识图谱智能构建技术研究 | https://mp.weixin.qq.com/s/NZQpqD5jrZ2NLXZDBjCzcQ | 1| 
+| COMPASS Lab | gh_5f715fbda2b0 | 【论文分享】硬件辅助的可信执行环境 | https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A | 1| 
 | 穿过丛林 | gh_f90eac70537b | ESEC/FSE22：基于数据投毒的代码搜索后门攻击 | https://mp.weixin.qq.com/s/5XaemiUxjHolgmuFSorr6Q | 2| 
 | 复旦白泽战队 | fdwhitzard | 白泽带你读论文｜How Long Do Vulnerabilities Live in the Code? | https://mp.weixin.qq.com/s/DRAAiWE4HiscWB1ZIFB0hA | 1| 
 | 互联网后端架构 | fullstack888 | 作业帮在多云环境下的高可用双活架构优化实践 | https://mp.weixin.qq.com/s/oVxun0-2M9royJUWqi8k7Q | 1| 
@@ -188,11 +188,11 @@
 | 电驭叛客 | langu_xyz | 面向实战的基础安全体系升级 | https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ | 1| 
 | 威胁棱镜 | THREAT_PRISM | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA | 16| 
 | 奇安信技术研究院 | jishuyanjiuyuan001 | 【天问】2022年PyPI恶意包年度回顾 | https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ | 2| 
-| 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 15| 
+| 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 16| 
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
-| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 31| 
+| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 32| 
 
 
 # 组织github账号 推荐
@@ -221,7 +221,7 @@
 | revng | Revng - 可将支持架构（目前为 i386、x86-64、MIPS、ARM、AArch64 和 s390x）的 ELF 二进制文件的 QEMU 中间表示（一系列 TCG 指令）翻译成 LLVM IR的静态二进制二进制翻译器 | https://github.com/revng/revng/tree/feature/llvm-16 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,TypeScript,C++ | 0 | 0 | 1| 
 | r3x5ur | unveilr: 一款小程序安全评估工具 | https://github.com/r3x5ur/unveilr | https://github.com/r3x5ur?tab=followers | 一枚小菜蛋🥚 | Hangzhou | None | 9 | 0 | 55 | 0 | 0 | TypeScript,Java,PHP | 0 | 0 | 1| 
 | r0ysue | MobileCTF: 体系化、实战化的移动端CTF靶场 | https://github.com/r0ysue/MobileCTF | https://github.com/r0ysue?tab=followers | またあした | None | None | 30 | 0 | 135 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
-| qilingframework | Collection of works, presentations, blogpost, etc for Qili... | https://github.com/qilingframework/qiling/issues/134 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
+| qilingframework | Collection of works, presentations, blogpost, etc for Qiling related projects | https://github.com/qilingframework/qiling/issues/134 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
 | qianxiao996 | FrameScan-GUI: 图形化界面的cms漏洞检测框架 | https://github.com/qianxiao996/FrameScan-GUI | https://github.com/qianxiao996?tab=followers |  | None | None | 46 | 0 | 237 | 0 | 0 | Python,Java | 0 | 0 | 1| 
 | prescience-data | dark-knowledge: 浏览器指纹与隐私安全相关论文 | https://github.com/prescience-data/dark-knowledge | https://github.com/prescience-data?tab=followers |  | None | @undetectio | 23 | 0 | 794 | 0 | 0 | TypeScript,JavaScript | 0 | 0 | 1| 
 | potmdehex | Hexacon 2022会议中《More Tales from the iOS/macOS Kernel Trenches》议题slide，其中提及了CVE-2022-22640、CVE-2022-32821漏洞的原理等详细信息及利用技术。 | https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf | https://github.com/potmdehex?tab=followers | Reverse Engineer | None | None | 12 | 0 | 10 | 0 | 0 | C,Ruby | 0 | 0 | 1| 
@@ -272,7 +272,7 @@
 | adhikara13 | OpenSSH Pre-Auth Double Free CVE-2023-25136 POC | https://github.com/adhikara13/CVE-2023-25136 | https://github.com/adhikara13?tab=followers | An indonesian student that currently studying in Moscow. | Moscow | None | 23 | 0 | 212 | 0 | 0 | Python,SCSS,JavaScript | 0 | 0 | 1| 
 | Xyrem | 一个允许您模拟 Hyper-V 并拦截 Windows 内核执行的内核调用的库 | https://github.com/Xyrem/HyperDeceit | https://github.com/Xyrem?tab=followers | I like exploring and breaking stuff 😂 Discord: Xyrem#1152 | None | None | 11 | 0 | 10 | 0 | 0 | C++ | 0 | 0 | 1| 
 | XaFF-XaFF | Black Angel Rootkit 是一个 Windows 11/10 x64 内核模式 Rootkit，可以加载启用的 DSE，同时保持其全部功能。专为红队设计。 可以通过使用 kdmappe 加载来绕过 DSE | https://github.com/XaFF-XaFF/Black-Angel-Rootkit | https://github.com/XaFF-XaFF?tab=followers | 18y/o | Poland | None | 15 | 0 | 25 | 0 | 0 | C#,Assembly,C++ | 0 | 0 | 1| 
-| Wh04m1001 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP | https://github.com/Wh04m1001?tab=followers | OSCP,OSEP,CRTO,CRTP,CRTE,PACES | None | Infigo IS | 37 | 0 | 123 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
+| Wh04m1001 | RazerEoP:Razer Synapse3 Macro模块中删除/移动任意文件的 PoC,可造成提权 | https://github.com/Wh04m1001/RazerEoP | https://github.com/Wh04m1001?tab=followers | OSCP,OSEP,CRTO,CRTP,CRTE,PACES | None | Infigo IS | 37 | 0 | 123 | 0 | 0 | Python,C,C++ | 0 | 0 | 2| 
 | TheBlupper | idek 2022* CTF Hardest Demon Bloodbath by Riot题目的writeup | https://github.com/TheBlupper/ctf_writeups/tree/main/idek2022/Hardest%20Demon%20Bloodbath%20by%20Riot | https://github.com/TheBlupper?tab=followers | git: gud is not a git command. See git --help. | None | None | 6 | 0 | 5 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
 | SunWeb3Sec | Web3 安全-链上威胁分析教学 | https://github.com/SunWeb3Sec/DeFiHackLabs#web3-cybersecurity-academy | https://github.com/SunWeb3Sec?tab=followers | Lets make Web3 more secure! | None | None | 9 | 0 | 8 | 0 | 0 | Solidity | 0 | 0 | 1| 
 | StarCrossPortal | Swallow-开源代码审计系统 | https://github.com/StarCrossPortal/swallow | None | None | None | None | 0 | 0 | 0 | 0 | 0 | PHP,Java,Rust,C++ | 0 | 0 | 1| 
