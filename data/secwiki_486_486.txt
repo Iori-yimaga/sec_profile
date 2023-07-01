@@ -1,0 +1,18 @@
+20230619	Web安全	https://xz.aliyun.com/t/12614	记一次四层内网攻防渗透测试大实验	aliyun.com	xz.aliyun.com	/t/12614
+20230619	Web安全	https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb_Q	利用GPT自动化生成Nuclei的POC	qq.com	mp.weixin.qq.com	/s/j7EHftzPdTf84lBzxpLb_Q
+20230619	Web安全	https://mp.weixin.qq.com/s/72S-mYCHEnQZBPEIcKME3Q	用户名密码加密的页面爆破学习	qq.com	mp.weixin.qq.com	/s/72S-mYCHEnQZBPEIcKME3Q
+20230619	运维安全	https://mp.weixin.qq.com/s/2NCcXJjnfGBAUQM5JngCUQ	漏洞优先级（VPT）是怎么排序的	qq.com	mp.weixin.qq.com	/s/2NCcXJjnfGBAUQM5JngCUQ
+20230619	取证分析	https://mp.weixin.qq.com/s/rXYMh4OksHckpQmKyVyvPw	匿名通信技术现状分析与展望	qq.com	mp.weixin.qq.com	/s/rXYMh4OksHckpQmKyVyvPw
+20230619	恶意分析	https://mp.weixin.qq.com/s/7P36eYxCO6f7hrnx2PKW8g	游戏黑产反作弊实践	qq.com	mp.weixin.qq.com	/s/7P36eYxCO6f7hrnx2PKW8g
+20230619	移动安全	https://github.com/r0ysue/MobileCTF	MobileCTF: 体系化、实战化的移动端CTF靶场	github.com	github.com	/r0ysue/MobileCTF
+20230619	运维安全	https://mp.weixin.qq.com/s/IYzXuwi9E2l5G5sQ4ugZeA	安全事件运营SOP：接收漏洞事件	qq.com	mp.weixin.qq.com	/s/IYzXuwi9E2l5G5sQ4ugZeA
+20230619	数据挖掘	https://mp.weixin.qq.com/s/LLCTQ2ydH7QdeMBFLIy9iA	2021-2023年因违反《数据安全法》被罚的28个案件梳理	qq.com	mp.weixin.qq.com	/s/LLCTQ2ydH7QdeMBFLIy9iA
+20230619	观点	https://mp.weixin.qq.com/s/Qwrq1YqP8mtfsb66FzdN7g	网络安全中小企业：走专业化道路	qq.com	mp.weixin.qq.com	/s/Qwrq1YqP8mtfsb66FzdN7g
+20230619	运维安全	https://mp.weixin.qq.com/s/HA_w_gEe-GOFZXGsOg_Iog	浅谈云原生安全建设	qq.com	mp.weixin.qq.com	/s/HA_w_gEe-GOFZXGsOg_Iog
+20230619	Web安全	https://xz.aliyun.com/t/12613	js引擎检测及热部署的OpenRASP学习	aliyun.com	xz.aliyun.com	/t/12613
+20230619	取证分析	https://mp.weixin.qq.com/s/CmvI0nDgSmyYlW9Sv_sEcg	对全球范围DNS-over-HTTPS的性能测量	qq.com	mp.weixin.qq.com	/s/CmvI0nDgSmyYlW9Sv_sEcg
+20230619	取证分析	https://mp.weixin.qq.com/s/_upeC1BshjAmCF4jGZo3YA	我国《数据安全法》生效以来行政执法情况报告	qq.com	mp.weixin.qq.com	/s/_upeC1BshjAmCF4jGZo3YA
+20230619	取证分析	https://mp.weixin.qq.com/s/Q7153oueIhGyosnRj67Irw	利用云调度器引导协同定位攻击	qq.com	mp.weixin.qq.com	/s/Q7153oueIhGyosnRj67Irw
+20230619	杂志	https://www.sec-wiki.com/weekly/485	SecWiki周刊（第485期)	sec-wiki.com	www.sec-wiki.com	/weekly/485
+20230619	数据挖掘	https://mp.weixin.qq.com/s/iY8-cg-tqEUForhOHOgcZQ	人工智能伦理审查与监管初探	qq.com	mp.weixin.qq.com	/s/iY8-cg-tqEUForhOHOgcZQ
+20230619	运维安全	https://github.com/OISF/suricata-verify	suricata-verify: Suricata Verification Tests	github.com	github.com	/OISF/suricata-verify
