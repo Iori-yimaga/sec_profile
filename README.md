@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 金融电子化 | fcmag1993 | 观点 , 关于银行业软件供应链安全治理的思考与实践 | https://mp.weixin.qq.com/s/QaVZMIELUGz7OZuYKAayGA | 1| 
+| 看雪学苑 | ikanxue | Qiling框架分析实战：从 QilingLab 详解到 Qiling 源码分析 | https://mp.weixin.qq.com/s/v9KRkhjnZ-f-PY9xjQjj5g | 1| 
+| 希潭实验室 | abc123network | 第67篇：美国安全公司溯源分析Solarwinds供应链攻击事件全过程 | https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw | 1| 
 
 
 # 组织github账号 推荐

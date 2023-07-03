@@ -61,7 +61,7 @@
 | 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 4| 
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 腾讯开源 | tencentopen | 开源项目发布｜SessionAnalytics - 基于互联网用户Session会话的用户路径分析和挖掘系统 | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg | 1| 
-| 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 2| 
+| 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 3| 
 | OnionSec | gh_8ab0e346e1df | 对Code Insight的学习笔记 | https://mp.weixin.qq.com/s/ldCto4vZBXLBdgjJYABr7A | 1| 
 | Desync InfoSec | gh_1a0c9eea6b2a | 参加了多次攻防演练后，不知你的蓝队能否检测这些勒索组织TTPs！ | https://mp.weixin.qq.com/s/5Ll9j8HIj4dWhxavOyX75Q | 3| 
 | 网安国际 | inforsec | 【InForSec2023 年会论坛回顾】张殷乾：打造机密计算的安全底座 | https://mp.weixin.qq.com/s/5z7HA-t5zUzd4kuPROb4Hg | 2| 
@@ -123,7 +123,7 @@
 | 顺丰安全应急响应中心 | SFSRC- | 容器行为异常自学习引擎 | https://mp.weixin.qq.com/s/LlTfNx1DbgS_dO7X9xVVAg | 2| 
 | 世界科技研究与发展 | globesci | 【优先发布】美国国防高级研究计划局近5年国防科研经费预算活动的趋势与特点 | https://mp.weixin.qq.com/s/WMdWdIOBwQJNoOi9wMvnrw | 1| 
 | Art Of Hunting | gh_d3ebfd9e0148 | [AOH 019]逆向分析微信本地数据库加密 | https://mp.weixin.qq.com/s/u0ZrxBYN-Shg2_e8mGIoaQ | 1| 
-| 金融电子化 | fcmag1993 | 案例 , 中国农业银行企业级SaaS化脆弱性管理平台建设实践 | https://mp.weixin.qq.com/s/9WoNVqGmc-KMPlPHTn5kwg | 2| 
+| 金融电子化 | fcmag1993 | 案例 , 中国农业银行企业级SaaS化脆弱性管理平台建设实践 | https://mp.weixin.qq.com/s/9WoNVqGmc-KMPlPHTn5kwg | 3| 
 | 王建硕 | gardendewalle | ChatGPT 中，G、P、T 分别是什么意思？ | https://mp.weixin.qq.com/s/vXoYeA7w6l_WiKmDHogdTA | 1| 
 | 深信服千里目安全技术中心 | gh_c644c6e98b08 | 【高级威胁追踪】伪造Cisco VPN证书更新程序的C3木马 | https://mp.weixin.qq.com/s/iKPm0T3aR3Shjiw_W6jTsw | 2| 
 | 数据治理体系 | DGsystem | 一起学习《数字中国建设整体布局规划》 | https://mp.weixin.qq.com/s/zUmy99B8wx7p8MrXVoYD1g | 1| 
@@ -159,7 +159,7 @@
 | 云影实验室 | gh_d86289b99724 | php://filter过滤器利用之代码执行漏洞 | https://mp.weixin.qq.com/s/BvHzbgWA1alO7N2fkEfMYQ | 1| 
 | 平猫的音乐 | gh_f6e103434039 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA | 2| 
 | 人机与认知实验室 | gh_9c3c1f805cb8 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ | 1| 
-| 看雪学苑 | ikanxue | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw | 4| 
+| 看雪学苑 | ikanxue | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw | 5| 
 | 源影安全实验室 | MetaShadow | CVE-2022-41080_41082 Microsoft Exchange Server OWASSRF远程代码执行漏洞分析 | https://mp.weixin.qq.com/s/Fl7oz6VXI8k5Qn0MOk61aw | 1| 
 | 摄星 | Vulinsight | 从CISA KEV看海量漏洞管理方法 | https://mp.weixin.qq.com/s/X5J4gYanCGrGMJ9Yp6J8tQ | 1| 
 | 丁司图 | gh_ea35ef49ac14 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ | 1| 
