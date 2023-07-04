@@ -1,0 +1,14 @@
+20230626	Web安全	https://opensec-cn.github.io/#/articles/2	AIGC在安全领域的思考和尝试	github.io	opensec-cn.github.io	/
+20230626	杂志	https://www.sec-wiki.com/weekly/486	SecWiki周刊（第486期)	sec-wiki.com	www.sec-wiki.com	/weekly/486
+20230626	恶意分析	https://mp.weixin.qq.com/s/_yYaK905FvofBmf46ZT6DA	黑帽SEO中网站推广篡改的可扩展检测	qq.com	mp.weixin.qq.com	/s/_yYaK905FvofBmf46ZT6DA
+20230626	Web安全	https://mp.weixin.qq.com/s/UznoRAena2b1VdlTtnW-Tw	近源渗透学习的二三感悟	qq.com	mp.weixin.qq.com	/s/UznoRAena2b1VdlTtnW-Tw
+20230626	无线安全	https://radioactive.blog/2023/06/23/starlink_hacking/	Starlink星链破解那些事	radioactive.blog	radioactive.blog	/2023/06/23/starlink_hacking/
+20230626	Web安全	http://avfisher.win/archives/1414	云上攻防的点-线-面-体	avfisher.win	avfisher.win	/archives/1414
+20230626	其它	https://www.sec-in.com/article/1723	浅谈SpringSecurity与CVE-2023-22602	sec-in.com	www.sec-in.com	/article/1723
+20230626	无线安全	https://mp.weixin.qq.com/s/Y_0oek2npJNjQc7TOgoGMw	BlackHat USA 23 & DEFCON 31：利用LED闪烁恢复密钥	qq.com	mp.weixin.qq.com	/s/Y_0oek2npJNjQc7TOgoGMw
+20230626	恶意分析	https://mp.weixin.qq.com/s/3-3QveSDyv0r2dRFUIU2gw	面向开源软件的安全风险分析与防范	qq.com	mp.weixin.qq.com	/s/3-3QveSDyv0r2dRFUIU2gw
+20230626	恶意分析	https://mp.weixin.qq.com/s/GS_LA8uuNfRSU29RKdhjzA	基于链路预测的BGP路由路径劫持检测框架	qq.com	mp.weixin.qq.com	/s/GS_LA8uuNfRSU29RKdhjzA
+20230626	运维安全	https://mp.weixin.qq.com/s/QaVZMIELUGz7OZuYKAayGA	关于银行业软件供应链安全治理的思考与实践	qq.com	mp.weixin.qq.com	/s/QaVZMIELUGz7OZuYKAayGA
+20230626	取证分析	https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw	溯源分析Solarwinds供应链攻击事件全过程	qq.com	mp.weixin.qq.com	/s/z0jREmXbIyHw_16rq8rNtw
+20230626	漏洞分析	https://mp.weixin.qq.com/s/v9KRkhjnZ-f-PY9xjQjj5g	Qiling框架分析实战：从 QilingLab 详解到 Qiling 源码分析	qq.com	mp.weixin.qq.com	/s/v9KRkhjnZ-f-PY9xjQjj5g
+20230626	恶意分析	https://mp.weixin.qq.com/s/UhMBmtq8Y1gceDFsdC7asA	数百万GitHub仓库可能遭受RepoJacking攻击	qq.com	mp.weixin.qq.com	/s/UhMBmtq8Y1gceDFsdC7asA

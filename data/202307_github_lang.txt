@@ -1,0 +1,4 @@
+Shell	1
+TypeScript	1
+JavaScript	1
+HTML	1
