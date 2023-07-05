@@ -14,9 +14,12 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 表图 | CyberSecurityCircle | 攻防演习防守标准化的实践与思考 | https://mp.weixin.qq.com/s/ZVeDA6tQyl7w4ClvGLH3-Q | 1| 
+| 腾讯技术工程 | Tencent_TEG | 微信万亿数据仓库架构设计与实现 | https://mp.weixin.qq.com/s/E0X7094kk9My7JTEOELjDg | 1| 
+| 机器之心 | almosthuman2014 | 大型语言模型与知识图谱协同研究综述：两大技术优势互补 | https://mp.weixin.qq.com/s/HMCMyT0FKV5fGo4NRKSa5g | 1| 
+| RapidDNS | gh_6327c9075859 | 使用RapidDNS的数据自动化提交FOFA赚取F点 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485764&idx=1&sn=e024430dba242bea42c5681cfb99c73d&chksm=cfb73ef4f8c0b7e275fa1e1f55d1d6b471722e41c9805d3db40fc934e0b9ddb0a9adb16d0794#rd | 2| 
 | 潇湘信安 | xxxasec | [RedTeam] 轮换源IP - Cloud Proxy | https://mp.weixin.qq.com/s/HTH4YQVjyxngPn87wflJdg | 1| 
 | 懒人在思考 | lazy-thought | Web3 安全入门（重点智能合约安全） | https://mp.weixin.qq.com/s/jlJhqlfzhn13ZqmPChyhFw | 1| 
-| RapidDNS | gh_6327c9075859 | Afuzz 一款适用于自动化Bug Bounty的敏文文件或路径发现工具 | https://mp.weixin.qq.com/s/neBdaMtiqvwr-pPKYQvsfg | 1| 
 | 黑战士 | heizhanshi1 | 近源渗透学习的二三感悟 | https://mp.weixin.qq.com/s/UznoRAena2b1VdlTtnW-Tw | 1| 
 | 信息安全最新论文技术交流 | gh_a7fb15b30ab3 | BlackHat USA 23 & DEFCON 31：利用LED闪烁恢复密钥 | https://mp.weixin.qq.com/s/Y_0oek2npJNjQc7TOgoGMw | 1| 
 | 数据安全域 | keyindata | 2021-2023年因违反《数据安全法》被罚的28个案件梳理 | https://mp.weixin.qq.com/s/LLCTQ2ydH7QdeMBFLIy9iA | 1| 
@@ -27,7 +30,7 @@
 | 海燕技术栈 | we_are_dreamer | 基于Cssom的暗链检测技术 | https://mp.weixin.qq.com/s/2n2QPkuChzTCezseMHIwMQ | 1| 
 | 风眼实验室 | gh_aa426cddbf75 | 基于主动网络探测的低成本高精度IP地理定位 | https://mp.weixin.qq.com/s/iy2EqkzQUJAIizIkoKQYGw | 2| 
 | 最高人民法院 | ch_zgrmfy | 《最高人民法院、最高人民检察院、公安部关于依法惩治网络暴力违法犯罪的指导意见（征求意见稿）》面向社会公开征求意见 | https://mp.weixin.qq.com/s/ZXlFRyuxCAB1m-iDpWqDNg | 1| 
-| 我的安全视界观 | CANI_Security | 安全事件运营SOP【5】webshell事件 | https://mp.weixin.qq.com/s/oYuOnfw-jGzcHrOvVkb3kg | 8| 
+| 我的安全视界观 | CANI_Security | 安全事件运营SOP【5】webshell事件 | https://mp.weixin.qq.com/s/oYuOnfw-jGzcHrOvVkb3kg | 9| 
 | 内构安全 | gh_def0974405fe | 每周论文讨论(17) , 自动利用生成 | https://mp.weixin.qq.com/s/pO2miaqlHZMSYial8rdfwA | 1| 
 | 中国人工智能学会 | CAAI-1981 | AI研习丨信息驱动的电网安全态势知识图谱智能构建技术研究 | https://mp.weixin.qq.com/s/NZQpqD5jrZ2NLXZDBjCzcQ | 1| 
 | COMPASS Lab | gh_5f715fbda2b0 | 【论文分享】硬件辅助的可信执行环境 | https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A | 1| 
@@ -94,7 +97,7 @@
 | Azure云科技 | MS_CEChina | CISO 聚焦 , AI驱动的微软安全防护：安全不仅仅是默认的，也是可以预测的 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow | 1| 
 | 藏剑安全 | cangjiansafe | 渗透实战,记一次RCE+heapdump信息泄露引发的血案 | https://mp.weixin.qq.com/s/6ZDto8QAUKTur5s_haGFdw | 1| 
 | 网安寻路人 | DataProtection101 | 内容算法服务中正能量内容源识别和流量分发机制不足的初步思考 | https://mp.weixin.qq.com/s/Arh4u6xHqjP0utSPE3dd-A | 1| 
-| 清华大学智能法治研究院 | THUIAIL | 系统安全 ,《欧洲网络安全技能框架》解读 | https://mp.weixin.qq.com/s/CS2FUz62CBwcSKWqPAQdaQ | 2| 
+| 清华大学智能法治研究院 | THUIAIL | 系统安全 ,《欧洲网络安全技能框架》解读 | https://mp.weixin.qq.com/s/CS2FUz62CBwcSKWqPAQdaQ | 3| 
 | 深潜之眼 | sqzy_20000129 | rakshasa-跨平台、稳定、隐秘的多级代理内网穿透工具 | https://mp.weixin.qq.com/s/8Ul3SLIlyhHVF7R6ekciBw | 1| 
 | 千寻安服 | scaf_0123 | Java执行命令过程即命令拼接问题 | https://mp.weixin.qq.com/s/vUgHj6jkIGuXX4X66NutnQ | 2| 
 | Thoughtworks洞见 | TW-Insights | 浅谈基于深度学习的漏洞检测 | https://mp.weixin.qq.com/s/fM5qAnQxWXLfAofgVqcWvw | 1| 
@@ -114,7 +117,7 @@
 | 榫卯江湖 | cnxct_coder | eCapture旁观者支持Golang tls/https加密明文捕获 | https://mp.weixin.qq.com/s/O7bxwa5wV1u785jOkJwh1Q | 1| 
 | Bypass | Bypass-- | AD域安全攻防实践（附攻防矩阵图） | https://mp.weixin.qq.com/s/SvGz8mHOBlgEc9O2hBHCEQ | 2| 
 | 老杨吃西瓜不吐葡萄皮 | HelloYangwg_20220222 | 从宏碁安全事件想到构建有韧性网络安全新范式 | https://mp.weixin.qq.com/s/5R4CWSFwFACxkAClwgxQRw | 1| 
-| Tide安全团队 | TideSec | CTF中RSA常见攻击方法 | https://mp.weixin.qq.com/s/5UY-4SPHvPD8hS2Jy8jhgw | 6| 
+| Tide安全团队 | TideSec | CTF中RSA常见攻击方法 | https://mp.weixin.qq.com/s/5UY-4SPHvPD8hS2Jy8jhgw | 7| 
 | 虎符智库 | TT_Thinktank | 深度：美军“前出狩猎”网络作战行动与影响分析 | https://mp.weixin.qq.com/s/yb2VuHzagO3MTsO3Lv5LSA | 2| 
 | 薛定谔的猿 | yeapes | Nginx流量镜像(Mirror) | https://mp.weixin.qq.com/s/xdIKU-w4_eMxV265Qp4vQA | 1| 
 | 王小明的事 | Struggle_of_a_noob | Zabbix与Jumpserver后渗透小记 | https://mp.weixin.qq.com/s/OwSZWCshBKJW0b5du7Juhw | 1| 
@@ -197,7 +200,7 @@
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
-| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 34| 
+| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 35| 
 
 
 # 组织github账号 推荐

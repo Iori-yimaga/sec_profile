@@ -48,7 +48,7 @@
 | 中央政法委长安剑 | changan-j | 国家安全机关公布一批危害国家安全典型案例 | https://mp.weixin.qq.com/s/OjyITQumPYtSBQ41EpNFqg | 1| 
 | 小宝的安全学习笔记 | blackTechOfBaby | 快手应用安全演进之路 | https://mp.weixin.qq.com/s/6ra8myOLJPRtbEd2JrAiNA | 1| 
 | Azure云科技 | MS_CEChina | CISO 聚焦 , AI驱动的微软安全防护：安全不仅仅是默认的，也是可以预测的 | https://mp.weixin.qq.com/s/lyHukb_LK0MASwhJT4baow | 1| 
-| 清华大学智能法治研究院 | THUIAIL | 系统安全 ,《欧洲网络安全技能框架》解读 | https://mp.weixin.qq.com/s/CS2FUz62CBwcSKWqPAQdaQ | 2| 
+| 清华大学智能法治研究院 | THUIAIL | 系统安全 ,《欧洲网络安全技能框架》解读 | https://mp.weixin.qq.com/s/CS2FUz62CBwcSKWqPAQdaQ | 3| 
 | JetBrains | JetBrainsChina | 通过 Qodana 的污点分析保护 PHP 代码 | https://mp.weixin.qq.com/s/QbcLigLj_sUWx5awghX7qQ | 1| 
 | Fortinet防特网 | Fortinet_CN | 使用说明 I 使用 GWLB 和 FortiGate 作为流量镜像的替代方案 | https://mp.weixin.qq.com/s/83q9laF1LHWoSTdkwj3tnA | 1| 
 | Java知音 | Java_friends | UUID的弊端以及雪花算法 | https://mp.weixin.qq.com/s/3L3DggJnShNRlF5kv6igiw | 2| 
@@ -516,7 +516,7 @@
 | AISeer | AISeer520 | AAAI 2021 , 基于图神经网络的多变量时间序列异常检测 | https://mp.weixin.qq.com/s/zizQnPTi_B6BqajrcJwKUg | 1| 
 | 蓝鸟安全 | gh_d365aca1d051 | 邮件攻防技术,附件木马伪装的N种方法 | https://mp.weixin.qq.com/s/18BB0eyKkiegmUFF1kPMaA | 2| 
 | 烽台科技 | fengtaisec | 工业企业工控安全人才矩阵 | https://mp.weixin.qq.com/s/pqGa10MzKYob0MQgxHOkhA | 3| 
-| 表图 | CyberSecurityCircle | 离职期员工的信息安全管控实践 | https://mp.weixin.qq.com/s/hIIyFbx562WREErC9Ygw0Q | 2| 
+| 表图 | CyberSecurityCircle | 离职期员工的信息安全管控实践 | https://mp.weixin.qq.com/s/hIIyFbx562WREErC9Ygw0Q | 3| 
 | 桥的断想 | TasteMiss | 从0到1建设物联网安全实验室之设备篇 | https://mp.weixin.qq.com/s/iyoK3bQQLq6Rhxgebt4VBA | 2| 
 | 360政企安全 | gh_6db130c5163e | 预见Win11“前顾之忧”：360全球首家发现Win11高危漏洞，推出热补丁解决方案！ | https://mp.weixin.qq.com/s/_PjO4_wpe2LQc4BMfg-FGg | 1| 
 | 编程语言Lab | HW-PLLab | 编程语言测试综述 | https://mp.weixin.qq.com/s/HsSTwWdWzfHuXHdbgXXIeQ | 2| 
@@ -574,7 +574,7 @@
 | 前端热点分析 | Web-2017 | JavaScript反调试技巧 | https://mp.weixin.qq.com/s/NMJd91AmuGEANz00sZELfw | 1| 
 | SECISLAND安全官 | SECSOSO | 资产管理的难点 | https://mp.weixin.qq.com/s/DqtIzNdDvB7pYjXmoP1quQ | 1| 
 | 电子物证 | ewuzheng | 【Signal】数据分析 | https://mp.weixin.qq.com/s/AiHRwc0LBUyxkg0vcu12eg | 32| 
-| RapidDNS | gh_6327c9075859 | RapidDNS.IO 网站应用实例 | https://mp.weixin.qq.com/s/ttbJY33W7Bmog_MgNZXc6Q | 9| 
+| RapidDNS | gh_6327c9075859 | RapidDNS.IO 网站应用实例 | https://mp.weixin.qq.com/s/ttbJY33W7Bmog_MgNZXc6Q | 10| 
 | 赛博回忆录 | cybermemory | 大白话解释拟态安全，再不学就落伍了！ | https://mp.weixin.qq.com/s/UR0XbF02JJmo7RbNF1CYVw | 9| 
 | 涛涛不帅 | gh_39db459d9552 | VMware vCenter RCE (CVE-2021-21972) 漏洞复现与 Exp 编写 | https://mp.weixin.qq.com/s/2pvaQborwMM8UHnWS_CeXA | 1| 
 | 小面包的储物柜 | afubread | 浅谈如何有效落地DevSecOps（很浅很浅） | https://mp.weixin.qq.com/s/5eX3-SCfvFfRitb9_onjvw | 1| 
@@ -766,7 +766,7 @@
 | 青衣十三楼飞花堂 |  | burp pro 2020.2 | https://mp.weixin.qq.com/s/WXdEvc0p04KjyOlmb4qtRg | 46| 
 | 永安在线反欺诈 | YongAnOnline | 业务安全蓝军测评标准白皮书 | https://mp.weixin.qq.com/s/23fcilR_XhrGLWSaKv21zA | 2| 
 | 小议安全 | xiaoyianquan | 零信任架构远程办公实战 | https://mp.weixin.qq.com/s/Kgm0wuPeQHX7fJoUondz4Q | 4| 
-| Tide安全团队 | TideSec | 远控免杀专题(30)-Python加载shellcode免杀-8种方式(VT免杀率10-69) | https://mp.weixin.qq.com/s/HyBSqrF_kl2ARaCYAMefgA | 95| 
+| Tide安全团队 | TideSec | 远控免杀专题(30)-Python加载shellcode免杀-8种方式(VT免杀率10-69) | https://mp.weixin.qq.com/s/HyBSqrF_kl2ARaCYAMefgA | 96| 
 | 物联网IOT安全 | IOTsafety | Cobalt Strike｜从入门到入狱 | https://mp.weixin.qq.com/s/WAqgHn0DrXerEeow131w4Q | 1| 
 | 大潘点点 | dapandiandian | 网安产业结构和动力分析——从合规型向能力型 | https://mp.weixin.qq.com/s/V6P-6X_fnw_kvHWMxtqwLg | 2| 
 | 安恒信息安全研究院 |  | 入侵分析钻石模型学习笔记 | https://mp.weixin.qq.com/s/akb1SLiXj8ts3-RxiXks2w | 4| 
@@ -829,7 +829,7 @@
 | 星维九州 |  | 流量加密也不怕！多种姿势检测冰蝎 | https://mp.weixin.qq.com/s/ciAQNdL1YJ9B1HX7TMEDzA | 1| 
 | 情报分析师 | qingbaofenxishi | 社交网络在开源安全情报中的应用（一） | https://mp.weixin.qq.com/s/QTcvAtaSe1jWvGTg9ZcfiQ | 85| 
 | 丁爸 情报分析师的工具箱 | dingba2016 | 【美国情报】图解NSA的48个Ant监控工具 | https://mp.weixin.qq.com/s/gpM1Ze2ofLXt5ernZBOudw | 54| 
-| 腾讯技术工程 | Tencent_TEG | 机器学习模型可解释性的详尽介绍 | https://mp.weixin.qq.com/s/JEIxzuPDrbvSJjpHExaI_w | 4| 
+| 腾讯技术工程 | Tencent_TEG | 机器学习模型可解释性的详尽介绍 | https://mp.weixin.qq.com/s/JEIxzuPDrbvSJjpHExaI_w | 5| 
 | 学术plus | caeit-e | 美国国防部2019年消费账单出炉，竟频频打脸！ | https://mp.weixin.qq.com/s/Hk_BfBPz0TGqFNblGb_m5A | 6| 
 | 深度传送门 | deep_deliver | RecSys 2019参会总结及推荐精读论文 | https://mp.weixin.qq.com/s/NrhIEcY0-76g88-GA01kww | 1| 
 | 凌天实验室 | LT_labs | 勒索解密工具整理篇 | https://mp.weixin.qq.com/s/T6zSWZ-qMit-8gR4Itmknw | 5| 
@@ -902,7 +902,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 227| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 228| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -949,7 +949,7 @@
 | 秘猿科技Cryptape | Cryptape | 隐私币应用全景观察 | https://mp.weixin.qq.com/s/bhWaKtVTqOLlJ1lj362rNA | 1| 
 | 深度学习自然语言处理 | zenRRan | 刘知远：NLP研究入门之道（一） | https://mp.weixin.qq.com/s/PVoQI85YkDSzlA46FRU1OQ | 1| 
 | 信口杂谈 | gh_a0d1f3cbaefe | 乱弹网络空间X检索 | https://mp.weixin.qq.com/s/OvTHpWXCwCH-k0jf8cQBTg | 1| 
-| 我的安全视界观 | CANI_Security | 【SDL最初实践】安全需求 | https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247484307&idx=1&sn=3758ef809f9a456d7ed83a2954487f5b&chksm=eb6c21ebdc1ba8fd8888ccf93043b0abc5107b0a96671419bbc8b3795260feded5292248338e&token=748595180&lang=zh_CN#rd | 61| 
+| 我的安全视界观 | CANI_Security | 【SDL最初实践】安全需求 | https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247484307&idx=1&sn=3758ef809f9a456d7ed83a2954487f5b&chksm=eb6c21ebdc1ba8fd8888ccf93043b0abc5107b0a96671419bbc8b3795260feded5292248338e&token=748595180&lang=zh_CN#rd | 62| 
 | 梅子酒的书札 | a960596293_book | 西湖论剑2019 WriteUp | https://mp.weixin.qq.com/s/rlSyABoulRKygPmwfcUuXA | 1| 
 | 国防科技要闻 | CDSTIC |  | https://mp.weixin.qq.com/s/LXR853Z4E5peVYq89tXKZA | 2| 
 | 京东科技集团研究院 | jdkjjtyjy | 编译 , Palantir中标美国军方8亿美元人工智能系统研发采购计划 | https://mp.weixin.qq.com/s/2afk7pLqgzpUnXgmQgMNEw | 1| 
@@ -1232,7 +1232,7 @@
 | 中智观察 | Hapiweb-soft6 | 启明星辰叶蓬：情报是一条产业链 | http://mp.weixin.qq.com/s?__biz=MjM5ODcxNTEzMw==&mid=2656244294&idx=1&sn=da3eb1da069d78930aec6ebc6ab04420&chksm=bd6139d48a16b0c286c4dc9586e880040a7b4d5add87b1643d2d829043628d594c0cf80b951a&mpshare=1&scene=2&srcid=1101wYb218aF9frLgmFKo9k9&from=timeline#rd | 1| 
 | 高校网络安全交流 | eduinfosec | 第4讲：高校安全管理运维挑战赛(实践赛)CTF入门 | http://mp.weixin.qq.com/s?__biz=MzI0NDM5MzY3NA==&mid=2247484791&idx=1&sn=464f7275aabcfc9dbdcae37f6c52bb82&chksm=e95f36d2de28bfc4bb562467cb31da879bcc5c75a110169847788d593891a025b099928ab2a3&mpshare=1&scene=1&srcid=1024aS8fQv7QS3mZnmp3H7dZ#rd | 1| 
 | 滩涂鱼 |  |  | http://mp.weixin.qq.com/s?__biz=MzI1MzUwNTM2MA==&mid=2247483667&idx=1&sn=b6c505640a5e83137bd0cd54ea16d945&chksm=e9d23b2cdea5b23a2458b0222f53ff19ecc1ef25b2805ab058eea7fa024e8794539cb6748169&mpshare=1&scene=1&srcid=1028N3q9kJYOwRSKc4VhjRrf#rd | 2| 
-| 机器之心 | almosthuman2014 | 深度 , 40年认知架构研究概览：实现通用人工智能的道路上我们走了多远？（附论文） | http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650720132&idx=1&sn=d630d47c4ab60d35752aba74a9d53361&chksm=871b03fab06c8aec767776a6a4a407c3897dcad26392b24a22536261565e9dc6b5ce52df0816&mpshare=1&scene=2&srcid=10289l9xAfQIrWt5R10Y0S0x&from=timeline&isappinstalled=0#rd | 5| 
+| 机器之心 | almosthuman2014 | 深度 , 40年认知架构研究概览：实现通用人工智能的道路上我们走了多远？（附论文） | http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650720132&idx=1&sn=d630d47c4ab60d35752aba74a9d53361&chksm=871b03fab06c8aec767776a6a4a407c3897dcad26392b24a22536261565e9dc6b5ce52df0816&mpshare=1&scene=2&srcid=10289l9xAfQIrWt5R10Y0S0x&from=timeline&isappinstalled=0#rd | 6| 
 | 微软研究院AI头条 | MSRAsia | 【开源】微软发布认知工具包：让机器学习更快、更大、更强 | https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649439195&idx=1&sn=09afaeac1861e4175d9854796f96f19e&chksm=82c0d25fb5b75b49c6aa6700729421715a3da5236c7af711de9c747f4b30aeb2c90193c1e241&scene=0&key=&ascene=7&uin=&devicetype=android-19&version=26031b31&nettype=WIFI | 1| 
 | 网易安全中心 | NetEaseSRC | Linux 进程隐藏的一种实现思路 | http://mp.weixin.qq.com/s?__biz=MzIxNDI0MDAxNg==&mid=2247483701&idx=1&sn=be805507c60abf91f05d76c9f9791a66&chksm=97abdf4aa0dc565c69ff399c26db51b677902ab43bf91a6933dc5803bf5809122d7a6c324008&scene=4#wechat_redirect | 5| 
 | 朝阳35处 | fintech_credoo | 朝阳35处,老王带你搞定社交网络分析II——多维宇宙行动 | http://mp.weixin.qq.com/s?__biz=MzIxMjUyODM3OQ==&mid=2247483783&idx=1&sn=44099744a51a74aceb13a586309b33bb&chksm=9745fc13a0327505a5cc8578c63bf221dd95b83b79f5496b4ffdc7d93a9ac3930085f53b9fa2&mpshare=1&scene=2&srcid=1019rmd4yUYMuYa1ZbmgiWjh | 1| 
