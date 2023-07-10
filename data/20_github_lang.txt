@@ -1,10 +1,10 @@
-Python	1174
-C	737
-JavaScript	706
-C++	610
+Python	1176
+C	739
+JavaScript	707
+C++	611
 HTML	513
 Java	507
-Shell	482
+Shell	483
 Go	451
 C#	310
 Ruby	265
@@ -33,8 +33,8 @@ Vim	31
 Haskell	26
 YARA	25
 Dart	25
+OCaml	24
 Rich	23
-OCaml	23
 Emacs	20
 Elixir	19
 Groovy	19
