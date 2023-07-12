@@ -199,7 +199,7 @@
 | 电驭叛客 | langu_xyz | 面向实战的基础安全体系升级 | https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ | 1| 
 | 威胁棱镜 | THREAT_PRISM | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA | 16| 
 | 奇安信技术研究院 | jishuyanjiuyuan001 | 【天问】2022年PyPI恶意包年度回顾 | https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ | 2| 
-| 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 19| 
+| 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 21| 
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
@@ -318,6 +318,7 @@
 | CMEPW | 一个如何绕过Antivirus的知识思维导图。 | https://github.com/CMEPW/BypassAV | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Go,C,TypeScript | 0 | 0 | 1| 
 | BKreisel | CVE-2022-23935 的 Python Exp 。漏洞源自于 ExifTool ，一款开源软件，用于读取、写入和操作图像、音频、视频和 PDF 元数据，该漏洞错误地处理了 file 参数的检查，导致命令注入。 | https://github.com/BKreisel/CVE-2022-23935 | https://github.com/BKreisel?tab=followers |  | Golden, Colorado | None | 23 | 0 | 33 | 0 | 0 | Python,C,Rust | 0 | 0 | 1| 
 | Anof-cyber | APTRS：一款功能强大的自动化渗透测试报告系统 | https://github.com/Anof-cyber/APTRS | https://github.com/Anof-cyber?tab=followers | Infosec , Hacker , Penetration Tester 👨‍💻 Cyber Security , Automation ⚡⏩ Code , Bash , Python , Django ❤️ Lead AnoF 🖤 | India | None | 19 | 0 | 254 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
+| AbstractClass | 利用 Boto3 等 SDK 的现有功能来暴力破解所有云服务的权限，以确定给定一组凭据存在哪些权限，从而确定权限升级 | https://github.com/AbstractClass/CloudPrivs | https://github.com/AbstractClass?tab=followers | Pentester, Red Teamer, Dev | Ontario, Canada | None | 15 | 0 | 3 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
 | 4ra1n | code-inspector: 基于字节码分析的Java代码审计工具 | https://github.com/4ra1n/code-inspector | https://github.com/4ra1n?tab=followers | 我是4ra1n，大家习惯叫我许少 | China | @chaitin | 9 | 0 | 15 | 0 | 0 | Go,Java | 0 | 0 | 2| 
 | 0xf4n9x | GoAnywhere MFT反序列化漏洞（CVE-2023-0669）利用工具 | https://github.com/0xf4n9x/CVE-2023-0669 | https://github.com/0xf4n9x?tab=followers | #InfoSec , #PenTest , #RedTeam , #SecResearch , #Student | /dev/null | None | 58 | 0 | 3100 | 0 | 0 | Go,Python,Java | 0 | 0 | 1| 
 | 0xPugazh | 包含多种不同应用的fuzz字典汇总 | https://github.com/0xPugazh/fuzz4bounty | https://github.com/0xPugazh?tab=followers | Wannbe Hacker... | TamilNadu, India | Remote | 16 | 0 | 352 | 0 | 0 | Shell | 0 | 0 | 1| 

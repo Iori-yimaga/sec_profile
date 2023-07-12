@@ -805,7 +805,7 @@
 | 腾讯安全智能 | TX_Security_AI | 基于图挖掘的安全事件分析 | https://mp.weixin.qq.com/s/ARfMqrUxiPKmbMcV_yaluw | 3| 
 | 浅黑科技 | qianheikeji | CTF：一部黑客心灵史 | https://mp.weixin.qq.com/s/wEqBaZmO8FwOyGrcWDNgYQ | 13| 
 | 国际安全智库 | guoji-anquanzhiku | “震网”十年谜底终浮水面, 伊朗核计划流产源于内鬼“间谍行动” | https://mp.weixin.qq.com/s/ORW8qWCpgQFJh8-bsaIg3w | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 36| 
+| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 38| 
 | Hacking就是好玩 |  | 对乌云漏洞库payload的整理以及Burp辅助插件 | https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw | 5| 
 | 行业研究报告 | report88 | 2018-2019年网络安全行业深度报告 | https://mp.weixin.qq.com/s/z-LN2AlMezEmJVekbDndcw | 1| 
 | 编程技术宇宙 | ProgramUniverse | 我是一个流氓软件线程 | https://mp.weixin.qq.com/s/-ggUa3aWkjjHjr9VwQL9TQ | 5| 
@@ -5027,6 +5027,7 @@
 | AdamGreenhill | VirusShare-Search : Downloads VirusShare hashes and searches them for specified MD5 hashes : | https://github.com/AdamGreenhill/VirusShare-Search | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | AdaLogics | Software security paper list | https://github.com/AdaLogics/software-security-paper-list | https://adalogics.com | We do advanced software security. | Oxford, UK | Ada Logics | 3 | 0 | 0 | 0 | 0 | Python | 41 | 5 | 1| 
 | Accenture | VulFi - 一款用于辅助在 IDA Pro 中挖掘漏洞的插件 | https://github.com/Accenture/VulFi | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Jupyter,TypeScript,Java,Elixir | 0 | 0 | 1| 
+| AbstractClass | 利用 Boto3 等 SDK 的现有功能来暴力破解所有云服务的权限，以确定给定一组凭据存在哪些权限，从而确定权限升级 | https://github.com/AbstractClass/CloudPrivs | https://github.com/AbstractClass?tab=followers | Pentester, Red Teamer, Dev | Ontario, Canada | None | 15 | 0 | 3 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
 | ASTTeam | 代码分析工具 CodeQL 相关的资料整理 | https://github.com/ASTTeam/CodeQL | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
 | AFLplusplus | cargo-libafl - Fuzz Rust code with LibAFL | https://github.com/AFLplusplus/cargo-libafl | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,HTML,C++,Rust | 0 | 0 | 1| 
 | 80vul | Use After Free Vulnerability in unserialize() with DateTime[CVE-2015-0273] | https://github.com/80vul/phpcodz/blob/master/research/pch-020.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 

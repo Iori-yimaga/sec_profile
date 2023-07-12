@@ -19,7 +19,7 @@
 | huasec | ihuahua04 | 威胁狩猎-ICMP流量分析 | https://mp.weixin.qq.com/s/9tfwxjEyFw2WtxPTf8EXqQ | 1| 
 | 奇安信威胁情报中心 | gh_166784eae33e | 针对安全研究人员的POC投毒事件 | https://mp.weixin.qq.com/s/fi_wg6LH4hRd3RqSNhs9CA | 1| 
 | 字节跳动安全中心 | TouTiaoSec | 通过大语言模型（LLM）识别与修复风险代码 | https://mp.weixin.qq.com/s/DpXcLrOBewdqR6Z8CYKH8g | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 5G 系统安全测试与自动化 | https://mp.weixin.qq.com/s/B1sdQPO4mSPE2J365aHmCQ | 2| 
+| 信息安全与通信保密杂志社 | cismag2013 | IARPA首次利用网络心理学赋能网络防御重塑安全 | https://mp.weixin.qq.com/s/fQ5HzCzroKlbMjKKdrazcA | 4| 
 | 表图 | CyberSecurityCircle | 攻防演习防守标准化的实践与思考 | https://mp.weixin.qq.com/s/ZVeDA6tQyl7w4ClvGLH3-Q | 1| 
 | 清华大学智能法治研究院 | THUIAIL | 欧盟网络保险的需求方：ENISA报告解读 | https://mp.weixin.qq.com/s/zLi4d3qvjcADJgsAGwgjLQ | 2| 
 | 机器之心 | almosthuman2014 | 大型语言模型与知识图谱协同研究综述：两大技术优势互补 | https://mp.weixin.qq.com/s/HMCMyT0FKV5fGo4NRKSa5g | 1| 
@@ -47,6 +47,7 @@
 | mengjian-github | 逆向分析Github Copilot | https://github.com/mengjian-github/copilot-analysis | https://github.com/mengjian-github?tab=followers | 微信公众号：frontend_cognitive | 深圳，中国 | 腾讯 | 23 | 0 | 25 | 0 | 0 | TypeScript,Shell,JavaScript,HTML | 0 | 0 | 1| 
 | guedou | 一个包含了网络工具scapy很多典型使用案例的仓库 | https://github.com/guedou/scapy-handson | https://github.com/guedou?tab=followers |  | Paris, France | None | 49 | 0 | 134 | 0 | 0 | Python,C,OCaml | 0 | 0 | 1| 
 | PKU-YuanGroup | ChatLaw: 中文法律大模型 | https://github.com/PKU-YuanGroup/ChatLaw | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
+| AbstractClass | 利用 Boto3 等 SDK 的现有功能来暴力破解所有云服务的权限，以确定给定一组凭据存在哪些权限，从而确定权限升级 | https://github.com/AbstractClass/CloudPrivs | https://github.com/AbstractClass?tab=followers | Pentester, Red Teamer, Dev | Ontario, Canada | None | 15 | 0 | 3 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
 
 
 # medium_xuanwu 推荐
