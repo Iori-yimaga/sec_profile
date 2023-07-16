@@ -16,3 +16,4 @@ data/img/.DS_Store
 venv/*
 !data/secwiki/*
 !data/secwiki*
+discove_security_book.py

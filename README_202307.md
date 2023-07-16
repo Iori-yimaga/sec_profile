@@ -32,7 +32,7 @@
 | 潇湘信安 | xxxasec | [RedTeam] 轮换源IP - Cloud Proxy | https://mp.weixin.qq.com/s/HTH4YQVjyxngPn87wflJdg | 1| 
 | 我的安全视界观 | CANI_Security | 安全事件运营SOP：软件供应链投毒事件 | https://mp.weixin.qq.com/s/UhchRCg4G96k5ypy5hceYA | 1| 
 | 懒人在思考 | lazy-thought | Web3 安全入门（重点智能合约安全） | https://mp.weixin.qq.com/s/jlJhqlfzhn13ZqmPChyhFw | 1| 
-| 安全学术圈 | secquan | 香港中文大学 , TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过程分析 | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q | 3| 
+| 安全学术圈 | secquan | 香港中文大学 , TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过程分析 | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q | 4| 
 | 金融电子化 | fcmag1993 | 观点 , 关于银行业软件供应链安全治理的思考与实践 | https://mp.weixin.qq.com/s/QaVZMIELUGz7OZuYKAayGA | 1| 
 | 看雪学苑 | ikanxue | Qiling框架分析实战：从 QilingLab 详解到 Qiling 源码分析 | https://mp.weixin.qq.com/s/v9KRkhjnZ-f-PY9xjQjj5g | 3| 
 | 希潭实验室 | abc123network | 第67篇：美国安全公司溯源分析Solarwinds供应链攻击事件全过程 | https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw | 1| 
