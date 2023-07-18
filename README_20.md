@@ -915,7 +915,7 @@
 | 红队攻防揭秘 | klionsec | CobaltStrike+MetaSploit 实战联动 | https://mp.weixin.qq.com/s/x0txdB7tMEIg1W4v_ZK7Tg | 2| 
 | 新浪安全中心 |  | 自助安全扫描与代码审计系统架构实践 | https://mp.weixin.qq.com/s/3N3eJzTaMwbznL_aofOjnQ | 1| 
 | 国家电网报 | stategridnews | 阿根廷全国大停电 | https://mp.weixin.qq.com/s/0p_QrSpJuGSc3IaQB2NMMw | 1| 
-| 专注安管平台 |  | Gartner2019年十大安全项目详解 | https://mp.weixin.qq.com/s/dBw_z9oNoTRUQNVTkf1l_w | 14| 
+| 专注安管平台 |  | Gartner2019年十大安全项目详解 | https://mp.weixin.qq.com/s/dBw_z9oNoTRUQNVTkf1l_w | 15| 
 | 环球时报 | hqsbwx | 美国被爆料入侵俄罗斯电网，特朗普怒怼纽约时报叛国 | https://mp.weixin.qq.com/s/kfnlzwHbfNHgVXEiX2-1sg | 1| 
 | 网络法前哨 | cyberlawing | 公安部｜通报净网2019专项行动典型案例 | https://mp.weixin.qq.com/s/P21rRO_tFo9ZDCrbDdIHGA | 2| 
 | 现代军事 | xiandaijunshi | 解读德国情报工作建设 | https://mp.weixin.qq.com/s/dW-k_LlWZt04pakFuvfX8A | 1| 
