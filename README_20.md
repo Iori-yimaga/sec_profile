@@ -606,7 +606,7 @@
 | 爱奇艺安全应急响应中心 | iqiyi_71src | 爱奇艺SOAR探索与实践 | https://mp.weixin.qq.com/s/ovJKGWusN2kgxQ_4GkQ8QA | 3| 
 | 开源情报研究所 | OSINTR | 【技巧】如何查找相关人的信息 | https://mp.weixin.qq.com/s/yeuMivJaizmAQAHL1poHTw | 4| 
 | 安全分析与研究 | MalwareAnalysis | 聊聊APT的溯源分析 | https://mp.weixin.qq.com/s/hSnOYoC71z_HIU4PVf4tmw | 9| 
-| 威胁棱镜 | THREAT_PRISM | 发现并提取 Cobalt Strike 的配置信息 | https://mp.weixin.qq.com/s/-jajjhu-6KVQvaZoh59Wuw | 106| 
+| 威胁棱镜 | THREAT_PRISM | 发现并提取 Cobalt Strike 的配置信息 | https://mp.weixin.qq.com/s/-jajjhu-6KVQvaZoh59Wuw | 107| 
 | 国网浙江信通公司 | gh_12020d981693 | 鲸蓝计划丨溯源反制基本思路与实战 | https://mp.weixin.qq.com/s/axNXFgyaD-5WSIkPwjkPrQ | 1| 
 | b1ngz的笔记本 | gh_70bda0a9ced0 | 自动化安全工具平台 - 架构笔记 | https://mp.weixin.qq.com/s/OMhS9yFlcpI9KOQduSxq9g | 1| 
 | 360技术 | qihoo_tech | 用DNS进行网络度量和安全分析 | https://mp.weixin.qq.com/s/L_wDNJtznQvrCyx1Kd1SlQ | 1| 
@@ -4817,7 +4817,7 @@
 | RF-CTI | 2022 SANS 网络威胁情报峰会资料 | https://github.com/RF-CTI/SANS-summit/blob/master/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,SCSS,HTML | 0 | 0 | 1| 
 | REhints | CodeXplorer自动识别虚表调用 | https://github.com/REhints/HexRaysCodeXplorer/releases/tag/1.7 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 2| 
 | Quillhash | DeFi 的常见攻击向量列表，DeFi 是一种新兴的金融技术，挑战当前的中心化银行系统并促进点对点（P2P）交易的使用。 | https://github.com/Quillhash/DeFi-Attack-Vectors | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Solidity | 0 | 0 | 1| 
-| Qihoo360 | safe-rules: 详细的C/C++编程规范指南 | https://github.com/Qihoo360/safe-rules | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Scala,JavaScript,C++,Go | 0 | 0 | 1| 
+| Qihoo360 | safe-rules: 详细的C/C++编程规范指南 | https://github.com/Qihoo360/safe-rules | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Scala,JavaScript,C++,Go | 0 | 0 | 2| 
 | QData | 自动生成对抗性文本序列攻击 NLP 预测模型 | https://github.com/QData/deepWordBug | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Ruby,HTML,Jupyter | 0 | 0 | 1| 
 | QAX-A-Team | LuWu: 红队基础设施自动化部署工具 | https://github.com/QAX-A-Team/LuWu | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Java,Python,C++,Go,PowerShell | 0 | 0 | 3| 
 | Q4n | Windows WalletService 本地提权漏洞分析及利用（CVE-2020-1362） | https://github.com/Q4n/CVE-2020-1362 | None | Professional bug writer | None | None | 18 | 0 | 0 | 0 | 0 | Python,C,C++ | 144 | 28 | 1| 

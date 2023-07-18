@@ -198,7 +198,7 @@
 | 网安罗盘 | SecurityCompass | 美国2023财年网络安全预算分析与思考 | https://mp.weixin.qq.com/s/4SKZHMLC24m0XNZIF6qkTg | 1| 
 | Gcow安全团队 | Gcow666 | 赏金猎人:IChunQiu云境-Spoofing Writeup | https://mp.weixin.qq.com/s/wlnXFIoTbbi4V0p1TQPDrg | 2| 
 | 电驭叛客 | langu_xyz | 面向实战的基础安全体系升级 | https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ | 1| 
-| 威胁棱镜 | THREAT_PRISM | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA | 17| 
+| 威胁棱镜 | THREAT_PRISM | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA | 18| 
 | 奇安信技术研究院 | jishuyanjiuyuan001 | 【天问】2022年PyPI恶意包年度回顾 | https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ | 2| 
 | 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 21| 
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
@@ -298,7 +298,7 @@
 | RischardV | 来自 DEFCON30 的 Hаdrien аrrаl 和 Georges-Axel Jaloyan 的 Emoji Shellcoding 幻灯片 | https://github.com/RischardV/emoji-shellcoding | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C++ | 0 | 0 | 1| 
 | RF-CTI | 2022 SANS 网络威胁情报峰会资料 | https://github.com/RF-CTI/SANS-summit/blob/master/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,SCSS,HTML | 0 | 0 | 1| 
 | Quillhash | DeFi 的常见攻击向量列表，DeFi 是一种新兴的金融技术，挑战当前的中心化银行系统并促进点对点（P2P）交易的使用。 | https://github.com/Quillhash/DeFi-Attack-Vectors | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Solidity | 0 | 0 | 1| 
-| Qihoo360 | safe-rules: 详细的C/C++编程规范指南 | https://github.com/Qihoo360/safe-rules | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Scala,JavaScript,C++,Go | 0 | 0 | 1| 
+| Qihoo360 | safe-rules: 详细的C/C++编程规范指南 | https://github.com/Qihoo360/safe-rules | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Scala,JavaScript,C++,Go | 0 | 0 | 2| 
 | PaulNorman01 | Forensia:RedTeam后渗透阶段的痕迹清理工具 | https://github.com/PaulNorman01/Forensia | https://github.com/PaulNorman01?tab=followers | Cybersecurity researcher , Coder , Geek ! | None | None | 3 | 0 | 1 | 0 | 0 | C,C++ | 0 | 0 | 1| 
 | PKU-YuanGroup | ChatLaw: 中文法律大模型 | https://github.com/PKU-YuanGroup/ChatLaw | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
 | OISF | suricata-verify: Suricata Verification Tests | https://github.com/OISF/suricata-verify | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 

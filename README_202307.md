@@ -14,10 +14,10 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 威胁棱镜 | THREAT_PRISM | FIRST 2023 议题速递 | https://mp.weixin.qq.com/s/suwkD2EIBuruqiZEii23pw | 2| 
 | 专注安管平台 | gh_48603b9bb05a | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw | 1| 
 | 虎符智库 | TT_Thinktank | 深度：美军网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A | 1| 
 | 落水轩 | gh_c10ee4802699 | 一起APT对抗中的深度智能入侵检测算法 | https://mp.weixin.qq.com/s/A_eGoENqMY-U9hbXiFMa-A | 1| 
-| 威胁棱镜 | THREAT_PRISM | VirusTotal 恶意 URL 研究与分类 | https://mp.weixin.qq.com/s/4CCQN8JbI0bLrJFcjW7ycQ | 1| 
 | 太空安全 | SateSec | 深入解析全球太空态势感知能力 V1.3 | https://mp.weixin.qq.com/s/V3TasSF8caaUJerQIaHC8w | 1| 
 | AIBio爱生信 | AI4Bioinformatics | AAAI 2023 , 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA | 1| 
 | 新华社 | xinhuashefabu1 | 加强自媒体管理，中央网信办出手！ | https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w | 1| 
@@ -52,6 +52,7 @@
 | quarkslab | Pyratha 是一款专注于可视化的文件系统制图和关联软件。它目前专注于可执行文件之间的关系，但旨在使任何人能够映射和可视化任何类型的关系。 | https://github.com/quarkslab/pyrrha | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell,JavaScript,C++ | 0 | 0 | 1| 
 | mengjian-github | 逆向分析Github Copilot | https://github.com/mengjian-github/copilot-analysis | https://github.com/mengjian-github?tab=followers | 微信公众号：frontend_cognitive | 深圳，中国 | 腾讯 | 23 | 0 | 25 | 0 | 0 | TypeScript,Shell,JavaScript,HTML | 0 | 0 | 1| 
 | guedou | 一个包含了网络工具scapy很多典型使用案例的仓库 | https://github.com/guedou/scapy-handson | https://github.com/guedou?tab=followers |  | Paris, France | None | 49 | 0 | 134 | 0 | 0 | Python,C,OCaml | 0 | 0 | 1| 
+| Qihoo360 | Luwak: 利用预训练语言模型从非结构化威胁报告中提取 MITRE AT... | https://github.com/Qihoo360/Luwak/tree/master | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Java,Scala,Python,JavaScript,C++,CSS | 0 | 0 | 1| 
 | PKU-YuanGroup | ChatLaw: 中文法律大模型 | https://github.com/PKU-YuanGroup/ChatLaw | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
 | AbstractClass | 利用 Boto3 等 SDK 的现有功能来暴力破解所有云服务的权限，以确定给定一组凭据存在哪些权限，从而确定权限升级 | https://github.com/AbstractClass/CloudPrivs | https://github.com/AbstractClass?tab=followers | Pentester, Red Teamer, Dev | Ontario, Canada | None | 15 | 0 | 3 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
 
