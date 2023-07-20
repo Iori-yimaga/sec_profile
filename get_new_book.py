@@ -225,6 +225,8 @@ class GetNewBook(object):
                     continue
                 book_dict['title'] = title
                 book_dict['link'] = link
+                date_added = book_dict.get('date_added')
+                book_dict['ts'] = date_added.replace("-", "")[0:8]
                 print(title, link)
                 sql = d2sql(book_dict, table='security_book', action='replace')
                 sql_list.append(sql)

@@ -11,6 +11,19 @@
 
 ![202307-最喜欢语言占比](data/img/language/202307-最喜欢语言占比.png)
 
+# 网络安全书籍 推荐
+| date_added | language | title | author | link | size| 
+| --- | --- | --- | --- | --- | ---| 
+| 2023-07-19 01:39:56 | English | Reverse Engineering For Everyone! | mytechnotalent | http://libgen.rs/book/index.php?md5=4D8D5338D320406A630F5E8851B1E496 | 15 MB [PDF]| 
+| 2023-07-19 00:37:07 | English | (Studies in Systems, Decision and Control, 475) Output Regulation and Cybersecurity of Networked Switched Systems | Lili Li, Jun Fu | http://libgen.rs/book/index.php?md5=40302C43F9E7F7920564A118E922297B | 8 MB [PDF]| 
+
+
+# 学习视频 推荐
+| title | url| 
+| --- | ---| 
+| InForSec 2023年网络空间安全国际学术研究成果分享及青年学者... | https://space.bilibili.com/631540223/video| 
+
+
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 

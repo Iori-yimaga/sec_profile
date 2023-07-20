@@ -242,6 +242,13 @@ def draw_table(so, source="weixin", top=100, year="2019"):
     elif source == "xz_secwiki":
         sql = "select title,url from secwiki_today_detail where url like '%aliyun.com%' and ts like '{year}%' order by ts desc "
         header = ["title", "url"]
+    elif source == 'network_book':
+        sql = "select date_added,language,title,author,link,size from security_book where ts like  '{year}%' order by ts desc "
+        header = ["date_added", "language", "title", "author", "link", "size"]
+    elif source == 'bilibili':
+        sql = "select title,url from secwiki_today_detail where url like '%bilibili%' and ts like '{year}%' order by ts desc "
+        header = ["title", "url"]
+
 
 
     else:
@@ -313,15 +320,23 @@ def draw_readme_item(year=None, fpath=None):
     main_pie(year)
 
     # update weixin,github
-    sources = ["weixin", "github_org", "github_private", "medium_xuanwu", "medium_secwiki",
-               "zhihu_xuanwu", "zhihu_secwiki",
-               "xz_xuanwu", "xz_secwiki"
-               ]
+    sources = [
+        "network_book",
+        "bilibili",
+        "weixin",
+        "github_org", "github_private",
+        "medium_xuanwu", "medium_secwiki",
+        "zhihu_xuanwu", "zhihu_secwiki",
+        "xz_xuanwu", "xz_secwiki",
+
+    ]
 
     d = {
         "weixin": "微信公众号",
         "github_org": "组织github账号",
-        "github_private": "私人github账号"
+        "github_private": "私人github账号",
+        "bilibili": "学习视频",
+        'network_book': '网络安全书籍',
     }
 
     for source in sources:

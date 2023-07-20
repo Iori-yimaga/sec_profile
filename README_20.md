@@ -11,6 +11,31 @@
 
 ![20-最喜欢语言占比](data/img/language/20-最喜欢语言占比.png)
 
+# 网络安全书籍 推荐
+| date_added | language | title | author | link | size| 
+| --- | --- | --- | --- | --- | ---| 
+| 2023-07-19 01:39:56 | English | Reverse Engineering For Everyone! | mytechnotalent | http://libgen.rs/book/index.php?md5=4D8D5338D320406A630F5E8851B1E496 | 15 MB [PDF]| 
+| 2023-07-19 00:37:07 | English | (Studies in Systems, Decision and Control, 475) Output Regulation and Cybersecurity of Networked Switched Systems | Lili Li, Jun Fu | http://libgen.rs/book/index.php?md5=40302C43F9E7F7920564A118E922297B | 8 MB [PDF]| 
+
+
+# 学习视频 推荐
+| title | url| 
+| --- | ---| 
+| InForSec 2023年网络空间安全国际学术研究成果分享及青年学者... | https://space.bilibili.com/631540223/video| 
+| 静态程序分析框架“太阿”的设计之道 | https://www.bilibili.com/video/BV1XP4y1S7cP/| 
+| 针对释放后重用漏洞的自动化分析和修复 | https://www.bilibili.com/video/BV1UK411671w/| 
+| Web漏洞挖掘基础系列 | https://www.bilibili.com/video/BV1TG4y1V7xc/| 
+| 隐私计算线上慕课 | https://space.bilibili.com/2073575923/channel/collectiondetail?sid=883666| 
+| 科研与英文学术论文写作 | https://space.bilibili.com/301285406/channel/collectiondetail?sid=535567| 
+| 《软件分析》完整版课程视频 | https://space.bilibili.com/2919428/channel/detail?cid=106434&ctype=0| 
+| 现代化系统中的侧信道(side channel)攻击与防御 | https://www.bilibili.com/video/BV16q4y1B7gt| 
+| Mining JavaScript Zero-day Vulnerabilities via Object Prop... | https://www.bilibili.com/video/BV1xL411M7wz| 
+| 2020 南京大学 “操作系统：设计与实现” | https://www.bilibili.com/video/BV1N741177F5| 
+| 计算机系统研究的一些体会 | https://www.bilibili.com/video/BV1Ap4y167w3?p=1| 
+| 高质量科研论文写作 | https://www.bilibili.com/video/BV1hg4y1q7Ge| 
+| 伯克利课程：深度强化学习 (2019) | https://www.bilibili.com/video/av69455099/| 
+
+
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
