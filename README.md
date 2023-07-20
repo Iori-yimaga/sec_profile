@@ -7,9 +7,16 @@
 
 
 
-![202307-信息类型占比-xuanwu](data/img/tag/202307-信息类型占比-xuanwu.png)
+
 
 ![202307-最喜欢语言占比](data/img/language/202307-最喜欢语言占比.png)
+
+# 政策 推荐
+| title | url| 
+| --- | ---| 
+| 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
+| 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
+
 
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
@@ -55,11 +62,6 @@
 | 希潭实验室 | abc123network | 第67篇：美国安全公司溯源分析Solarwinds供应链攻击事件全过程 | https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw | 1| 
 
 
-# 组织github账号 推荐
-| github_id | title | url | org_url | org_profile | org_geo | org_repositories | org_people | org_projects | repo_lang | repo_star | repo_forks| 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
-
-
 # 私人github账号 推荐
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
@@ -76,32 +78,7 @@
 | AbstractClass | 利用 Boto3 等 SDK 的现有功能来暴力破解所有云服务的权限，以确定给定一组凭据存在哪些权限，从而确定权限升级 | https://github.com/AbstractClass/CloudPrivs | https://github.com/AbstractClass?tab=followers | Pentester, Red Teamer, Dev | Ontario, Canada | None | 15 | 0 | 3 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
 
 
-# medium_xuanwu 推荐
-| title | url| 
-| --- | ---| 
-
-
-# medium_secwiki 推荐
-| title | url| 
-| --- | ---| 
-
-
-# zhihu_xuanwu 推荐
-| title | url| 
-| --- | ---| 
-
-
-# zhihu_secwiki 推荐
-| title | url| 
-| --- | ---| 
-
-
-# xz_xuanwu 推荐
-| title | url| 
-| --- | ---| 
-
-
-# xz_secwiki 推荐
+# 论坛 推荐
 | title | url| 
 | --- | ---| 
 | 开源许可证保姆级入门手册 | https://xz.aliyun.com/t/12671| 

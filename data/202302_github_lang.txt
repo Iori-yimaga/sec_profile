@@ -1,4 +1,4 @@
-Python	16
+Python	17
 C	9
 JavaScript	7
 Shell	6
@@ -6,11 +6,11 @@ HTML	5
 C++	5
 Go	5
 Rust	4
+C#	4
 TypeScript	3
-C#	3
+PHP	3
 Java	2
 Assembly	2
-PHP	2
 PowerShell	2
 OpenSCAD	1
 TSQL	1

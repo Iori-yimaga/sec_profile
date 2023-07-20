@@ -1,8 +1,8 @@
 Python	9
 C++	7
 C	6
+Java	6
 Go	6
-Java	5
 HTML	3
 Shell	3
 TypeScript	2
@@ -11,5 +11,6 @@ JavaScript	1
 Solidity	1
 Stylus	1
 Lua	1
+PHP	1
 Dockerfile	1
 PowerShell	1

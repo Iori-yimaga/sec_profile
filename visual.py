@@ -4,6 +4,8 @@ import os
 import re
 import sys
 
+import mills
+
 reload(sys)
 sys.setdefaultencoding('utf8')
 from collections import OrderedDict
@@ -245,10 +247,15 @@ def draw_table(so, source="weixin", top=100, year="2019"):
     elif source == 'network_book':
         sql = "select date_added,language,title,author,link,size from security_book where ts like  '{year}%' order by ts desc "
         header = ["date_added", "language", "title", "author", "link", "size"]
-    elif source == 'bilibili':
+    elif source == 'bilibili_secwiki':
         sql = "select title,url from secwiki_today_detail where url like '%bilibili%' and ts like '{year}%' order by ts desc "
         header = ["title", "url"]
-
+    elif source == 'bilibili_xuanwu':
+        sql = "select title,url from xuanwu_today_detail where url like '%bilibili%' and ts like '{year}%' order by ts desc "
+        header = ["title", "url"]
+    elif source == 'gov':
+        sql = "select title,url from secwiki_today_detail where url like '%gov.cn%' and ts like '{year}%' order by ts desc "
+        header = ["title", "url"]
 
 
     else:
@@ -259,13 +266,17 @@ def draw_table(so, source="weixin", top=100, year="2019"):
     except Exception as e:
         print sql, str(e)
         return
-
-    rets = []
-    rets.append(header)
-
+    msg_list = []
     for r in ret:
-        rets.append(list(r))
-    return rets
+        msg_list.append(list(r))
+
+    if msg_list:
+        rets = [header]
+
+        for r in msg_list:
+            rets.append(r)
+
+        return rets
 
 
 def markdown_table(rets):
@@ -321,8 +332,9 @@ def draw_readme_item(year=None, fpath=None):
 
     # update weixin,github
     sources = [
+        'gov',
         "network_book",
-        "bilibili",
+        "bilibili_secwiki", "bilibili_xuanwu",
         "weixin",
         "github_org", "github_private",
         "medium_xuanwu", "medium_secwiki",
@@ -332,13 +344,21 @@ def draw_readme_item(year=None, fpath=None):
     ]
 
     d = {
+        "gov": "政策",
         "weixin": "微信公众号",
         "github_org": "组织github账号",
         "github_private": "私人github账号",
-        "bilibili": "学习视频",
+        "bilibili_secwiki": "学习视频",
+        "bilibili_xuanwu": '学习视频',
         'network_book': '网络安全书籍',
+        'xz_xuanwu': '论坛',
+        'xz_secwiki': '论坛',
+        'zhihu_xuanwu': '知乎',
+        'zhihu_secwiki': '知乎',
+        'medium_xuanwu': 'medium',
+        'medium_secwiki': 'medium',
     }
-
+    year = str(year)
     for source in sources:
         rets = draw_table(so, top=100, source=source, year=year)
         if rets:
@@ -369,8 +389,8 @@ def draw_readme_item(year=None, fpath=None):
         #        format(year=year))
         fr.write(os.linesep)
         fr.write(os.linesep)
-        fr.write('![{year}-信息类型占比-xuanwu](data/img/tag/{year}-信息类型占比-xuanwu.png)'.
-                 format(year=year))
+        # fr.write('![{year}-信息类型占比-xuanwu](data/img/tag/{year}-信息类型占比-xuanwu.png)'.
+        #         format(year=year))
         fr.write(os.linesep)
         fr.write(os.linesep)
 
@@ -414,8 +434,28 @@ def draw_readme(year=None):
         print(fpath)
 
 
+def draw_all():
+    """
+
+    :return:
+    """
+    year_start = 2014
+    cur_year = mills.get_special_date(delta=0, format="%Y")
+    cur_month = mills.get_special_date(delta=0, format="%m")
+    for y in range(year_start, int(cur_year) + 1):
+        if y >= 2018:
+            for m in range(1, 12 + 1):
+                if y == int(cur_year) and m > int(cur_month):
+                    break
+                mm = "{:0>2}".format(str(m))
+                yy = "{y}{m}".format(y=y, m=mm)
+                draw_readme(yy)
+
+        draw_readme(y)
+    draw_readme("20")
+
 if __name__ == "__main__":
     """
     """
-
     draw_readme()
+    #draw_all()

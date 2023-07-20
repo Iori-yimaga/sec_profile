@@ -7,9 +7,38 @@
 
 
 
-![2022-信息类型占比-xuanwu](data/img/tag/2022-信息类型占比-xuanwu.png)
+
 
 ![2022-最喜欢语言占比](data/img/language/2022-最喜欢语言占比.png)
+
+# 政策 推荐
+| title | url| 
+| --- | ---| 
+| 互联网跟帖评论服务管理规定 | http://www.cac.gov.cn/2022-11/16/c_1670253725725039.htm| 
+| 2022上半年网络安全漏洞态势观察 | http://www.itsec.gov.cn/zxxw/202209/P020220902118368141314.pdf| 
+| 数据出境安全评估申报指南（第一版） | http://www.cac.gov.cn/2022-08/31/c_1663568169996202.htm| 
+| 移动互联网应用程序信息服务管理规定 | http://www.gov.cn/xinwen/2022-06/14/content_5695690.htm| 
+| 电力行业网络安全管理办法（修订征求意见稿） | http://www.nea.gov.cn/2022-06/14/c_1310622577.htm| 
+| 国资委：将网络安全纳入央企负责人经营业绩考核 | http://www.sasac.gov.cn/n2588035/n2588320/n2588335/c10652592/content.html| 
+| 关于开展“清朗·2022年算法综合治理”专项行动 | http://www.cac.gov.cn/2022-04/08/c_1651028524542025.htm| 
+| 互联网信息服务算法推荐管理规定 | http://www.gov.cn/zhengce/zhengceku/2022-01/04/content_5666429.htm| 
+
+
+# 学习视频 推荐
+| title | url| 
+| --- | ---| 
+| 静态程序分析框架“太阿”的设计之道 | https://www.bilibili.com/video/BV1XP4y1S7cP/| 
+| 针对释放后重用漏洞的自动化分析和修复 | https://www.bilibili.com/video/BV1UK411671w/| 
+| Web漏洞挖掘基础系列 | https://www.bilibili.com/video/BV1TG4y1V7xc/| 
+| 隐私计算线上慕课 | https://space.bilibili.com/2073575923/channel/collectiondetail?sid=883666| 
+| 科研与英文学术论文写作 | https://space.bilibili.com/301285406/channel/collectiondetail?sid=535567| 
+
+
+# 学习视频 推荐
+| title | url| 
+| --- | ---| 
+| 车联网漏洞分析与挖掘技术（视频） | https://www.bilibili.com/video/BV15U4y1z7qK?vd_source=994e5741b72698fa42291f2582cd25c1| 
+
 
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
@@ -293,7 +322,7 @@
 | Cyber Raider Sec | jspiweb | 利用lsass免杀窃取凭证 | https://mp.weixin.qq.com/s?__biz=MzkzMzIwMTE5OA==&mid=2247484727&idx=1&sn=c58f8961af66031d2451134ac6b9cb31 | 1| 
 | 黑客技术与网络安全 | HackerCoder | 发布了一个软件，被抓了！ | https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651160691&idx=1&sn=05dd500efa66e3cd65d14508bb43a27f | 22| 
 | 猪八戒网安全应急响应中心 | qiji_2014 | 猪八戒网安全应急响应中心漏洞处理流程和评分标准V8 | https://mp.weixin.qq.com/s?__biz=MzA4MDMzODAxMQ==&mid=2247486349&idx=2&sn=3a02060b074c0f6a6dda7963e7546e50 | 2| 
-| 小强说 | xiaoqiangcall | OCA框架系列文章之OpenDXL基本情况和应用介绍（三） | https://mp.weixin.qq.com/s?__biz=MzIwOTE5MDc4Mg==&mid=2247484034&idx=1&sn=15aa1c2cc305c8e1b10ffdbb04d5a2f8 | 1| 
+| 小强说 | xiaoqiangcall | OCA框架系列文章之OpenDXL基本情况和应用介绍（三） | https://mp.weixin.qq.com/s?__biz=MzIwOTE5MDc4Mg==&mid=2247484034&idx=1&sn=15aa1c2cc305c8e1b10ffdbb04d5a2f8 | 2| 
 | 安全帮Live | gh_499ac9d326f5 | Java安全log4j漏洞前置知识RMI | https://mp.weixin.qq.com/s?__biz=MzI3NTcwNTQ2Mg==&mid=2247484761&idx=1&sn=13cc25ed63bf3c39cc84b72547c78fc8 | 2| 
 | 安全宇宙 | knownsec818 | 【创宇小课堂】移动安全-IOS逆向第三天——实战HOOK RSA/DES加密 | https://mp.weixin.qq.com/s?__biz=MzAxMDc5NzYwNQ==&mid=2652412023&idx=1&sn=bf033d718989479568695501f9324df3 | 22| 
 | 天御攻防实验室 | TianyuLab | 情报“照亮”威胁 , 虚假信息（disinformation）是现代网络战的一部分 | https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247484724&idx=1&sn=fd14d1a8156b507df7f26594ae3463e0 | 5| 
@@ -552,7 +581,7 @@
 | 贝壳产品技术 | beikeTC | 端到端模型在贝壳经纪人流失预警场景的实践 | https://mp.weixin.qq.com/s/DY-gzglv73iLrANjDY4PrQ | 3| 
 | 腾讯云防火墙 | gh_8b5f4467933a | 云防火墙产品的演进思路 | https://mp.weixin.qq.com/s/nKbUajOKuNjoCef-ZpgYfA | 1| 
 | 中通安全应急响应中心 | ZTO_SRC | 中通信息安全培训体系建设 | https://mp.weixin.qq.com/s/LklmkgRXydx35D1JcOFewA | 4| 
-| 安全学术圈 | secquan | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg | 64| 
+| 安全学术圈 | secquan | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg | 65| 
 | 安全行者老霍 | gh_c2b78e839fd7 | Gartner 2021 漏洞评估产品市场指南 | https://mp.weixin.qq.com/s/Oi7id-3jJOFjS1x-PlmD6w | 10| 
 | 等级保护测评 | zgdjbh | 公安部公布去年侵犯个人信息十大典型案例：窃取数十亿条信息暗网牟利 | https://mp.weixin.qq.com/s/mL3UWks3T2s1sliH28GaqA | 7| 
 | 深信服千里目安全实验室 | Further_eye | 【Rootkit 系列研究】Windows平台的高隐匿、高持久化威胁 | https://mp.weixin.qq.com/s/YE7bt6Bhz2mYYp1n-2vJtQ | 10| 
@@ -573,11 +602,6 @@
 | 404 Not F0und | AI4Security | 好的工作想法从哪里来 | https://mp.weixin.qq.com/s/jajNXjNxfAvV-7SmLnVUAQ | 3| 
 
 
-# 组织github账号 推荐
-| github_id | title | url | org_url | org_profile | org_geo | org_repositories | org_people | org_projects | repo_lang | repo_star | repo_forks| 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
-
-
 # 私人github账号 推荐
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
@@ -594,6 +618,7 @@
 | woodpecker-framework | woodpecker-framwork-release: 高危漏洞精准检测与深度利用框... | https://github.com/woodpecker-framework/woodpecker-framwork-release | None | None | None | None | 0 | 0 | 0 | 0 | 0 | HTML,Java | 0 | 0 | 1| 
 | wkz | kmemd - 利用 GDB 调试器查看 Linux 内核的运行时内存 | https://github.com/wkz/kmemd | https://github.com/wkz?tab=followers |  | Sweden | None | 37 | 0 | 54 | 0 | 0 | C,Shell | 0 | 0 | 1| 
 | winsiderss | System Informer - 一款开源的 Windows 资源监控和软件调试工具 | https://github.com/winsiderss/systeminformer | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C | 0 | 0 | 1| 
+| wh1t3p1g | TABBY：一款针对Java语言的静态代码分析工具 | https://github.com/wh1t3p1g/tabby | https://github.com/wh1t3p1g?tab=followers | Study On Web Security && Code review (semi-auto and manual) | None | Never Stop Exploiting | 29 | 0 | 1500 | 0 | 0 | PHP,Java | 0 | 0 | 2| 
 | wavestone-cdt | EDR 检测机制以及用 EDRSandblast 工具逃逸 EDR 的检测 | https://github.com/wavestone-cdt/EDRSandblast/tree/DefCon30Release | https://github.com/wavestone-cdt?tab=followers | Projects from the auditors and consultants from Wavestones Cybersecurity & Digital Trust practice | None | Wavestone | 14 | 0 | 0 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | viaMover | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://github.com/viaMover/contract-audit-reports/blob/main/Mover_Final_Report.pdf | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Python,JavaScript,Solidity,TeX,HTML | 0 | 0 | 1| 
 | twosmi1e | 静态分析及代码审计自动化相关资料收集 | https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit | https://github.com/twosmi1e?tab=followers |  | None | None | 38 | 0 | 309 | 0 | 0 | JavaScript,Java,HTML | 0 | 0 | 1| 
@@ -872,7 +897,7 @@
 | 0ang3el | Smuggling HTTP requests over fake WebSocket connection | https://github.com/0ang3el/websocket-smuggle | https://github.com/0ang3el?tab=followers |  | None | None | 10 | 0 | 0 | 0 | 0 | Python,Java,Perl | 0 | 0 | 1| 
 
 
-# medium_xuanwu 推荐
+# medium 推荐
 | title | url| 
 | --- | ---| 
 | 盘点22年中11个在ATTCK Initial Access阶段使用的漏洞。基本是高质量通用漏洞的汇总。不过这个list有一些是本地提权和DOS漏洞。 | http://link.medium.com/ABT2zY8L2vb| 
@@ -917,18 +942,13 @@
 | HTTP 协议栈 RCE 漏洞 CVE-2022–21907 的补丁分析 | http://piffd0s.medium.com/patch-diffing-cve-2022-21907-b739f4108eee| 
 
 
-# medium_secwiki 推荐
+# medium 推荐
 | title | url| 
 | --- | ---| 
 | Attack Flow — Beyond Atomic Behaviors | https://medium.com/mitre-engenuity/attack-flow-beyond-atomic-behaviors-c646675cc793| 
 
 
-# zhihu_xuanwu 推荐
-| title | url| 
-| --- | ---| 
-
-
-# zhihu_secwiki 推荐
+# 知乎 推荐
 | title | url| 
 | --- | ---| 
 | 推荐系统排序环节的特征Embedding建模 | https://zhuanlan.zhihu.com/p/573576653| 
@@ -947,7 +967,7 @@
 | 2021 年终总结：记我在清华 Apache IoTDB 组的成长 | https://zhuanlan.zhihu.com/p/463317675| 
 
 
-# xz_xuanwu 推荐
+# 论坛 推荐
 | title | url| 
 | --- | ---| 
 | Apache Archiva 任意目录删除/任意文件读取 | https://xz.aliyun.com/t/11979| 
@@ -957,7 +977,7 @@
 | CVE-2022-22954 VMware Workspace ONE Access SSTI RCE | https://xz.aliyun.com/t/11196| 
 
 
-# xz_secwiki 推荐
+# 论坛 推荐
 | title | url| 
 | --- | ---| 
 | 内网渗透从零到一之SMB协议 | https://xz.aliyun.com/t/11971| 

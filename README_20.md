@@ -7,9 +7,55 @@
 
 
 
-![20-信息类型占比-xuanwu](data/img/tag/20-信息类型占比-xuanwu.png)
+
 
 ![20-最喜欢语言占比](data/img/language/20-最喜欢语言占比.png)
+
+# 政策 推荐
+| title | url| 
+| --- | ---| 
+| 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
+| 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
+| 商用密码管理条例 | http://www.gov.cn/zhengce/zhengceku/202305/content_6875928.htm| 
+| 商用密码管理条例（修订草案征求意见稿） | http://www.sca.gov.cn/sca/hdjl/2020-08/20/content_1060779.shtml| 
+| 生成式人工智能服务管理办法（征求意见稿） | http://www.cac.gov.cn/2023-04/11/c_1682854275475410.htm| 
+| 密码工程技术人员国家职业标准 | http://www.mohrss.gov.cn/xxgk2020/fdzdgknr/qt/gztz/202303/t20230327_497435.html| 
+| 2021广东省数字政府网络安全指数评估报告 | http://zfsg.gd.gov.cn/zwgk/wjk/content/post_3829200.html| 
+| 证券期货业网络和信息安全管理办法 | http://www.gov.cn/zhengce/zhengceku/2023-03/04/content_5744506.htm| 
+| 互联网跟帖评论服务管理规定 | http://www.cac.gov.cn/2022-11/16/c_1670253725725039.htm| 
+| 2022上半年网络安全漏洞态势观察 | http://www.itsec.gov.cn/zxxw/202209/P020220902118368141314.pdf| 
+| 数据出境安全评估申报指南（第一版） | http://www.cac.gov.cn/2022-08/31/c_1663568169996202.htm| 
+| 移动互联网应用程序信息服务管理规定 | http://www.gov.cn/xinwen/2022-06/14/content_5695690.htm| 
+| 电力行业网络安全管理办法（修订征求意见稿） | http://www.nea.gov.cn/2022-06/14/c_1310622577.htm| 
+| 国资委：将网络安全纳入央企负责人经营业绩考核 | http://www.sasac.gov.cn/n2588035/n2588320/n2588335/c10652592/content.html| 
+| 关于开展“清朗·2022年算法综合治理”专项行动 | http://www.cac.gov.cn/2022-04/08/c_1651028524542025.htm| 
+| 互联网信息服务算法推荐管理规定 | http://www.gov.cn/zhengce/zhengceku/2022-01/04/content_5666429.htm| 
+| 国家密码管理局规章制定程序规定（最新版） | http://www.scmgj.gov.cn/scsmmglj/c103235/2021/12/24/838569f2bbbe4d1fb1cb90e5c8d9dbdf.shtml| 
+| “十四五”国家信息化规划 | http://www.cac.gov.cn/2021-12/27/c_1642205314518676.htm| 
+| 《互联网用户账号名称信息管理规定（征求意见稿）》 | http://www.cac.gov.cn/2021-10/26/c_1636843202454310.htm| 
+| 工业和信息化领域数据安全管理办法（试行）（征求意见稿） | https://wap.miit.gov.cn/gzcy/yjzj/art/2021/art_dcb6cc8d9f5c414eabd7070871996525.html| 
+| 关键信息基础设施安全保护条例 | http://www.gov.cn/zhengce/content/2021-08/17/content_5631671.htm| 
+| 一图读懂《网络产品安全漏洞管理规定》 | https://www.miit.gov.cn/zwgk/zcjd/art/2021/art_63fa55e09253499a9c3f1cd8266fbfa1.html| 
+| 涉密信息系统集成资质管理办法 | http://www.gjbmj.gov.cn/n1/2021/0125/c409089-32010949.html| 
+| 中华人民共和国个人信息保护法（草案） | http://www.npc.gov.cn/flcaw/flca/ff80808175265dd401754405c03f154c/attachment.pdf| 
+| 关于运用大数据推进防范治理电信网络诈骗长效机制建设工作方案 | http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057724/n3057728/c8056526/content.html| 
+| 公安部关于修改《公安机关办理刑事案件程序规定》的决定 | http://www.gov.cn/zhengce/zhengceku/2020-08/16/content_5535125.htm| 
+| 网络信息内容生态治理规定 | http://www.cac.gov.cn/2019-12/20/c_1578375159509309.htm| 
+| App违法违规收集使用个人信息行为认定方法 | http://www.cac.gov.cn/2019-12/27/c_1578986455686625.htm| 
+| 中国信息安全从业人员现状调研报告（2018-2019年度） | http://www.itsec.gov.cn/zxxw/201909/t20190906_36022.html| 
+| 关于印发加强工业互联网安全工作的指导意见的通知 | http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057724/n3057729/c7281215/content.html| 
+| 儿童个人信息网络保护规定 | http://www.cac.gov.cn/2019-08/23/c_1124913903.htm| 
+| 水利部印发水利网络安全管理办法（试行） | http://www.cac.gov.cn/2019-08/17/c_1124887757.htm| 
+| 信息安全技术 移动互联网应用（App）收集个人信息基本规范（草... | http://www.cac.gov.cn/2019-08/08/c_1124853418.htm| 
+| 网络安全漏洞管理规定（征求意见稿） | http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057724/n3057728/c7005976/content.html| 
+| 个人信息出境安全评估办法（征求意见稿） | http://www.cac.gov.cn/2019-06/13/c_1124613618.htm| 
+| 数据安全管理办法（征求意见稿） | http://www.cac.gov.cn/2019-05/28/c_1124546022.htm| 
+| 关于《网络安全审查办法（征求意见稿）》公开征求意见 | http://www.cac.gov.cn/2019-05/24/c_1124532846.htm| 
+| 互联网个人信息安全保护指南 | http://www.beian.gov.cn/portal/topicDetail?id=88| 
+| 网络安全技术应用试点示范项目公示 | http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057724/n3057728/c6794942/content.html| 
+| 中央企业负责人经营业绩考核办法 | http://www.sasac.gov.cn/n2588035/n2588320/n2588335/c8108632/content.html| 
+| 中央网信办关于开展App安全认证工作的公告 | http://gkml.samr.gov.cn/nsjg/rzjgs/201903/t20190315_292035.html?from=timeline&isappinstalled=0| 
+
 
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
@@ -34,6 +80,13 @@
 | 计算机系统研究的一些体会 | https://www.bilibili.com/video/BV1Ap4y167w3?p=1| 
 | 高质量科研论文写作 | https://www.bilibili.com/video/BV1hg4y1q7Ge| 
 | 伯克利课程：深度强化学习 (2019) | https://www.bilibili.com/video/av69455099/| 
+
+
+# 学习视频 推荐
+| title | url| 
+| --- | ---| 
+| 车联网漏洞分析与挖掘技术（视频） | https://www.bilibili.com/video/BV15U4y1z7qK?vd_source=994e5741b72698fa42291f2582cd25c1| 
+| 哔哩哔哩（bilibili）站的源码疑似泄漏 | https://github.com/openbilibili/go-common| 
 
 
 # 微信公众号 推荐
@@ -5088,7 +5141,7 @@
 | 0Kee-Team | JavaProbe: 一款Java应用运行时信息收集工具 | https://github.com/0Kee-Team/JavaProbe?from=timeline&isappinstalled=0 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Java | 0 | 0 | 4| 
 
 
-# medium_xuanwu 推荐
+# medium 推荐
 | title | url| 
 | --- | ---| 
 | Kangaroo 加壳器 | http://cryptax.medium.com/inside-kangapack-the-kangaroo-packer-with-native-decryption-3e7e054679c4| 
@@ -5393,7 +5446,7 @@
 | 从 Xceedium Xsuite 远程代码执行漏洞到域管权限的实际案例 | http://medium.com/@DanielC7/remote-code-execution-gaining-domain-admin-privileges-due-to-a-typo-dbf8773df767| 
 
 
-# medium_secwiki 推荐
+# medium 推荐
 | title | url| 
 | --- | ---| 
 | Attack Flow — Beyond Atomic Behaviors | https://medium.com/mitre-engenuity/attack-flow-beyond-atomic-behaviors-c646675cc793| 
@@ -5446,7 +5499,7 @@
 | Host Header Poisoning in IBM Websphere | https://medium.com/@x41x41x41/host-header-poisoning-in-ibm-websphere-3d459a990f00| 
 
 
-# zhihu_xuanwu 推荐
+# 知乎 推荐
 | title | url| 
 | --- | ---| 
 | 有用户反馈在百度搜索中搜索 iterm2 排名第一的推广链接下载的 iterm2 是钓鱼版本 | https://zhuanlan.zhihu.com/p/408746101| 
@@ -5458,7 +5511,7 @@
 | 复旦白泽战队对《Protocol state machine fuzzing of TLS Implementations》 paper 的解读 | https://zhuanlan.zhihu.com/p/68058146| 
 
 
-# zhihu_secwiki 推荐
+# 知乎 推荐
 | title | url| 
 | --- | ---| 
 | 形式化方法的研究方向到底是干什么的？ | https://www.zhihu.com/question/37328298| 
@@ -5561,7 +5614,7 @@
 | 基于机器学习的webshell检测（一） | https://zhuanlan.zhihu.com/p/58676764| 
 
 
-# xz_xuanwu 推荐
+# 论坛 推荐
 | title | url| 
 | --- | ---| 
 | Mimikatz Bypass Credential Guard的记录 | https://xz.aliyun.com/t/12097| 
@@ -5576,7 +5629,7 @@
 | Django SQL 注入CVE-2020-7471 漏洞详细分析原理以及 POC | https://xz.aliyun.com/t/7218| 
 
 
-# xz_secwiki 推荐
+# 论坛 推荐
 | title | url| 
 | --- | ---| 
 | 开源许可证保姆级入门手册 | https://xz.aliyun.com/t/12671| 

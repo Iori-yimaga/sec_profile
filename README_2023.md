@@ -7,9 +7,22 @@
 
 
 
-![2023-信息类型占比-xuanwu](data/img/tag/2023-信息类型占比-xuanwu.png)
+
 
 ![2023-最喜欢语言占比](data/img/language/2023-最喜欢语言占比.png)
+
+# 政策 推荐
+| title | url| 
+| --- | ---| 
+| 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
+| 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
+| 商用密码管理条例 | http://www.gov.cn/zhengce/zhengceku/202305/content_6875928.htm| 
+| 商用密码管理条例（修订草案征求意见稿） | http://www.sca.gov.cn/sca/hdjl/2020-08/20/content_1060779.shtml| 
+| 生成式人工智能服务管理办法（征求意见稿） | http://www.cac.gov.cn/2023-04/11/c_1682854275475410.htm| 
+| 密码工程技术人员国家职业标准 | http://www.mohrss.gov.cn/xxgk2020/fdzdgknr/qt/gztz/202303/t20230327_497435.html| 
+| 2021广东省数字政府网络安全指数评估报告 | http://zfsg.gd.gov.cn/zwgk/wjk/content/post_3829200.html| 
+| 证券期货业网络和信息安全管理办法 | http://www.gov.cn/zhengce/zhengceku/2023-03/04/content_5744506.htm| 
+
 
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
@@ -220,11 +233,6 @@
 | 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 38| 
 
 
-# 组织github账号 推荐
-| github_id | title | url | org_url | org_profile | org_geo | org_repositories | org_people | org_projects | repo_lang | repo_star | repo_forks| 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
-
-
 # 私人github账号 推荐
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
@@ -343,7 +351,7 @@
 | 0xPugazh | 包含多种不同应用的fuzz字典汇总 | https://github.com/0xPugazh/fuzz4bounty | https://github.com/0xPugazh?tab=followers | Wannbe Hacker... | TamilNadu, India | Remote | 16 | 0 | 352 | 0 | 0 | Shell | 0 | 0 | 1| 
 
 
-# medium_xuanwu 推荐
+# medium 推荐
 | title | url| 
 | --- | ---| 
 | Kangaroo 加壳器 | http://cryptax.medium.com/inside-kangapack-the-kangaroo-packer-with-native-decryption-3e7e054679c4| 
@@ -356,17 +364,7 @@
 | Bushwhackers关于rwctf的题目-hardened redis的Writeup | https://medium.com/@emil.lerner/hacking-redis-for-fun-and-ctf-points-3450c351bec1| 
 
 
-# medium_secwiki 推荐
-| title | url| 
-| --- | ---| 
-
-
-# zhihu_xuanwu 推荐
-| title | url| 
-| --- | ---| 
-
-
-# zhihu_secwiki 推荐
+# 知乎 推荐
 | title | url| 
 | --- | ---| 
 | 形式化方法的研究方向到底是干什么的？ | https://www.zhihu.com/question/37328298| 
@@ -377,14 +375,14 @@
 | 如何写好一篇高质量的IEEE/ACM Transaction级别的计算机科学论... | https://www.zhihu.com/question/22790506/answer/990626321| 
 
 
-# xz_xuanwu 推荐
+# 论坛 推荐
 | title | url| 
 | --- | ---| 
 | Mimikatz Bypass Credential Guard的记录 | https://xz.aliyun.com/t/12097| 
 | 通过隐藏导入表的方式规避杀软 | https://xz.aliyun.com/t/12035| 
 
 
-# xz_secwiki 推荐
+# 论坛 推荐
 | title | url| 
 | --- | ---| 
 | 开源许可证保姆级入门手册 | https://xz.aliyun.com/t/12671| 

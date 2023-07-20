@@ -1,14 +1,14 @@
 Python	47
 C	29
-JavaScript	24
 C++	24
+JavaScript	23
 Shell	19
 HTML	19
 PowerShell	15
 Java	13
 Go	13
-C#	12
-CSS	9
+C#	11
+CSS	8
 Assembly	6
 Ruby	6
 Objective-C	5

@@ -1,0 +1,18 @@
+20230710	法规	https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w	关于加强“自媒体”管理的通知	qq.com	mp.weixin.qq.com	/s/4QHdCXHq7md7MqW06SuN9w
+20230710	法规	http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm	生成式人工智能服务管理暂行办法	cac.gov.cn	www.cac.gov.cn	/2023-07/13/c_1690898327029107.htm
+20230710	Web安全	https://lightless.me/archives/burp-auth-test.html	BurpAuthTest 越权检测插件	lightless.me	lightless.me	/archives/burp-auth-test.html
+20230710	其它	https://mp.weixin.qq.com/s/uTTtUizJfvEzcKTJ4vei8A	2023年上半年全球网络空间演习概览	qq.com	mp.weixin.qq.com	/s/uTTtUizJfvEzcKTJ4vei8A
+20230710	文档	https://ti.qianxin.com/uploads/2023/07/12/%E5%85%A8%E7%90%83%E9%AB%98%E7%BA%A7%E6%8C%81%E7%BB%AD%E6%80%A7%E5%A8%81%E8%83%81%EF%BC%88APT%EF%BC%892023%E5%B9%B4%E4%B8%AD%E6%8A%A5%E5%91%8A.pdf	全球高级持续性威胁（APT）2023年中报告	qianxin.com	ti.qianxin.com	/uploads/2023/07/12/%E5%85%A8%E7%90%83%E9%AB%98%E7%BA%A7%E6%8C%81%E7%BB%AD%E6%80%A7%E5%A8%81%E8%83%81%EF%BC%88APT%EF%BC%892023%E5%B9%B4%E4%B8%AD%E6%8A%A5%E5%91%8A.pdf
+20230710	恶意分析	https://mp.weixin.qq.com/s/4CCQN8JbI0bLrJFcjW7ycQ	VirusTotal 恶意 URL 研究与分类	qq.com	mp.weixin.qq.com	/s/4CCQN8JbI0bLrJFcjW7ycQ
+20230710	其它	https://www.sec-in.com/article/1573	CodeQL与AST之间联系	sec-in.com	www.sec-in.com	/article/1573
+20230710	杂志	https://www.sec-wiki.com/weekly/488	SecWiki周刊（第488期)	sec-wiki.com	www.sec-wiki.com	/weekly/488
+20230710	无线安全	https://mp.weixin.qq.com/s/yWmHIxwq2FRblRZttGl14g	“星链”计划在俄乌军事冲突中的应用与启示	qq.com	mp.weixin.qq.com	/s/yWmHIxwq2FRblRZttGl14g
+20230710	编程技术	https://xz.aliyun.com/t/12671	开源许可证保姆级入门手册	aliyun.com	xz.aliyun.com	/t/12671
+20230710	无线安全	https://mp.weixin.qq.com/s/q08vjU-VLU_eBP5TkkIJPQ	5G 网络安全发展与创新安全体系及技术探索	qq.com	mp.weixin.qq.com	/s/q08vjU-VLU_eBP5TkkIJPQ
+20230710	恶意分析	https://mp.weixin.qq.com/s/p4aeNRlCruR5gCAzBDu0Tg	DISTDET：经济高效的分布式网络威胁检测系统	qq.com	mp.weixin.qq.com	/s/p4aeNRlCruR5gCAzBDu0Tg
+20230710	其它	https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A	网络空间作战平台发展回顾与影响分析	qq.com	mp.weixin.qq.com	/s/6LnKhmiWmfAUa2BTNGsp5A
+20230710	视频	https://space.bilibili.com/631540223/video	InForSec 2023年网络空间安全国际学术研究成果分享及青年学者论坛视频	bilibili.com	space.bilibili.com	/631540223/video
+20230710	数据挖掘	https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA	简单高效的异构图神经网络	qq.com	mp.weixin.qq.com	/s/GpSZ5RMwo51BCSxWdUzgjA
+20230710	取证分析	https://mp.weixin.qq.com/s/A_eGoENqMY-U9hbXiFMa-A	一起APT对抗中的深度智能入侵检测算法	qq.com	mp.weixin.qq.com	/s/A_eGoENqMY-U9hbXiFMa-A
+20230710	无线安全	https://mp.weixin.qq.com/s/V3TasSF8caaUJerQIaHC8w	深入解析全球太空态势感知能力 V1.3	qq.com	mp.weixin.qq.com	/s/V3TasSF8caaUJerQIaHC8w
+20230710	取证分析	https://mp.weixin.qq.com/s/RsoKjzldzmCyXpuo8K4KCw	APT-KGL：基于威胁知识和异构溯源图学习的智能APT检测系统	qq.com	mp.weixin.qq.com	/s/RsoKjzldzmCyXpuo8K4KCw
