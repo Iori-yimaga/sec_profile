@@ -7,6 +7,7 @@ sys.setdefaultencoding('utf8')
 
 from secwiki_today import scraw as secwiki_scraw
 from xuanwu_today import scraw as xuanwu_scraw
+from get_new_book import GetNewBook
 import secwiki as secwiki
 from mills import SQLiteOper
 from mills import get_special_date
@@ -26,6 +27,10 @@ def scraw(proxy=None):
     secwiki_scraw(so, proxy=None, delta=10)
     print("scraw xuanwu")
     xuanwu_scraw(so, proxy=proxy, delta=10)
+    print("scraw book")
+    g = GetNewBook()
+    g.scaw(proxy=proxy)
+
 
 
 def update_github(proxy=None):

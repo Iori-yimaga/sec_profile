@@ -1,10 +1,10 @@
-Python	1178
-C	739
-JavaScript	708
+Python	1179
+C	740
+JavaScript	709
 C++	614
-HTML	513
+HTML	514
 Java	508
-Shell	484
+Shell	485
 Go	452
 C#	310
 Ruby	265
@@ -17,7 +17,7 @@ Objective-C	142
 Jupyter	122
 Dockerfile	81
 Assembly	77
-Perl	74
+Perl	75
 Swift	70
 Makefile	61
 Lua	60
