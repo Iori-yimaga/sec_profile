@@ -248,10 +248,10 @@ def draw_table(so, source="weixin", top=100, year="2019"):
         sql = "select date_added,language,title,author,link,size from security_book where ts like  '{year}%' order by ts desc "
         header = ["date_added", "language", "title", "author", "link", "size"]
     elif source == 'bilibili_secwiki':
-        sql = "select title,url from secwiki_today_detail where url like '%bilibili%' and ts like '{year}%' order by ts desc "
+        sql = "select title,url from secwiki_today_detail where url like '%bilibili.com%' and ts like '{year}%' order by ts desc "
         header = ["title", "url"]
     elif source == 'bilibili_xuanwu':
-        sql = "select title,url from xuanwu_today_detail where url like '%bilibili%' and ts like '{year}%' order by ts desc "
+        sql = "select title,url from xuanwu_today_detail where url like '%bilibili.com%' and ts like '{year}%' order by ts desc "
         header = ["title", "url"]
     elif source == 'gov':
         sql = "select title,url from secwiki_today_detail where url like '%gov.cn%' and ts like '{year}%' order by ts desc "
@@ -457,5 +457,5 @@ def draw_all():
 if __name__ == "__main__":
     """
     """
-    draw_readme()
-    #draw_all()
+    #draw_readme()
+    draw_all()

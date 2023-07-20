@@ -35,12 +35,6 @@
 | 伯克利课程：深度强化学习 (2019) | https://www.bilibili.com/video/av69455099/| 
 
 
-# 学习视频 推荐
-| title | url| 
-| --- | ---| 
-| 哔哩哔哩（bilibili）站的源码疑似泄漏 | https://github.com/openbilibili/go-common| 
-
-
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
