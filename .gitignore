@@ -12,6 +12,7 @@ data/sec_url/*
 data/weixin/*
 data/twitter/*
 data/github_404
+data/book/*
 data/img/.DS_Store
 venv/*
 !data/secwiki/*

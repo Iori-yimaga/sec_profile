@@ -9,7 +9,7 @@ Java	1
 Scala	1
 OCaml	1
 Vim	1
-Rust	1
+CSS	1
 Go	1
 PowerShell	1
-CSS	1
+Rust	1

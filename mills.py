@@ -13,12 +13,33 @@ import re
 import sqlite3
 from urlparse import urlparse
 import json
-
+import datetime
 import requests
 import tldextract
 from bs4 import BeautifulSoup
 
 
+def get_special_date(delta=0, start_day=None, tformat="%Y%m%d"):
+    """
+    获得日期
+    :param delta: 偏移天数 0:当前 -1:前 1:后
+    :param start_day: 偏移的开始时间
+    :param format: 日期格式
+    :return:
+    """
+    if not start_day:
+
+        sp_date = (datetime.date.today() +
+                   datetime.timedelta(days=delta)).strftime(tformat)
+        return sp_date
+
+    else:
+        delta_now = (datetime.datetime.strptime(start_day, tformat)
+                     - datetime.datetime.strptime(str(get_special_date(tformat=tformat)), tformat)).days
+
+        last_day = get_special_date(delta=delta_now + delta, tformat=tformat)
+
+        return last_day
 class TimeoutError(Exception): pass
 
 
@@ -167,6 +188,16 @@ def get_special_date(delta=0, format="%Y%m%d"):
     date = (datetime.date.today() + datetime.timedelta(days=delta)).strftime(format)
     return date
 
+def timestamp2datetime(ts, tformat="%Y-%m-%d %H:%M:%S"):
+    """
+    timestamp 2 datetime
+    :param ts:
+    :param tformat:
+    :return:
+    """
+    # ts = ts - time.timezone
+    timestamp = datetime.datetime.fromtimestamp(ts).strftime(tformat)
+    return timestamp
 
 def get_weixin_info(url="", ts="", tag="", max_redirects=30, proxy=None, root_dir="data/weixin", retry=3, timeout=10):
     """

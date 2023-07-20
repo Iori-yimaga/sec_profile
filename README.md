@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 洞源实验室 | gh_4929169c5e90 | 企业安全漏洞综合治理方案 | https://mp.weixin.qq.com/s/m6vwYEPX5hbOlMMUCVYBtA | 1| 
 | 威胁棱镜 | THREAT_PRISM | FIRST 2023 议题速递 | https://mp.weixin.qq.com/s/suwkD2EIBuruqiZEii23pw | 2| 
 | 专注安管平台 | gh_48603b9bb05a | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw | 1| 
 | 虎符智库 | TT_Thinktank | 深度：美军网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A | 1| 
