@@ -60,6 +60,25 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-07-21 08:03:09 | English | Spy Ships: One Hundred Years of Intelligence Collection by Ships and Submarines | Norman Polmar, Lee J. Mathers | http://libgen.rs/book/index.php?md5=14B8980C55AA65E718730229BBB4C3A7 | 4 MB [EPUB]| 
+| 2023-07-21 05:22:42 | English | The Art of Risk | Richard Harris | http://libgen.rs/book/index.php?md5=A9FEE5323D62BB4A0099FB9BC09C2005 | 6 MB [EPUB]| 
+| 2023-07-21 04:16:48 | English | Fortinet Advanced Analytics Study Guide for FortiSIEM 6.3 |  | http://libgen.rs/book/index.php?md5=2A9B094EEC3F0DA4FFEB3725D4350D7F | 63 MB [PDF]| 
+| 2023-07-21 04:16:42 | English | Fortinet Advanced Analytics Lab Guide for FortiSIEM 6.3 |  | http://libgen.rs/book/index.php?md5=E3582EFCEBB0AF288F1B5FC3468D64E9 | 13 MB [PDF]| 
+| 2023-07-21 04:13:55 | English | Fortinet LAN Edge Study Guide for FortiGate 7.0 |  | http://libgen.rs/book/index.php?md5=EDAA5C2E25AD0BBEF185851B29B742E4 | 50 MB [PDF]| 
+| 2023-07-21 04:11:30 | English | Fortinet OT Security Study Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=9063133974E42781E921976B957D6D48 | 31 MB [PDF]| 
+| 2023-07-21 04:11:29 | English | Fortinet OT Security Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=5B6ABB7215F265DC5C549EA990BAA9FB | 5 MB [PDF]| 
+| 2023-07-21 04:07:51 | English | Fortinet Public Cloud Security Study Guide for FortiGate 7.2 |  | http://libgen.rs/book/index.php?md5=FB499E6726395D0F2E86BD3D6E1FD195 | 19 MB [PDF]| 
+| 2023-07-21 04:05:02 | English | Fortinet Zero Trust Access Study Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=C4D0B5CB221B1C0EFAE1A1448E63C428 | 18 MB [PDF]| 
+| 2023-07-21 04:04:58 | English | Fortinet Zero Trust Access Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=39DCC1F3923F1727D600BD25C0EC5845 | 14 MB [PDF]| 
+| 2023-07-21 04:01:31 | English | Fortinet SD-WAN Study Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=572D3F2160E003B689F9DFFE04638FF6 | 10 MB [PDF]| 
+| 2023-07-21 03:58:33 | English | Fortinet Enterprise Firewall Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=65BD7A0B33E6EA74C83C4F1CE0C5C06D | 6 MB [PDF]| 
+| 2023-07-21 03:58:28 | English | Fortinet Enterprise Firewall Study Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=76992EDAB7C98447905A8E2E7952C445 | 35 MB [PDF]| 
+| 2023-07-21 03:54:05 | English | Fortinet Network Security Support Engineer Study Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=CE444CC0FC8EE50F6461120BB06F321B | 54 MB [PDF]| 
+| 2023-07-21 03:54:04 | English | Fortinet Network Security Support Engineer Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=275931204DD5049E0BC233056083EFB2 | 2 MB [PDF]| 
+| 2023-07-21 03:47:48 | English | Fortinet FortiVoice Lab Guide for FortiVoice 6.0 |  | http://libgen.rs/book/index.php?md5=09154B576D7A818E5FAF3022A0B393E0 | 3 MB [PDF]| 
+| 2023-07-21 03:47:47 | English | Fortinet FortiVoice Study Guide for FortiVoice 6.0 |  | http://libgen.rs/book/index.php?md5=8341173B3FC2024366A0648939771E5F | 45 MB [PDF]| 
+| 2023-07-21 03:19:26 | English | Fortinet Secure Wireless LAN Study Guide for FortiOS 6.4 |  | http://libgen.rs/book/index.php?md5=2CD7B4055ABDCF4C8A687565D7095573 | 40 MB [PDF]| 
+| 2023-07-21 03:05:45 | English | Fortinet FortiWeb Study Guide for FortiWeb 6.4 |  | http://libgen.rs/book/index.php?md5=07390EF2A9457416C4E6143A4872E225 | 50 MB [PDF]| 
 | 2023-07-19 01:39:56 | English | Reverse Engineering For Everyone! | mytechnotalent | http://libgen.rs/book/index.php?md5=4D8D5338D320406A630F5E8851B1E496 | 15 MB [PDF]| 
 | 2023-07-19 00:37:07 | English | (Studies in Systems, Decision and Control, 475) Output Regulation and Cybersecurity of Networked Switched Systems | Lili Li, Jun Fu | http://libgen.rs/book/index.php?md5=40302C43F9E7F7920564A118E922297B | 8 MB [PDF]| 
 

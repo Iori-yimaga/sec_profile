@@ -115,6 +115,7 @@ class GetNewBook(object):
             ['mitre'],
             ['sans'],
             ['ebpf'],
+            ['fortinet'],
 
             # other
             ['automation']
