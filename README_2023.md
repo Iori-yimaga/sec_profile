@@ -14,6 +14,7 @@
 # 政策 推荐
 | title | url| 
 | --- | ---| 
+| 铁路关键信息基础设施安全保护管理办法（征求意见稿） | http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html| 
 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
 | 商用密码管理条例 | http://www.gov.cn/zhengce/zhengceku/202305/content_6875928.htm| 
@@ -27,6 +28,10 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-07-22 16:23:55 | English | Handbook on Antimicrobial Resistance: Current Status, Trends in Detection and Mitigation Measures | Mukteswar Prasad Mothadaka (editor), Murugadas Vaiyapuri (editor), Madhusudana Rao Badireddy (editor), Chandragiri Nagarajrao Ravishankar (editor), Rajesh Bhatia (editor), Joykrushna Jena (editor) | http://libgen.rs/book/index.php?md5=461B2A9119B18967A97E99D4B73268F9 | 17 MB [PDF]| 
+| 2023-07-22 16:20:39 | English | Handbook on Antimicrobial Resistance: Current Status, Trends in Detection and Mitigation Measures | Mukteswar Prasad Mothadaka (editor), Murugadas Vaiyapuri (editor), Madhusudana Rao Badireddy (editor), Chandragiri Nagarajrao Ravishankar (editor), Rajesh Bhatia (editor), Joykrushna Jena (editor) | http://libgen.rs/book/index.php?md5=0025A17C7AD5CBA9DC0309E4510747EB | 28 MB [EPUB]| 
+| 2023-07-22 16:07:28 | English | Why Lawyers Suck: Hacking the Legal System Part One | Melody Kramer | http://libgen.rs/book/index.php?md5=81E5D70EF8E48D37DF05EABDBD09E8D0 | 408 kB [EPUB]| 
+| 2023-07-22 15:17:43 | English | Handbook of Writing for the Mathematical Sciences | Nicholas J. Higham | http://libgen.rs/book/index.php?md5=3B39476B5EFA173FD8818AEF9A295F35 | 4 MB [DJVU]| 
 | 2023-07-21 03:05:45 | English | Fortinet FortiWeb Study Guide for FortiWeb 6.4 |  | http://libgen.rs/book/index.php?md5=07390EF2A9457416C4E6143A4872E225 | 50 MB [PDF]| 
 | 2023-07-21 04:01:29 | English | Fortinet SD-WAN Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=235FB171A721993D52DDB15CA2EFE608 | 6 MB [PDF]| 
 | 2023-07-21 08:03:09 | English | Spy Ships: One Hundred Years of Intelligence Collection by Ships and Submarines | Norman Polmar, Lee J. Mathers | http://libgen.rs/book/index.php?md5=14B8980C55AA65E718730229BBB4C3A7 | 4 MB [EPUB]| 
@@ -118,7 +123,7 @@
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 腾讯开源 | tencentopen | 开源项目发布｜SessionAnalytics - 基于互联网用户Session会话的用户路径分析和挖掘系统 | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg | 1| 
 | 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 3| 
-| OnionSec | gh_8ab0e346e1df | 对Code Insight的学习笔记 | https://mp.weixin.qq.com/s/ldCto4vZBXLBdgjJYABr7A | 1| 
+| OnionSec | gh_8ab0e346e1df | 对Code Insight的学习笔记 | https://mp.weixin.qq.com/s/ldCto4vZBXLBdgjJYABr7A | 2| 
 | Desync InfoSec | gh_1a0c9eea6b2a | 参加了多次攻防演练后，不知你的蓝队能否检测这些勒索组织TTPs！ | https://mp.weixin.qq.com/s/5Ll9j8HIj4dWhxavOyX75Q | 3| 
 | 网安国际 | inforsec | 【InForSec2023 年会论坛回顾】张殷乾：打造机密计算的安全底座 | https://mp.weixin.qq.com/s/5z7HA-t5zUzd4kuPROb4Hg | 2| 
 | 悬镜安全 | Anpro-tech | SCA技术进阶系列（二）：代码同源检测技术在供应链安全治理中的应用 | https://mp.weixin.qq.com/s/Tmw4xHGanVtR_9y-ow2zOg | 1| 
@@ -246,11 +251,11 @@
 | 电驭叛客 | langu_xyz | 面向实战的基础安全体系升级 | https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ | 1| 
 | 威胁棱镜 | THREAT_PRISM | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA | 18| 
 | 奇安信技术研究院 | jishuyanjiuyuan001 | 【天问】2022年PyPI恶意包年度回顾 | https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ | 2| 
-| 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 21| 
+| 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 22| 
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
-| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 38| 
+| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 39| 
 
 
 # 私人github账号 推荐
@@ -273,6 +278,7 @@
 | s0duku | VMware Workstation Heap OOB 漏洞POC。 | https://github.com/s0duku/cve-2022-31705 | https://github.com/s0duku?tab=followers | NJFU | None | None | 123 | 0 | 106 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
 | romainthomas | 一款基于LIEF和LLVM的对Objective-C语言二进制文件中类成员分析的工具。 | https://github.com/romainthomas/iCDump | https://github.com/lief-project | Security Engineer working on mobile, obfuscation and file formats. Author & maintainer of @lief-project / @open-obfuscator | None | @lief-project @open-obfuscator | 50 | 0 | 331 | 0 | 0 | Java,C++ | 0 | 0 | 1| 
 | revng | Revng - 可将支持架构（目前为 i386、x86-64、MIPS、ARM、AArch64 和 s390x）的 ELF 二进制文件的 QEMU 中间表示（一系列 TCG 指令）翻译成 LLVM IR的静态二进制二进制翻译器 | https://github.com/revng/revng/tree/feature/llvm-16 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,TypeScript,C++ | 0 | 0 | 1| 
+| repoog | InvoiceExtract: 发票数据提取小工具 | https://github.com/repoog/InvoiceExtract | https://github.com/repoog?tab=followers | Security specialist(CISSP/CyberSecurity+ Specialist), full stack developer and senior director. Enjoy DIY,Arduino/Raspberry Pi and reading/writing. | China | None | 17 | 0 | 54 | 0 | 0 | Python,Shell,PHP | 0 | 0 | 1| 
 | r3x5ur | unveilr: 一款小程序安全评估工具 | https://github.com/r3x5ur/unveilr | https://github.com/r3x5ur?tab=followers | 一枚小菜蛋🥚 | Hangzhou | None | 9 | 0 | 55 | 0 | 0 | TypeScript,Java,PHP | 0 | 0 | 1| 
 | r0ysue | MobileCTF: 体系化、实战化的移动端CTF靶场 | https://github.com/r0ysue/MobileCTF | https://github.com/r0ysue?tab=followers | またあした | None | None | 30 | 0 | 135 | 0 | 0 | Python,JavaScript | 0 | 0 | 1| 
 | quarkslab | Pyratha 是一款专注于可视化的文件系统制图和关联软件。它目前专注于可执行文件之间的关系，但旨在使任何人能够映射和可视化任何类型的关系。 | https://github.com/quarkslab/pyrrha | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell,JavaScript,C++ | 0 | 0 | 1| 

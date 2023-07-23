@@ -1,7 +1,7 @@
-Python	6
+Python	7
 C	5
+Shell	5
 C++	5
-Shell	4
 JavaScript	4
 HTML	3
 TypeScript	2
@@ -10,6 +10,7 @@ Scala	1
 OCaml	1
 Perl	1
 CSS	1
+PHP	1
 Go	1
 Vim	1
 PowerShell	1

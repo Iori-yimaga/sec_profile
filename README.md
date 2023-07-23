@@ -14,6 +14,7 @@
 # 政策 推荐
 | title | url| 
 | --- | ---| 
+| 铁路关键信息基础设施安全保护管理办法（征求意见稿） | http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html| 
 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
 
@@ -21,6 +22,10 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-07-22 16:23:55 | English | Handbook on Antimicrobial Resistance: Current Status, Trends in Detection and Mitigation Measures | Mukteswar Prasad Mothadaka (editor), Murugadas Vaiyapuri (editor), Madhusudana Rao Badireddy (editor), Chandragiri Nagarajrao Ravishankar (editor), Rajesh Bhatia (editor), Joykrushna Jena (editor) | http://libgen.rs/book/index.php?md5=461B2A9119B18967A97E99D4B73268F9 | 17 MB [PDF]| 
+| 2023-07-22 16:20:39 | English | Handbook on Antimicrobial Resistance: Current Status, Trends in Detection and Mitigation Measures | Mukteswar Prasad Mothadaka (editor), Murugadas Vaiyapuri (editor), Madhusudana Rao Badireddy (editor), Chandragiri Nagarajrao Ravishankar (editor), Rajesh Bhatia (editor), Joykrushna Jena (editor) | http://libgen.rs/book/index.php?md5=0025A17C7AD5CBA9DC0309E4510747EB | 28 MB [EPUB]| 
+| 2023-07-22 16:07:28 | English | Why Lawyers Suck: Hacking the Legal System Part One | Melody Kramer | http://libgen.rs/book/index.php?md5=81E5D70EF8E48D37DF05EABDBD09E8D0 | 408 kB [EPUB]| 
+| 2023-07-22 15:17:43 | English | Handbook of Writing for the Mathematical Sciences | Nicholas J. Higham | http://libgen.rs/book/index.php?md5=3B39476B5EFA173FD8818AEF9A295F35 | 4 MB [DJVU]| 
 | 2023-07-21 03:05:45 | English | Fortinet FortiWeb Study Guide for FortiWeb 6.4 |  | http://libgen.rs/book/index.php?md5=07390EF2A9457416C4E6143A4872E225 | 50 MB [PDF]| 
 | 2023-07-21 04:01:29 | English | Fortinet SD-WAN Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=235FB171A721993D52DDB15CA2EFE608 | 6 MB [PDF]| 
 | 2023-07-21 08:03:09 | English | Spy Ships: One Hundred Years of Intelligence Collection by Ships and Submarines | Norman Polmar, Lee J. Mathers | http://libgen.rs/book/index.php?md5=14B8980C55AA65E718730229BBB4C3A7 | 4 MB [EPUB]| 
@@ -54,11 +59,12 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| OnionSec | gh_8ab0e346e1df | 我理解的检测防御哲学 | https://mp.weixin.qq.com/s/2otUs37Q2YQK5RSWyLVEOQ | 1| 
 | 洞源实验室 | gh_4929169c5e90 | 企业安全漏洞综合治理方案 | https://mp.weixin.qq.com/s/m6vwYEPX5hbOlMMUCVYBtA | 1| 
-| 威胁棱镜 | THREAT_PRISM | FIRST 2023 议题速递 | https://mp.weixin.qq.com/s/suwkD2EIBuruqiZEii23pw | 2| 
 | 专注安管平台 | gh_48603b9bb05a | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw | 1| 
 | 虎符智库 | TT_Thinktank | 深度：美军网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A | 1| 
 | 落水轩 | gh_c10ee4802699 | 一起APT对抗中的深度智能入侵检测算法 | https://mp.weixin.qq.com/s/A_eGoENqMY-U9hbXiFMa-A | 1| 
+| 威胁棱镜 | THREAT_PRISM | VirusTotal 恶意 URL 研究与分类 | https://mp.weixin.qq.com/s/4CCQN8JbI0bLrJFcjW7ycQ | 2| 
 | 太空安全 | SateSec | 深入解析全球太空态势感知能力 V1.3 | https://mp.weixin.qq.com/s/V3TasSF8caaUJerQIaHC8w | 1| 
 | AIBio爱生信 | AI4Bioinformatics | AAAI 2023 , 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA | 1| 
 | 新华社 | xinhuashefabu1 | 加强自媒体管理，中央网信办出手！ | https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w | 1| 
@@ -66,7 +72,7 @@
 | huasec | ihuahua04 | 威胁狩猎-ICMP流量分析 | https://mp.weixin.qq.com/s/9tfwxjEyFw2WtxPTf8EXqQ | 1| 
 | 奇安信威胁情报中心 | gh_166784eae33e | 针对安全研究人员的POC投毒事件 | https://mp.weixin.qq.com/s/fi_wg6LH4hRd3RqSNhs9CA | 1| 
 | 字节跳动安全中心 | TouTiaoSec | 通过大语言模型（LLM）识别与修复风险代码 | https://mp.weixin.qq.com/s/DpXcLrOBewdqR6Z8CYKH8g | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | IARPA首次利用网络心理学赋能网络防御重塑安全 | https://mp.weixin.qq.com/s/fQ5HzCzroKlbMjKKdrazcA | 4| 
+| 信息安全与通信保密杂志社 | cismag2013 | IARPA首次利用网络心理学赋能网络防御重塑安全 | https://mp.weixin.qq.com/s/fQ5HzCzroKlbMjKKdrazcA | 5| 
 | 表图 | CyberSecurityCircle | 攻防演习防守标准化的实践与思考 | https://mp.weixin.qq.com/s/ZVeDA6tQyl7w4ClvGLH3-Q | 1| 
 | 清华大学智能法治研究院 | THUIAIL | 欧盟网络保险的需求方：ENISA报告解读 | https://mp.weixin.qq.com/s/zLi4d3qvjcADJgsAGwgjLQ | 2| 
 | 机器之心 | almosthuman2014 | 大型语言模型与知识图谱协同研究综述：两大技术优势互补 | https://mp.weixin.qq.com/s/HMCMyT0FKV5fGo4NRKSa5g | 1| 
@@ -76,7 +82,7 @@
 | 潇湘信安 | xxxasec | [RedTeam] 轮换源IP - Cloud Proxy | https://mp.weixin.qq.com/s/HTH4YQVjyxngPn87wflJdg | 1| 
 | 我的安全视界观 | CANI_Security | 安全事件运营SOP：软件供应链投毒事件 | https://mp.weixin.qq.com/s/UhchRCg4G96k5ypy5hceYA | 1| 
 | 懒人在思考 | lazy-thought | Web3 安全入门（重点智能合约安全） | https://mp.weixin.qq.com/s/jlJhqlfzhn13ZqmPChyhFw | 1| 
-| 安全学术圈 | secquan | 香港中文大学 , TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过程分析 | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q | 5| 
+| 安全学术圈 | secquan | 香港中文大学 , TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过程分析 | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q | 6| 
 | 金融电子化 | fcmag1993 | 观点 , 关于银行业软件供应链安全治理的思考与实践 | https://mp.weixin.qq.com/s/QaVZMIELUGz7OZuYKAayGA | 1| 
 | 看雪学苑 | ikanxue | Qiling框架分析实战：从 QilingLab 详解到 Qiling 源码分析 | https://mp.weixin.qq.com/s/v9KRkhjnZ-f-PY9xjQjj5g | 3| 
 | 希潭实验室 | abc123network | 第67篇：美国安全公司溯源分析Solarwinds供应链攻击事件全过程 | https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw | 1| 
@@ -86,6 +92,7 @@
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | tandasat | hvext - 用于研究 Intel CPU 上的 hyper-v 的windbg扩展，由 @ergot86、@0vercl0k 和 @gerhart_ 实现 | https://github.com/tandasat/hvext | https://github.com/tandasat?tab=followers | Engineer and trainer | Vancouver, Canada | None | 77 | 0 | 27 | 0 | 0 | C,C++,Rust | 0 | 0 | 1| 
+| repoog | InvoiceExtract: 发票数据提取小工具 | https://github.com/repoog/InvoiceExtract | https://github.com/repoog?tab=followers | Security specialist(CISSP/CyberSecurity+ Specialist), full stack developer and senior director. Enjoy DIY,Arduino/Raspberry Pi and reading/writing. | China | None | 17 | 0 | 54 | 0 | 0 | Python,Shell,PHP | 0 | 0 | 1| 
 | quarkslab | Pyratha 是一款专注于可视化的文件系统制图和关联软件。它目前专注于可执行文件之间的关系，但旨在使任何人能够映射和可视化任何类型的关系。 | https://github.com/quarkslab/pyrrha | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell,JavaScript,C++ | 0 | 0 | 1| 
 | mengjian-github | 逆向分析Github Copilot | https://github.com/mengjian-github/copilot-analysis | https://github.com/mengjian-github?tab=followers | 微信公众号：frontend_cognitive | 深圳，中国 | 腾讯 | 23 | 0 | 25 | 0 | 0 | TypeScript,Shell,JavaScript,HTML | 0 | 0 | 1| 
 | hfiref0x | WubbabooMark 调试器反检测基准旨在检测软件调试器或特殊软件的使用痕迹，这些软件旨在通过篡改程序环境的各个方面来向被调试者隐藏调试器的存在 | https://github.com/hfiref0x/WubbabooMark | https://github.com/hfiref0x?tab=followers |  | None | None | 30 | 0 | 29 | 0 | 0 | C | 0 | 0 | 1| 

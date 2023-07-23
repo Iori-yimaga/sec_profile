@@ -14,6 +14,7 @@
 # 政策 推荐
 | title | url| 
 | --- | ---| 
+| 铁路关键信息基础设施安全保护管理办法（征求意见稿） | http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html| 
 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
 | 商用密码管理条例 | http://www.gov.cn/zhengce/zhengceku/202305/content_6875928.htm| 
@@ -60,6 +61,10 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-07-22 16:23:55 | English | Handbook on Antimicrobial Resistance: Current Status, Trends in Detection and Mitigation Measures | Mukteswar Prasad Mothadaka (editor), Murugadas Vaiyapuri (editor), Madhusudana Rao Badireddy (editor), Chandragiri Nagarajrao Ravishankar (editor), Rajesh Bhatia (editor), Joykrushna Jena (editor) | http://libgen.rs/book/index.php?md5=461B2A9119B18967A97E99D4B73268F9 | 17 MB [PDF]| 
+| 2023-07-22 16:20:39 | English | Handbook on Antimicrobial Resistance: Current Status, Trends in Detection and Mitigation Measures | Mukteswar Prasad Mothadaka (editor), Murugadas Vaiyapuri (editor), Madhusudana Rao Badireddy (editor), Chandragiri Nagarajrao Ravishankar (editor), Rajesh Bhatia (editor), Joykrushna Jena (editor) | http://libgen.rs/book/index.php?md5=0025A17C7AD5CBA9DC0309E4510747EB | 28 MB [EPUB]| 
+| 2023-07-22 16:07:28 | English | Why Lawyers Suck: Hacking the Legal System Part One | Melody Kramer | http://libgen.rs/book/index.php?md5=81E5D70EF8E48D37DF05EABDBD09E8D0 | 408 kB [EPUB]| 
+| 2023-07-22 15:17:43 | English | Handbook of Writing for the Mathematical Sciences | Nicholas J. Higham | http://libgen.rs/book/index.php?md5=3B39476B5EFA173FD8818AEF9A295F35 | 4 MB [DJVU]| 
 | 2023-07-21 03:05:45 | English | Fortinet FortiWeb Study Guide for FortiWeb 6.4 |  | http://libgen.rs/book/index.php?md5=07390EF2A9457416C4E6143A4872E225 | 50 MB [PDF]| 
 | 2023-07-21 04:01:29 | English | Fortinet SD-WAN Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=235FB171A721993D52DDB15CA2EFE608 | 6 MB [PDF]| 
 | 2023-07-21 08:03:09 | English | Spy Ships: One Hundred Years of Intelligence Collection by Ships and Submarines | Norman Polmar, Lee J. Mathers | http://libgen.rs/book/index.php?md5=14B8980C55AA65E718730229BBB4C3A7 | 4 MB [EPUB]| 
@@ -289,7 +294,7 @@
 | 零维安全 | lx0sec | 高级红队与WEB安全外加代码审计“手册” | https://mp.weixin.qq.com/s?__biz=MzUzMjk0MTE1Mg==&mid=2247483781&idx=1&sn=dbdbc78b0f06018c251f6c25a9889893 | 1| 
 | 皮相 | OnTheSurface | 国际政治到底是什么？ | https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648256908&idx=1&sn=214e23f2fb3b95347712f6968ab95068 | 2| 
 | 信安小屋 | CTF_Writeup | 赋能图片的免杀技巧 | https://mp.weixin.qq.com/s?__biz=MzI3ODkyOTYxOA==&mid=2247485160&idx=1&sn=81135b947892c56858e083c3881988e9 | 2| 
-| OnionSec | gh_8ab0e346e1df | 简单写一点情报挖掘猎捕的内容与思考 | https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247484464&idx=1&sn=8b9212ac6a403cabc68dd7fe92cd27d9 | 2| 
+| OnionSec | gh_8ab0e346e1df | 简单写一点情报挖掘猎捕的内容与思考 | https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247484464&idx=1&sn=8b9212ac6a403cabc68dd7fe92cd27d9 | 3| 
 | 维度之眼 | ku_guo_1 | 郑州云智信安-招聘英雄帖【多岗位】 | https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDcxNw==&mid=2247484157&idx=1&sn=0edf47631a8f4dd4995b88f3d828eb3d | 1| 
 | 千寻安服 | scaf_0123 | 千寻笔记：应急响应实践小Tips | https://mp.weixin.qq.com/s?__biz=MzkzMzI3OTczNA==&mid=2247484780&idx=1&sn=b49a411924abc4dd71a7362f0ba836ac | 4| 
 | EDI安全 | EDISEC | SUSCTF SU Writeup | https://mp.weixin.qq.com/s?__biz=MzIzMTQ4NzE2Ng==&mid=2247492116&idx=1&sn=86e5ae1091a20e4ef0e802f5b33b9917 | 2| 
@@ -903,7 +908,7 @@
 | 腾讯安全智能 | TX_Security_AI | 基于图挖掘的安全事件分析 | https://mp.weixin.qq.com/s/ARfMqrUxiPKmbMcV_yaluw | 3| 
 | 浅黑科技 | qianheikeji | CTF：一部黑客心灵史 | https://mp.weixin.qq.com/s/wEqBaZmO8FwOyGrcWDNgYQ | 13| 
 | 国际安全智库 | guoji-anquanzhiku | “震网”十年谜底终浮水面, 伊朗核计划流产源于内鬼“间谍行动” | https://mp.weixin.qq.com/s/ORW8qWCpgQFJh8-bsaIg3w | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 38| 
+| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 39| 
 | Hacking就是好玩 |  | 对乌云漏洞库payload的整理以及Burp辅助插件 | https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw | 5| 
 | 行业研究报告 | report88 | 2018-2019年网络安全行业深度报告 | https://mp.weixin.qq.com/s/z-LN2AlMezEmJVekbDndcw | 1| 
 | 编程技术宇宙 | ProgramUniverse | 我是一个流氓软件线程 | https://mp.weixin.qq.com/s/-ggUa3aWkjjHjr9VwQL9TQ | 5| 
@@ -1002,7 +1007,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 231| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 232| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -3257,7 +3262,7 @@
 | sycurelab | DECAF - 基于 QEMU 的二进制分析平台: | https://github.com/sycurelab/DECAF | None |  | None | None | 2 | 0 | 0 | 46 | 0 | C | 377 | 128 | 1| 
 | securing | GATTacker - BLE(蓝牙低功耗)设备的中间人劫持测试工具,是个 Node.js 包: https://tirateunping.wordpress.com/2016/11/01/gattacker-ble-bluetooth-low-energy-man-in-the-middle/ | https://github.com/securing/gattacker | https://www.securing.pl |  | None | None | 7 | 0 | 3 | 46 | 0 | Python,JavaScript,Swift | 342 | 96 | 2| 
 | securesocketfunneling | SSF - 在 TLS 隧道下提供 TCP/UDP 端口转发、SOCKS5 代理以及远程 Shell 的工具: | https://github.com/securesocketfunneling/ssf | None |  | None | None | 7 | 0 | 0 | 46 | 0 | C,CMake,C++ | 859 | 125 | 1| 
-| repoog | GitPrey: GitHub敏感信息扫描工具 | https://github.com/repoog/GitPrey | None | Hacker, Engineer, PM | None | None | 11 | 0 | 20 | 46 | 1 | Python,Shell,C,PHP | 336 | 131 | 1| 
+| repoog | GitPrey: GitHub敏感信息扫描工具 | https://github.com/repoog/GitPrey | None | Hacker, Engineer, PM | None | None | 11 | 0 | 20 | 46 | 1 | Python,Shell,C,PHP | 336 | 131 | 2| 
 | r00tkillah | HorsePill: a New Type of Linux Rootkit : | https://github.com/r00tkillah/HORSEPILL | None |  | None | None | 7 | 0 | 2 | 46 | 0 | Python,Eagle,C,Ruby,CSS | 174 | 57 | 1| 
 | pbiernat | ripr - 将二进制工具打包成 Python 软件包的工具,基于 Binary Ninja 和 Unicorn Engine 实现: | https://github.com/pbiernat/ripr | https://github.com/ret2 |  | New York | @ret2 | 6 | 0 | 28 | 46 | 0 | Python,C++ | 264 | 25 | 1| 
 | mohuihui | antispy: Windows下手工杀毒辅助工具开源 | https://github.com/mohuihui/antispy | None | QQ & WeChat：454858525 | None | Alibaba | 9 | 0 | 5 | 46 | 2 | C,Java,Objective-C | 242 | 133 | 1| 
