@@ -111,6 +111,7 @@ def strip_n(st):
     st = re.sub(r'\s+', ' ', st)
     st = re.sub(r'\x22', '', st)
     st = re.sub(r'\x27', '', st)
+    st = re.sub(r'\'', '', st)
 
     st = st.strip()
     return st

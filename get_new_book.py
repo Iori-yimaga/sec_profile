@@ -5,6 +5,7 @@ import logging
 from mills import get_request, timestamp2datetime
 from mills import SQLiteOper
 from mills import d2sql
+from mills import strip_n
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
@@ -214,6 +215,7 @@ class GetNewBook(object):
                                 k = k[0:-1]
                                 k = k.lower()
                                 k = k.replace(' ', '_')
+                                v = strip_n(v)
                                 book_dict[k] = v
 
             if title and link:
