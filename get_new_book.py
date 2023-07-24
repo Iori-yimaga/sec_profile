@@ -102,7 +102,7 @@ class GetNewBook(object):
             ['binary'],
             ['rootkits'],
             ['osint'],
-            ['handbook'],
+
 
             ['falcon'],
             ['sentinel'],  # microsoft
