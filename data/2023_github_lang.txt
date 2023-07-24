@@ -1,8 +1,8 @@
-Python	55
-C	34
-C++	33
+Python	57
+C	35
+C++	35
 JavaScript	27
-Go	21
+Go	22
 Java	20
 Shell	17
 Rust	14
@@ -14,12 +14,12 @@ PowerShell	9
 CSS	6
 Assembly	4
 Solidity	4
+Jupyter	4
 Ruby	4
 Scala	3
 SCSS	3
 Dockerfile	3
 HCL	3
-Jupyter	3
 Perl	2
 Swift	2
 Kotlin	2

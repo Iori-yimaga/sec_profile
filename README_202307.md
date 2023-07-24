@@ -46,6 +46,8 @@
 | 2023-07-21 03:47:48 | English | Fortinet FortiVoice Lab Guide for FortiVoice 6.0 |  | http://libgen.rs/book/index.php?md5=09154B576D7A818E5FAF3022A0B393E0 | 3 MB [PDF]| 
 | 2023-07-21 03:47:47 | English | Fortinet FortiVoice Study Guide for FortiVoice 6.0 |  | http://libgen.rs/book/index.php?md5=8341173B3FC2024366A0648939771E5F | 45 MB [PDF]| 
 | 2023-07-21 03:19:26 | English | Fortinet Secure Wireless LAN Study Guide for FortiOS 6.4 |  | http://libgen.rs/book/index.php?md5=2CD7B4055ABDCF4C8A687565D7095573 | 40 MB [PDF]| 
+| 2023-07-20 17:22:21 | English | Handbook of Flavoproteins: Volume 2 Complex Flavoproteins, Dehydrogenases and Physical Methods |  | http://libgen.rs/book/index.php?md5=59344B9A6DC7614F9B11271C64F0A917 | 8 MB [PDF]| 
+| 2023-07-20 17:22:17 | English | Handbook of Flavoproteins: Volume 1 Oxidases, Dehydrogenases and Related Systems |  | http://libgen.rs/book/index.php?md5=10B01A0C0B8E3B1E88671567B78A8E79 | 48 MB [PDF]| 
 | 2023-07-19 01:39:56 | English | Reverse Engineering For Everyone! | mytechnotalent | http://libgen.rs/book/index.php?md5=4D8D5338D320406A630F5E8851B1E496 | 15 MB [PDF]| 
 | 2023-07-19 00:37:07 | English | (Studies in Systems, Decision and Control, 475) Output Regulation and Cybersecurity of Networked Switched Systems | Lili Li, Jun Fu | http://libgen.rs/book/index.php?md5=40302C43F9E7F7920564A118E922297B | 8 MB [PDF]| 
 
@@ -59,8 +61,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 洞源实验室 | gh_4929169c5e90 | 针对安全人员的水坑攻击 | https://mp.weixin.qq.com/s/yxhMuSit9HEBtOTO4qdk4Q | 2| 
 | OnionSec | gh_8ab0e346e1df | 我理解的检测防御哲学 | https://mp.weixin.qq.com/s/2otUs37Q2YQK5RSWyLVEOQ | 1| 
-| 洞源实验室 | gh_4929169c5e90 | 企业安全漏洞综合治理方案 | https://mp.weixin.qq.com/s/m6vwYEPX5hbOlMMUCVYBtA | 1| 
 | 专注安管平台 | gh_48603b9bb05a | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw | 1| 
 | 虎符智库 | TT_Thinktank | 深度：美军网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A | 1| 
 | 落水轩 | gh_c10ee4802699 | 一起APT对抗中的深度智能入侵检测算法 | https://mp.weixin.qq.com/s/A_eGoENqMY-U9hbXiFMa-A | 1| 
@@ -94,9 +96,11 @@
 | tandasat | hvext - 用于研究 Intel CPU 上的 hyper-v 的windbg扩展，由 @ergot86、@0vercl0k 和 @gerhart_ 实现 | https://github.com/tandasat/hvext | https://github.com/tandasat?tab=followers | Engineer and trainer | Vancouver, Canada | None | 77 | 0 | 27 | 0 | 0 | C,C++,Rust | 0 | 0 | 1| 
 | repoog | InvoiceExtract: 发票数据提取小工具 | https://github.com/repoog/InvoiceExtract | https://github.com/repoog?tab=followers | Security specialist(CISSP/CyberSecurity+ Specialist), full stack developer and senior director. Enjoy DIY,Arduino/Raspberry Pi and reading/writing. | China | None | 17 | 0 | 54 | 0 | 0 | Python,Shell,PHP | 0 | 0 | 1| 
 | quarkslab | Pyratha 是一款专注于可视化的文件系统制图和关联软件。它目前专注于可执行文件之间的关系，但旨在使任何人能够映射和可视化任何类型的关系。 | https://github.com/quarkslab/pyrrha | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell,JavaScript,C++ | 0 | 0 | 1| 
+| openappsec | open-appsec (openappsec.io) 基于机器学习构建，提供针对 OWASP-Top-10 和零日攻击的先发式 Web 应用程序和 API 威胁防护。它可以作为 Kubernetes Ingress、NGINX、Envoy（即将）和 API Gateway 的附加组件进行部署 | https://github.com/openappsec/openappsec | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Python,C,C++ | 0 | 0 | 1| 
 | mengjian-github | 逆向分析Github Copilot | https://github.com/mengjian-github/copilot-analysis | https://github.com/mengjian-github?tab=followers | 微信公众号：frontend_cognitive | 深圳，中国 | 腾讯 | 23 | 0 | 25 | 0 | 0 | TypeScript,Shell,JavaScript,HTML | 0 | 0 | 1| 
 | hfiref0x | WubbabooMark 调试器反检测基准旨在检测软件调试器或特殊软件的使用痕迹，这些软件旨在通过篡改程序环境的各个方面来向被调试者隐藏调试器的存在 | https://github.com/hfiref0x/WubbabooMark | https://github.com/hfiref0x?tab=followers |  | None | None | 30 | 0 | 29 | 0 | 0 | C | 0 | 0 | 1| 
 | guedou | 一个包含了网络工具scapy很多典型使用案例的仓库 | https://github.com/guedou/scapy-handson | https://github.com/guedou?tab=followers |  | Paris, France | None | 49 | 0 | 134 | 0 | 0 | Python,C,OCaml | 0 | 0 | 1| 
+| djeada | Bash-Scripts,用于自动化日常任务和简化工作流程的 Bash 脚本集合 | https://github.com/djeada/Bash-Scripts | https://github.com/djeada?tab=followers | Software Engineer (C++/Python/Rust) | Berlin | None | 76 | 0 | 87 | 0 | 0 | Python,Jupyter,C++ | 0 | 0 | 1| 
 | Yggdroot | LeaderF 一个高效的模糊查找器，有助于动态定位文件、缓冲区、mrus、gtag 等。 - 用Python编写。支持模糊和正则表达式搜索。 | https://github.com/Yggdroot/LeaderF | https://github.com/Yggdroot?tab=followers |  | Shanghai, China | None | 25 | 0 | 187 | 0 | 0 | Python,C++,Vim | 0 | 0 | 1| 
 | Qihoo360 | Luwak: 利用预训练语言模型从非结构化威胁报告中提取 MITRE AT... | https://github.com/Qihoo360/Luwak/tree/master | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Java,Scala,Python,JavaScript,C++,CSS | 0 | 0 | 1| 
 | PKU-YuanGroup | ChatLaw: 中文法律大模型 | https://github.com/PKU-YuanGroup/ChatLaw | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
