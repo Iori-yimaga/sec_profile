@@ -14,6 +14,7 @@
 # 政策 推荐
 | title | url| 
 | --- | ---| 
+| 中国人民银行业务领域数据安全管理办法（征求意见稿） | http://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/4993510/2023071815593395156.pdf| 
 | 铁路关键信息基础设施安全保护管理办法（征求意见稿） | http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html| 
 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
@@ -28,6 +29,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-07-23 22:10:54 | English | (Tort and Insurance Law; 37) Civil Liability for Artificial Intelligence and Software | Mark A. Geistfeld (editor); Ernst Karner (editor); Bernhard A. Koch (editor); Christiane Wendehorst (editor) | http://libgen.rs/book/index.php?md5=B550CABACDEB68F156AE872F0F55AF8F | 4 MB [PDF]| 
+| 2023-07-23 22:10:40 | English | (Tort and Insurance Law; 37) Civil Liability for Artificial Intelligence and Software | Mark A. Geistfeld (editor); Ernst Karner (editor); Bernhard A. Koch (editor); Christiane Wendehorst (editor) | http://libgen.rs/book/index.php?md5=F984F985839E0F5CDF2913F90AB8E7A1 | 2 MB [EPUB]| 
 | 2023-07-22 16:07:28 | English | Why Lawyers Suck: Hacking the Legal System Part One | Melody Kramer | http://libgen.rs/book/index.php?md5=81E5D70EF8E48D37DF05EABDBD09E8D0 | 408 kB [EPUB]| 
 | 2023-07-21 03:05:45 | English | Fortinet FortiWeb Study Guide for FortiWeb 6.4 |  | http://libgen.rs/book/index.php?md5=07390EF2A9457416C4E6143A4872E225 | 50 MB [PDF]| 
 | 2023-07-21 04:01:29 | English | Fortinet SD-WAN Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=235FB171A721993D52DDB15CA2EFE608 | 6 MB [PDF]| 
@@ -74,6 +77,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| Medi0cr1ty | Medi0cr1ty | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g | 1| 
+| 丁爸 情报分析师的工具箱 | dingba2016 | 【PPT】Maltego Radium：跨网络身份和关系可视化分析 | https://mp.weixin.qq.com/s/4V5YfNbgQyccbPatjBft_w | 1| 
 | AIBio爱生信 | AI4Bioinformatics | AAAI 2023 , 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA | 1| 
 | 新华社 | xinhuashefabu1 | 加强自媒体管理，中央网信办出手！ | https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w | 1| 
 | 青青喵吟 悠悠网事 | gh_03f108fc105d | 以变应万变？2023年上半年DARPA网络空间项目梳理 | https://mp.weixin.qq.com/s/sExNTVfc-Wbz0hYlPt3Q_Q | 2| 
@@ -235,7 +240,7 @@
 | 丁司图 | gh_ea35ef49ac14 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ | 1| 
 | 长个新的脑袋 | gh_12ca60dcf67f | JDK-Xalan的XSLT整数截断漏洞利用构造 | https://mp.weixin.qq.com/s/xxAtjFvk9RxWiY-pwGf8Ow | 1| 
 | 银针安全 | SilverNeedleLab | 一个高度可定制化的JNDI和Java反序列化利用工具 | https://mp.weixin.qq.com/s/-OE1MlqaCUl7gmSPVNBr7g | 1| 
-| 绿盟科技研究通讯 | nsfocus_research | 开源软件安全性分析 | https://mp.weixin.qq.com/s/dDHmQkWhSchnD7kTBtKymw | 2| 
+| 绿盟科技研究通讯 | nsfocus_research | 开源软件安全性分析 | https://mp.weixin.qq.com/s/dDHmQkWhSchnD7kTBtKymw | 3| 
 | 奇安信威胁情报中心 | gh_166784eae33e | 疑似Kasablanka组织近期针对俄罗斯的攻击活动分析 | https://mp.weixin.qq.com/s/b0FSKQ6D3MvlA8yX3v4IUg | 4| 
 | r3kapig | r3kapig-team | idek 2022* Forensics Writeup by r3kapig | https://mp.weixin.qq.com/s/sEk8lFgn8hP7RNapcqvb5Q | 3| 
 | huasec | ihuahua04 | 利用空间测绘进行威胁分析 | https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg | 2| 
@@ -251,7 +256,7 @@
 | FOFA | gh_d79c8913fde8 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g | 2| 
 | DataCon大数据安全分析竞赛 | gh_a0316d342599 | 冠军Writeup大放送 , DataCon2022网络流量分析赛道之“见世面”战队 | https://mp.weixin.qq.com/s/uOB1kZ7YIJ27IlyXtaYPYA | 2| 
 | 长亭技术沙盒 | chaitintech_release | RWCTF 5th ShellFind Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ | 1| 
-| 认知独省 | cogniti0n | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA | 1| 
+| 认知独省 | cogniti0n | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA | 2| 
 | Netlab 三六零 | Netlab_360 | 警惕：魔改后的CIA攻击套件Hive进入黑灰产领域 | https://mp.weixin.qq.com/s/gXAbrnqgXZDS_eUvsYNmZA | 1| 
 | Beacon Tower Lab | WebRAY_BTL | 玩转CodeQLpy之代码审计实战案例 | https://mp.weixin.qq.com/s/OJPhl17HS8EBC6GLEAPvDg | 2| 
 | 安在 | AnZer_SH | 安在盘点 , 2022国内网络安全融资：我们不必妄自菲薄 | https://mp.weixin.qq.com/s/vnCdiOB1tsvkdgz5-5Z8ug | 2| 
@@ -264,7 +269,7 @@
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
-| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 39| 
+| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 40| 
 
 
 # 私人github账号 推荐

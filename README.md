@@ -14,6 +14,7 @@
 # 政策 推荐
 | title | url| 
 | --- | ---| 
+| 中国人民银行业务领域数据安全管理办法（征求意见稿） | http://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/4993510/2023071815593395156.pdf| 
 | 铁路关键信息基础设施安全保护管理办法（征求意见稿） | http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html| 
 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
@@ -22,6 +23,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-07-23 22:10:54 | English | (Tort and Insurance Law; 37) Civil Liability for Artificial Intelligence and Software | Mark A. Geistfeld (editor); Ernst Karner (editor); Bernhard A. Koch (editor); Christiane Wendehorst (editor) | http://libgen.rs/book/index.php?md5=B550CABACDEB68F156AE872F0F55AF8F | 4 MB [PDF]| 
+| 2023-07-23 22:10:40 | English | (Tort and Insurance Law; 37) Civil Liability for Artificial Intelligence and Software | Mark A. Geistfeld (editor); Ernst Karner (editor); Bernhard A. Koch (editor); Christiane Wendehorst (editor) | http://libgen.rs/book/index.php?md5=F984F985839E0F5CDF2913F90AB8E7A1 | 2 MB [EPUB]| 
 | 2023-07-22 16:07:28 | English | Why Lawyers Suck: Hacking the Legal System Part One | Melody Kramer | http://libgen.rs/book/index.php?md5=81E5D70EF8E48D37DF05EABDBD09E8D0 | 408 kB [EPUB]| 
 | 2023-07-21 03:05:45 | English | Fortinet FortiWeb Study Guide for FortiWeb 6.4 |  | http://libgen.rs/book/index.php?md5=07390EF2A9457416C4E6143A4872E225 | 50 MB [PDF]| 
 | 2023-07-21 04:01:29 | English | Fortinet SD-WAN Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=235FB171A721993D52DDB15CA2EFE608 | 6 MB [PDF]| 
@@ -68,7 +71,11 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 认知独省 | cogniti0n | 基于DoH的无特征shellcode加载器实现 | https://mp.weixin.qq.com/s/f7-OvziarneKhVklT888Lg | 1| 
+| Medi0cr1ty | Medi0cr1ty | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g | 1| 
+| 绿盟科技研究通讯 | nsfocus_research | 美军联合网络战架构简析 | https://mp.weixin.qq.com/s/wmj54Cy1ZUYWk-ZrU_Dl9w | 1| 
 | 洞源实验室 | gh_4929169c5e90 | 针对安全人员的水坑攻击 | https://mp.weixin.qq.com/s/yxhMuSit9HEBtOTO4qdk4Q | 2| 
+| 丁爸 情报分析师的工具箱 | dingba2016 | 【PPT】Maltego Radium：跨网络身份和关系可视化分析 | https://mp.weixin.qq.com/s/4V5YfNbgQyccbPatjBft_w | 1| 
 | OnionSec | gh_8ab0e346e1df | 我理解的检测防御哲学 | https://mp.weixin.qq.com/s/2otUs37Q2YQK5RSWyLVEOQ | 1| 
 | 专注安管平台 | gh_48603b9bb05a | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw | 1| 
 | 虎符智库 | TT_Thinktank | 深度：美军网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A | 1| 
@@ -91,7 +98,7 @@
 | 潇湘信安 | xxxasec | [RedTeam] 轮换源IP - Cloud Proxy | https://mp.weixin.qq.com/s/HTH4YQVjyxngPn87wflJdg | 1| 
 | 我的安全视界观 | CANI_Security | 安全事件运营SOP：软件供应链投毒事件 | https://mp.weixin.qq.com/s/UhchRCg4G96k5ypy5hceYA | 1| 
 | 懒人在思考 | lazy-thought | Web3 安全入门（重点智能合约安全） | https://mp.weixin.qq.com/s/jlJhqlfzhn13ZqmPChyhFw | 1| 
-| 安全学术圈 | secquan | 香港中文大学 , TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过程分析 | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q | 6| 
+| 安全学术圈 | secquan | 香港中文大学 , TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过程分析 | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q | 7| 
 | 金融电子化 | fcmag1993 | 观点 , 关于银行业软件供应链安全治理的思考与实践 | https://mp.weixin.qq.com/s/QaVZMIELUGz7OZuYKAayGA | 1| 
 | 看雪学苑 | ikanxue | Qiling框架分析实战：从 QilingLab 详解到 Qiling 源码分析 | https://mp.weixin.qq.com/s/v9KRkhjnZ-f-PY9xjQjj5g | 3| 
 | 希潭实验室 | abc123network | 第67篇：美国安全公司溯源分析Solarwinds供应链攻击事件全过程 | https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw | 1| 

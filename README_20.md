@@ -14,6 +14,7 @@
 # 政策 推荐
 | title | url| 
 | --- | ---| 
+| 中国人民银行业务领域数据安全管理办法（征求意见稿） | http://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/4993510/2023071815593395156.pdf| 
 | 铁路关键信息基础设施安全保护管理办法（征求意见稿） | http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html| 
 | 生成式人工智能服务管理暂行办法 | http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm| 
 | 关于调整《网络关键设备和网络安全专用产品目录》的公告 | http://www.cac.gov.cn/2023-07/03/c_1690034742530280.htm| 
@@ -61,6 +62,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-07-23 22:10:54 | English | (Tort and Insurance Law; 37) Civil Liability for Artificial Intelligence and Software | Mark A. Geistfeld (editor); Ernst Karner (editor); Bernhard A. Koch (editor); Christiane Wendehorst (editor) | http://libgen.rs/book/index.php?md5=B550CABACDEB68F156AE872F0F55AF8F | 4 MB [PDF]| 
+| 2023-07-23 22:10:40 | English | (Tort and Insurance Law; 37) Civil Liability for Artificial Intelligence and Software | Mark A. Geistfeld (editor); Ernst Karner (editor); Bernhard A. Koch (editor); Christiane Wendehorst (editor) | http://libgen.rs/book/index.php?md5=F984F985839E0F5CDF2913F90AB8E7A1 | 2 MB [EPUB]| 
 | 2023-07-22 16:07:28 | English | Why Lawyers Suck: Hacking the Legal System Part One | Melody Kramer | http://libgen.rs/book/index.php?md5=81E5D70EF8E48D37DF05EABDBD09E8D0 | 408 kB [EPUB]| 
 | 2023-07-21 03:05:45 | English | Fortinet FortiWeb Study Guide for FortiWeb 6.4 |  | http://libgen.rs/book/index.php?md5=07390EF2A9457416C4E6143A4872E225 | 50 MB [PDF]| 
 | 2023-07-21 04:01:29 | English | Fortinet SD-WAN Lab Guide for FortiOS 7.2 |  | http://libgen.rs/book/index.php?md5=235FB171A721993D52DDB15CA2EFE608 | 6 MB [PDF]| 
@@ -125,6 +128,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| Medi0cr1ty | Medi0cr1ty | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g | 1| 
 | AIBio爱生信 | AI4Bioinformatics | AAAI 2023 , 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA | 1| 
 | 新华社 | xinhuashefabu1 | 加强自媒体管理，中央网信办出手！ | https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w | 1| 
 | 青青喵吟 悠悠网事 | gh_03f108fc105d | 以变应万变？2023年上半年DARPA网络空间项目梳理 | https://mp.weixin.qq.com/s/sExNTVfc-Wbz0hYlPt3Q_Q | 2| 
@@ -197,7 +201,7 @@
 | huasec | ihuahua04 | 利用空间测绘进行威胁分析 | https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg | 2| 
 | FOFA | gh_d79c8913fde8 | 最佳实践：如何固化IP画像流程 | https://mp.weixin.qq.com/s/nx0uomXnzBBJ6o66jWr2_g | 2| 
 | 长亭技术沙盒 | chaitintech_release | RWCTF 5th ShellFind Write-up | https://mp.weixin.qq.com/s/Wb7SMy8AHtiv71kroHEHsQ | 1| 
-| 认知独省 | cogniti0n | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA | 1| 
+| 认知独省 | cogniti0n | 攻防技术创新探究 | https://mp.weixin.qq.com/s/b2_I4udKrE6ERyWjT8f5hA | 2| 
 | 网安罗盘 | SecurityCompass | 美国2023财年网络安全预算分析与思考 | https://mp.weixin.qq.com/s/4SKZHMLC24m0XNZIF6qkTg | 1| 
 | 鸟哥谈安全 | cnbirdsecintel | 2022年安全架构总结以及2023安全方向展望 | https://mp.weixin.qq.com/s/D0mETMfF4wu_a3dSXoxIiQ | 1| 
 | 星汉天箭 | gh_f46e25cfd752 | 机构财报中的开源情报挖掘 | https://mp.weixin.qq.com/s/nvVuQFPZKHgnQ-CL_yp9Mw | 1| 
@@ -942,7 +946,7 @@
 | 现代服务产业技术创新战略联盟 |  | 深度学习实体关系抽取研究综述(上) | https://mp.weixin.qq.com/s/_1bWSYIeGpkJyrSfSNhVdw | 3| 
 | 星维九州 |  | 流量加密也不怕！多种姿势检测冰蝎 | https://mp.weixin.qq.com/s/ciAQNdL1YJ9B1HX7TMEDzA | 1| 
 | 情报分析师 | qingbaofenxishi | 社交网络在开源安全情报中的应用（一） | https://mp.weixin.qq.com/s/QTcvAtaSe1jWvGTg9ZcfiQ | 85| 
-| 丁爸 情报分析师的工具箱 | dingba2016 | 【美国情报】图解NSA的48个Ant监控工具 | https://mp.weixin.qq.com/s/gpM1Ze2ofLXt5ernZBOudw | 54| 
+| 丁爸 情报分析师的工具箱 | dingba2016 | 【美国情报】图解NSA的48个Ant监控工具 | https://mp.weixin.qq.com/s/gpM1Ze2ofLXt5ernZBOudw | 55| 
 | 腾讯技术工程 | Tencent_TEG | 机器学习模型可解释性的详尽介绍 | https://mp.weixin.qq.com/s/JEIxzuPDrbvSJjpHExaI_w | 5| 
 | 学术plus | caeit-e | 美国国防部2019年消费账单出炉，竟频频打脸！ | https://mp.weixin.qq.com/s/Hk_BfBPz0TGqFNblGb_m5A | 6| 
 | 深度传送门 | deep_deliver | RecSys 2019参会总结及推荐精读论文 | https://mp.weixin.qq.com/s/NrhIEcY0-76g88-GA01kww | 1| 
@@ -1005,7 +1009,7 @@
 | 国科军通科技 | gkjtkj | 揭秘：中国自主可控行业全景图 | https://mp.weixin.qq.com/s/7_osWtZV3UZ5KuaoIzt7rA | 1| 
 | GartnerInc | GartnerChina | 自动化在现代安全中的运用 | https://mp.weixin.qq.com/s/HMvGOiUIwjMKBNE2j5qIBQ | 1| 
 | 赵武的自留地 |  | 网络安全这点屁事 | https://mp.weixin.qq.com/s/kVfyoD_zRnSrQjpL4HfYAQ | 15| 
-| 绿盟科技研究通讯 | nsfocus_research | Graph Mining：审视世界的眼睛 | https://mp.weixin.qq.com/s/1jutuzIq3xlkFejUFbLFFA | 79| 
+| 绿盟科技研究通讯 | nsfocus_research | Graph Mining：审视世界的眼睛 | https://mp.weixin.qq.com/s/1jutuzIq3xlkFejUFbLFFA | 80| 
 | 勾陈安全实验室 | PolarisLab | Knife：一个将有用的小功能加入Burp Suite右键菜单的插件 | https://mp.weixin.qq.com/s/Y03VVF3sD9N0_H6TQlxYuQ | 1| 
 | SecWiki | SecWiki | 福利—中国互联网安全领袖峰会门票！ | https://mp.weixin.qq.com/s/ZFsrfCjtwrBiRaak1mbhsg | 37| 
 | SecPulse安全脉搏 | SecPulse | 网络安全学习方法论之体系的重要性 | https://mp.weixin.qq.com/s/yXA4BRbMfJNPQ68_-Nme6g | 16| 
@@ -1016,7 +1020,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 232| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 233| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
