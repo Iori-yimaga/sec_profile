@@ -1,0 +1,12 @@
+20230717	法规	http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html	铁路关键信息基础设施安全保护管理办法（征求意见稿）	moj.gov.cn	www.moj.gov.cn	/pub/sfbgw/lfyjzj/lflfyjzj/202307/t20230718_482844.html
+20230717	漏洞分析	https://mp.weixin.qq.com/s/m6vwYEPX5hbOlMMUCVYBtA	企业安全漏洞综合治理方案	qq.com	mp.weixin.qq.com	/s/m6vwYEPX5hbOlMMUCVYBtA
+20230717	会议	https://mp.weixin.qq.com/s/suwkD2EIBuruqiZEii23pw	FIRST 2023 议题速递	qq.com	mp.weixin.qq.com	/s/suwkD2EIBuruqiZEii23pw
+20230717	其它	https://www.sec-in.com/article/2233	一文带你理解AST Injection	sec-in.com	www.sec-in.com	/article/2233
+20230717	其它	https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw	SANS 2022年SOC调查报告解读	qq.com	mp.weixin.qq.com	/s/Co9P5u0d0wxUbnv0rFPxmw
+20230717	杂志	https://www.sec-wiki.com/weekly/489	SecWiki周刊（第489期)	sec-wiki.com	www.sec-wiki.com	/weekly/489
+20230717	数据挖掘	https://github.com/Qihoo360/Luwak/tree/master	Luwak: 利用预训练语言模型从非结构化威胁报告中提取 MITRE ATT&CK TTP 信息	github.com	github.com	/Qihoo360/Luwak/tree/master
+20230717	数据挖掘	https://mp.weixin.qq.com/s/2otUs37Q2YQK5RSWyLVEOQ	我理解的检测防御哲学	qq.com	mp.weixin.qq.com	/s/2otUs37Q2YQK5RSWyLVEOQ
+20230717	设备安全	https://peirs.net/security-threats-of-traffic-signal-machines/	交通信号机的安全威胁	peirs.net	peirs.net	/security-threats-of-traffic-signal-machines/
+20230717	Web安全	https://mp.weixin.qq.com/s/Lff79oXQ0Ak-7hX4r_AEEw	互联网尺度上的遗弃网页检测	qq.com	mp.weixin.qq.com	/s/Lff79oXQ0Ak-7hX4r_AEEw
+20230717	工具	https://github.com/repoog/InvoiceExtract	InvoiceExtract: 发票数据提取小工具	github.com	github.com	/repoog/InvoiceExtract
+20230717	恶意分析	https://mp.weixin.qq.com/s/y-uGBmpw32vfIS-CIYLxHQ	装备软件供应链网络安全风险分析与对策	qq.com	mp.weixin.qq.com	/s/y-uGBmpw32vfIS-CIYLxHQ
