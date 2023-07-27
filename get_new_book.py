@@ -35,7 +35,6 @@ class GetNewBook(object):
             ['hacker'],
             ['hacking'],
             ['asset'],
-            ['strategies'],
             ['forensics'],
             ['risk'],
             ['malware'],

@@ -72,6 +72,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 小兵搞安全 | antian365sec | API接口漏洞利用及防御 | https://mp.weixin.qq.com/s/9gsArrSzYbFxxOHKLP2sdw | 1| 
 | 认知独省 | cogniti0n | 基于DoH的无特征shellcode加载器实现 | https://mp.weixin.qq.com/s/f7-OvziarneKhVklT888Lg | 1| 
 | Medi0cr1ty | Medi0cr1ty | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g | 1| 
 | 绿盟科技研究通讯 | nsfocus_research | 美军联合网络战架构简析 | https://mp.weixin.qq.com/s/wmj54Cy1ZUYWk-ZrU_Dl9w | 1| 
@@ -115,6 +116,7 @@
 | mengjian-github | 逆向分析Github Copilot | https://github.com/mengjian-github/copilot-analysis | https://github.com/mengjian-github?tab=followers | 微信公众号：frontend_cognitive | 深圳，中国 | 腾讯 | 23 | 0 | 25 | 0 | 0 | TypeScript,Shell,JavaScript,HTML | 0 | 0 | 1| 
 | hfiref0x | WubbabooMark 调试器反检测基准旨在检测软件调试器或特殊软件的使用痕迹，这些软件旨在通过篡改程序环境的各个方面来向被调试者隐藏调试器的存在 | https://github.com/hfiref0x/WubbabooMark | https://github.com/hfiref0x?tab=followers |  | None | None | 30 | 0 | 29 | 0 | 0 | C | 0 | 0 | 1| 
 | guedou | 一个包含了网络工具scapy很多典型使用案例的仓库 | https://github.com/guedou/scapy-handson | https://github.com/guedou?tab=followers |  | Paris, France | None | 49 | 0 | 134 | 0 | 0 | Python,C,OCaml | 0 | 0 | 1| 
+| e-m-b-a | 固件分析工具EMBA现已支持AI辅助固件分析 | https://github.com/e-m-b-a/emba/releases/tag/1.3.0-AI-for-EMBA | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Shell,HTML | 0 | 0 | 1| 
 | djeada | Bash-Scripts,用于自动化日常任务和简化工作流程的 Bash 脚本集合 | https://github.com/djeada/Bash-Scripts | https://github.com/djeada?tab=followers | Software Engineer (C++/Python/Rust) | Berlin | None | 76 | 0 | 87 | 0 | 0 | Python,Jupyter,C++ | 0 | 0 | 1| 
 | Yggdroot | LeaderF 一个高效的模糊查找器，有助于动态定位文件、缓冲区、mrus、gtag 等。 - 用Python编写。支持模糊和正则表达式搜索。 | https://github.com/Yggdroot/LeaderF | https://github.com/Yggdroot?tab=followers |  | Shanghai, China | None | 25 | 0 | 187 | 0 | 0 | Python,C++,Vim | 0 | 0 | 1| 
 | Qihoo360 | Luwak: 利用预训练语言模型从非结构化威胁报告中提取 MITRE AT... | https://github.com/Qihoo360/Luwak/tree/master | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Java,Scala,Python,JavaScript,C++,CSS | 0 | 0 | 1| 

@@ -129,6 +129,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 小兵搞安全 | antian365sec | API接口漏洞利用及防御 | https://mp.weixin.qq.com/s/9gsArrSzYbFxxOHKLP2sdw | 1| 
 | Medi0cr1ty | Medi0cr1ty | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g | 1| 
 | AIBio爱生信 | AI4Bioinformatics | AAAI 2023 , 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA | 1| 
 | 新华社 | xinhuashefabu1 | 加强自媒体管理，中央网信办出手！ | https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w | 1| 
@@ -4653,7 +4654,7 @@
 | edwardsamuel | Injection Detector Plug-In for FindBugs | https://github.com/edwardsamuel/FindBugs-Injection-Detector | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | edgelesssys | Constellation - 为云环境 Kubernetes 提供机密计算能力的工具 | https://github.com/edgelesssys/constellation | None | None | None | None | 0 | 0 | 0 | 0 | 0 | SCSS,Shell,Python,C++,HTML,Go | 0 | 0 | 1| 
 | eastlakeside | 《Python进阶》 | https://github.com/eastlakeside/interpy-zh/blob/master/SUMMARY.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
-| e-m-b-a | EMBA - The firmware security analyzer | https://github.com/e-m-b-a/emba | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Shell,HTML | 0 | 0 | 1| 
+| e-m-b-a | EMBA - The firmware security analyzer | https://github.com/e-m-b-a/emba | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Shell,HTML | 0 | 0 | 2| 
 | dushixiang | Next Terminal:由Golang与React语言开发的一款HTML5的远程桌面网关终端项目，支持RDP、SSH、VNC和Telnet协议的连接和管理。 | https://github.com/dushixiang/next-terminal | https://www.typesafe.cn |  | beijing | None | 3 | 0 | 0 | 0 | 0 | Go,JavaScript | 490 | 43 | 1| 
 | duffelhq | Elixir Ecto Paginator 刚刚修复了一个 RCE 漏洞 | https://github.com/duffelhq/paginator/security/advisories/GHSA-w98m-2xqg-9cvj | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,Python,JavaScript,HTML,Elixir,Go,Erlang | 0 | 0 | 1| 
 | dru1d-foofus | 使用 impacket 库和 LDAP 查询编写的支持 NTLM 和 Kerberos 身份验证的 LAPS dump 工具 | https://github.com/dru1d-foofus/GetLAPSPassword/ | https://github.com/dru1d-foofus?tab=followers | just hacking all the things, but doing a bad job at it | Roanoke, VA | CDW | 40 | 0 | 36 | 0 | 0 | Python,Go,C,PowerShell,C# | 0 | 0 | 1| 

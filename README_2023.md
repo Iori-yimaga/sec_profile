@@ -78,6 +78,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 小兵搞安全 | antian365sec | API接口漏洞利用及防御 | https://mp.weixin.qq.com/s/9gsArrSzYbFxxOHKLP2sdw | 1| 
 | Medi0cr1ty | Medi0cr1ty | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g | 1| 
 | 丁爸 情报分析师的工具箱 | dingba2016 | 【PPT】Maltego Radium：跨网络身份和关系可视化分析 | https://mp.weixin.qq.com/s/4V5YfNbgQyccbPatjBft_w | 1| 
 | AIBio爱生信 | AI4Bioinformatics | AAAI 2023 , 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA | 1| 
@@ -333,6 +334,7 @@
 | guedou | 一个包含了网络工具scapy很多典型使用案例的仓库 | https://github.com/guedou/scapy-handson | https://github.com/guedou?tab=followers |  | Paris, France | None | 49 | 0 | 134 | 0 | 0 | Python,C,OCaml | 0 | 0 | 1| 
 | googleprojectzero | Fuzzilli新增了一个用于将js代码转换成Fuzzili IR的工具。 | https://github.com/googleprojectzero/fuzzilli/commit/807625f0112df22bfe293aa4d36d67c31c4fb243 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,C#,C++,Python,HTML,Swift,PowerShell | 0 | 0 | 1| 
 | google | 从返回指令中泄漏 ASLR，在受害者和攻击者之间的流中使用 BTB 刷新绕过 ASLR | https://github.com/google/security-research/tree/master/pocs/cpus/ret2aslr | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Java,Python,JavaScript,C++,HTML,Go | 0 | 0 | 2| 
+| e-m-b-a | 固件分析工具EMBA现已支持AI辅助固件分析 | https://github.com/e-m-b-a/emba/releases/tag/1.3.0-AI-for-EMBA | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Shell,HTML | 0 | 0 | 1| 
 | dru1d-foofus | 使用 impacket 库和 LDAP 查询编写的支持 NTLM 和 Kerberos 身份验证的 LAPS dump 工具 | https://github.com/dru1d-foofus/GetLAPSPassword/ | https://github.com/dru1d-foofus?tab=followers | just hacking all the things, but doing a bad job at it | Roanoke, VA | CDW | 40 | 0 | 36 | 0 | 0 | Python,Go,C,PowerShell,C# | 0 | 0 | 1| 
 | djeada | Bash-Scripts,用于自动化日常任务和简化工作流程的 Bash 脚本集合 | https://github.com/djeada/Bash-Scripts | https://github.com/djeada?tab=followers | Software Engineer (C++/Python/Rust) | Berlin | None | 76 | 0 | 87 | 0 | 0 | Python,Jupyter,C++ | 0 | 0 | 1| 
 | dicegang | DiceCTF 2023 Offical sourcecode && env && sol | https://github.com/dicegang/dicectf-2023-challenges | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,HTML,JavaScript | 0 | 0 | 1| 
