@@ -90,7 +90,7 @@
 | huasec | ihuahua04 | 威胁狩猎-ICMP流量分析 | https://mp.weixin.qq.com/s/9tfwxjEyFw2WtxPTf8EXqQ | 1| 
 | 奇安信威胁情报中心 | gh_166784eae33e | 针对安全研究人员的POC投毒事件 | https://mp.weixin.qq.com/s/fi_wg6LH4hRd3RqSNhs9CA | 1| 
 | 字节跳动安全中心 | TouTiaoSec | 通过大语言模型（LLM）识别与修复风险代码 | https://mp.weixin.qq.com/s/DpXcLrOBewdqR6Z8CYKH8g | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | IARPA首次利用网络心理学赋能网络防御重塑安全 | https://mp.weixin.qq.com/s/fQ5HzCzroKlbMjKKdrazcA | 5| 
+| 信息安全与通信保密杂志社 | cismag2013 | IARPA首次利用网络心理学赋能网络防御重塑安全 | https://mp.weixin.qq.com/s/fQ5HzCzroKlbMjKKdrazcA | 6| 
 | 表图 | CyberSecurityCircle | 攻防演习防守标准化的实践与思考 | https://mp.weixin.qq.com/s/ZVeDA6tQyl7w4ClvGLH3-Q | 1| 
 | 清华大学智能法治研究院 | THUIAIL | 欧盟网络保险的需求方：ENISA报告解读 | https://mp.weixin.qq.com/s/zLi4d3qvjcADJgsAGwgjLQ | 2| 
 | 机器之心 | almosthuman2014 | 大型语言模型与知识图谱协同研究综述：两大技术优势互补 | https://mp.weixin.qq.com/s/HMCMyT0FKV5fGo4NRKSa5g | 1| 
@@ -100,7 +100,7 @@
 | 潇湘信安 | xxxasec | [RedTeam] 轮换源IP - Cloud Proxy | https://mp.weixin.qq.com/s/HTH4YQVjyxngPn87wflJdg | 1| 
 | 我的安全视界观 | CANI_Security | 安全事件运营SOP：软件供应链投毒事件 | https://mp.weixin.qq.com/s/UhchRCg4G96k5ypy5hceYA | 1| 
 | 懒人在思考 | lazy-thought | Web3 安全入门（重点智能合约安全） | https://mp.weixin.qq.com/s/jlJhqlfzhn13ZqmPChyhFw | 1| 
-| 安全学术圈 | secquan | 香港中文大学 , TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过程分析 | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q | 7| 
+| 安全学术圈 | secquan | 香港中文大学 , TChecker：用于检测PHP应用程序中的污点式漏洞的精确静态跨过程分析 | https://mp.weixin.qq.com/s/U4kdKVNwQxllQrxNh5y77Q | 8| 
 | 金融电子化 | fcmag1993 | 观点 , 关于银行业软件供应链安全治理的思考与实践 | https://mp.weixin.qq.com/s/QaVZMIELUGz7OZuYKAayGA | 1| 
 | 看雪学苑 | ikanxue | Qiling框架分析实战：从 QilingLab 详解到 Qiling 源码分析 | https://mp.weixin.qq.com/s/v9KRkhjnZ-f-PY9xjQjj5g | 3| 
 | 希潭实验室 | abc123network | 第67篇：美国安全公司溯源分析Solarwinds供应链攻击事件全过程 | https://mp.weixin.qq.com/s/z0jREmXbIyHw_16rq8rNtw | 1| 
