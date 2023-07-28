@@ -409,6 +409,12 @@
 | Bushwhackers关于rwctf的题目-hardened redis的Writeup | https://medium.com/@emil.lerner/hacking-redis-for-fun-and-ctf-points-3450c351bec1| 
 
 
+# medium 推荐
+| title | url| 
+| --- | ---| 
+| The Top 10 Most Common Vulnerabilities In Web3 | https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f| 
+
+
 # 知乎 推荐
 | title | url| 
 | --- | ---| 

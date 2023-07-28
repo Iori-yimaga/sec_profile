@@ -2,11 +2,17 @@ import os
 import re
 import time
 import logging
+
+
+
 from mills import get_request, timestamp2datetime
 from mills import SQLiteOper
 from mills import d2sql
 from mills import strip_n
 import xml.etree.ElementTree as ET
+import lxml
+import codecs
+
 from bs4 import BeautifulSoup
 
 
@@ -174,72 +180,72 @@ class GetNewBook(object):
                 return is_hit
 
         return is_hit
-
     def parse_xml(self, fname=None):
         """
-
+        parse lxml
         :param fname:
         :return:
         """
-        tree = ET.parse(fname)
-        root = tree.getroot()
-        ii = 0
-        sql_list = []
-        for i in root.findall('./channel/'):
-            ii += 1
-            title = ''
-            link = ''
+        if not os.path.exists(fname):
+            return
 
-            book_dict = {}
-            for c in i:
-                if c.tag == 'title':
-                    title = c.text.encode('utf-8')
-                elif c.tag == 'link':
-                    link = c.text.encode('utf-8')
-                elif c.tag == 'description':
-                    description = c.text.encode('utf-8')
-                    soup = BeautifulSoup(description, 'lxml')
-                    td_list = soup.find_all('td')
-                    num_of_td = len(td_list) if td_list else 0
+        with codecs.open(fname, mode='rb') as fr:
+            c = fr.read()
+            soup = BeautifulSoup(c, 'lxml')
+            articles = soup.findAll('item')
+            sql_list = []
+            for a in articles:
+                book_dict = {}
+                title = a.find('title').text.encode('utf-8')
+                link = a.link.next_sibling.encode('utf-8')
+                description = a.find('description').text
+                soup = BeautifulSoup(description, 'lxml')
+                td_list = soup.find_all('td')
+                num_of_td = len(td_list) if td_list else 0
 
-                    if num_of_td > 0 and num_of_td % 2 == 0:
+                if num_of_td > 0 and num_of_td % 2 == 0:
 
-                        for no_i in range(0, num_of_td, 2):
-                            k = td_list[no_i].text.encode('utf-8').strip()
-                            if not k:
-                                continue
+                    for no_i in range(0, num_of_td, 2):
+                        k = td_list[no_i].text.encode('utf-8').strip()
+                        if not k:
+                            continue
 
-                            v = td_list[no_i + 1].text.encode('utf-8').strip()
-                            if k.lower() in ['language:', 'date added:', 'size:', 'author:']:
-                                k = k[0:-1]
-                                k = k.lower()
-                                k = k.replace(' ', '_')
-                                v = strip_n(v)
-                                book_dict[k] = v
+                        v = td_list[no_i + 1].text.encode('utf-8').strip()
+                        if k.lower() in ['language:', 'date added:', 'size:', 'author:']:
+                            k = k[0:-1]
+                            k = k.lower()
+                            k = k.replace(' ', '_')
+                            v = strip_n(v)
+                            book_dict[k] = v
 
-            if title and link:
-                lan = book_dict.get('language')
-                if lan not in self.book_language_list:
-                    continue
+                if title and link:
+                    lan = book_dict.get('language')
+                    if lan not in self.book_language_list:
+                        continue
 
-                is_hit = self.is_security_book((title))
-                if not is_hit:
-                    continue
-                book_dict['title'] = title
-                book_dict['link'] = link
-                date_added = book_dict.get('date_added')
-                book_dict['ts'] = date_added.replace("-", "")[0:8]
-                print(title, link)
-                sql = d2sql(book_dict, table='security_book', action='replace')
-                sql_list.append(sql)
-        if sql_list:
-            so = SQLiteOper("data/scrap.db")
-            for sql in sql_list:
-                try:
-                    so.execute(sql)
+                    is_hit = self.is_security_book((title))
+                    print(title, link, is_hit)
+                    if not is_hit:
+                        continue
+                    book_dict['title'] = title
+                    book_dict['link'] = link
+                    date_added = book_dict.get('date_added')
+                    book_dict['ts'] = date_added.replace("-", "")[0:8]
+                    print(title, link)
+                    sql = d2sql(book_dict, table='security_book', action='replace')
+                    sql_list.append(sql)
+            if sql_list:
+                so = SQLiteOper("data/scrap.db")
+                for sql in sql_list:
+                    try:
+                        so.execute(sql)
 
-                except Exception as e:
-                    logging.error("[sql]: %s %s" % (sql, str(e)))
+                    except Exception as e:
+                        logging.error("[sql]: %s %s" % (sql, str(e)))
+
+
+
+
 
     def scaw(self, proxy=None):
         """
