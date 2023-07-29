@@ -76,9 +76,9 @@
 | 认知独省 | cogniti0n | 基于DoH的无特征shellcode加载器实现 | https://mp.weixin.qq.com/s/f7-OvziarneKhVklT888Lg | 1| 
 | Medi0cr1ty | Medi0cr1ty | JsProxy: 所到之处皆为代理节点 | https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g | 1| 
 | 绿盟科技研究通讯 | nsfocus_research | 美军联合网络战架构简析 | https://mp.weixin.qq.com/s/wmj54Cy1ZUYWk-ZrU_Dl9w | 1| 
-| 洞源实验室 | gh_4929169c5e90 | 针对安全人员的水坑攻击 | https://mp.weixin.qq.com/s/yxhMuSit9HEBtOTO4qdk4Q | 2| 
 | 丁爸 情报分析师的工具箱 | dingba2016 | 【PPT】Maltego Radium：跨网络身份和关系可视化分析 | https://mp.weixin.qq.com/s/4V5YfNbgQyccbPatjBft_w | 1| 
 | OnionSec | gh_8ab0e346e1df | 我理解的检测防御哲学 | https://mp.weixin.qq.com/s/2otUs37Q2YQK5RSWyLVEOQ | 1| 
+| 洞源实验室 | gh_4929169c5e90 | 企业安全漏洞综合治理方案 | https://mp.weixin.qq.com/s/m6vwYEPX5hbOlMMUCVYBtA | 2| 
 | 专注安管平台 | gh_48603b9bb05a | SANS 2022年SOC调查报告解读 | https://mp.weixin.qq.com/s/Co9P5u0d0wxUbnv0rFPxmw | 1| 
 | 虎符智库 | TT_Thinktank | 深度：美军网络空间作战平台发展回顾与影响分析 | https://mp.weixin.qq.com/s/6LnKhmiWmfAUa2BTNGsp5A | 1| 
 | 落水轩 | gh_c10ee4802699 | 一起APT对抗中的深度智能入侵检测算法 | https://mp.weixin.qq.com/s/A_eGoENqMY-U9hbXiFMa-A | 1| 
