@@ -1,0 +1,15 @@
+20230724	法规	http://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/4993510/2023071815593395156.pdf	中国人民银行业务领域数据安全管理办法（征求意见稿）	pbc.gov.cn	www.pbc.gov.cn	/tiaofasi/144941/144979/3941920/4993510/2023071815593395156.pdf
+20230724	Web安全	https://mp.weixin.qq.com/s/9LFtfJAG6aLjrNsyRQ_f9g	JsProxy: 所到之处皆为代理节点	qq.com	mp.weixin.qq.com	/s/9LFtfJAG6aLjrNsyRQ_f9g
+20230724	漏洞分析	https://mp.weixin.qq.com/s/yxhMuSit9HEBtOTO4qdk4Q	针对安全人员的水坑攻击	qq.com	mp.weixin.qq.com	/s/yxhMuSit9HEBtOTO4qdk4Q
+20230724	Web安全	https://mp.weixin.qq.com/s/9gsArrSzYbFxxOHKLP2sdw	API接口漏洞利用及防御	qq.com	mp.weixin.qq.com	/s/9gsArrSzYbFxxOHKLP2sdw
+20230724	其它	https://www.sec-in.com/article/2181	CVE-2022-24481	sec-in.com	www.sec-in.com	/article/2181
+20230724	其它	https://mp.weixin.qq.com/s/wmj54Cy1ZUYWk-ZrU_Dl9w	联合网络战架构简析	qq.com	mp.weixin.qq.com	/s/wmj54Cy1ZUYWk-ZrU_Dl9w
+20230724	恶意分析	https://book.yunzhan365.com/tkgd/roji/mobile/index.html	2022 APT组织研究年鉴	yunzhan365.com	book.yunzhan365.com	/tkgd/roji/mobile/index.html
+20230724	Web安全	https://mp.weixin.qq.com/s/f7-OvziarneKhVklT888Lg	基于DoH的无特征shellcode加载器实现	qq.com	mp.weixin.qq.com	/s/f7-OvziarneKhVklT888Lg
+20230724	其它	https://mp.weixin.qq.com/s/z36bKh6m8Q-fj5-3VO-q2g	俄罗斯之密码安全（装备篇）	qq.com	mp.weixin.qq.com	/s/z36bKh6m8Q-fj5-3VO-q2g
+20230724	取证分析	https://mp.weixin.qq.com/s/4V5YfNbgQyccbPatjBft_w	Maltego Radium：跨网络身份和关系可视化分析	qq.com	mp.weixin.qq.com	/s/4V5YfNbgQyccbPatjBft_w
+20230724	杂志	https://www.sec-wiki.com/weekly/490	SecWiki周刊（第490期)	sec-wiki.com	www.sec-wiki.com	/weekly/490
+20230724	Web安全	https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f	The Top 10 Most Common Vulnerabilities In Web3	medium.com	medium.com	/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
+20230724	Web安全	https://www.wsast.co.uk/index.html	wSAST Code Analyzer：Flexible static code analysis framework for security consult	wsast.co.uk	www.wsast.co.uk	/index.html
+20230724	漏洞分析	https://mp.weixin.qq.com/s/R2sCtEMJ2pIhOTEomR20TQ	MARBLE：挖掘样板代码以识别API可用性问题	qq.com	mp.weixin.qq.com	/s/R2sCtEMJ2pIhOTEomR20TQ
+20230724	取证分析	https://mp.weixin.qq.com/s/0HUj8c_9VG9Sj2ceIXDBgA	Tor去匿名攻击综述	qq.com	mp.weixin.qq.com	/s/0HUj8c_9VG9Sj2ceIXDBgA
