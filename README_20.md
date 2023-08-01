@@ -62,6 +62,9 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-07-31 02:28:52 | English | Introduction to Unity ML-Agents: Understand the Interplay of Neural Networks and Simulation Space Using the Unity ML-Agents Package | Dylan Engelbrecht | http://libgen.rs/book/index.php?md5=CC673B6756277514043A768E43057C1E | 9 MB [EPUB]| 
+| 2023-07-31 02:22:06 | English | Hands-On Artificial Intelligence with Unreal Engine: Everything you want to know about Game AI using Blueprints or C++ | Francesco Sapio | http://libgen.rs/book/index.php?md5=26F2A3CAF627DEF6200B66969D3618B0 | 91 MB [EPUB]| 
+| 2023-07-30 20:25:14 | English | Unlock the Vault: A Blueprint For Building Wealth With Fractional Ownership: Weather Market Storms and Enjoy Long-Term Security With An Emerging New Asset ... the Investments of the Ultra-Rich Book 2) | Michael Fox-Rabinovitz | http://libgen.rs/book/index.php?md5=D79049E60064147C58AA1B59D0636E27 | 513 kB [EPUB]| 
 | 2023-07-24 16:39:39 | English | (IFLA Publications; 139) Strategies for Regenerating the Library and Information Profession | Jana Varlejs (editor); Graham Walton (editor) | http://libgen.rs/book/index.php?md5=5EA0862BA33D83BD0DE90E6C86EBE905 | 3 MB [PDF]| 
 | 2023-07-23 22:10:54 | English | (Tort and Insurance Law; 37) Civil Liability for Artificial Intelligence and Software | Mark A. Geistfeld (editor); Ernst Karner (editor); Bernhard A. Koch (editor); Christiane Wendehorst (editor) | http://libgen.rs/book/index.php?md5=B550CABACDEB68F156AE872F0F55AF8F | 4 MB [PDF]| 
 | 2023-07-23 22:10:40 | English | (Tort and Insurance Law; 37) Civil Liability for Artificial Intelligence and Software | Mark A. Geistfeld (editor); Ernst Karner (editor); Bernhard A. Koch (editor); Christiane Wendehorst (editor) | http://libgen.rs/book/index.php?md5=F984F985839E0F5CDF2913F90AB8E7A1 | 2 MB [EPUB]| 
@@ -508,7 +511,7 @@
 | NightTeam | locozhou | 小菜花的frida-svc-interceptor | https://mp.weixin.qq.com/s?__biz=Mzg5NzIyMzkzNw==&mid=2247485919&idx=1&sn=ca1402591c1d37c3dc7958a84e2146ea | 1| 
 | HACK学习君 | XHacker1961 | 记一次曲折的WAF绕过 | https://mp.weixin.qq.com/s?__biz=MzIzNzMxMDkxNw==&mid=2247486085&idx=1&sn=570b3adf02278319757a76baa0e9342e | 5| 
 | CNVD漏洞平台 | None | 关于SonarQube系统存在未授权访问漏洞的安全公告 | https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247490778&idx=1&sn=4fef06e06bce01245e5f473c70e1b793 | 11| 
-| 看雪学苑 | ikanxue | 全网最详细CVE-2014-0502 Adobe Flash Player双重释放漏洞分析 | https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458402566&idx=1&sn=6a8289758711c348b36f8526808747c7 | 125| 
+| 看雪学苑 | ikanxue | 全网最详细CVE-2014-0502 Adobe Flash Player双重释放漏洞分析 | https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458402566&idx=1&sn=6a8289758711c348b36f8526808747c7 | 126| 
 | 广软NSDA安全团队 | gh_72de97d4e162 | 内网渗透初探 | https://mp.weixin.qq.com/s?__biz=MzUzMDg5NDQ0Nw==&mid=2247489476&idx=1&sn=a39eed3450e581385b862c09ae556f9f | 6| 
 | 小黑的安全笔记 | x1a0heI | 云服务器ftp被动和主动模式都连接失败 | https://mp.weixin.qq.com/s?__biz=MzI4Njk5NjY4OQ==&mid=2247485823&idx=1&sn=43b52f2f7163fba10cf4ba466a3bac29 | 2| 
 | 不懂安全的校长 | sectip | 内网渗透 , 1.内网基础知识 | https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247484768&idx=1&sn=31012b5465686c5eaa96dad6f8f0bbfa | 10| 
@@ -1040,7 +1043,7 @@
 | 美团安全应急响应中心 |  | 安全架构评审实战 | https://mp.weixin.qq.com/s/YQn1FQICk1esxvBCHZntFA | 10| 
 | 网络与信息安全学报 | cjnis2015 | 网络空间安全学科简论 | https://mp.weixin.qq.com/s/mQYaX-WGDZIIW26koGxTzQ | 1| 
 | 网安网事 |  | 网安独角兽CrowdStrike IPO分析（一） | https://mp.weixin.qq.com/s/YHmQDUZze_qbmebaRlTKGg | 2| 
-| 安全小飞侠 | AvFisher | 企业安全建设的体系思考与落地实践 | https://mp.weixin.qq.com/s/rmd8CvQKRMQWFR1o3t7I8w | 9| 
+| 安全小飞侠 | AvFisher | 企业安全建设的体系思考与落地实践 | https://mp.weixin.qq.com/s/rmd8CvQKRMQWFR1o3t7I8w | 10| 
 | 学蚁致用 | sudo_i | Defcon China 1.0 胸卡破解笔记 | https://mp.weixin.qq.com/s/j4Dqhko9nnxeuDkLZKftDA | 6| 
 | 仙人掌情报站 | sec-cactus | [搬砖手册]基于Packetbeat探索搭建轻量级网络流量监测系统 | https://mp.weixin.qq.com/s/Tx9nHxvp9ezd0hf1PZcmiQ | 6| 
 | 信安之路 | xazlsec | DataCon 的 DNS 恶意流量检查一题回顾 | https://mp.weixin.qq.com/s/M-J4FhGA5zg1WZCA9-Houg | 244| 
@@ -1132,7 +1135,7 @@
 | 国家信息安全服务资质 | gh_2e911008c3ff | 中国信息安全测评中心孙明亮 位华 王琰：风险评估服务能力成熟度模型研究 | https://mp.weixin.qq.com/s/y9Qx4htmcoWgC96G2sWvpw | 1| 
 | DWord | gh_d3505f95dd6c | 正解HTTPS与中间人攻击 | https://mp.weixin.qq.com/s/E0_NRjpsyCCZtNgzuXU5Jw | 1| 
 | 安惞杂谈 | anxin_zatan | 基于DREAD模型的漏洞等级计算 | https://mp.weixin.qq.com/s/-gHMhj1Qdl1N5rCne61m4Q | 1| 
-| 慢雾科技 | SlowMist | ⼀个通杀绝⼤多数交易平台的 XSS 0day 漏洞 | https://mp.weixin.qq.com/s/yfbKf_5Nk2NXFl2-xlFqKg | 14| 
+| 慢雾科技 | SlowMist | ⼀个通杀绝⼤多数交易平台的 XSS 0day 漏洞 | https://mp.weixin.qq.com/s/yfbKf_5Nk2NXFl2-xlFqKg | 15| 
 | 徐阿衡 | xu_a_heng | 知识抽取-实体及关系抽取 | https://mp.weixin.qq.com/s/I8TmSSQxJPG7KudHKqDrtA | 1| 
 | 平安集团安全应急响应中心 | PSRC_Team |  | https://mp.weixin.qq.com/s/6q3zAaS4jV_Mw3qvgtngBw | 11| 
 | 掮客酒馆 | SecurityPub | 互联网公司移动安全领域的探索与实践 | https://mp.weixin.qq.com/s/5whLNkfSUpW6zQNxQf7HqQ | 3| 
