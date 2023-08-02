@@ -11,11 +11,24 @@
 
 ![202308-最喜欢语言占比](data/img/language/202308-最喜欢语言占比.png)
 
+# 网络安全书籍 推荐
+| date_added | language | title | author | link | size| 
+| --- | --- | --- | --- | --- | ---| 
+| 2023-08-01 16:47:02 | English | Britain Since 1945: Aspects of Identity | P. Leese | http://libgen.rs/book/index.php?md5=B17B374B9B0BE133B6207259DEC35BEB | 48 MB [PDF]| 
+
+
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
 | 看雪学苑 | ikanxue | TTD调试与ttd-bindings逆向工程实践 | https://mp.weixin.qq.com/s/CuFLsd421CGTE_Oqj8clAg | 1| 
 | 慢雾科技 | SlowMist | 警惕隐蔽的 Rug Pull，合约存储引起的跑路盘 | https://mp.weixin.qq.com/s/sOa6p0-IczCHkUAx9rREhg | 1| 
+| 字节跳动安全中心 | TouTiaoSec | 超长干货｜Linux系统动态追踪技术及Elkeid应用实践 | https://mp.weixin.qq.com/s/jL9wkD9jis-5mf84m64jmg | 1| 
+
+
+# 私人github账号 推荐
+| github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
+| wh0amitz | 利用Kerberos讲本地权限提升至system的工具 | https://github.com/wh0amitz/S4UTomato | https://github.com/wh0amitz?tab=followers | Student & Pentesting & Security research | Beijing | None | 7 | 0 | 242 | 0 | 0 | C#,C,HTML,PowerShell,C++ | 0 | 0 | 1| 
 
 
 

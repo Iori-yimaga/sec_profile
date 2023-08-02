@@ -31,7 +31,7 @@ class GetNewBook(object):
             # common
             ['cybersecurity'],
             ['security'],  # application/api/network/cloud/windows/linux/endpoint/mobile
-            ['seccure'],
+            ['secure'],
             ['protection'],
             ['monitor'],
             ['monitoring'],
@@ -97,7 +97,7 @@ class GetNewBook(object):
             ['bule', 'team'],
             ['red', 'team'],
             ['purple', 'team'],
-            ['simulation'],
+            ['attack', 'simulation'],
             ['black', 'hat'],
             ['privacy'],
             ['compliance'],
@@ -148,6 +148,7 @@ class GetNewBook(object):
         if num_of_keyword == 1:
             if keyword_list[0].lower() in title_parts:
                 is_hit = True
+                #print(keyword_list, title)
                 return is_hit
         else:
             num_of_hit = 0
@@ -224,14 +225,15 @@ class GetNewBook(object):
                         continue
 
                     is_hit = self.is_security_book((title))
-                    print(title, link, is_hit)
+
                     if not is_hit:
                         continue
+                    print(title, link)
                     book_dict['title'] = title
                     book_dict['link'] = link
                     date_added = book_dict.get('date_added')
                     book_dict['ts'] = date_added.replace("-", "")[0:8]
-                    print(title, link)
+
                     sql = d2sql(book_dict, table='security_book', action='replace')
                     sql_list.append(sql)
             if sql_list:
