@@ -86,7 +86,7 @@ class GetNewBook(object):
             ['intrusion'],
             ['incident', 'response'],
             ['zero', 'trust'],
-            ['identity'],
+            #['identity'],
             ['iam'],  # identity and access management
             ['privileged'],
             ['hardening'],
