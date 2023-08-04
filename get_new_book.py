@@ -31,7 +31,7 @@ class GetNewBook(object):
             # common
             ['cybersecurity'],
             ['security'],  # application/api/network/cloud/windows/linux/endpoint/mobile
-            ['secure'],
+            #['secure'],
             ['protection'],
             ['monitor'],
             ['monitoring'],
