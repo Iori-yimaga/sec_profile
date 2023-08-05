@@ -12,9 +12,9 @@ TypeScript	11
 PHP	11
 PowerShell	10
 CSS	6
+Jupyter	5
 Assembly	4
 Solidity	4
-Jupyter	4
 Ruby	4
 Scala	3
 SCSS	3
