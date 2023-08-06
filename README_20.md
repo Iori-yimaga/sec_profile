@@ -137,6 +137,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 纽创信安 | OSR_Shenzhen | 硬件安全闲话第一篇：硬件安全的基本概念 | https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA | 1| 
+| 安全419 | anquan-419 | 智慧停车平台被曝大规模数据泄露 API安全缺陷成风险根因 | https://mp.weixin.qq.com/s/r0lGJtPYOljbnXUSpS9X-g | 1| 
 | 安全村SecUN | sec-un | 为啥搜索我的公司，打开竟然是个菠菜网站｜黑帽SEO技术 | https://mp.weixin.qq.com/s/N0BCuwXVGMzJcw_A9DETPA | 2| 
 | 印说者也 | gh_5eca69297427 | 盗号攻击的横纵切分与攻防策略 | https://mp.weixin.qq.com/s/InrTwqdR2i7o-BZZrVti_Q | 1| 
 | CTIO威胁观测 | ctio-996 | 【论文】使用Transformer-Based模型生成虚假的网络威胁情报 | https://mp.weixin.qq.com/s/D--a0bXmV8DZsplZUvtmsg | 1| 
@@ -349,7 +351,7 @@
 | 郑州发布 | zzfabu | 小布播报 , 河南人口密度出炉；博物院新院选址初定 | https://mp.weixin.qq.com/s?__biz=MzA4NTgwMDIxMg==&mid=2651509325&idx=1&sn=7ab0ed6f967ff72472b5072831e09483 | 5| 
 | 赛博新经济 | gh_5c4abe1ee3a6 | 利用IP分片污染攻击TCP流量 | https://mp.weixin.qq.com/s/7gA74jWC1RES76p1XBO_Kw | 1| 
 | 灰产圈 | huichanquan | 从“血奴”身上抽出来的血，去了哪里？ | https://mp.weixin.qq.com/s?__biz=MzIyMDYwMTk0Mw==&mid=2247529890&idx=1&sn=d14992d5536c7d32c114d35a1f879477 | 3| 
-| 清河六点下班 | gh_fd416b016aa6 | 中间商之 Ntlm Relay 攻击分析 | https://mp.weixin.qq.com/s/EhJVdRG71JTr9yZFajGKqg | 4| 
+| 清河六点下班 | gh_fd416b016aa6 | 中间商之 Ntlm Relay 攻击分析 | https://mp.weixin.qq.com/s/EhJVdRG71JTr9yZFajGKqg | 5| 
 | 汽车信息安全 | IcvSec | 青骥编译 l Upstream 2022全球汽车网络安全报告 第一章 标准、法规和网联汽车生态系统 | https://mp.weixin.qq.com/s?__biz=Mzg3MTI0NDQwNg==&mid=2247487265&idx=1&sn=ef14d20cd20a988a6dc65f7766c6f7e1 | 1| 
 | 极客公园 | geekpark | 大众拟出资数十亿欧元，收购华为自动驾驶部门；小红书启动最严医美治理；浙江：大学生创业失败，10 万以下贷款政府代偿｜极客早知道 | https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2652944338&idx=1&sn=c7b4e898af7aa75347fb590f1a168b98 | 1| 
 | 军哥系统集成号 | gx_junge | 重点,网络安全工作你必须懂的3保1评 | https://mp.weixin.qq.com/s/qGcii5iElYq9mwfSFPhfHg | 1| 
@@ -934,7 +936,7 @@
 | 腾讯安全智能 | TX_Security_AI | 基于图挖掘的安全事件分析 | https://mp.weixin.qq.com/s/ARfMqrUxiPKmbMcV_yaluw | 3| 
 | 浅黑科技 | qianheikeji | CTF：一部黑客心灵史 | https://mp.weixin.qq.com/s/wEqBaZmO8FwOyGrcWDNgYQ | 13| 
 | 国际安全智库 | guoji-anquanzhiku | “震网”十年谜底终浮水面, 伊朗核计划流产源于内鬼“间谍行动” | https://mp.weixin.qq.com/s/ORW8qWCpgQFJh8-bsaIg3w | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 40| 
+| 信息安全与通信保密杂志社 | cismag2013 | 开源软件的网络安全问题 | https://mp.weixin.qq.com/s/TCb4kLH6N3JlCnyo6x2L1Q | 41| 
 | Hacking就是好玩 |  | 对乌云漏洞库payload的整理以及Burp辅助插件 | https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw | 5| 
 | 行业研究报告 | report88 | 2018-2019年网络安全行业深度报告 | https://mp.weixin.qq.com/s/z-LN2AlMezEmJVekbDndcw | 1| 
 | 编程技术宇宙 | ProgramUniverse | 我是一个流氓软件线程 | https://mp.weixin.qq.com/s/-ggUa3aWkjjHjr9VwQL9TQ | 5| 

@@ -29,6 +29,10 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 纽创信安 | OSR_Shenzhen | 硬件安全闲话第一篇：硬件安全的基本概念 | https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA | 1| 
+| 清河六点下班 | wugoulab | 数据库自动取样: DataMiner | https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ | 1| 
+| 安全419 | anquan-419 | 智慧停车平台被曝大规模数据泄露 API安全缺陷成风险根因 | https://mp.weixin.qq.com/s/r0lGJtPYOljbnXUSpS9X-g | 1| 
+| 信息安全与通信保密杂志社 | cismag2013 | 2022 年活跃黑客组织概览 | https://mp.weixin.qq.com/s/8gDd8q4aoh0IwfxvZb0J-Q | 1| 
 | 绿盟科技研究通讯 | nsfocus_research | 软件供应链检测工具现状分析 | https://mp.weixin.qq.com/s/FCPBzsRg9XGnjlWbV64KmA | 1| 
 | 潇湘信安 | xxxasec | 第三方远控软件在渗透中的利用 | https://mp.weixin.qq.com/s/JM_Gt3U3eLzEmI9qCV8kZA | 1| 
 | 安全村SecUN | sec-un | 为啥搜索我的公司，打开竟然是个菠菜网站｜黑帽SEO技术 | https://mp.weixin.qq.com/s/N0BCuwXVGMzJcw_A9DETPA | 2| 

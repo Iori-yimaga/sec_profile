@@ -86,6 +86,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 纽创信安 | OSR_Shenzhen | 硬件安全闲话第一篇：硬件安全的基本概念 | https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA | 1| 
+| 清河六点下班 | wugoulab | 数据库自动取样: DataMiner | https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ | 1| 
+| 安全419 | anquan-419 | 智慧停车平台被曝大规模数据泄露 API安全缺陷成风险根因 | https://mp.weixin.qq.com/s/r0lGJtPYOljbnXUSpS9X-g | 1| 
 | 安全村SecUN | sec-un | 为啥搜索我的公司，打开竟然是个菠菜网站｜黑帽SEO技术 | https://mp.weixin.qq.com/s/N0BCuwXVGMzJcw_A9DETPA | 2| 
 | 印说者也 | gh_5eca69297427 | 盗号攻击的横纵切分与攻防策略 | https://mp.weixin.qq.com/s/InrTwqdR2i7o-BZZrVti_Q | 1| 
 | FreeBuf | freebuf | 卡巴斯基：2023年第二季度APT趋势报告 | https://mp.weixin.qq.com/s/o2LEBfhDeGiQ9w2-gRP9dQ | 1| 
@@ -279,7 +282,7 @@
 | 电驭叛客 | langu_xyz | 面向实战的基础安全体系升级 | https://mp.weixin.qq.com/s/E1cDMfGRbF0hKlvnJ2PMFQ | 1| 
 | 威胁棱镜 | THREAT_PRISM | 2022 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/lksZSS7RlkBiRUUfDvB0UA | 19| 
 | 奇安信技术研究院 | jishuyanjiuyuan001 | 【天问】2022年PyPI恶意包年度回顾 | https://mp.weixin.qq.com/s/rQ2IkiDCc_NEjZUWXBE4YQ | 2| 
-| 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 23| 
+| 信息安全与通信保密杂志社 | cismag2013 | 美太空领域网络安全能力建设研究 | https://mp.weixin.qq.com/s/_8dBUet5BogjVEbpN6jfTg | 24| 
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
