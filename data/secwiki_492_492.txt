@@ -1,0 +1,26 @@
+20230731	法规	http://www.cac.gov.cn/2023-08/03/c_1692628348448092.htm	个人信息保护合规审计管理办法（征求意见稿）	cac.gov.cn	www.cac.gov.cn	/2023-08/03/c_1692628348448092.htm
+20230731	移动安全	https://www.sec-in.com/article/2231	2023 CISCN 第十六届全国大学生信息安全竞赛 初赛 WriteUp	sec-in.com	www.sec-in.com	/article/2231
+20230731	运维安全	https://mp.weixin.qq.com/s/jL9wkD9jis-5mf84m64jmg	Linux系统动态追踪技术及Elkeid应用实践	qq.com	mp.weixin.qq.com	/s/jL9wkD9jis-5mf84m64jmg
+20230731	恶意分析	https://mp.weixin.qq.com/s/E_X5Cy_7O6h5J7qUEPFCKQ	Hutool 路径遍历漏洞 CVE-2018-17297	qq.com	mp.weixin.qq.com	/s/E_X5Cy_7O6h5J7qUEPFCKQ
+20230731	数据挖掘	https://mp.weixin.qq.com/s/uXtBSzTPco1OysVwIDAnlQ	一次安全项目中的机器学习探索	qq.com	mp.weixin.qq.com	/s/uXtBSzTPco1OysVwIDAnlQ
+20230731	其它	https://www.sec-in.com/article/2021	Filter内存马及工具检测	sec-in.com	www.sec-in.com	/article/2021
+20230731	Web安全	https://mp.weixin.qq.com/s/JM_Gt3U3eLzEmI9qCV8kZA	第三方远控软件在渗透中的利用	qq.com	mp.weixin.qq.com	/s/JM_Gt3U3eLzEmI9qCV8kZA
+20230731	杂志	https://www.sec-wiki.com/weekly/491	SecWiki周刊（第491期)	sec-wiki.com	www.sec-wiki.com	/weekly/491
+20230731	漏洞分析	https://mp.weixin.qq.com/s/CuFLsd421CGTE_Oqj8clAg	TTD调试与ttd-bindings逆向工程实践	qq.com	mp.weixin.qq.com	/s/CuFLsd421CGTE_Oqj8clAg
+20230731	恶意分析	https://mp.weixin.qq.com/s/o2LEBfhDeGiQ9w2-gRP9dQ	卡巴斯基：2023年第二季度APT趋势报告	qq.com	mp.weixin.qq.com	/s/o2LEBfhDeGiQ9w2-gRP9dQ
+20230731	恶意分析	https://mp.weixin.qq.com/s/FCPBzsRg9XGnjlWbV64KmA	软件供应链检测工具现状分析	qq.com	mp.weixin.qq.com	/s/FCPBzsRg9XGnjlWbV64KmA
+20230731	运维安全	https://mp.weixin.qq.com/s/m_EeuLhmFO6kk_0qwZ_nrQ	研发安全探索和落地实践	qq.com	mp.weixin.qq.com	/s/m_EeuLhmFO6kk_0qwZ_nrQ
+20230731	恶意分析	https://mp.weixin.qq.com/s/DScjFaUQhiSVDk42t2X5PQ	VirusTotal 新兴格式与投递技术报告	qq.com	mp.weixin.qq.com	/s/DScjFaUQhiSVDk42t2X5PQ
+20230731	恶意分析	https://mp.weixin.qq.com/s/N0BCuwXVGMzJcw_A9DETPA	黑帽SEO技术剖析	qq.com	mp.weixin.qq.com	/s/N0BCuwXVGMzJcw_A9DETPA
+20230731	Web安全	https://mp.weixin.qq.com/s/InrTwqdR2i7o-BZZrVti_Q	盗号攻击的横纵切分与攻防策略	qq.com	mp.weixin.qq.com	/s/InrTwqdR2i7o-BZZrVti_Q
+20230731	取证分析	https://mp.weixin.qq.com/s/8gDd8q4aoh0IwfxvZb0J-Q	2022 年活跃黑客组织概览	qq.com	mp.weixin.qq.com	/s/8gDd8q4aoh0IwfxvZb0J-Q
+20230731	设备安全	https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA	硬件安全闲话第一篇：硬件安全的基本概念	qq.com	mp.weixin.qq.com	/s/Sp1SI_7qhzOYfCMVIgGmQA
+20230731	设备安全	https://paper.seebug.org/2096/	ChargePrint：一个互联网规模的电动汽车充电管理系统发现和安全分析框架	seebug.org	paper.seebug.org	/2096/
+20230731	无线安全	https://mp.weixin.qq.com/s/m7ygITnYKBqWDiWl96XiWw	基于 5G/6G 技术的卫星互联网一体化安全研究	qq.com	mp.weixin.qq.com	/s/m7ygITnYKBqWDiWl96XiWw
+20230731	恶意分析	https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg	软件源中与软件包相关的安全威胁	qq.com	mp.weixin.qq.com	/s/prQIDYxM5MM29b4BgVQRHg
+20230731	编程技术	https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ	数据库自动取样: DataMiner	qq.com	mp.weixin.qq.com	/s/EXYTCBk-8qO85qFEPkYNDQ
+20230731	编程技术	https://mp.weixin.qq.com/s/r0lGJtPYOljbnXUSpS9X-g	停车平台被曝大规模数据泄露 API安全缺陷成风险根因	qq.com	mp.weixin.qq.com	/s/r0lGJtPYOljbnXUSpS9X-g
+20230731	漏洞分析	https://www.gitlink.org.cn/zone/CCF-ODC/source/7	CCF版开源漏洞信息描述规范	gitlink.org.cn	www.gitlink.org.cn	/zone/CCF-ODC/source/7
+20230731	恶意分析	https://mp.weixin.qq.com/s/N7LXbOkxiq6jIo5MIbUw7A	微软 Amsi 反病毒接口逆向详解和绕过思路	qq.com	mp.weixin.qq.com	/s/N7LXbOkxiq6jIo5MIbUw7A
+20230731	恶意分析	https://mp.weixin.qq.com/s/D--a0bXmV8DZsplZUvtmsg	使用Transformer-Based模型生成虚假的网络威胁情报	qq.com	mp.weixin.qq.com	/s/D--a0bXmV8DZsplZUvtmsg
+20230731	漏洞分析	http://jos.org.cn/jos/article/pdf/6696	基于深度学习的源代码缺陷检测研究综述	jos.org.cn	jos.org.cn	/jos/article/pdf/6696

@@ -50,10 +50,10 @@ class GetNewBook(object):
             ['beacon'],
             ['assessment'],
             ['vulnerability'],
-            ['sast'],
-            ['dast'],
-            ['dynamic', 'application', 'security', 'testing'],
-            ['static', 'application', 'security', 'testing'],
+            ['iast'], # interactive application security testing
+            ['sast'], # static application security
+            ['dast'], # dynamic application security
+            ['security', 'testing'],
             ['penetration'],
             ['supply', 'chain'],
             ['threat', 'modeling'],
