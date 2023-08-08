@@ -63,6 +63,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-07 04:38:09 | English | (Synthesis Lectures on Engineering, Science, and Technology) Deep Learning-Powered Technologies. Autonomous Driving, Artificial Intelligence of Things (AIoT), Augmented Reality, 5G Communications and Beyond | Khaled Salah Mohamed | http://libgen.rs/book/index.php?md5=D05425526EF00521EA4A383ADB1ECC8F | 8 MB [PDF]| 
 | 2023-08-06 14:46:43 | English | Proven Programs in Education: Classroom Management and Assessment | Robert Slavin | http://libgen.rs/book/index.php?md5=4E60CD5D56FFA45D09C1B6EEDCFB0D52 | 1 MB [EPUB]| 
 | 2023-08-06 14:43:18 | English | (Community, Environment and Disaster Risk Management Ser.) Building Resilient Urban Communities | Jonas Joerin; Rajib Shaw; R. R. Krishnamurthy | http://libgen.rs/book/index.php?md5=FF3135CC5AF016D8495858213A5F09BE | 7 MB [PDF]| 
 | 2023-08-03 03:47:10 | English | From Fraud to Freedom | Njoroge | http://libgen.rs/book/index.php?md5=19BAECE464D553ACF5F143FB72541CE0 | 921 kB [EPUB]| 

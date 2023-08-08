@@ -20,6 +20,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-07 04:38:09 | English | (Synthesis Lectures on Engineering, Science, and Technology) Deep Learning-Powered Technologies. Autonomous Driving, Artificial Intelligence of Things (AIoT), Augmented Reality, 5G Communications and Beyond | Khaled Salah Mohamed | http://libgen.rs/book/index.php?md5=D05425526EF00521EA4A383ADB1ECC8F | 8 MB [PDF]| 
 | 2023-08-06 14:46:43 | English | Proven Programs in Education: Classroom Management and Assessment | Robert Slavin | http://libgen.rs/book/index.php?md5=4E60CD5D56FFA45D09C1B6EEDCFB0D52 | 1 MB [EPUB]| 
 | 2023-08-06 14:43:18 | English | (Community, Environment and Disaster Risk Management Ser.) Building Resilient Urban Communities | Jonas Joerin; Rajib Shaw; R. R. Krishnamurthy | http://libgen.rs/book/index.php?md5=FF3135CC5AF016D8495858213A5F09BE | 7 MB [PDF]| 
 | 2023-08-03 03:47:10 | English | From Fraud to Freedom | Njoroge | http://libgen.rs/book/index.php?md5=19BAECE464D553ACF5F143FB72541CE0 | 921 kB [EPUB]| 
@@ -44,10 +45,7 @@
 | 印说者也 | gh_5eca69297427 | 盗号攻击的横纵切分与攻防策略 | https://mp.weixin.qq.com/s/InrTwqdR2i7o-BZZrVti_Q | 1| 
 | FreeBuf | freebuf | 卡巴斯基：2023年第二季度APT趋势报告 | https://mp.weixin.qq.com/s/o2LEBfhDeGiQ9w2-gRP9dQ | 1| 
 | CTIO威胁观测 | ctio-996 | 【论文】使用Transformer-Based模型生成虚假的网络威胁情报 | https://mp.weixin.qq.com/s/D--a0bXmV8DZsplZUvtmsg | 1| 
-| 威胁棱镜 | THREAT_PRISM | VirusTotal 新兴格式与投递技术报告 | https://mp.weixin.qq.com/s/DScjFaUQhiSVDk42t2X5PQ | 1| 
-| 看雪学苑 | ikanxue | TTD调试与ttd-bindings逆向工程实践 | https://mp.weixin.qq.com/s/CuFLsd421CGTE_Oqj8clAg | 1| 
 | 慢雾科技 | SlowMist | 警惕隐蔽的 Rug Pull，合约存储引起的跑路盘 | https://mp.weixin.qq.com/s/sOa6p0-IczCHkUAx9rREhg | 1| 
-| 字节跳动安全中心 | TouTiaoSec | 超长干货｜Linux系统动态追踪技术及Elkeid应用实践 | https://mp.weixin.qq.com/s/jL9wkD9jis-5mf84m64jmg | 1| 
 
 
 # 私人github账号 推荐
