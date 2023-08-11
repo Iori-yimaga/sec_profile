@@ -225,7 +225,7 @@ class GetNewBook(object):
                         continue
 
                     is_hit = self.is_security_book((title))
-
+                    print(is_hit, title, link)
                     if not is_hit:
                         continue
                     print(title, link)
