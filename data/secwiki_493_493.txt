@@ -1,0 +1,16 @@
+20230807	法规	http://www.cac.gov.cn/2023-08/10/c_1693319212099907.htm	网站平台受理处置涉企网络侵权信息举报工作规范	cac.gov.cn	www.cac.gov.cn	/2023-08/10/c_1693319212099907.htm
+20230807	漏洞分析	https://mp.weixin.qq.com/s/wNpeCnxDczwSBLjLNhgeHw	系统软件漏洞挖掘研究进展	qq.com	mp.weixin.qq.com	/s/wNpeCnxDczwSBLjLNhgeHw
+20230807	其它	https://mp.weixin.qq.com/s/HwpMne6hktQmgvcjArKw4Q	2022 年美欧网络演习解析	qq.com	mp.weixin.qq.com	/s/HwpMne6hktQmgvcjArKw4Q
+20230807	漏洞分析	https://github.com/ba0gu0/wps-rce	wps-rce: WPS Office RCE On 2023-08-10	github.com	github.com	/ba0gu0/wps-rce
+20230807	其它	https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q	国外大型科研机构人才竞争研究-上篇	qq.com	mp.weixin.qq.com	/s/9D7n2StbTTm0Ghy0yAUW-Q
+20230807	编程技术	https://mp.weixin.qq.com/s/NWcxo1a2xBT4yOMuV0P3OA	JavaScript 和 Python 代码结合使用	qq.com	mp.weixin.qq.com	/s/NWcxo1a2xBT4yOMuV0P3OA
+20230807	漏洞分析	https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA	Hutool资源消耗漏洞 CVE-2022-4565	qq.com	mp.weixin.qq.com	/s/QoFSFdYqQxwGlpbeLn9ebA
+20230807	杂志	https://www.sec-wiki.com/weekly/492	SecWiki周刊（第492期)	sec-wiki.com	www.sec-wiki.com	/weekly/492
+20230807	恶意分析	https://mp.weixin.qq.com/s/7mRu_gRxxpDbnZi6cSibtw	金融行业软件供应链安全浅析	qq.com	mp.weixin.qq.com	/s/7mRu_gRxxpDbnZi6cSibtw
+20230807	取证分析	https://mp.weixin.qq.com/s/R05P83poz_VEddOkYV5S4Q	2023年 Verizon 数据泄露调查报告（DBIR）（下）	qq.com	mp.weixin.qq.com	/s/R05P83poz_VEddOkYV5S4Q
+20230807	恶意分析	https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg	针对某特殊群体的供应链打击2	qq.com	mp.weixin.qq.com	/s/4DkxsENujiYgpaOE071oOg
+20230807	Web安全	https://github.com/cyprosecurity/API-SecurityEmpire	API-SecurityEmpire	github.com	github.com	/cyprosecurity/API-SecurityEmpire
+20230807	其它	https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg	面向OpenHarmony终端的密码安全关键技术	qq.com	mp.weixin.qq.com	/s/RCcxlir0bvIjp8aqNJzmzg
+20230807	运维安全	https://zhuanlan.zhihu.com/p/649771088	最近研究安全有效性验证（Security Validation）的一些想法	zhihu.com	zhuanlan.zhihu.com	/p/649771088
+20230807	其它	https://mp.weixin.qq.com/s/Wem2iHJeMB6GDvHJP7JTZw	隐私计算暑期课：Encryption: Computational security 1-4	qq.com	mp.weixin.qq.com	/s/Wem2iHJeMB6GDvHJP7JTZw
+20230807	Web安全	https://danaepp.com/the-ultimate-guide-to-learning-burp-suite-for-free	the-ultimate-guide-to-learning-burp-suite-for-free	danaepp.com	danaepp.com	/the-ultimate-guide-to-learning-burp-suite-for-free

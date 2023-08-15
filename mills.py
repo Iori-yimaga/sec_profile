@@ -572,7 +572,7 @@ def get_request(url,
                           timeout=timeout,
 
                           )
-
+            print(r, url, headers)
             if r.reason == "OK":
 
                 if fname:

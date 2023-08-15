@@ -264,6 +264,7 @@ class GetNewBook(object):
                 is_need_down = True
         if is_need_down:
             get_request(self.rss_url, proxy=proxy, fname=fname)
+
         if os.path.exists(fname):
             fname = os.path.abspath(fname)
             self.parse_xml(fname)
@@ -276,6 +277,6 @@ if __name__ == "__main__":
     proxy = {
         "socks:": "socks://127.0.0.1:1080",
     }
-    # proxy = None
+    proxy = None
     o = GetNewBook(proxy=proxy)
     o.scaw(proxy=proxy)
