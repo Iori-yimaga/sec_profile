@@ -48,7 +48,7 @@ class GetNewBook(object):
             ['ransomware'],
             ['ddos'],
             ['beacon'],
-            ['assessment'],
+            #['assessment'],
             ['vulnerability'],
             ['iast'], # interactive application security testing
             ['sast'], # static application security
