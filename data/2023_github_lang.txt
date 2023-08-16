@@ -1,9 +1,9 @@
-Python	58
+Python	59
 C	36
 C++	36
 JavaScript	27
-Go	22
-Java	20
+Go	23
+Java	21
 Shell	18
 HTML	16
 Rust	14
@@ -11,7 +11,7 @@ C#	13
 TypeScript	11
 PHP	11
 PowerShell	10
-CSS	6
+CSS	7
 Jupyter	5
 Assembly	4
 Solidity	4
@@ -28,6 +28,7 @@ Jinja	1
 OpenSCAD	1
 TSQL	1
 Elixir	1
+Vue	1
 Smali	1
 OCaml	1
 Vim	1
