@@ -64,6 +64,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-17 19:22:20 | English | (Frontiers in Artificial Intelligence and Applications Ser.) Ontology Representation : Design Patterns and Ontologies That Make Sense | R. Hoekstra | http://libgen.rs/book/index.php?md5=B9A5541159FF87710280B064882EB4D4 | 2 MB [PDF]| 
+| 2023-08-17 19:07:37 | English | (California/Milbank Books on Health and the Public Ser.) The Employee Retirement Income Security Act Of 1974 : A Political History | James Wooten | http://libgen.rs/book/index.php?md5=67C4689236F1D4FE5281A1FF371DAFE0 | 2 MB [PDF]| 
 | 2023-08-16 12:45:00 | English | (CSIS Reports) Azerbaijan in a Reconnecting Eurasia : Foreign Economic and Security Interests | Andrew C. Kuchins; Jeffrey Mankoff; Oliver Backes | http://libgen.rs/book/index.php?md5=26361A4EE4147B0FC99E2D9B708A413E | 2 MB [EPUB]| 
 | 2023-08-16 12:44:07 | English | (Security and Professional Intelligence Education Ser.) Intelligence and Information Policy for National Security : Key Terms and Concepts | Jan Goldman; Susan Maret | http://libgen.rs/book/index.php?md5=D8325237175637595F60521E6D095A51 | 2 MB [EPUB]| 
 | 2023-08-15 15:00:04 | English | (CSIS Reports) Defense Modernization Plans Through The 2020s : Addressing the Bow Wave | Todd Harrison | http://libgen.rs/book/index.php?md5=482FFBBE3428AAD841EBC83B82D5FF07 | 2 MB [EPUB]| 
@@ -120,6 +122,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| NebulaGraph 技术社区 | NebulaGraphCommunity | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA | 1| 
+| DataFunSummit | DataFunSummit | 知识图谱和图计算在翼支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow | 1| 
 | 数观天下 | see_data | 数观解读 , 2023年密码上市企业中报业绩解读 | https://mp.weixin.qq.com/s/WGeoWMBi4tlhejgJ_ia0Qw | 1| 
 | 交大评论 | BJTUreview | 关于高速铁路网络安全防护现状研究及思考建议 | https://mp.weixin.qq.com/s/NA2gt-YawaEqBWUsLiCzbg | 1| 
 | Roc安全空间站 | gh_d076a0a3540b | 隐秘通信-使用dnscat2搭建DNS隧道实验 | https://mp.weixin.qq.com/s/H1nX9r3LamglXyaUxahXvQ | 1| 
