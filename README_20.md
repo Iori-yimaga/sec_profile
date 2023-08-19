@@ -129,8 +129,8 @@
 | Roc安全空间站 | gh_d076a0a3540b | 隐秘通信-使用dnscat2搭建DNS隧道实验 | https://mp.weixin.qq.com/s/H1nX9r3LamglXyaUxahXvQ | 1| 
 | 隐私计算研习社 | ppcstudy | 笔记分享｜山东大学隐私计算暑期课：Encryption: Computational security 1-4 | https://mp.weixin.qq.com/s/Wem2iHJeMB6GDvHJP7JTZw | 1| 
 | 中孚安全技术研究 | zf_sec | RealWorld,针对某特殊群体的供应链打击2 | https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg | 1| 
-| OpenHarmony TSC | OH_TSC | 峰会回顾第17期 , 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg | 2| 
-| 稻香湖下午茶 | dxhxwc | 【深度】国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q | 1| 
+| OpenHarmony TSC | OH_TSC | 峰会回顾第17期 , 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg | 3| 
+| 稻香湖下午茶 | dxhxwc | 【深度】国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q | 3| 
 | 观澜安全团队 | GlanSec | 微软 Amsi 反病毒接口逆向详解和绕过思路 | https://mp.weixin.qq.com/s/N7LXbOkxiq6jIo5MIbUw7A | 1| 
 | 纽创信安 | OSR_Shenzhen | 硬件安全闲话第一篇：硬件安全的基本概念 | https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA | 1| 
 | 安全419 | anquan-419 | 智慧停车平台被曝大规模数据泄露 API安全缺陷成风险根因 | https://mp.weixin.qq.com/s/r0lGJtPYOljbnXUSpS9X-g | 1| 
@@ -724,7 +724,7 @@
 | ENYA物語 | gh_9f583a318c52 | 技術型管理人的自我成長 | https://mp.weixin.qq.com/s/moARUZG3BNOJL7EAiXDMJA | 1| 
 | 网安志异 | KnewSec | 沙虫 | https://mp.weixin.qq.com/s/eBTXxLn4NFvLq-nmAAXgyg | 1| 
 | 有价值炮灰 | worthy_dust | 安全研究员的自我修养 | https://mp.weixin.qq.com/s/BuHQSLLeJ-EMhQSqFLgDgg | 3| 
-| 字节跳动安全中心 | TouTiaoSec | 字节跳动安全团队开源自研HIDS——AgentSmith-HIDS | https://mp.weixin.qq.com/s/sAh_VH5zTuxHRFawYMvuOw | 16| 
+| 字节跳动安全中心 | TouTiaoSec | 字节跳动安全团队开源自研HIDS——AgentSmith-HIDS | https://mp.weixin.qq.com/s/sAh_VH5zTuxHRFawYMvuOw | 17| 
 | 京麒 | jqanquan | 数据安全建设实践系列——数据资产平台建设 | https://mp.weixin.qq.com/s/oofMyBaS7EMnUMy61Y-5MQ | 1| 
 | 数学人生 | gh_ea2ff522308b | 复杂网络中的节点相似性 | https://mp.weixin.qq.com/s/EGpjUVdjJlEjYbdbjbpR7A | 1| 
 | 网络空间安全科学与技术 | gh_d54d2c7cabd7 | 2020年综述性论文合辑（上） | https://mp.weixin.qq.com/s/e-3rSS2F7lVV9SMMnoqylQ | 2| 
@@ -1030,7 +1030,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 236| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 237| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -5111,6 +5111,7 @@
 | D00MFist | 与 JXA 有关的用于实现 macOS 系统攻击常驻的方法收集 | https://github.com/D00MFist/PersistentJXA | https://medium.com/@D00MFist |  | None | None | 30 | 0 | 0 | 0 | 0 | Shell,Jupyter,JavaScript,Visual,Go,CSS | 109 | 10 | 1| 
 | Cymmetria | Struts Apache 2 based honeypot &amp; detection module by @nirkrakowksi @lorgandon https://t.co/oJzc8qnvFo [CVE 2017-5638 | https://github.com/Cymmetria/StrutsHoneypot | None | None | None | None | 0 | 0 | 0 | 0 | 0 | ASP,Python,JavaScript,Shell,HTML,PHP | 0 | 0 | 1| 
 | CymaticsCC | 恶意ELF二进制文件相似度比较及可视化 | https://github.com/CymaticsCC/elf_similarity | None |  | None | None | 55 | 0 | 0 | 0 | 0 | Python,HTML,Jupyter | 2 | 2 | 1| 
+| CyberCX-STA | PurpleOps：self-hosted purple team management web applicat... | https://github.com/CyberCX-STA/PurpleOps | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript,Java,HTML | 0 | 0 | 1| 
 | CyberArkLabs | ACLight - 用于寻找域中高权限账户和隐藏管理员的 Powershell 脚本: | https://github.com/CyberArkLabs/ACLight | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | Cyber-Buddy | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt | https://github.com/Cyber-Buddy?tab=followers |  | None | None | 1 | 0 | 1 | 0 | 0 | Go | 0 | 0 | 1| 
 | Cyb3r-Monk | 检测网络上活跃的C&C活动的工具 | https://github.com/Cyb3r-Monk/ACCD | https://github.com/Cyb3r-Monk?tab=followers | Cyb3rMonk | Netherlands | None | 71 | 0 | 303 | 0 | 0 | Jupyter | 0 | 0 | 1| 

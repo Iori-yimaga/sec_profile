@@ -31,6 +31,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 字节跳动安全中心 | TouTiaoSec | 新型DDoS攻击？基于QUIC协议的DDoS反射放大攻击研究 | https://mp.weixin.qq.com/s/2cdCP40vHwStUkIsZ2scjw | 1| 
 | NebulaGraph 技术社区 | NebulaGraphCommunity | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA | 1| 
 | DataFunSummit | DataFunSummit | 知识图谱和图计算在翼支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow | 1| 
 | 绿盟科技威胁情报 | NSFOCUS_NTI | Boat僵尸网络家族的演变 | https://mp.weixin.qq.com/s/6xDoE6at2-Q9gDVdmlrCOg | 1| 
@@ -40,13 +41,13 @@
 | Roc安全空间站 | gh_d076a0a3540b | 隐秘通信-使用dnscat2搭建DNS隧道实验 | https://mp.weixin.qq.com/s/H1nX9r3LamglXyaUxahXvQ | 1| 
 | 隐私计算研习社 | ppcstudy | 笔记分享｜山东大学隐私计算暑期课：Encryption: Computational security 1-4 | https://mp.weixin.qq.com/s/Wem2iHJeMB6GDvHJP7JTZw | 1| 
 | 中孚安全技术研究 | zf_sec | RealWorld,针对某特殊群体的供应链打击2 | https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg | 1| 
-| OpenHarmony TSC | OH_TSC | 峰会回顾第17期 , 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg | 2| 
-| 稻香湖下午茶 | dxhxwc | 【深度】国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q | 1| 
+| OpenHarmony TSC | OH_TSC | 峰会回顾第17期 , 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg | 3| 
+| 稻香湖下午茶 | dxhxwc | 【深度】国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q | 3| 
 | 安全行者老霍 | gh_c2b78e839fd7 | 2023年 Verizon 数据泄露调查报告（DBIR）（下） | https://mp.weixin.qq.com/s/R05P83poz_VEddOkYV5S4Q | 1| 
 | code秘密花园 | code_mmhy | JavaScript 和 Python 代码也能结合使用？ | https://mp.weixin.qq.com/s/NWcxo1a2xBT4yOMuV0P3OA | 1| 
 | 洞源实验室 | gh_4929169c5e90 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA | 2| 
 | 观澜安全团队 | GlanSec | 微软 Amsi 反病毒接口逆向详解和绕过思路 | https://mp.weixin.qq.com/s/N7LXbOkxiq6jIo5MIbUw7A | 1| 
-| 安全学术圈 | secquan | 奇安信 , 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg | 2| 
+| 安全学术圈 | secquan | 奇安信 , 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg | 3| 
 | 信息安全与通信保密杂志社 | cismag2013 | 基于 5G/6G 技术的卫星互联网一体化安全研究 | https://mp.weixin.qq.com/s/m7ygITnYKBqWDiWl96XiWw | 3| 
 | 纽创信安 | OSR_Shenzhen | 硬件安全闲话第一篇：硬件安全的基本概念 | https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA | 1| 
 | 清河六点下班 | wugoulab | 数据库自动取样: DataMiner | https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ | 1| 
@@ -68,6 +69,7 @@
 | cyprosecurity | API-SecurityEmpire | https://github.com/cyprosecurity/API-SecurityEmpire | https://github.com/cyprosecurity?tab=followers |  | Sweden | Cypro | 1 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
 | ba0gu0 | wps-rce: WPS Office RCE On 2023-08-10 | https://github.com/ba0gu0/wps-rce | https://github.com/ba0gu0?tab=followers |  | None | None | 27 | 0 | 1700 | 0 | 0 | Python,Go,Vue,Java,CSS | 0 | 0 | 1| 
 | Zigrin-Security | 基于 CakePHP 框架的 Web 应用程序中漏洞发现的自动化过程 | https://github.com/Zigrin-Security/CakeFuzzer | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PHP | 0 | 0 | 1| 
+| CyberCX-STA | PurpleOps：self-hosted purple team management web applicat... | https://github.com/CyberCX-STA/PurpleOps | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript,Java,HTML | 0 | 0 | 1| 
 | Cyb3r-Monk | 检测网络上活跃的C&C活动的工具 | https://github.com/Cyb3r-Monk/ACCD | https://github.com/Cyb3r-Monk?tab=followers | Cyb3rMonk | Netherlands | None | 71 | 0 | 303 | 0 | 0 | Jupyter | 0 | 0 | 1| 
 
 

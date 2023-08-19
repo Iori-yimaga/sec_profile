@@ -1,11 +1,11 @@
-Python	60
+Python	61
 C++	37
 C	36
-JavaScript	28
+JavaScript	29
+Java	23
 Go	23
-Java	22
 Shell	18
-HTML	16
+HTML	17
 Rust	14
 C#	14
 TypeScript	12

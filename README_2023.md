@@ -79,8 +79,8 @@
 | Roc安全空间站 | gh_d076a0a3540b | 隐秘通信-使用dnscat2搭建DNS隧道实验 | https://mp.weixin.qq.com/s/H1nX9r3LamglXyaUxahXvQ | 1| 
 | 隐私计算研习社 | ppcstudy | 笔记分享｜山东大学隐私计算暑期课：Encryption: Computational security 1-4 | https://mp.weixin.qq.com/s/Wem2iHJeMB6GDvHJP7JTZw | 1| 
 | 中孚安全技术研究 | zf_sec | RealWorld,针对某特殊群体的供应链打击2 | https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg | 1| 
-| OpenHarmony TSC | OH_TSC | 峰会回顾第17期 , 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg | 2| 
-| 稻香湖下午茶 | dxhxwc | 【深度】国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q | 1| 
+| OpenHarmony TSC | OH_TSC | 峰会回顾第17期 , 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg | 3| 
+| 稻香湖下午茶 | dxhxwc | 【深度】国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q | 3| 
 | 观澜安全团队 | GlanSec | 微软 Amsi 反病毒接口逆向详解和绕过思路 | https://mp.weixin.qq.com/s/N7LXbOkxiq6jIo5MIbUw7A | 1| 
 | 纽创信安 | OSR_Shenzhen | 硬件安全闲话第一篇：硬件安全的基本概念 | https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA | 1| 
 | 清河六点下班 | wugoulab | 数据库自动取样: DataMiner | https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ | 1| 
@@ -95,7 +95,7 @@
 | AIBio爱生信 | AI4Bioinformatics | AAAI 2023 , 简单高效的异构图神经网络 | https://mp.weixin.qq.com/s/GpSZ5RMwo51BCSxWdUzgjA | 1| 
 | 新华社 | xinhuashefabu1 | 加强自媒体管理，中央网信办出手！ | https://mp.weixin.qq.com/s/4QHdCXHq7md7MqW06SuN9w | 1| 
 | 青青喵吟 悠悠网事 | gh_03f108fc105d | 以变应万变？2023年上半年DARPA网络空间项目梳理 | https://mp.weixin.qq.com/s/sExNTVfc-Wbz0hYlPt3Q_Q | 2| 
-| 字节跳动安全中心 | TouTiaoSec | 通过大语言模型（LLM）识别与修复风险代码 | https://mp.weixin.qq.com/s/DpXcLrOBewdqR6Z8CYKH8g | 2| 
+| 字节跳动安全中心 | TouTiaoSec | 通过大语言模型（LLM）识别与修复风险代码 | https://mp.weixin.qq.com/s/DpXcLrOBewdqR6Z8CYKH8g | 3| 
 | 表图 | CyberSecurityCircle | 攻防演习防守标准化的实践与思考 | https://mp.weixin.qq.com/s/ZVeDA6tQyl7w4ClvGLH3-Q | 1| 
 | 机器之心 | almosthuman2014 | 大型语言模型与知识图谱协同研究综述：两大技术优势互补 | https://mp.weixin.qq.com/s/HMCMyT0FKV5fGo4NRKSa5g | 1| 
 | RapidDNS | gh_6327c9075859 | 使用RapidDNS的数据自动化提交FOFA赚取F点 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485764&idx=1&sn=e024430dba242bea42c5681cfb99c73d&chksm=cfb73ef4f8c0b7e275fa1e1f55d1d6b471722e41c9805d3db40fc934e0b9ddb0a9adb16d0794#rd | 3| 
@@ -282,7 +282,7 @@
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
-| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 43| 
+| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 44| 
 
 
 # 私人github账号 推荐
@@ -400,6 +400,7 @@
 | DragoQCC | HardHat C2 - 用 C# 编写的跨平台、协作、命令和控制框架，专为红队和易用性而设计。旨在帮助红队参与和渗透测试。它包含三个主要组件，一个 ASP.NET teamserver，一个 blazor .NET 客户端和基于 c# 的植入程序 | https://github.com/DragoQCC/HardHatC2 | https://github.com/DragoQCC?tab=followers | DragoQCC personal projects | None | None | 7 | 0 | 4 | 0 | 0 | C# | 0 | 0 | 1| 
 | DallasFR | WalkerGate:通过查找ntdll的内存解析以进行系统调用 | https://github.com/DallasFR/WalkerGate | https://github.com/DallasFR?tab=followers |  | None | None | 14 | 0 | 2 | 0 | 0 | C | 0 | 0 | 1| 
 | D1rkMtr | 劫持cscapi.dll以劫持explorer.exe来进行持久化驻留 | https://github.com/D1rkMtr/ExplorerPersist | https://github.com/D1rkMtr?tab=followers | Malware dev , C2 dev | None | None | 47 | 0 | 47 | 0 | 0 | C++ | 0 | 0 | 1| 
+| CyberCX-STA | PurpleOps：self-hosted purple team management web applicat... | https://github.com/CyberCX-STA/PurpleOps | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript,Java,HTML | 0 | 0 | 1| 
 | Cyber-Buddy | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt | https://github.com/Cyber-Buddy?tab=followers |  | None | None | 1 | 0 | 1 | 0 | 0 | Go | 0 | 0 | 1| 
 | Cyb3r-Monk | 检测网络上活跃的C&C活动的工具 | https://github.com/Cyb3r-Monk/ACCD | https://github.com/Cyb3r-Monk?tab=followers | Cyb3rMonk | Netherlands | None | 71 | 0 | 303 | 0 | 0 | Jupyter | 0 | 0 | 1| 
 | CiscoCXSecurity | UDP 协议扫描器 - 用于识别远程主机上运行的 UDP 服务的工具。 | https://github.com/CiscoCXSecurity/udpy_proto_scanner | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Python,JavaScript,Perl,HTML | 0 | 0 | 1| 
