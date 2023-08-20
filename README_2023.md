@@ -31,6 +31,10 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-18 11:38:22 | English | Mobile Security : A Pocket Guide | Steve Furnell | http://libgen.rs/book/index.php?md5=2B436A17B1C5E81B7038EAFC8FD3016A | 906 kB [PDF]| 
+| 2023-08-18 11:37:00 | English | Advances in Cyber Security : Technology, Operations, and Experiences | D. Frank Hsu; Dorothy Marinucci | http://libgen.rs/book/index.php?md5=22CF41377425C0F04840377DED8D99F2 | 3 MB [EPUB]| 
+| 2023-08-18 11:36:37 | English | Compliance for Green IT : A Pocket Guide | Alan Calder | http://libgen.rs/book/index.php?md5=17F3EDC04CA6478C64D1009CF24542FF | 648 kB [PDF]| 
+| 2023-08-18 11:27:56 | English | Strengthening Data Science Methods for Department of Defense Personnel and Readiness Missions | and Medicine Engineering National Academies of Sciences; Division on Engineering and Physical Sciences; Board on Mathematical Sciences and Their Applications; Committee on Applied and Theoretical Statistics; Committee on Strengthening Data Science Methods for Department of Defense Personnel and Readiness Missions | http://libgen.rs/book/index.php?md5=DC2D6AC1FCF76EA53C49A1BE0556D5F8 | 4 MB [EPUB]| 
 | 2023-08-17 19:22:20 | English | (Frontiers in Artificial Intelligence and Applications Ser.) Ontology Representation : Design Patterns and Ontologies That Make Sense | R. Hoekstra | http://libgen.rs/book/index.php?md5=B9A5541159FF87710280B064882EB4D4 | 2 MB [PDF]| 
 | 2023-08-17 19:07:37 | English | (California/Milbank Books on Health and the Public Ser.) The Employee Retirement Income Security Act Of 1974 : A Political History | James Wooten | http://libgen.rs/book/index.php?md5=67C4689236F1D4FE5281A1FF371DAFE0 | 2 MB [PDF]| 
 | 2023-08-16 12:45:00 | English | (CSIS Reports) Azerbaijan in a Reconnecting Eurasia : Foreign Economic and Security Interests | Andrew C. Kuchins; Jeffrey Mankoff; Oliver Backes | http://libgen.rs/book/index.php?md5=26361A4EE4147B0FC99E2D9B708A413E | 2 MB [EPUB]| 
@@ -71,6 +75,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 大兵说安全 | dabingshuoanquan | 从一次攻击过程看EDR的作用 | https://mp.weixin.qq.com/s/lFwvvDwIHf9h02ZEAGk2uQ | 1| 
+| 周陆军 | zhoulujun_com | 浅谈QUIC/http3协议原理与性能分析及部署方案 | https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg | 1| 
 | NebulaGraph 技术社区 | NebulaGraphCommunity | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA | 1| 
 | DataFunSummit | DataFunSummit | 知识图谱和图计算在翼支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow | 1| 
 | 绿盟科技威胁情报 | NSFOCUS_NTI | Boat僵尸网络家族的演变 | https://mp.weixin.qq.com/s/6xDoE6at2-Q9gDVdmlrCOg | 1| 
@@ -247,7 +253,7 @@
 | 云影实验室 | gh_d86289b99724 | php://filter过滤器利用之代码执行漏洞 | https://mp.weixin.qq.com/s/BvHzbgWA1alO7N2fkEfMYQ | 1| 
 | 平猫的音乐 | gh_f6e103434039 | 成体系：大论文的另一关键环节 | https://mp.weixin.qq.com/s/GK6VncT-WbHz0Euuf7drZA | 2| 
 | 人机与认知实验室 | gh_9c3c1f805cb8 | DARPA的可解释人工智能程序 | https://mp.weixin.qq.com/s/F9Dtvrlu8AU15HhTVQQojQ | 1| 
-| 看雪学苑 | ikanxue | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw | 9| 
+| 看雪学苑 | ikanxue | 自动化提取恶意文档中的shellcode | https://mp.weixin.qq.com/s/xEHnaBmpH0zrhMKBvjxoGw | 10| 
 | 源影安全实验室 | MetaShadow | CVE-2022-41080_41082 Microsoft Exchange Server OWASSRF远程代码执行漏洞分析 | https://mp.weixin.qq.com/s/Fl7oz6VXI8k5Qn0MOk61aw | 1| 
 | 摄星 | Vulinsight | 从CISA KEV看海量漏洞管理方法 | https://mp.weixin.qq.com/s/X5J4gYanCGrGMJ9Yp6J8tQ | 1| 
 | 丁司图 | gh_ea35ef49ac14 | 顶会论文写作建议（上）：宏观布局，避免“hard to follow” | https://mp.weixin.qq.com/s/kberQa8ss7l2gh9PAx_cSQ | 1| 
@@ -259,7 +265,7 @@
 | huasec | ihuahua04 | 利用空间测绘进行威胁分析 | https://mp.weixin.qq.com/s/b-rynWs2xX3ft48QFx8NBg | 2| 
 | 阿里开发者 | ali_tech | 一文梳理Code Review方法论与实践总结 | https://mp.weixin.qq.com/s/_4MFrQSYOIGYRdDGOJPDKQ | 1| 
 | 蛇矛实验室 | Cybersnaker | 安全开发之Pcshare流程分析 | https://mp.weixin.qq.com/s/R1Fgyj0pUCxFGq4-YFfMXw | 1| 
-| CodeWisdom | gh_2395906a410f | 关于大模型时代软件智能化开发的一点展望 | https://mp.weixin.qq.com/s/UTcnFq53JjIMsShmKtQvDw | 2| 
+| CodeWisdom | gh_2395906a410f | 关于大模型时代软件智能化开发的一点展望 | https://mp.weixin.qq.com/s/UTcnFq53JjIMsShmKtQvDw | 3| 
 | 迪哥讲事 | growing0101 | 赏金猎人系列-如何测试文件上传功能 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247487158&idx=1&sn=6373bf434deaaa6a9a055f9c0400b512&chksm=e8a604d5dfd18dc361addad111cb78a461baf4e6a3a954799b9c8ed8230fce6707f727f1f0ab&scene=21#wechat_redirect | 1| 
 | 红队蓝军 | Xx_Security | 域内定位个人PC的三种方式 | https://mp.weixin.qq.com/s/uXTo2AbmvMeNesR8rAjImw | 3| 
 | 华为安全 | HuaweiSecurity | 安全态势感知专家说第2期：人工智能技术在态势感知的应用 | https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg | 2| 
@@ -282,7 +288,7 @@
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
-| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 44| 
+| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 45| 
 
 
 # 私人github账号 推荐
@@ -455,6 +461,7 @@
 # 论坛 推荐
 | title | url| 
 | --- | ---| 
+| Metabase 高版本JDK下 嵌入式Jetty中的Customizer内存马实现 | https://xz.aliyun.com/t/12792| 
 | 开源许可证保姆级入门手册 | https://xz.aliyun.com/t/12671| 
 | 记一次四层内网攻防渗透测试大实验 | https://xz.aliyun.com/t/12614| 
 | js引擎检测及热部署的OpenRASP学习 | https://xz.aliyun.com/t/12613| 

@@ -64,6 +64,10 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-18 11:38:22 | English | Mobile Security : A Pocket Guide | Steve Furnell | http://libgen.rs/book/index.php?md5=2B436A17B1C5E81B7038EAFC8FD3016A | 906 kB [PDF]| 
+| 2023-08-18 11:37:00 | English | Advances in Cyber Security : Technology, Operations, and Experiences | D. Frank Hsu; Dorothy Marinucci | http://libgen.rs/book/index.php?md5=22CF41377425C0F04840377DED8D99F2 | 3 MB [EPUB]| 
+| 2023-08-18 11:36:37 | English | Compliance for Green IT : A Pocket Guide | Alan Calder | http://libgen.rs/book/index.php?md5=17F3EDC04CA6478C64D1009CF24542FF | 648 kB [PDF]| 
+| 2023-08-18 11:27:56 | English | Strengthening Data Science Methods for Department of Defense Personnel and Readiness Missions | and Medicine Engineering National Academies of Sciences; Division on Engineering and Physical Sciences; Board on Mathematical Sciences and Their Applications; Committee on Applied and Theoretical Statistics; Committee on Strengthening Data Science Methods for Department of Defense Personnel and Readiness Missions | http://libgen.rs/book/index.php?md5=DC2D6AC1FCF76EA53C49A1BE0556D5F8 | 4 MB [EPUB]| 
 | 2023-08-17 19:22:20 | English | (Frontiers in Artificial Intelligence and Applications Ser.) Ontology Representation : Design Patterns and Ontologies That Make Sense | R. Hoekstra | http://libgen.rs/book/index.php?md5=B9A5541159FF87710280B064882EB4D4 | 2 MB [PDF]| 
 | 2023-08-17 19:07:37 | English | (California/Milbank Books on Health and the Public Ser.) The Employee Retirement Income Security Act Of 1974 : A Political History | James Wooten | http://libgen.rs/book/index.php?md5=67C4689236F1D4FE5281A1FF371DAFE0 | 2 MB [PDF]| 
 | 2023-08-16 12:45:00 | English | (CSIS Reports) Azerbaijan in a Reconnecting Eurasia : Foreign Economic and Security Interests | Andrew C. Kuchins; Jeffrey Mankoff; Oliver Backes | http://libgen.rs/book/index.php?md5=26361A4EE4147B0FC99E2D9B708A413E | 2 MB [EPUB]| 
@@ -122,6 +126,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 周陆军 | zhoulujun_com | 浅谈QUIC/http3协议原理与性能分析及部署方案 | https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg | 1| 
 | NebulaGraph 技术社区 | NebulaGraphCommunity | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA | 1| 
 | DataFunSummit | DataFunSummit | 知识图谱和图计算在翼支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow | 1| 
 | 数观天下 | see_data | 数观解读 , 2023年密码上市企业中报业绩解读 | https://mp.weixin.qq.com/s/WGeoWMBi4tlhejgJ_ia0Qw | 1| 
@@ -516,7 +521,7 @@
 | NightTeam | locozhou | 小菜花的frida-svc-interceptor | https://mp.weixin.qq.com/s?__biz=Mzg5NzIyMzkzNw==&mid=2247485919&idx=1&sn=ca1402591c1d37c3dc7958a84e2146ea | 1| 
 | HACK学习君 | XHacker1961 | 记一次曲折的WAF绕过 | https://mp.weixin.qq.com/s?__biz=MzIzNzMxMDkxNw==&mid=2247486085&idx=1&sn=570b3adf02278319757a76baa0e9342e | 5| 
 | CNVD漏洞平台 | None | 关于SonarQube系统存在未授权访问漏洞的安全公告 | https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247490778&idx=1&sn=4fef06e06bce01245e5f473c70e1b793 | 11| 
-| 看雪学苑 | ikanxue | 全网最详细CVE-2014-0502 Adobe Flash Player双重释放漏洞分析 | https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458402566&idx=1&sn=6a8289758711c348b36f8526808747c7 | 127| 
+| 看雪学苑 | ikanxue | 全网最详细CVE-2014-0502 Adobe Flash Player双重释放漏洞分析 | https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458402566&idx=1&sn=6a8289758711c348b36f8526808747c7 | 128| 
 | 广软NSDA安全团队 | gh_72de97d4e162 | 内网渗透初探 | https://mp.weixin.qq.com/s?__biz=MzUzMDg5NDQ0Nw==&mid=2247489476&idx=1&sn=a39eed3450e581385b862c09ae556f9f | 6| 
 | 小黑的安全笔记 | x1a0heI | 云服务器ftp被动和主动模式都连接失败 | https://mp.weixin.qq.com/s?__biz=MzI4Njk5NjY4OQ==&mid=2247485823&idx=1&sn=43b52f2f7163fba10cf4ba466a3bac29 | 2| 
 | 不懂安全的校长 | sectip | 内网渗透 , 1.内网基础知识 | https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247484768&idx=1&sn=31012b5465686c5eaa96dad6f8f0bbfa | 10| 
@@ -738,7 +743,7 @@
 | 公安部网安局 | gh_e406f4bcdf34 | 公安机关网安部门打击网络黑产犯罪工作取得显著成效 | https://mp.weixin.qq.com/s/h53qn-2vODsakiCxf9CvXQ | 1| 
 | 陌陌安全 | MomoSecurity | 陌陌数据安全探索与实践 | https://mp.weixin.qq.com/s/yGLrdlpSmEe5ChiVn4b8Kg | 7| 
 | pirogue | p1r06u3 | 越权扫描器碎碎念 | https://mp.weixin.qq.com/s/yMpAiue7OT1I8E3C5Dkngw | 1| 
-| CodeWisdom | gh_2395906a410f | 技术分享, 基于静态依赖分析的安卓GUI自动化探测方法 | https://mp.weixin.qq.com/s/YQDxUqo_ufjt3cuDNOUfwQ | 6| 
+| CodeWisdom | gh_2395906a410f | 技术分享, 基于静态依赖分析的安卓GUI自动化探测方法 | https://mp.weixin.qq.com/s/YQDxUqo_ufjt3cuDNOUfwQ | 7| 
 | 360Quake空间测绘 | gh_0284fd4851e7 | 利用JARM指纹进行TLS服务端标记 | https://mp.weixin.qq.com/s/CTBO22SuQft1dBoHv2WRQg | 4| 
 | ATLAS Academy | atlas-cyber-academy | 2020网络安全大事记 - 监管判例篇 | https://mp.weixin.qq.com/s/60-O9GGYPNZZW6KVvY_c8w | 1| 
 | 青藤实验室 | gh_151a64925040 | SharePoint Rce 系列分析（一） | https://mp.weixin.qq.com/s/FfHc8TFUs_4H8JHWbYv3FQ | 3| 
@@ -1030,7 +1035,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 237| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 238| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -1392,7 +1397,7 @@
 | 网络法治国际中心 | icrime2015 | 网络犯罪工作坊｜公安部发布侵犯个人信息网络犯罪案例 | http://mp.weixin.qq.com/s?__biz=MzIyNjE0NTQ2OA==&mid=2651229147&idx=1&sn=272dc975d41cddc3db5797434e6647e4 | 1| 
 | 程序猿 | imkuqin | Web服务器在外网能裸奔多久？ | https://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=2651161183&idx=3&sn=3552b18d23f8af71feee0fffe4305ce1 | 1| 
 | Python程序员 | pythonbuluo | Python网站的漏洞检查 | http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651371219&idx=1&sn=6403ae9e6e26208283bfc11539e793ec&scene=23&srcid=0724SeM1nPiyNItiOJKQqP3k#rd | 1| 
-| 大兵说安全 | dabingshuoanquan | 勒索程序演化与发展趋势（14~16年） | https://mp.weixin.qq.com/s?__biz=MzI2MzM0NjcxNw==&mid=2247483786&idx=1&sn=4d3aff50c5722a887c4d111804f6a562 | 4| 
+| 大兵说安全 | dabingshuoanquan | 勒索程序演化与发展趋势（14~16年） | https://mp.weixin.qq.com/s?__biz=MzI2MzM0NjcxNw==&mid=2247483786&idx=1&sn=4d3aff50c5722a887c4d111804f6a562 | 5| 
 | malwarebenchmark |  | ICS-CERT推荐YARA做工控恶意代码分析环境（脑补：附BlackEnergy B2/B3 YARA签名） | http://mp.weixin.qq.com/s?__biz=MzI4ODA4MTcxMA==&mid=2649549565&idx=1&sn=eea530ba0c8429375d9b557de2b422c0 | 17| 
 | 0c0c0f | DebugPwn | Build Your SSRF Exploit Framework | http://mp.weixin.qq.com/s?__biz=MzAwMzI0MTMwOQ==&mid=2650173687&idx=1&sn=81752cdb58fb8aa3608f6079116ad880 | 1| 
 | RoarTalk | roartalk | 用历史和数据来聊聊勒索软件 | http://mp.weixin.qq.com/s?__biz=MzAxNTk5ODcxOQ==&mid=2247483674&idx=1&sn=1960f6692efbce41dc581c811d433f71 | 3| 
@@ -5689,6 +5694,7 @@
 # 论坛 推荐
 | title | url| 
 | --- | ---| 
+| Metabase 高版本JDK下 嵌入式Jetty中的Customizer内存马实现 | https://xz.aliyun.com/t/12792| 
 | 开源许可证保姆级入门手册 | https://xz.aliyun.com/t/12671| 
 | 记一次四层内网攻防渗透测试大实验 | https://xz.aliyun.com/t/12614| 
 | js引擎检测及热部署的OpenRASP学习 | https://xz.aliyun.com/t/12613| 
