@@ -64,6 +64,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-21 09:29:54 | English | Robotic Process Automation with Blue Prism Quick Start Guide : Create Software Robots and Automate Business Processes | Lim Mei Ying | http://libgen.rs/book/index.php?md5=ABE2ABFA865D8FEB2B75115BFE372CFD | 9 MB [EPUB]| 
+| 2023-08-21 09:17:23 | English | Energy Power Risk : Derivatives, Computation and Optimization | George Levy | http://libgen.rs/book/index.php?md5=FF158862CDE4AE114283778ECC9A47F8 | 11 MB [EPUB]| 
 | 2023-08-19 01:58:51 | English | Information Governance and Assurance : Reducing risk, promoting policy | Alan MacLennan | http://libgen.rs/book/index.php?md5=FEFD6874C226F4FEC1390A73CF826330 | 776 kB [PDF]| 
 | 2023-08-18 11:38:22 | English | Mobile Security : A Pocket Guide | Steve Furnell | http://libgen.rs/book/index.php?md5=2B436A17B1C5E81B7038EAFC8FD3016A | 906 kB [PDF]| 
 | 2023-08-18 11:37:00 | English | Advances in Cyber Security : Technology, Operations, and Experiences | D. Frank Hsu; Dorothy Marinucci | http://libgen.rs/book/index.php?md5=22CF41377425C0F04840377DED8D99F2 | 3 MB [EPUB]| 
@@ -956,7 +958,7 @@
 | 404 Not F0und |  | 从Black Hat Speaker到国内外研究者：强化学习的安全应用 | https://mp.weixin.qq.com/s/YcH2P38_N4aZtGAc2ktkJw | 10| 
 | 法学学术前沿 | frontiers-of-law | 前沿, 刘艳红：网络爬虫行为的刑事规制 | https://mp.weixin.qq.com/s/O9ue3cZjw5kfVFyFkoaeUg | 1| 
 | 南方法治报 | nffzb1433 | 广东公安“净网2019”专项行动典型网络违法犯罪案例 | https://mp.weixin.qq.com/s/XIAaaZetvfLa5KO-7Q6rlg | 1| 
-| 开放知识图谱 | OpenKG-CN | 论文浅尝 , 探索将预训练语言模型用于事件抽取和事件生成 | https://mp.weixin.qq.com/s/8G-d3VT_I6ucRVrGm4VO2A | 7| 
+| 开放知识图谱 | OpenKG-CN | 论文浅尝 , 探索将预训练语言模型用于事件抽取和事件生成 | https://mp.weixin.qq.com/s/8G-d3VT_I6ucRVrGm4VO2A | 8| 
 | 奇门遁甲安全 |  | 浅谈新手入门级红蓝对抗系列之——Sysmon攻防 | https://mp.weixin.qq.com/s/_RcHF1vXPp1cnzXvGWnGvQ | 1| 
 | 七夜安全博客 | qiye_safe | 漫谈威胁建模下的安全通信 | https://mp.weixin.qq.com/s/m-ouMuBGX4BhHohV52Kykg | 15| 
 | 现代服务产业技术创新战略联盟 |  | 深度学习实体关系抽取研究综述(上) | https://mp.weixin.qq.com/s/_1bWSYIeGpkJyrSfSNhVdw | 3| 
@@ -1013,7 +1015,7 @@
 | 安比实验室 | secbitlabs | 初识「零知识」与「证明」 | https://mp.weixin.qq.com/s/XQL_taBhPkCHGZOBc24MyQ | 1| 
 | 安全客 | anquanbobao | Black hat USA 2019 议题预览 | https://mp.weixin.qq.com/s/TCKOmHt2MbeMI6MO5zq4HQ | 86| 
 | 安全回忆录 | Sec-Huiyilu | Commix命令注入靶场空格过滤的绕过测试 | https://mp.weixin.qq.com/s/81gI5nFHSVYR5w648Z2oJQ | 1| 
-| 中国信息安全 | chinainfosec | 专题 , AI加持，威胁免疫——工业互联网安全体系建设 | https://mp.weixin.qq.com/s/iywreVZ81o_bYKhuCHQl6Q | 124| 
+| 中国信息安全 | chinainfosec | 专题 , AI加持，威胁免疫——工业互联网安全体系建设 | https://mp.weixin.qq.com/s/iywreVZ81o_bYKhuCHQl6Q | 125| 
 | Docker | dockerone | 容器日志采集利器：Filebeat深度剖析与实践 | https://mp.weixin.qq.com/s/H9ExikY7bd2-YVEqGZmsOA | 2| 
 | 网络空间安全军民融合创新中心 | jmrh1226 | 病毒武器智能化技术现状与运用趋势 | https://mp.weixin.qq.com/s/ojfjlJEdGSIjrR2ptYhPSw | 13| 
 | 百度安全实验室 | BaiduX_lab | 聪明人的笨功夫 -- MesaTEE安全形式化验证实践 | https://mp.weixin.qq.com/s/X5PyWgQFZ11wLx8gpFtXOg | 9| 

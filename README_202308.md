@@ -21,6 +21,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-21 09:29:54 | English | Robotic Process Automation with Blue Prism Quick Start Guide : Create Software Robots and Automate Business Processes | Lim Mei Ying | http://libgen.rs/book/index.php?md5=ABE2ABFA865D8FEB2B75115BFE372CFD | 9 MB [EPUB]| 
+| 2023-08-21 09:17:23 | English | Energy Power Risk : Derivatives, Computation and Optimization | George Levy | http://libgen.rs/book/index.php?md5=FF158862CDE4AE114283778ECC9A47F8 | 11 MB [EPUB]| 
 | 2023-08-19 01:58:51 | English | Information Governance and Assurance : Reducing risk, promoting policy | Alan MacLennan | http://libgen.rs/book/index.php?md5=FEFD6874C226F4FEC1390A73CF826330 | 776 kB [PDF]| 
 | 2023-08-18 11:38:22 | English | Mobile Security : A Pocket Guide | Steve Furnell | http://libgen.rs/book/index.php?md5=2B436A17B1C5E81B7038EAFC8FD3016A | 906 kB [PDF]| 
 | 2023-08-18 11:37:00 | English | Advances in Cyber Security : Technology, Operations, and Experiences | D. Frank Hsu; Dorothy Marinucci | http://libgen.rs/book/index.php?md5=22CF41377425C0F04840377DED8D99F2 | 3 MB [EPUB]| 
@@ -36,6 +38,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 开放知识图谱 | OpenKG-CN | 技术动态 , 知识图谱如何时序建模？北工大等最新《时态知识图谱》综述，详述TKG的分类、进展与前景 | https://mp.weixin.qq.com/s/5nJ2kPoM8YPm_oWnn3sLmQ | 1| 
+| 中国信息安全 | chinainfosec | 前沿 , 全球高级持续性威胁总体态势、典型手法及趋势研判 | https://mp.weixin.qq.com/s/ksDp3LL6A1d1zzvDFXtKgw | 1| 
 | 大兵说安全 | dabingshuoanquan | 从一次攻击过程看EDR的作用 | https://mp.weixin.qq.com/s/lFwvvDwIHf9h02ZEAGk2uQ | 1| 
 | 周陆军 | zhoulujun_com | 浅谈QUIC/http3协议原理与性能分析及部署方案 | https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg | 1| 
 | CodeWisdom | gh_2395906a410f | 智能化软件开发微访谈·第二十六期 软件模糊测试技术 | https://mp.weixin.qq.com/s/wy-FJSGfLQsAMx2ezGL27A | 1| 
