@@ -1,0 +1,26 @@
+20230814	设备安全	https://mp.weixin.qq.com/s/NA2gt-YawaEqBWUsLiCzbg	关于高速铁路网络安全防护现状研究及思考建议	qq.com	mp.weixin.qq.com	/s/NA2gt-YawaEqBWUsLiCzbg
+20230814	漏洞分析	https://mp.weixin.qq.com/s/rZ4xLYuOrmlN2ehTmwGhYA	Apache Tomcat安全限制绕过漏洞 CVE-2017-5664	qq.com	mp.weixin.qq.com	/s/rZ4xLYuOrmlN2ehTmwGhYA
+20230814	取证分析	https://mp.weixin.qq.com/s/H1nX9r3LamglXyaUxahXvQ	隐秘通信-使用dnscat2搭建DNS隧道实验	qq.com	mp.weixin.qq.com	/s/H1nX9r3LamglXyaUxahXvQ
+20230814	Web安全	https://wiki.teamssix.com/	面向云安全方向的知识文库	teamssix.com	wiki.teamssix.com	/
+20230814	取证分析	https://mp.weixin.qq.com/s/lFwvvDwIHf9h02ZEAGk2uQ	从一次攻击过程看EDR的作用	qq.com	mp.weixin.qq.com	/s/lFwvvDwIHf9h02ZEAGk2uQ
+20230814	其它	https://www.sec-in.com/article/2182	深入解析pe结构（下）	sec-in.com	www.sec-in.com	/article/2182
+20230814	漏洞分析	https://mp.weixin.qq.com/s/d42d0CFeKIwiZHCVBMhj2w	通过攻击意图同步增强Web应用程序的漏洞检测效果	qq.com	mp.weixin.qq.com	/s/d42d0CFeKIwiZHCVBMhj2w
+20230814	恶意分析	https://mp.weixin.qq.com/s/6xDoE6at2-Q9gDVdmlrCOg	Boat僵尸网络家族的演变	qq.com	mp.weixin.qq.com	/s/6xDoE6at2-Q9gDVdmlrCOg
+20230814	取证分析	https://mp.weixin.qq.com/s/cvuir-Ei6eixZH_LLjFQKw	利用溯源图检测和追踪节点级别主机威胁	qq.com	mp.weixin.qq.com	/s/cvuir-Ei6eixZH_LLjFQKw
+20230814	杂志	https://www.sec-wiki.com/weekly/493	SecWiki周刊（第493期)	sec-wiki.com	www.sec-wiki.com	/weekly/493
+20230814	恶意分析	https://mp.weixin.qq.com/s/YBT-dbTe5m-yO72tA3lw4Q	利用Powershell击败.NET恶意样本	qq.com	mp.weixin.qq.com	/s/YBT-dbTe5m-yO72tA3lw4Q
+20230814	数据挖掘	https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA	LLM：大模型下的知识图谱另类实践	qq.com	mp.weixin.qq.com	/s/Tp6X0ADV5Yaya9Nu2F8XaA
+20230814	其它	https://mp.weixin.qq.com/s/WGeoWMBi4tlhejgJ_ia0Qw	2023年密码上市企业中报业绩解读	qq.com	mp.weixin.qq.com	/s/WGeoWMBi4tlhejgJ_ia0Qw
+20230814	Web安全	https://blog.orange.tw/2023/08/2023-webconf-the-evolution-of-web-security.html	從 2013 到 2023: Web Security 十年之進化與趨勢	orange.tw	blog.orange.tw	/2023/08/2023-webconf-the-evolution-of-web-security.html
+20230814	数据挖掘	https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow	知识图谱和图计算在支付风控的应用	qq.com	mp.weixin.qq.com	/s/x773i97jJegv2vL5CupMow
+20230814	漏洞分析	https://mp.weixin.qq.com/s/vNEVdwaLeIKvGm8JPgfduw	浅谈AFL++ fuzzing：如何用进行有效且规整的fuzzing	qq.com	mp.weixin.qq.com	/s/vNEVdwaLeIKvGm8JPgfduw
+20230814	其它	https://mp.weixin.qq.com/s/VIYvMuDjO2LRMJnlSFEfUA	情报界技术创新模式In-Q-Tel的研究与思考-上篇	qq.com	mp.weixin.qq.com	/s/VIYvMuDjO2LRMJnlSFEfUA
+20230814	漏洞分析	https://mp.weixin.qq.com/s/wy-FJSGfLQsAMx2ezGL27A	软件模糊测试技术研讨	qq.com	mp.weixin.qq.com	/s/wy-FJSGfLQsAMx2ezGL27A
+20230814	恶意分析	https://mp.weixin.qq.com/s/2cdCP40vHwStUkIsZ2scjw	基于QUIC协议的DDoS反射放大攻击研究	qq.com	mp.weixin.qq.com	/s/2cdCP40vHwStUkIsZ2scjw
+20230814	取证分析	https://paper.seebug.org/2093/	赋予数据灵魂—印巴两国网空测绘数据对比	seebug.org	paper.seebug.org	/2093/
+20230814	编程技术	https://mp.weixin.qq.com/s/yQ4sHXlrvKgVPGWZLBjZUQ	MARBLE：挖掘样板代码以识别API可用性问题	qq.com	mp.weixin.qq.com	/s/yQ4sHXlrvKgVPGWZLBjZUQ
+20230814	其它	https://mp.weixin.qq.com/s/tE0NXybLRgZHMIEuafkZwg	情报界技术创新模式In-Q-Tel的研究与思考-下篇	qq.com	mp.weixin.qq.com	/s/tE0NXybLRgZHMIEuafkZwg
+20230814	编程技术	https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg	浅谈QUIC/http3协议原理与性能分析及部署方案	qq.com	mp.weixin.qq.com	/s/VqhUTIluaxX-_bXO3aPvLg
+20230814	编程技术	https://mp.weixin.qq.com/s/VtJq9ucF5Px3b6yhSf2sgA	知识驱动的智能辅助开发研究与实践	qq.com	mp.weixin.qq.com	/s/VtJq9ucF5Px3b6yhSf2sgA
+20230814	Web安全	https://github.com/CyberCX-STA/PurpleOps	PurpleOps：self-hosted purple team management web application	github.com	github.com	/CyberCX-STA/PurpleOps
+20230814	恶意分析	https://xz.aliyun.com/t/12792	Metabase 高版本JDK下 嵌入式Jetty中的Customizer内存马实现	aliyun.com	xz.aliyun.com	/t/12792
