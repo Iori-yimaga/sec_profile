@@ -192,6 +192,7 @@ class GetNewBook(object):
 
         with codecs.open(fname, mode='rb') as fr:
             c = fr.read()
+            c = c.strip()
             soup = BeautifulSoup(c, 'lxml')
             articles = soup.findAll('item')
             sql_list = []

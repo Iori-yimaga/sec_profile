@@ -65,6 +65,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-23 02:13:00 | English | (Routledge Library Editions: Japan Series) Networking in Japanese Factory Automation | Koichi Kishimoto | http://libgen.rs/book/index.php?md5=04F6992E75A9BFC43BDB259EF8559056 | 2 MB [EPUB]| 
+| 2023-08-22 16:48:01 | English | Big Brain Revolution: Artificial Intelligence – Spy or Saviour? | Michelle Tempest | http://libgen.rs/book/index.php?md5=7E9F34647A30D6CB172B22915887A1D3 | 1 MB [EPUB]| 
 | 2023-08-21 09:29:54 | English | Robotic Process Automation with Blue Prism Quick Start Guide : Create Software Robots and Automate Business Processes | Lim Mei Ying | http://libgen.rs/book/index.php?md5=ABE2ABFA865D8FEB2B75115BFE372CFD | 9 MB [EPUB]| 
 | 2023-08-21 09:17:23 | English | Energy Power Risk : Derivatives, Computation and Optimization | George Levy | http://libgen.rs/book/index.php?md5=FF158862CDE4AE114283778ECC9A47F8 | 11 MB [EPUB]| 
 | 2023-08-19 01:58:51 | English | Information Governance and Assurance : Reducing risk, promoting policy | Alan MacLennan | http://libgen.rs/book/index.php?md5=FEFD6874C226F4FEC1390A73CF826330 | 776 kB [PDF]| 
@@ -131,11 +133,11 @@
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
 | 周陆军 | zhoulujun_com | 浅谈QUIC/http3协议原理与性能分析及部署方案 | https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg | 1| 
-| NebulaGraph 技术社区 | NebulaGraphCommunity | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA | 1| 
-| DataFunSummit | DataFunSummit | 知识图谱和图计算在翼支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow | 1| 
 | 数观天下 | see_data | 数观解读 , 2023年密码上市企业中报业绩解读 | https://mp.weixin.qq.com/s/WGeoWMBi4tlhejgJ_ia0Qw | 1| 
 | 交大评论 | BJTUreview | 关于高速铁路网络安全防护现状研究及思考建议 | https://mp.weixin.qq.com/s/NA2gt-YawaEqBWUsLiCzbg | 1| 
 | Roc安全空间站 | gh_d076a0a3540b | 隐秘通信-使用dnscat2搭建DNS隧道实验 | https://mp.weixin.qq.com/s/H1nX9r3LamglXyaUxahXvQ | 1| 
+| NebulaGraph 技术社区 | NebulaGraphCommunity | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA | 1| 
+| DataFunSummit | DataFunSummit | 知识图谱和图计算在翼支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow | 1| 
 | 隐私计算研习社 | ppcstudy | 笔记分享｜山东大学隐私计算暑期课：Encryption: Computational security 1-4 | https://mp.weixin.qq.com/s/Wem2iHJeMB6GDvHJP7JTZw | 1| 
 | 中孚安全技术研究 | zf_sec | RealWorld,针对某特殊群体的供应链打击2 | https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg | 1| 
 | OpenHarmony TSC | OH_TSC | 峰会回顾第17期 , 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg | 3| 
@@ -740,7 +742,7 @@
 | 爱奇艺安全应急响应中心 | iqiyi_71src | 爱奇艺SOAR探索与实践 | https://mp.weixin.qq.com/s/ovJKGWusN2kgxQ_4GkQ8QA | 3| 
 | 开源情报研究所 | OSINTR | 【技巧】如何查找相关人的信息 | https://mp.weixin.qq.com/s/yeuMivJaizmAQAHL1poHTw | 4| 
 | 安全分析与研究 | MalwareAnalysis | 聊聊APT的溯源分析 | https://mp.weixin.qq.com/s/hSnOYoC71z_HIU4PVf4tmw | 9| 
-| 威胁棱镜 | THREAT_PRISM | 发现并提取 Cobalt Strike 的配置信息 | https://mp.weixin.qq.com/s/-jajjhu-6KVQvaZoh59Wuw | 108| 
+| 威胁棱镜 | THREAT_PRISM | 发现并提取 Cobalt Strike 的配置信息 | https://mp.weixin.qq.com/s/-jajjhu-6KVQvaZoh59Wuw | 109| 
 | 国网浙江信通公司 | gh_12020d981693 | 鲸蓝计划丨溯源反制基本思路与实战 | https://mp.weixin.qq.com/s/axNXFgyaD-5WSIkPwjkPrQ | 1| 
 | b1ngz的笔记本 | gh_70bda0a9ced0 | 自动化安全工具平台 - 架构笔记 | https://mp.weixin.qq.com/s/OMhS9yFlcpI9KOQduSxq9g | 1| 
 | 360技术 | qihoo_tech | 用DNS进行网络度量和安全分析 | https://mp.weixin.qq.com/s/L_wDNJtznQvrCyx1Kd1SlQ | 1| 
@@ -1039,7 +1041,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 104| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 238| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 239| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
@@ -5120,7 +5122,7 @@
 | D00MFist | 与 JXA 有关的用于实现 macOS 系统攻击常驻的方法收集 | https://github.com/D00MFist/PersistentJXA | https://medium.com/@D00MFist |  | None | None | 30 | 0 | 0 | 0 | 0 | Shell,Jupyter,JavaScript,Visual,Go,CSS | 109 | 10 | 1| 
 | Cymmetria | Struts Apache 2 based honeypot &amp; detection module by @nirkrakowksi @lorgandon https://t.co/oJzc8qnvFo [CVE 2017-5638 | https://github.com/Cymmetria/StrutsHoneypot | None | None | None | None | 0 | 0 | 0 | 0 | 0 | ASP,Python,JavaScript,Shell,HTML,PHP | 0 | 0 | 1| 
 | CymaticsCC | 恶意ELF二进制文件相似度比较及可视化 | https://github.com/CymaticsCC/elf_similarity | None |  | None | None | 55 | 0 | 0 | 0 | 0 | Python,HTML,Jupyter | 2 | 2 | 1| 
-| CyberCX-STA | PurpleOps：self-hosted purple team management web applicat... | https://github.com/CyberCX-STA/PurpleOps | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript,Java,HTML | 0 | 0 | 1| 
+| CyberCX-STA | PurpleOps：self-hosted purple team management web application | https://github.com/CyberCX-STA/PurpleOps | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript,Java,HTML | 0 | 0 | 1| 
 | CyberArkLabs | ACLight - 用于寻找域中高权限账户和隐藏管理员的 Powershell 脚本: | https://github.com/CyberArkLabs/ACLight | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | Cyber-Buddy | 一个基于OWASP MASVS (Mobile Application Security Verification Standard) 的安卓应用安全检测工具。 | https://github.com/Cyber-Buddy/APKHunt | https://github.com/Cyber-Buddy?tab=followers |  | None | None | 1 | 0 | 1 | 0 | 0 | Go | 0 | 0 | 1| 
 | Cyb3r-Monk | 检测网络上活跃的C&C活动的工具 | https://github.com/Cyb3r-Monk/ACCD | https://github.com/Cyb3r-Monk?tab=followers | Cyb3rMonk | Netherlands | None | 71 | 0 | 303 | 0 | 0 | Jupyter | 0 | 0 | 1| 

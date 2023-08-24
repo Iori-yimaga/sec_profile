@@ -22,6 +22,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-23 02:13:00 | English | (Routledge Library Editions: Japan Series) Networking in Japanese Factory Automation | Koichi Kishimoto | http://libgen.rs/book/index.php?md5=04F6992E75A9BFC43BDB259EF8559056 | 2 MB [EPUB]| 
+| 2023-08-22 16:48:01 | English | Big Brain Revolution: Artificial Intelligence – Spy or Saviour? | Michelle Tempest | http://libgen.rs/book/index.php?md5=7E9F34647A30D6CB172B22915887A1D3 | 1 MB [EPUB]| 
 | 2023-08-21 09:29:54 | English | Robotic Process Automation with Blue Prism Quick Start Guide : Create Software Robots and Automate Business Processes | Lim Mei Ying | http://libgen.rs/book/index.php?md5=ABE2ABFA865D8FEB2B75115BFE372CFD | 9 MB [EPUB]| 
 | 2023-08-21 09:17:23 | English | Energy Power Risk : Derivatives, Computation and Optimization | George Levy | http://libgen.rs/book/index.php?md5=FF158862CDE4AE114283778ECC9A47F8 | 11 MB [EPUB]| 
 | 2023-08-19 01:58:51 | English | Information Governance and Assurance : Reducing risk, promoting policy | Alan MacLennan | http://libgen.rs/book/index.php?md5=FEFD6874C226F4FEC1390A73CF826330 | 776 kB [PDF]| 
@@ -39,6 +41,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 威胁棱镜 | THREAT_PRISM | 北约网络安全防御演习：Locked Shields | https://mp.weixin.qq.com/s/IUtESIqJWdbmVl39H59hnw | 1| 
 | 明不可欺 | gh_1405d616adc7 | 四方支付平台（跑分平台）法律知识应用大全 | https://mp.weixin.qq.com/s/msvr5ZPmNd5b7eflGRUQ0A | 1| 
 | 开放知识图谱 | OpenKG-CN | 技术动态 , 知识图谱如何时序建模？北工大等最新《时态知识图谱》综述，详述TKG的分类、进展与前景 | https://mp.weixin.qq.com/s/5nJ2kPoM8YPm_oWnn3sLmQ | 1| 
 | 中国信息安全 | chinainfosec | 前沿 , 全球高级持续性威胁总体态势、典型手法及趋势研判 | https://mp.weixin.qq.com/s/ksDp3LL6A1d1zzvDFXtKgw | 1| 
@@ -46,13 +49,13 @@
 | 周陆军 | zhoulujun_com | 浅谈QUIC/http3协议原理与性能分析及部署方案 | https://mp.weixin.qq.com/s/VqhUTIluaxX-_bXO3aPvLg | 1| 
 | CodeWisdom | gh_2395906a410f | 智能化软件开发微访谈·第二十六期 软件模糊测试技术 | https://mp.weixin.qq.com/s/wy-FJSGfLQsAMx2ezGL27A | 1| 
 | 字节跳动安全中心 | TouTiaoSec | 新型DDoS攻击？基于QUIC协议的DDoS反射放大攻击研究 | https://mp.weixin.qq.com/s/2cdCP40vHwStUkIsZ2scjw | 1| 
-| NebulaGraph 技术社区 | NebulaGraphCommunity | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA | 1| 
-| DataFunSummit | DataFunSummit | 知识图谱和图计算在翼支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow | 1| 
 | 绿盟科技威胁情报 | NSFOCUS_NTI | Boat僵尸网络家族的演变 | https://mp.weixin.qq.com/s/6xDoE6at2-Q9gDVdmlrCOg | 1| 
 | 看雪学苑 | ikanxue | 利用Powershell击败.NET恶意样本 | https://mp.weixin.qq.com/s/YBT-dbTe5m-yO72tA3lw4Q | 2| 
 | 数观天下 | see_data | 数观解读 , 2023年密码上市企业中报业绩解读 | https://mp.weixin.qq.com/s/WGeoWMBi4tlhejgJ_ia0Qw | 1| 
 | 交大评论 | BJTUreview | 关于高速铁路网络安全防护现状研究及思考建议 | https://mp.weixin.qq.com/s/NA2gt-YawaEqBWUsLiCzbg | 1| 
 | Roc安全空间站 | gh_d076a0a3540b | 隐秘通信-使用dnscat2搭建DNS隧道实验 | https://mp.weixin.qq.com/s/H1nX9r3LamglXyaUxahXvQ | 1| 
+| NebulaGraph 技术社区 | NebulaGraphCommunity | LLM：大模型下的知识图谱另类实践 | https://mp.weixin.qq.com/s/Tp6X0ADV5Yaya9Nu2F8XaA | 1| 
+| DataFunSummit | DataFunSummit | 知识图谱和图计算在翼支付风控的应用 | https://mp.weixin.qq.com/s/x773i97jJegv2vL5CupMow | 1| 
 | 隐私计算研习社 | ppcstudy | 笔记分享｜山东大学隐私计算暑期课：Encryption: Computational security 1-4 | https://mp.weixin.qq.com/s/Wem2iHJeMB6GDvHJP7JTZw | 1| 
 | 中孚安全技术研究 | zf_sec | RealWorld,针对某特殊群体的供应链打击2 | https://mp.weixin.qq.com/s/4DkxsENujiYgpaOE071oOg | 1| 
 | OpenHarmony TSC | OH_TSC | 峰会回顾第17期 , 面向OpenHarmony终端的密码安全关键技术 | https://mp.weixin.qq.com/s/RCcxlir0bvIjp8aqNJzmzg | 3| 
@@ -61,7 +64,7 @@
 | code秘密花园 | code_mmhy | JavaScript 和 Python 代码也能结合使用？ | https://mp.weixin.qq.com/s/NWcxo1a2xBT4yOMuV0P3OA | 1| 
 | 洞源实验室 | gh_4929169c5e90 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA | 3| 
 | 观澜安全团队 | GlanSec | 微软 Amsi 反病毒接口逆向详解和绕过思路 | https://mp.weixin.qq.com/s/N7LXbOkxiq6jIo5MIbUw7A | 1| 
-| 安全学术圈 | secquan | 奇安信 , 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg | 4| 
+| 安全学术圈 | secquan | 奇安信 , 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg | 5| 
 | 信息安全与通信保密杂志社 | cismag2013 | 基于 5G/6G 技术的卫星互联网一体化安全研究 | https://mp.weixin.qq.com/s/m7ygITnYKBqWDiWl96XiWw | 3| 
 | 纽创信安 | OSR_Shenzhen | 硬件安全闲话第一篇：硬件安全的基本概念 | https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA | 1| 
 | 清河六点下班 | wugoulab | 数据库自动取样: DataMiner | https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ | 1| 
@@ -83,7 +86,7 @@
 | cyprosecurity | API-SecurityEmpire | https://github.com/cyprosecurity/API-SecurityEmpire | https://github.com/cyprosecurity?tab=followers |  | Sweden | Cypro | 1 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
 | ba0gu0 | wps-rce: WPS Office RCE On 2023-08-10 | https://github.com/ba0gu0/wps-rce | https://github.com/ba0gu0?tab=followers |  | None | None | 27 | 0 | 1700 | 0 | 0 | Python,Go,Vue,Java,CSS | 0 | 0 | 1| 
 | Zigrin-Security | 基于 CakePHP 框架的 Web 应用程序中漏洞发现的自动化过程 | https://github.com/Zigrin-Security/CakeFuzzer | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PHP | 0 | 0 | 1| 
-| CyberCX-STA | PurpleOps：self-hosted purple team management web applicat... | https://github.com/CyberCX-STA/PurpleOps | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript,Java,HTML | 0 | 0 | 1| 
+| CyberCX-STA | PurpleOps：self-hosted purple team management web application | https://github.com/CyberCX-STA/PurpleOps | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,JavaScript,Java,HTML | 0 | 0 | 1| 
 | Cyb3r-Monk | 检测网络上活跃的C&C活动的工具 | https://github.com/Cyb3r-Monk/ACCD | https://github.com/Cyb3r-Monk?tab=followers | Cyb3rMonk | Netherlands | None | 71 | 0 | 303 | 0 | 0 | Jupyter | 0 | 0 | 1| 
 
 
