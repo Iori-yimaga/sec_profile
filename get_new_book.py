@@ -226,10 +226,10 @@ class GetNewBook(object):
                         continue
 
                     is_hit = self.is_security_book((title))
-
+                    print(is_hit, title, link)
                     if not is_hit:
                         continue
-                    print(title, link)
+
                     title = strip_n(title)
                     book_dict['title'] = title
                     book_dict['link'] = link
@@ -243,7 +243,7 @@ class GetNewBook(object):
                 for sql in sql_list:
                     try:
                         so.execute(sql)
-
+                        print(sql)
                     except Exception as e:
                         logging.error("[sql]: %s %s" % (sql, str(e)))
 

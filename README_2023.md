@@ -32,6 +32,10 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-24 01:36:47 | English | (IAEA TECDOC Series) Fire Protection in Nuclear Power Plants | IAEA | http://libgen.rs/book/index.php?md5=897426111CD455AB6C02DACB19AFC957 | 4 MB [PDF]| 
+| 2023-08-24 01:25:24 | English | Gambler: Secrets From a Life at Risk | Billy Walters | http://libgen.rs/book/index.php?md5=8F753436C0048001D76E65801F842256 | 5 MB [AZW3]| 
+| 2023-08-24 01:02:01 | English | (NATO Science for Peace and Security Series - d: Information and Communication Security Ser.) Human Systems Integration to Enhance Maritime Domain Awareness for Port/Harbour Security | E. Shahbazian; G. Rogova | http://libgen.rs/book/index.php?md5=62F2BD22AD974A46B2CB9115BA8A34BF | 4 MB [PDF]| 
+| 2023-08-24 01:00:13 | English | (Frontiers in Artificial Intelligence and Applications Ser.) Biologically Inspired Cognitive Architectures 2010 : Proceedings of the First Annual Meeting of the BICA Society | A. V. Samsonovich; K. R. Jóhannsdóttir; A. Chella | http://libgen.rs/book/index.php?md5=40145720F1BA70CC33595300405913CB | 5 MB [PDF]| 
 | 2023-08-23 02:13:00 | English | (Routledge Library Editions: Japan Series) Networking in Japanese Factory Automation | Koichi Kishimoto | http://libgen.rs/book/index.php?md5=04F6992E75A9BFC43BDB259EF8559056 | 2 MB [EPUB]| 
 | 2023-08-22 16:48:01 | English | Big Brain Revolution: Artificial Intelligence – Spy or Saviour? | Michelle Tempest | http://libgen.rs/book/index.php?md5=7E9F34647A30D6CB172B22915887A1D3 | 1 MB [EPUB]| 
 | 2023-08-21 09:29:54 | English | Robotic Process Automation with Blue Prism Quick Start Guide : Create Software Robots and Automate Business Processes | Lim Mei Ying | http://libgen.rs/book/index.php?md5=ABE2ABFA865D8FEB2B75115BFE372CFD | 9 MB [EPUB]| 
