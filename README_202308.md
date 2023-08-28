@@ -22,6 +22,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-27 02:34:10 | English | Analyzing Food Security Using Household Survey Data: Streamlined Analysis with ADePT Software | Ana Moltedo; Nathalie Troubat; Michael Lokshin; Michael Lokshin; Zurab Sajaia | http://libgen.rs/book/index.php?md5=4F070AFFAE3212A9EA97F3AE38215F68 | 14 MB [EPUB]| 
 | 2023-08-24 01:36:47 | English | (IAEA TECDOC Series) Fire Protection in Nuclear Power Plants | IAEA | http://libgen.rs/book/index.php?md5=897426111CD455AB6C02DACB19AFC957 | 4 MB [PDF]| 
 | 2023-08-24 01:25:24 | English | Gambler: Secrets From a Life at Risk | Billy Walters | http://libgen.rs/book/index.php?md5=8F753436C0048001D76E65801F842256 | 5 MB [AZW3]| 
 | 2023-08-24 01:02:01 | English | (NATO Science for Peace and Security Series - d: Information and Communication Security Ser.) Human Systems Integration to Enhance Maritime Domain Awareness for Port/Harbour Security | E. Shahbazian; G. Rogova | http://libgen.rs/book/index.php?md5=62F2BD22AD974A46B2CB9115BA8A34BF | 4 MB [PDF]| 
@@ -45,6 +46,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 穿过丛林 | gh_f90eac70537b | 2023年实验室暑期年会前瞻报告（四）李珍：软件漏洞静态检测路在何方？（PPT） | https://mp.weixin.qq.com/s/AR4AsvSDJm_zvG6u_MsBdQ | 1| 
 | 绿盟科技 | NSFOCUS-weixin | 拜登政府《国家网络安全战略实施计划》的分析与思考 | https://mp.weixin.qq.com/s/fRcNYr9KAyFRMeWVJUgZkA | 1| 
 | 安全牛 | aqniu-wx | 整体安全视角下的综合攻击面管理 | https://mp.weixin.qq.com/s/tPl1aueMYK6gypBFI0xh4A | 1| 
 | 威胁棱镜 | THREAT_PRISM | 北约网络安全防御演习：Locked Shields | https://mp.weixin.qq.com/s/IUtESIqJWdbmVl39H59hnw | 1| 
@@ -68,9 +70,9 @@
 | 稻香湖下午茶 | dxhxwc | 【深度】国外大型科研机构人才竞争研究-上篇 | https://mp.weixin.qq.com/s/9D7n2StbTTm0Ghy0yAUW-Q | 3| 
 | 安全行者老霍 | gh_c2b78e839fd7 | 2023年 Verizon 数据泄露调查报告（DBIR）（下） | https://mp.weixin.qq.com/s/R05P83poz_VEddOkYV5S4Q | 1| 
 | code秘密花园 | code_mmhy | JavaScript 和 Python 代码也能结合使用？ | https://mp.weixin.qq.com/s/NWcxo1a2xBT4yOMuV0P3OA | 1| 
-| 洞源实验室 | gh_4929169c5e90 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA | 4| 
+| 洞源实验室 | gh_4929169c5e90 | Hutool资源消耗漏洞 CVE-2022-4565 | https://mp.weixin.qq.com/s/QoFSFdYqQxwGlpbeLn9ebA | 5| 
 | 观澜安全团队 | GlanSec | 微软 Amsi 反病毒接口逆向详解和绕过思路 | https://mp.weixin.qq.com/s/N7LXbOkxiq6jIo5MIbUw7A | 1| 
-| 安全学术圈 | secquan | 奇安信 , 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg | 5| 
+| 安全学术圈 | secquan | 奇安信 , 软件源中与软件包相关的安全威胁 | https://mp.weixin.qq.com/s/prQIDYxM5MM29b4BgVQRHg | 6| 
 | 信息安全与通信保密杂志社 | cismag2013 | 基于 5G/6G 技术的卫星互联网一体化安全研究 | https://mp.weixin.qq.com/s/m7ygITnYKBqWDiWl96XiWw | 4| 
 | 纽创信安 | OSR_Shenzhen | 硬件安全闲话第一篇：硬件安全的基本概念 | https://mp.weixin.qq.com/s/Sp1SI_7qhzOYfCMVIgGmQA | 1| 
 | 清河六点下班 | wugoulab | 数据库自动取样: DataMiner | https://mp.weixin.qq.com/s/EXYTCBk-8qO85qFEPkYNDQ | 1| 

@@ -32,6 +32,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-27 02:34:10 | English | Analyzing Food Security Using Household Survey Data: Streamlined Analysis with ADePT Software | Ana Moltedo; Nathalie Troubat; Michael Lokshin; Michael Lokshin; Zurab Sajaia | http://libgen.rs/book/index.php?md5=4F070AFFAE3212A9EA97F3AE38215F68 | 14 MB [EPUB]| 
 | 2023-08-24 01:36:47 | English | (IAEA TECDOC Series) Fire Protection in Nuclear Power Plants | IAEA | http://libgen.rs/book/index.php?md5=897426111CD455AB6C02DACB19AFC957 | 4 MB [PDF]| 
 | 2023-08-24 01:25:24 | English | Gambler: Secrets From a Life at Risk | Billy Walters | http://libgen.rs/book/index.php?md5=8F753436C0048001D76E65801F842256 | 5 MB [AZW3]| 
 | 2023-08-24 01:02:01 | English | (NATO Science for Peace and Security Series - d: Information and Communication Security Ser.) Human Systems Integration to Enhance Maritime Domain Awareness for Port/Harbour Security | E. Shahbazian; G. Rogova | http://libgen.rs/book/index.php?md5=62F2BD22AD974A46B2CB9115BA8A34BF | 4 MB [PDF]| 
@@ -133,7 +134,7 @@
 | 内构安全 | gh_def0974405fe | 每周论文讨论(17) , 自动利用生成 | https://mp.weixin.qq.com/s/pO2miaqlHZMSYial8rdfwA | 1| 
 | 中国人工智能学会 | CAAI-1981 | AI研习丨信息驱动的电网安全态势知识图谱智能构建技术研究 | https://mp.weixin.qq.com/s/NZQpqD5jrZ2NLXZDBjCzcQ | 1| 
 | COMPASS Lab | gh_5f715fbda2b0 | 【论文分享】硬件辅助的可信执行环境 | https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A | 1| 
-| 穿过丛林 | gh_f90eac70537b | ESEC/FSE22：基于数据投毒的代码搜索后门攻击 | https://mp.weixin.qq.com/s/5XaemiUxjHolgmuFSorr6Q | 2| 
+| 穿过丛林 | gh_f90eac70537b | ESEC/FSE22：基于数据投毒的代码搜索后门攻击 | https://mp.weixin.qq.com/s/5XaemiUxjHolgmuFSorr6Q | 3| 
 | 复旦白泽战队 | fdwhitzard | 白泽带你读论文｜How Long Do Vulnerabilities Live in the Code? | https://mp.weixin.qq.com/s/DRAAiWE4HiscWB1ZIFB0hA | 1| 
 | 互联网后端架构 | fullstack888 | 作业帮在多云环境下的高可用双活架构优化实践 | https://mp.weixin.qq.com/s/oVxun0-2M9royJUWqi8k7Q | 1| 
 | Qunar技术沙龙 | QunarTL | Qunar万亿级Elasticsearch集群节点迁移实战 | https://mp.weixin.qq.com/s/zpz6k4lXQlvvBx756hyWQA | 1| 
@@ -163,7 +164,7 @@
 | ADLab | v_adlab | VM2沙箱逃逸漏洞分析 | https://mp.weixin.qq.com/s/OwQ3B5vjpr9ZsvOXftJoQg | 1| 
 | 奇安信产业发展研究中心 | gh_1e73e218cf57 | RSAC2023丨从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg | 1| 
 | 猪猪谈安全 | zzt-anquan | 总结一下自己CNVD原创证书获取姿势 | https://mp.weixin.qq.com/s/a6zBpIVfaUVo75JI1bz4qg | 1| 
-| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 11| 
+| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 12| 
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 腾讯开源 | tencentopen | 开源项目发布｜SessionAnalytics - 基于互联网用户Session会话的用户路径分析和挖掘系统 | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg | 1| 
 | 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 3| 
@@ -299,7 +300,7 @@
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 1| 
-| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 46| 
+| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 47| 
 
 
 # 私人github账号 推荐

@@ -65,6 +65,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-27 02:34:10 | English | Analyzing Food Security Using Household Survey Data: Streamlined Analysis with ADePT Software | Ana Moltedo; Nathalie Troubat; Michael Lokshin; Michael Lokshin; Zurab Sajaia | http://libgen.rs/book/index.php?md5=4F070AFFAE3212A9EA97F3AE38215F68 | 14 MB [EPUB]| 
 | 2023-08-24 01:36:47 | English | (IAEA TECDOC Series) Fire Protection in Nuclear Power Plants | IAEA | http://libgen.rs/book/index.php?md5=897426111CD455AB6C02DACB19AFC957 | 4 MB [PDF]| 
 | 2023-08-24 01:25:24 | English | Gambler: Secrets From a Life at Risk | Billy Walters | http://libgen.rs/book/index.php?md5=8F753436C0048001D76E65801F842256 | 5 MB [AZW3]| 
 | 2023-08-24 01:02:01 | English | (NATO Science for Peace and Security Series - d: Information and Communication Security Ser.) Human Systems Integration to Enhance Maritime Domain Awareness for Port/Harbour Security | E. Shahbazian; G. Rogova | http://libgen.rs/book/index.php?md5=62F2BD22AD974A46B2CB9115BA8A34BF | 4 MB [PDF]| 
@@ -177,7 +178,7 @@
 | 安全杂谈 | close_3873219902 | Linux 系统安全机制及技术大观 | https://mp.weixin.qq.com/s/OrJ4wgbBrxnfrTaXlA0h7A | 1| 
 | 刨洞技术交流 | gh_55f3b3854b4b | 关于GOIP设备的勘验和服务器渗透实战 | https://mp.weixin.qq.com/s/jGYO5cwGnMfJMenm7ZmLBg | 1| 
 | 奇安信产业发展研究中心 | gh_1e73e218cf57 | RSAC2023丨从RSAC2023看ChatGPT如何用于网络攻击 | https://mp.weixin.qq.com/s/Ttda20-YfjI21vSfAKbdgg | 1| 
-| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 11| 
+| 洞源实验室 | gh_4929169c5e90 | WECHAT二维码闪退分析 | https://mp.weixin.qq.com/s/gwdKkFN-KXAK_Hop5irT-g | 12| 
 | 蚂蚁技术AntTech | Ant-Techfin | IEEE S&P收录论文 , 基于程序分析和Fuzz融合的Java反序列化漏洞挖掘技术 | https://mp.weixin.qq.com/s/IEFxeXW8hkq7MR4yaRVmTg | 1| 
 | 腾讯开源 | tencentopen | 开源项目发布｜SessionAnalytics - 基于互联网用户Session会话的用户路径分析和挖掘系统 | https://mp.weixin.qq.com/s/xK0XNjQdF9fBRsT5FJvHbg | 1| 
 | 希潭实验室 | abc123network | 第58篇：美国安全局NSA入侵西北工业大学流程图梳理和分析(正式篇) | https://mp.weixin.qq.com/s/ZnURmB5lc8Ckh7LZJ6IPWw | 3| 
@@ -979,7 +980,7 @@
 | jaxsec |  | Linux For Pentester: socat Privilege Escalation(中英对照) | https://mp.weixin.qq.com/s?__biz=MzI5OTYzMjU1OA==&mid=2247483759&idx=1&sn=13cc7388d74532d0c77e2429e5c0ea2e&chksm=ec92d3aedbe55ab8573dad78ea7f0c68c3eae83c1fb585b9ee058f7d4d9b11b062d3566c5b92&mpshare=1&scene=23&srcid=&sharer_sharetime=1571632808853&sha | 3| 
 | AD风险实验室 |  | 业务安全的资源层攻防时代 | https://mp.weixin.qq.com/s/nkf5yRrAw-IA5_ROD6Za4g | 1| 
 | 川云安全团队 | cyunsec | Kibana < 6.6.1 代码执行漏洞复现笔记 | https://mp.weixin.qq.com/s/3r41HE3bnNHhWOw42uziTQ | 1| 
-| 穿过丛林 |  | 容器云安全防御机制动态评估与优化框架 | https://mp.weixin.qq.com/s/-g2MLk7i0QBToxdE-RHjSw | 19| 
+| 穿过丛林 |  | 容器云安全防御机制动态评估与优化框架 | https://mp.weixin.qq.com/s/-g2MLk7i0QBToxdE-RHjSw | 20| 
 | 电网头条 | sgcctop | 刚刚，国家电网公司发布《泛在电力物联网白皮书2019》 | https://mp.weixin.qq.com/s/gWLm5KMfkSlhNr0ptmIYwQ | 1| 
 | 暗影安全实验室 | Eversec_Lab | 反间谍之旅003 | https://mp.weixin.qq.com/s/ZxsyB4ELKdV84eHh6zn1iQ | 1| 
 | Viola后花园 | Viola_deepblue | Signal Sciences 下一代WAF | https://mp.weixin.qq.com/s/daH3UatnuUvkFIq9BrZPyg | 8| 
@@ -1045,7 +1046,7 @@
 | 继之宫 |  | 威胁剑魔杂谈 | https://mp.weixin.qq.com/s/wpBeoTEC7g-wFX-DA61gmA | 2| 
 | 漏洞战争 | vulwar | 关于漏洞挖掘的一点想法 | https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw | 15| 
 | 安全牛 | aqniu-wx | 国内四大UEBA解决方案 | https://mp.weixin.qq.com/s/ftcks4wPVNmKMpODvOcfBQ | 105| 
-| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 239| 
+| 安全学术圈 | secquan | 骗局的艺术：剖析以太坊智能合约中的蜜罐 | https://mp.weixin.qq.com/s/zKv3wKEXRT8CgOnVHOXi0Q | 240| 
 | nmask | nmask-article | 当子域名遇上搜索引擎 | https://mp.weixin.qq.com/s/yZFdVXPDh2O_qN_S1DsBPw | 5| 
 | 安全泰式柑汁 | ts_sec | 2019HW行动防守总结 | https://mp.weixin.qq.com/s/q2KdfZ0Wa8rkGT9i6Vjh3g | 1| 
 | 阿里安全响应中心 | alisrc | 从零开始java代码审计系列(一) | https://mp.weixin.qq.com/s/mEVxuFTr8VHCnxm1K7j4jw | 13| 
