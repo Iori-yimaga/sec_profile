@@ -65,6 +65,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-31 05:08:03 | English | A Sustainability Challenge: Food Security for All: Report of Two Workshops | National Research Council; Policy and Global Affairs; Science and Technology for Sustainability Program; Committee on Food Security for All as a Sustainability Challenge | http://libgen.rs/book/index.php?md5=7876B7A6D50A11C06F740AFB987A01CF | 1 MB [EPUB]| 
 | 2023-08-30 01:29:26 | English | (Personne Compétente en Radioprotection Ser.) European Radiation Protection Course: Basics | Philippe Massiot; Christine Jimonet | http://libgen.rs/book/index.php?md5=C05CFC889B2E103776C8FEA7767E9DAF | 19 MB [PDF]| 
 | 2023-08-28 03:05:02 | English | (Engineering Tools, Techniques and Tables) Applications of Swarm Intelligence | Louis P. Walters | http://libgen.rs/book/index.php?md5=26180E18BD29D9604E7B29DC67BD6BF3 | 30 MB [PDF]| 
 | 2023-08-28 03:00:01 | English | (Retirement Issues, Plans and Lifestyles) Strengthening The Retirement System Beyond Social Security | Kala E. Upshaw | http://libgen.rs/book/index.php?md5=1FFB7FB4F413321607E8010C4B138B5F | 35 MB [PDF]| 
@@ -4378,6 +4379,7 @@
 | nyxgeek | 渗透测试时枚举 OneDrive 合法用户的工具 | https://github.com/nyxgeek/onedrive_user_enum | None | rebel scum, nerfherder, starbuck | hacking gibsons | None | 29 | 0 | 0 | 0 | 0 | Python,Shell,PowerShell | 254 | 59 | 1| 
 | nviennot | playdrone:Google Play Crawler | https://github.com/nviennot/playdrone | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | nowsecure | NowSecure 开源的基于 Frida 的 API Trace 工具 | https://github.com/nowsecure/frida-trace | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,Smarty,Dockerfile,CSS | 541 | 112 | 2| 
+| notfromstatefarm | nvflashk - 一款绕过GP BIOS的工具，允许用户绕过工厂BIOS的所有限制，使用户能够从他们所购买的硬件中获得最大性能 | https://github.com/notfromstatefarm/nvflashk | https://github.com/notfromstatefarm?tab=followers | beep beep | None | None | 11 | 0 | 8 | 0 | 0 | Go | 0 | 0 | 1| 
 | nonce-disrespect | Nonce-Disrespecting Adversaries: Practical Forgery Attacks on GCM in TLS | https://github.com/nonce-disrespect/nonce-disrespect | None | None | None | None | 0 | 0 | 0 | 0 | 0 | CSS | 0 | 0 | 1| 
 | nonamecoder | 有研究员发现本田思域汽车无钥匙系统存在漏洞，攻击者发射 RF 信号控制车门和启动发动机 | https://github.com/nonamecoder/CVE-2022-27254 | https://github.com/nonamecoder?tab=followers |  | None | None | 4 | 0 | 4 | 0 | 0 | Python | 0 | 0 | 1| 
 | nomi-sec | PoC auto collect from GitHub | https://github.com/nomi-sec/PoC-in-GitHub | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 1| 
@@ -4770,7 +4772,7 @@
 | chaitin | sqlchop:A novel SQL injection detection engine | https://github.com/chaitin/sqlchop | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 2| 
 | certego | PcapMonkey - 用于分析 pcap 网络数据包并从中检测威胁的工具 | https://github.com/certego/PcapMonkey | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Zeek,Java,Python,Dockerfile,JavaScript,Perl,Shell,Go,PHP,Ruby,PowerShell | 0 | 0 | 1| 
 | center-for-threat-informed-defense | Attack Flow - 为攻击者攻击流程进行辅助建模的工具 | https://github.com/center-for-threat-informed-defense/attack-flow | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Python,JavaScript,Vue,HTML,Ruby | 0 | 0 | 1| 
-| cellebrite-labs | ida_kcpp - 用于辅助分析 iOS kernelcache 的 IDA Pro 插件 | https://github.com/cellebrite-labs/ida_kcpp | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C | 0 | 0 | 1| 
+| cellebrite-labs | ida_kcpp - 用于辅助分析 iOS kernelcache 的 IDA Pro 插件 | https://github.com/cellebrite-labs/ida_kcpp | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C | 0 | 0 | 2| 
 | cea-sec | miasm:Reverse engineering framework in Python | https://github.com/cea-sec/miasm | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 2| 
 | cdk-team | 容器环境定制的渗透测试工具 | https://github.com/cdk-team/CDK/wiki/CDK-Home-CN | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go | 0 | 0 | 1| 
 | caspg | Datamaps.co: free and simple platform for creating visualizations with data maps | https://github.com/caspg/datamaps.co | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
@@ -5207,6 +5209,7 @@
 | 0xrawsec | 为 Windows 开发的开源版本 EDR | https://github.com/0xrawsec/whids | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Python,HTML,PowerShell,Rust | 0 | 0 | 1| 
 | 0xf4n9x | GoAnywhere MFT反序列化漏洞（CVE-2023-0669）利用工具 | https://github.com/0xf4n9x/CVE-2023-0669 | https://github.com/0xf4n9x?tab=followers | #InfoSec , #PenTest , #RedTeam , #SecResearch , #Student | /dev/null | None | 58 | 0 | 3100 | 0 | 0 | Go,Python,Java | 0 | 0 | 1| 
 | 0xPugazh | 包含多种不同应用的fuzz字典汇总 | https://github.com/0xPugazh/fuzz4bounty | https://github.com/0xPugazh?tab=followers | Wannbe Hacker... | TamilNadu, India | Remote | 16 | 0 | 352 | 0 | 0 | Shell | 0 | 0 | 1| 
+| 0xKayala | 一个基于 Nuclei 和 Paramspider的web应用fuzzer | https://github.com/0xKayala/NucleiFuzzer | https://github.com/0xKayala?tab=followers | Certified Ethical Hacker , Penetration Tester , Bug Hunter , Security Researcher | Remote | Vatins | 113 | 0 | 395 | 0 | 0 | Shell | 0 | 0 | 1| 
 | 0xADE1A1DE | 以其他已连接 USB 设备的身份注入击键指令，来自 USENIX 会议的 Paper：The Impostor Among US(B): Off-Path Injection Attacks on USB Communications | https://github.com/0xADE1A1DE/USB-Injection | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Assembly,VHDL,C++ | 0 | 0 | 1| 
 | 0x727 | 水泽-信息收集自动化工具 | https://github.com/0x727/ShuiZe_0x727 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | 0neb1n | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | None | I wanner be the pwner. | None | None | 11 | 0 | 0 | 0 | 0 | Lua,CSS | 23 | 14 | 1| 

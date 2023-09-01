@@ -32,6 +32,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-08-31 05:08:03 | English | A Sustainability Challenge: Food Security for All: Report of Two Workshops | National Research Council; Policy and Global Affairs; Science and Technology for Sustainability Program; Committee on Food Security for All as a Sustainability Challenge | http://libgen.rs/book/index.php?md5=7876B7A6D50A11C06F740AFB987A01CF | 1 MB [EPUB]| 
 | 2023-08-30 01:29:26 | English | (Personne Compétente en Radioprotection Ser.) European Radiation Protection Course: Basics | Philippe Massiot; Christine Jimonet | http://libgen.rs/book/index.php?md5=C05CFC889B2E103776C8FEA7767E9DAF | 19 MB [PDF]| 
 | 2023-08-28 03:05:02 | English | (Engineering Tools, Techniques and Tables) Applications of Swarm Intelligence | Louis P. Walters | http://libgen.rs/book/index.php?md5=26180E18BD29D9604E7B29DC67BD6BF3 | 30 MB [PDF]| 
 | 2023-08-28 03:00:01 | English | (Retirement Issues, Plans and Lifestyles) Strengthening The Retirement System Beyond Social Security | Kala E. Upshaw | http://libgen.rs/book/index.php?md5=1FFB7FB4F413321607E8010C4B138B5F | 35 MB [PDF]| 
@@ -343,6 +344,7 @@
 | openappsec | open-appsec (openappsec.io) 基于机器学习构建，提供针对 OWASP-Top-10 和零日攻击的先发式 Web 应用程序和 API 威胁防护。它可以作为 Kubernetes Ingress、NGINX、Envoy（即将）和 API Gateway 的附加组件进行部署 | https://github.com/openappsec/openappsec | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Python,C,C++ | 0 | 0 | 1| 
 | objective-see | 解析BackgroundItems-v4.btm中的启动项信息,可用于MacOS的取证 | https://github.com/objective-see/DumpBTM/ | https://github.com/objective-see?tab=followers |  | Hawaii, USA | Objective-See Foundation | 28 | 0 | 0 | 0 | 0 | Objective-C | 0 | 0 | 1| 
 | o2sh | 一个可以显示Git仓库详细信息的工具，可以离线使用。 | https://github.com/o2sh/onefetch | https://github.com/o2sh?tab=followers |  | None | None | 15 | 0 | 1 | 0 | 0 | Shell,Rust | 0 | 0 | 1| 
+| notfromstatefarm | nvflashk - 一款绕过GP BIOS的工具，允许用户绕过工厂BIOS的所有限制，使用户能够从他们所购买的硬件中获得最大性能 | https://github.com/notfromstatefarm/nvflashk | https://github.com/notfromstatefarm?tab=followers | beep beep | None | None | 11 | 0 | 8 | 0 | 0 | Go | 0 | 0 | 1| 
 | nikn0laty | pdfkit命令执行漏洞CVE-2022-25765 Exp | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765 | https://github.com/nikn0laty?tab=followers |  | None | None | 1 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | nccgroup | libslub 是一个 python 库，用于检查 Linux 内核堆实现的 SLUB 管理结构和对象分配（Linux 内核堆实现），可用于 GDB 调试器 | https://github.com/nccgroup/libslub | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Java,Python,JavaScript,C#,Elixir,HCL | 0 | 0 | 1| 
 | nanabingies | Dell dbutil_2_3.sys 驱动提权漏洞的exp | https://github.com/nanabingies/CVE-2021-21551 | https://github.com/nanabingies?tab=followers | if you base your expectations on what you see, you blind yourself to the possibilities of what could be | Accra, Ghana | None | 21 | 0 | 21 | 0 | 0 | Assembly,C++ | 0 | 0 | 1| 
@@ -378,6 +380,7 @@
 | commixproject | 自动检测命令注入类漏洞的工具 | https://github.com/commixproject/commix/blob/master/README.md | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,PHP,CSS | 0 | 0 | 1| 
 | colind0pe | 一种常见的避免shellcode查杀的方法，达到绕过常见AV的效果 | https://github.com/colind0pe/AV-Bypass-Learning | https://github.com/colind0pe?tab=followers |  | None | None | 8 | 0 | 355 | 0 | 0 | Python,C++ | 0 | 0 | 1| 
 | cisagov | 一个可能可以恢复ESXiArgs勒索病毒的脚本。 | https://github.com/cisagov/ESXiArgs-Recover | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,HTML,Python,Open,JavaScript,TypeScript,TSQL,HCL | 0 | 0 | 1| 
+| cellebrite-labs | 一种用于将 Apple 沙箱配置文件逆向（反编译）为其原始 SBPL 格式（Sandbox Profile Language，一种类似 Scheme 的语言）的工具 | https://github.com/cellebrite-labs/sandblaster | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | bsauce | Linux 内核漏洞利用集合 | https://github.com/bsauce/kernel-exploit-factory | https://github.com/bsauce?tab=followers | 3rd year Ph.D. student majoring in binary analysis. | None | None | 29 | 0 | 104 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | blackorbird | 2022年APT组织分析年鉴 | https://github.com/blackorbird/APT_REPORT/blob/master/summary/2023/2022%20Yearbook%20of%20APT%20group%20Analysis.pdf | https://github.com/blackorbird?tab=followers | APT hunter threat analyst | https://twitter.com/blackorbird | https://twitter.com/blackorbird | 46 | 0 | 125 | 0 | 0 | Python,C | 0 | 0 | 2| 
 | bit4woo | Fiora：漏洞PoC框架Nuclei的图形版 | https://github.com/bit4woo/Fiora | https://github.com/ossdao-org | Creating with coding,Learning by doing,Learning by sharing! @ossdao-org•AIRDROP-0x028f231db6db1ef2f6bdb7bbc2da41bac976cdcc | shenzhen | https://space.bilibili.com/527442393 | 108 | 0 | 912 | 0 | 0 | Python,Java | 0 | 0 | 1| 
@@ -434,6 +437,7 @@
 | 4ra1n | code-inspector: 基于字节码分析的Java代码审计工具 | https://github.com/4ra1n/code-inspector | https://github.com/4ra1n?tab=followers | 我是4ra1n，大家习惯叫我许少 | China | @chaitin | 9 | 0 | 15 | 0 | 0 | Go,Java | 0 | 0 | 2| 
 | 0xf4n9x | GoAnywhere MFT反序列化漏洞（CVE-2023-0669）利用工具 | https://github.com/0xf4n9x/CVE-2023-0669 | https://github.com/0xf4n9x?tab=followers | #InfoSec , #PenTest , #RedTeam , #SecResearch , #Student | /dev/null | None | 58 | 0 | 3100 | 0 | 0 | Go,Python,Java | 0 | 0 | 1| 
 | 0xPugazh | 包含多种不同应用的fuzz字典汇总 | https://github.com/0xPugazh/fuzz4bounty | https://github.com/0xPugazh?tab=followers | Wannbe Hacker... | TamilNadu, India | Remote | 16 | 0 | 352 | 0 | 0 | Shell | 0 | 0 | 1| 
+| 0xKayala | 一个基于 Nuclei 和 Paramspider的web应用fuzzer | https://github.com/0xKayala/NucleiFuzzer | https://github.com/0xKayala?tab=followers | Certified Ethical Hacker , Penetration Tester , Bug Hunter , Security Researcher | Remote | Vatins | 113 | 0 | 395 | 0 | 0 | Shell | 0 | 0 | 1| 
 
 
 # medium 推荐
