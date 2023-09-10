@@ -1,0 +1,17 @@
+20230821	法规	https://www.tc260.org.cn/file/2023-08-26/01852669-5bcb-47de-8bc4-6c29738fae99.pdf	信息安全技术 网络攻击和网络攻击事件判定准则	tc260.org.cn	www.tc260.org.cn	/file/2023-08-26/01852669-5bcb-47de-8bc4-6c29738fae99.pdf
+20230821	数据挖掘	http://kjs.mof.gov.cn/gongzuotongzhi/202212/P020221209412040514536.pdf	企业数据资源相关会计处理暂行规定	mof.gov.cn	kjs.mof.gov.cn	/gongzuotongzhi/202212/P020221209412040514536.pdf
+20230821	会议	https://paper.seebug.org/3014/	2023 KCon 大会部分议题 PPT	seebug.org	paper.seebug.org	/3014/
+20230821	编程技术	https://mp.weixin.qq.com/s/Gv-mYRcT12mJ189B4bEsFA	从技术角度看《孤注一掷》	qq.com	mp.weixin.qq.com	/s/Gv-mYRcT12mJ189B4bEsFA
+20230821	其它	https://www.sec-in.com/article/2016	记一次某部内存取证比赛writeup	sec-in.com	www.sec-in.com	/article/2016
+20230821	Web安全	https://mp.weixin.qq.com/s/tPl1aueMYK6gypBFI0xh4A	整体安全视角下的综合攻击面管理	qq.com	mp.weixin.qq.com	/s/tPl1aueMYK6gypBFI0xh4A
+20230821	恶意分析	https://mp.weixin.qq.com/s/ksDp3LL6A1d1zzvDFXtKgw	全球高级持续性威胁总体态势、典型手法及趋势研判	qq.com	mp.weixin.qq.com	/s/ksDp3LL6A1d1zzvDFXtKgw
+20230821	Web安全	https://github.com/W01fh4cker/VcenterKit	VcenterKit: Vcenter综合渗透利用工具包	github.com	github.com	/W01fh4cker/VcenterKit
+20230821	漏洞分析	https://mp.weixin.qq.com/s/6TGw0gNjvcSoPnHIoDO0ag	Quartz XXE漏洞 CVE-2019-13990	qq.com	mp.weixin.qq.com	/s/6TGw0gNjvcSoPnHIoDO0ag
+20230821	取证分析	https://mp.weixin.qq.com/s/msvr5ZPmNd5b7eflGRUQ0A	四方支付平台（跑分平台）法律知识应用大全	qq.com	mp.weixin.qq.com	/s/msvr5ZPmNd5b7eflGRUQ0A
+20230821	数据挖掘	https://mp.weixin.qq.com/s/5nJ2kPoM8YPm_oWnn3sLmQ	知识图谱如何时序建模	qq.com	mp.weixin.qq.com	/s/5nJ2kPoM8YPm_oWnn3sLmQ
+20230821	恶意分析	https://mp.weixin.qq.com/s/IUtESIqJWdbmVl39H59hnw	北约网络安全防御演习：Locked Shields	qq.com	mp.weixin.qq.com	/s/IUtESIqJWdbmVl39H59hnw
+20230821	观点	https://mp.weixin.qq.com/s/fRcNYr9KAyFRMeWVJUgZkA	《国家网络安全战略实施计划》的分析与思考	qq.com	mp.weixin.qq.com	/s/fRcNYr9KAyFRMeWVJUgZkA
+20230821	杂志	https://www.sec-wiki.com/weekly/494	SecWiki周刊（第494期)	sec-wiki.com	www.sec-wiki.com	/weekly/494
+20230821	取证分析	https://mp.weixin.qq.com/s/mwtJh_25Yds0GMApAXW5kg	基于文本风格结构和多任务学习的跨暗网论坛用户识别	qq.com	mp.weixin.qq.com	/s/mwtJh_25Yds0GMApAXW5kg
+20230821	取证分析	https://mp.weixin.qq.com/s/92WwO2XXmkYgXzUJJAW7lg	GoIP 网关设备的电子数据取证探索	qq.com	mp.weixin.qq.com	/s/92WwO2XXmkYgXzUJJAW7lg
+20230821	Web安全	https://lorexxar.cn/2023/08/21/joern-and-cpg/	Joern与CPG是什么？	lorexxar.cn	lorexxar.cn	/2023/08/21/joern-and-cpg/

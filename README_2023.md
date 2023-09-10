@@ -91,6 +91,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| QingScan | qingscan | 自动化数据安全检测工具：DataSec | https://mp.weixin.qq.com/s/LqKibMx_p39zv1vS4Gj2yg | 1| 
 | 航电科技圈 | gh_d814ea15711a | 机载软件建模与仿真技术研究 | https://mp.weixin.qq.com/s/FISEufs4RIukqCSYxmgfBQ | 1| 
 | SecWiki | SecWiki | APT终结者之流量实名制（上） | https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw | 1| 
 | Crypto Lab | cryptosystems | 基于公有链的隐匿通信技术 | https://mp.weixin.qq.com/s/So4uKfYypTGPd0gsRbGwZA | 1| 
@@ -142,7 +143,7 @@
 | 内构安全 | gh_def0974405fe | 每周论文讨论(17) , 自动利用生成 | https://mp.weixin.qq.com/s/pO2miaqlHZMSYial8rdfwA | 1| 
 | 中国人工智能学会 | CAAI-1981 | AI研习丨信息驱动的电网安全态势知识图谱智能构建技术研究 | https://mp.weixin.qq.com/s/NZQpqD5jrZ2NLXZDBjCzcQ | 1| 
 | COMPASS Lab | gh_5f715fbda2b0 | 【论文分享】硬件辅助的可信执行环境 | https://mp.weixin.qq.com/s/wS3o-g0JAMNiZr91CqPA5A | 1| 
-| 穿过丛林 | gh_f90eac70537b | ESEC/FSE22：基于数据投毒的代码搜索后门攻击 | https://mp.weixin.qq.com/s/5XaemiUxjHolgmuFSorr6Q | 3| 
+| 穿过丛林 | gh_f90eac70537b | ESEC/FSE22：基于数据投毒的代码搜索后门攻击 | https://mp.weixin.qq.com/s/5XaemiUxjHolgmuFSorr6Q | 4| 
 | 复旦白泽战队 | fdwhitzard | 白泽带你读论文｜How Long Do Vulnerabilities Live in the Code? | https://mp.weixin.qq.com/s/DRAAiWE4HiscWB1ZIFB0hA | 1| 
 | 互联网后端架构 | fullstack888 | 作业帮在多云环境下的高可用双活架构优化实践 | https://mp.weixin.qq.com/s/oVxun0-2M9royJUWqi8k7Q | 1| 
 | Qunar技术沙龙 | QunarTL | Qunar万亿级Elasticsearch集群节点迁移实战 | https://mp.weixin.qq.com/s/zpz6k4lXQlvvBx756hyWQA | 1| 
@@ -218,7 +219,7 @@
 | 拨开云雾 | Under_Sakura | 百万级文件的Bug定位 | https://mp.weixin.qq.com/s/gUUuyJ84eU55UgcUdRcvmw | 2| 
 | 阿里安全响应中心 | alisrc | RASP攻防中的矛与盾 | https://mp.weixin.qq.com/s/ObMxPKXUBNvhRtav0uJpWQ | 1| 
 | 开源情报技术研究院 | gh_d1f65c3b3e5b | 2022年漏洞态势特点情况报告 | https://mp.weixin.qq.com/s/Up8f-Qb6niHa8MN0faT10g | 1| 
-| 娜璋AI安全之家 | gh_91f1fe28fc6e | [系统安全] 四十三.Powershell恶意代码检测系列 (4)论文总结及抽象语法树（AST）提取 | https://mp.weixin.qq.com/s/puwgUeM0ftBzlvybUD9xkg | 1| 
+| 娜璋AI安全之家 | gh_91f1fe28fc6e | [系统安全] 四十三.Powershell恶意代码检测系列 (4)论文总结及抽象语法树（AST）提取 | https://mp.weixin.qq.com/s/puwgUeM0ftBzlvybUD9xkg | 2| 
 | 国家互联网应急中心CNCERT | CNCERTCC | “地图导航类”App个人信息收集情况测试报告 | https://mp.weixin.qq.com/s/UerkjOkRkDWag5-FEM2OZA | 1| 
 | 中国计算机学会 | ccfvoice | CCCF精选 , 密态对抗——网络空间高隐蔽威胁透视的发展方向 | https://mp.weixin.qq.com/s/5LnIoymYyySdaN-UynheJQ | 1| 
 | M01N Team | m01nteam | ChatGPT在社工攻击和反钓鱼中的应用 | https://mp.weixin.qq.com/s/rCIS-J4jo1fBtcTuivj6PA | 1| 
@@ -308,7 +309,7 @@
 | 219攻防实验室 | gh_4576a36fa848 | 调教某数字杀软，权限维持so easy | https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww | 1| 
 | 安全内参 | anquanneican | 卡巴斯基深度报告：从俄乌战争重新评估网络战 | https://mp.weixin.qq.com/s/-qGn-mQBaptREToko3iC0Q | 2| 
 | 卫星黑客 | Satellite_Hacker | 《2022太空安全报告》 | https://mp.weixin.qq.com/s/N8kTUz11C2aAsZyYk85r4g | 2| 
-| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 47| 
+| 安全学术圈 | secquan | SLEUTH：基于COTS审计数据的实时攻击场景重构 | https://mp.weixin.qq.com/s/0zgoFUn1R3mS5m3UCOaYSg | 48| 
 
 
 # 私人github账号 推荐
@@ -469,6 +470,7 @@
 # 知乎 推荐
 | title | url| 
 | --- | ---| 
+| 关于AI in Security，各个大厂都做了什么——Google篇 | https://zhuanlan.zhihu.com/p/654955997| 
 | 最近研究安全有效性验证（Security Validation）的一些想法 | https://zhuanlan.zhihu.com/p/649771088| 
 | 形式化方法的研究方向到底是干什么的？ | https://www.zhihu.com/question/37328298| 
 | 一篇13页1.3万字的博士论文致谢 | https://zhuanlan.zhihu.com/p/625937937| 

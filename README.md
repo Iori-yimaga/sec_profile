@@ -20,12 +20,16 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 安全学术圈 | secquan | 北京邮电大学 , 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw | 1| 
+| 娜璋AI安全之家 | gh_91f1fe28fc6e | [系统安全] 五十三.DataCon竞赛 (2)2022年DataCon涉网分析之恶意样本IOC自动化提取详解 | https://mp.weixin.qq.com/s/f1ahob8H30EeAAgJ0R3pMg | 1| 
+| QingScan | qingscan | 自动化数据安全检测工具：DataSec | https://mp.weixin.qq.com/s/LqKibMx_p39zv1vS4Gj2yg | 1| 
+| 穿过丛林 | gh_f90eac70537b | ASE22：基于树图构建的大规模语义克隆检测TreeCen | https://mp.weixin.qq.com/s/kpPHM6A49lyILhViigUe3Q | 1| 
 | 航电科技圈 | gh_d814ea15711a | 机载软件建模与仿真技术研究 | https://mp.weixin.qq.com/s/FISEufs4RIukqCSYxmgfBQ | 1| 
 | 绿盟科技研究通讯 | nsfocus_research | 论文解读：《From ChatGPT to ThreatGPT》(上） | https://mp.weixin.qq.com/s/IzaQ2c7Y1_g9WNXol7NQnw | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 核心网的平台化架构研究 | https://mp.weixin.qq.com/s/7pLkLfElexyLG3KLhuK10g | 2| 
 | SecWiki | SecWiki | APT终结者之流量实名制（上） | https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw | 1| 
 | 安全行者老霍 | gh_c2b78e839fd7 | OpenVAS vs. Nessus：漏洞扫描工具对比 | https://mp.weixin.qq.com/s/utlfmdDv14rNQ71Aykppxw?poc_token=HMdA9WSjMcE0m6Wftcwqqr9CZZt0xXMy75oj6Raj | 1| 
 | 安全419 | anquan-419 | 杨冀龙：企业必须有自己的灵魂 需打造独特竞争力 | https://mp.weixin.qq.com/s/RpM7OZupYWijdvNDfR07WQ | 1| 
+| 信息安全与通信保密杂志社 | cismag2013 | 美陆军云环境建设最新进展 | https://mp.weixin.qq.com/s/jmIK8RYD6iOLQ3j4gsqvCQ | 2| 
 | Crypto Lab | cryptosystems | 基于公有链的隐匿通信技术 | https://mp.weixin.qq.com/s/So4uKfYypTGPd0gsRbGwZA | 1| 
 | 洞源实验室 | gh_4929169c5e90 | Apache Tomcat请求走私漏洞 CVE-2022-42252 | https://mp.weixin.qq.com/s/IJ-MGRVJ0Ac3Iy57sY4xOg | 1| 
 
@@ -40,6 +44,12 @@
 | Tylous | SniffAir：一个开源的无线安全框架 | https://github.com/Tylous/SniffAir | https://github.com/Tylous?tab=followers |  | None | Optiv | 35 | 0 | 54 | 0 | 0 | Python,Go,C | 0 | 0 | 1| 
 | Feysh-Group | corax-community: SAST产品Corax的免费社区版 | https://github.com/Feysh-Group/corax-community | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Kotlin,Java | 0 | 0 | 1| 
 | 0xKayala | 一个基于 Nuclei 和 Paramspider的web应用fuzzer | https://github.com/0xKayala/NucleiFuzzer | https://github.com/0xKayala?tab=followers | Certified Ethical Hacker , Penetration Tester , Bug Hunter , Security Researcher | Remote | Vatins | 113 | 0 | 395 | 0 | 0 | Shell | 0 | 0 | 1| 
+
+
+# 知乎 推荐
+| title | url| 
+| --- | ---| 
+| 关于AI in Security，各个大厂都做了什么——Google篇 | https://zhuanlan.zhihu.com/p/654955997| 
 
 
 
