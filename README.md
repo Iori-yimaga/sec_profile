@@ -29,9 +29,9 @@
 | SecWiki | SecWiki | APT终结者之流量实名制（上） | https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw | 1| 
 | 安全行者老霍 | gh_c2b78e839fd7 | OpenVAS vs. Nessus：漏洞扫描工具对比 | https://mp.weixin.qq.com/s/utlfmdDv14rNQ71Aykppxw?poc_token=HMdA9WSjMcE0m6Wftcwqqr9CZZt0xXMy75oj6Raj | 1| 
 | 安全419 | anquan-419 | 杨冀龙：企业必须有自己的灵魂 需打造独特竞争力 | https://mp.weixin.qq.com/s/RpM7OZupYWijdvNDfR07WQ | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 美陆军云环境建设最新进展 | https://mp.weixin.qq.com/s/jmIK8RYD6iOLQ3j4gsqvCQ | 2| 
+| 信息安全与通信保密杂志社 | cismag2013 | 美陆军云环境建设最新进展 | https://mp.weixin.qq.com/s/jmIK8RYD6iOLQ3j4gsqvCQ | 3| 
 | Crypto Lab | cryptosystems | 基于公有链的隐匿通信技术 | https://mp.weixin.qq.com/s/So4uKfYypTGPd0gsRbGwZA | 1| 
-| 洞源实验室 | gh_4929169c5e90 | Apache Tomcat请求走私漏洞 CVE-2022-42252 | https://mp.weixin.qq.com/s/IJ-MGRVJ0Ac3Iy57sY4xOg | 1| 
+| 洞源实验室 | gh_4929169c5e90 | Apache Tomcat请求走私漏洞 CVE-2022-42252 | https://mp.weixin.qq.com/s/IJ-MGRVJ0Ac3Iy57sY4xOg | 2| 
 
 
 # 私人github账号 推荐

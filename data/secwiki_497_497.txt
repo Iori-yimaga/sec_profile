@@ -1,0 +1,16 @@
+20230904	漏洞分析	https://mp.weixin.qq.com/s/utlfmdDv14rNQ71Aykppxw?poc_token=HMdA9WSjMcE0m6Wftcwqqr9CZZt0xXMy75oj6Raj	OpenVAS vs. Nessus：漏洞扫描工具对比	qq.com	mp.weixin.qq.com	/s/utlfmdDv14rNQ71Aykppxw
+20230904	恶意分析	https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw	APT终结者之流量实名制（上）	qq.com	mp.weixin.qq.com	/s/L6B65rBCI67elNiUBtOgyw
+20230904	漏洞分析	https://www.jos.org.cn/jos/article/pdf/6942	网络协议软件漏洞挖掘技术综述	jos.org.cn	www.jos.org.cn	/jos/article/pdf/6942
+20230904	数据挖掘	https://zhuanlan.zhihu.com/p/654955997	关于AI in Security，各个大厂都做了什么——Google篇	zhihu.com	zhuanlan.zhihu.com	/p/654955997
+20230904	其它	https://www.sec-in.com/article/2066	代码审计入门之XHCMS	sec-in.com	www.sec-in.com	/article/2066
+20230904	无线安全	https://mp.weixin.qq.com/s/7pLkLfElexyLG3KLhuK10g	核心网的平台化架构研究	qq.com	mp.weixin.qq.com	/s/7pLkLfElexyLG3KLhuK10g
+20230904	恶意分析	https://mp.weixin.qq.com/s/IzaQ2c7Y1_g9WNXol7NQnw	论文解读：《From ChatGPT to ThreatGPT》(上）	qq.com	mp.weixin.qq.com	/s/IzaQ2c7Y1_g9WNXol7NQnw
+20230904	数据挖掘	https://mp.weixin.qq.com/s/LqKibMx_p39zv1vS4Gj2yg	自动化数据安全检测工具：DataSec	qq.com	mp.weixin.qq.com	/s/LqKibMx_p39zv1vS4Gj2yg
+20230904	杂志	https://www.sec-wiki.com/weekly/496	SecWiki周刊（第496期)	sec-wiki.com	www.sec-wiki.com	/weekly/496
+20230904	恶意分析	https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw	非法移动赌博应用程序揭秘	qq.com	mp.weixin.qq.com	/s/cinkcJfb6jejD61xosJnqw
+20230904	恶意分析	https://crad.ict.ac.cn/article/exportPdf?id=abb37362-5db3-4513-964b-e424bde45061	基于人工智能的物联网恶意代码检测综述	ict.ac.cn	crad.ict.ac.cn	/article/exportPdf
+20230904	漏洞分析	https://mp.weixin.qq.com/s/kpPHM6A49lyILhViigUe3Q	ASE22：基于树图构建的大规模语义克隆检测TreeCen	qq.com	mp.weixin.qq.com	/s/kpPHM6A49lyILhViigUe3Q
+20230904	设备安全	https://mp.weixin.qq.com/s/FISEufs4RIukqCSYxmgfBQ	机载软件建模与仿真技术研究	qq.com	mp.weixin.qq.com	/s/FISEufs4RIukqCSYxmgfBQ
+20230904	文档	https://ambergroup.io/pdf/white.pdf	数字资产安全、合规与风险管理	ambergroup.io	ambergroup.io	/pdf/white.pdf
+20230904	数据挖掘	https://mp.weixin.qq.com/s/f1ahob8H30EeAAgJ0R3pMg	2022年DataCon涉网分析之恶意样本IOC自动化提取详解	qq.com	mp.weixin.qq.com	/s/f1ahob8H30EeAAgJ0R3pMg
+20230904	其它	https://mp.weixin.qq.com/s/qeekl8WTDxnKMQji2ao5Aw	网络安全数字孪生研究	qq.com	mp.weixin.qq.com	/s/qeekl8WTDxnKMQji2ao5Aw
