@@ -1,11 +1,11 @@
-Python	1181
+Python	1182
 C	741
-JavaScript	710
+JavaScript	711
 C++	616
 HTML	515
 Java	510
 Shell	485
-Go	453
+Go	454
 C#	312
 Ruby	265
 PowerShell	253
@@ -13,7 +13,7 @@ CSS	229
 PHP	228
 TypeScript	198
 Rust	165
-Objective-C	142
+Objective-C	143
 Jupyter	122
 Dockerfile	81
 Assembly	77

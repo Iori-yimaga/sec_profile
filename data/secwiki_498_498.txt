@@ -1,0 +1,12 @@
+20230911	Web安全	https://paper.seebug.org/3022/	C2 基础设施威胁情报对抗策略	seebug.org	paper.seebug.org	/3022/
+20230911	漏洞分析	https://mp.weixin.qq.com/s/mzPM-G0sdQzg8gSfneKZMA	同源策略的绕过	qq.com	mp.weixin.qq.com	/s/mzPM-G0sdQzg8gSfneKZMA
+20230911	其它	https://www.sec-in.com/article/2113	浅谈Apache Shiro CVE-2023-22602	sec-in.com	www.sec-in.com	/article/2113
+20230911	杂志	https://www.sec-wiki.com/weekly/497	SecWiki周刊（第497期)	sec-wiki.com	www.sec-wiki.com	/weekly/497
+20230911	Web安全	https://mp.weixin.qq.com/s/2Mns_yGKDllkWEl3TS5lhg	网络侦察技术分类综述	qq.com	mp.weixin.qq.com	/s/2Mns_yGKDllkWEl3TS5lhg
+20230911	漏洞分析	https://mp.weixin.qq.com/s/VOOxEgWTYY4MNakWBOcPOA	当GPT遇到程序分析：在GPTScan中实现智能合约逻辑漏洞检测	qq.com	mp.weixin.qq.com	/s/VOOxEgWTYY4MNakWBOcPOA
+20230911	其它	https://iotaa.cn/archives/corax-community	CoraxJava 社区版使用及编写自定义规则	iotaa.cn	iotaa.cn	/archives/corax-community
+20230911	编程技术	https://mp.weixin.qq.com/s/bsFJq_jM46bfiFHdMqpyrQ	探索基于LLM的Bug复现	qq.com	mp.weixin.qq.com	/s/bsFJq_jM46bfiFHdMqpyrQ
+20230911	漏洞分析	https://mp.weixin.qq.com/s/UIkbaHwjbsvk7HY23A_zEQ	使用LLM开展自动化程序修复	qq.com	mp.weixin.qq.com	/s/UIkbaHwjbsvk7HY23A_zEQ
+20230911	数据挖掘	https://mp.weixin.qq.com/s/CVTGd3rxJ6OKbV2gWNr91A	NetEval: 大语言模型在网络领域的能力评测套件	qq.com	mp.weixin.qq.com	/s/CVTGd3rxJ6OKbV2gWNr91A
+20230911	漏洞分析	https://mp.weixin.qq.com/s/uE3n_4zEcfBTv8k8w_giEw	shutil.copy函数条件竞争	qq.com	mp.weixin.qq.com	/s/uE3n_4zEcfBTv8k8w_giEw
+20230911	无线安全	https://mp.weixin.qq.com/s/qF20VQdjUO9F2hwwWKn3mQ	全球定位系统GPS星座概述	qq.com	mp.weixin.qq.com	/s/qF20VQdjUO9F2hwwWKn3mQ
