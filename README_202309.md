@@ -20,10 +20,12 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| SecNotes | gh_bd0b8f3e9dc7 | LLMs支持的通用fuzzing | https://mp.weixin.qq.com/s/tEM4k15x1pFAwhHjkDJsEA | 1| 
+| 威胁棱镜 | THREAT_PRISM | 主动扫描中的 TLS 指纹 | https://mp.weixin.qq.com/s/YmPGTb8G8j06Z3tKERpnXA | 1| 
 | 中国信息安全 | chinainfosec | 论坛·“斯诺登事件”十周年 , 关于“斯诺登事件”对国际关系影响的思考 | https://mp.weixin.qq.com/s/HU4C7dj3_9LjTgfeujLjiQ | 1| 
 | 太空安全 | SateSec | 全球定位系统GPS星座概述 | https://mp.weixin.qq.com/s/qF20VQdjUO9F2hwwWKn3mQ | 1| 
 | NASP网络实验室 | gh_2f8abc5acea2 | NetEval: 大语言模型在网络领域的能力评测套件 | https://mp.weixin.qq.com/s/CVTGd3rxJ6OKbV2gWNr91A | 1| 
-| 安全学术圈 | secquan | 北京邮电大学 , 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw | 5| 
+| 安全学术圈 | secquan | 北京邮电大学 , 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw | 6| 
 | 娜璋AI安全之家 | gh_91f1fe28fc6e | [系统安全] 五十三.DataCon竞赛 (2)2022年DataCon涉网分析之恶意样本IOC自动化提取详解 | https://mp.weixin.qq.com/s/f1ahob8H30EeAAgJ0R3pMg | 1| 
 | QingScan | qingscan | 自动化数据安全检测工具：DataSec | https://mp.weixin.qq.com/s/LqKibMx_p39zv1vS4Gj2yg | 1| 
 | 穿过丛林 | gh_f90eac70537b | ASE22：基于树图构建的大规模语义克隆检测TreeCen | https://mp.weixin.qq.com/s/kpPHM6A49lyILhViigUe3Q | 1| 
