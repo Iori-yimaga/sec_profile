@@ -20,23 +20,26 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 看雪学苑 | ikanxue | 反编译原理控制流分析 | https://mp.weixin.qq.com/s/swnTxas1wYWhaMgcq4fv-A | 1| 
+| 蒋讲数据 | gh_7551cbbf43d9 | MDR如何开展？以CrowdStrike为例 | https://mp.weixin.qq.com/s/l9sGQxWxil_tUtTCUK745w | 2| 
+| 编程语言Lab | HW-PLLab | 关于 IR 在程序分析和优化中应用的一些思考 | https://mp.weixin.qq.com/s/qqojOakSX7EyqX2DNn4HZQ | 1| 
 | SecNotes | gh_bd0b8f3e9dc7 | LLMs支持的通用fuzzing | https://mp.weixin.qq.com/s/tEM4k15x1pFAwhHjkDJsEA | 1| 
 | 威胁棱镜 | THREAT_PRISM | 主动扫描中的 TLS 指纹 | https://mp.weixin.qq.com/s/YmPGTb8G8j06Z3tKERpnXA | 1| 
 | 中国信息安全 | chinainfosec | 论坛·“斯诺登事件”十周年 , 关于“斯诺登事件”对国际关系影响的思考 | https://mp.weixin.qq.com/s/HU4C7dj3_9LjTgfeujLjiQ | 1| 
 | 太空安全 | SateSec | 全球定位系统GPS星座概述 | https://mp.weixin.qq.com/s/qF20VQdjUO9F2hwwWKn3mQ | 1| 
 | NASP网络实验室 | gh_2f8abc5acea2 | NetEval: 大语言模型在网络领域的能力评测套件 | https://mp.weixin.qq.com/s/CVTGd3rxJ6OKbV2gWNr91A | 1| 
-| 安全学术圈 | secquan | 北京邮电大学 , 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw | 6| 
+| 安全学术圈 | secquan | 北京邮电大学 , 非法移动赌博应用程序揭秘 | https://mp.weixin.qq.com/s/cinkcJfb6jejD61xosJnqw | 9| 
 | 娜璋AI安全之家 | gh_91f1fe28fc6e | [系统安全] 五十三.DataCon竞赛 (2)2022年DataCon涉网分析之恶意样本IOC自动化提取详解 | https://mp.weixin.qq.com/s/f1ahob8H30EeAAgJ0R3pMg | 1| 
 | QingScan | qingscan | 自动化数据安全检测工具：DataSec | https://mp.weixin.qq.com/s/LqKibMx_p39zv1vS4Gj2yg | 1| 
 | 穿过丛林 | gh_f90eac70537b | ASE22：基于树图构建的大规模语义克隆检测TreeCen | https://mp.weixin.qq.com/s/kpPHM6A49lyILhViigUe3Q | 1| 
 | 航电科技圈 | gh_d814ea15711a | 机载软件建模与仿真技术研究 | https://mp.weixin.qq.com/s/FISEufs4RIukqCSYxmgfBQ | 1| 
-| 绿盟科技研究通讯 | nsfocus_research | 论文解读：《From ChatGPT to ThreatGPT》(上） | https://mp.weixin.qq.com/s/IzaQ2c7Y1_g9WNXol7NQnw | 2| 
+| 绿盟科技研究通讯 | nsfocus_research | 论文解读：《From ChatGPT to ThreatGPT》(上） | https://mp.weixin.qq.com/s/IzaQ2c7Y1_g9WNXol7NQnw | 3| 
 | SecWiki | SecWiki | APT终结者之流量实名制（上） | https://mp.weixin.qq.com/s/L6B65rBCI67elNiUBtOgyw | 1| 
 | 安全行者老霍 | gh_c2b78e839fd7 | OpenVAS vs. Nessus：漏洞扫描工具对比 | https://mp.weixin.qq.com/s/utlfmdDv14rNQ71Aykppxw?poc_token=HMdA9WSjMcE0m6Wftcwqqr9CZZt0xXMy75oj6Raj | 1| 
 | 安全419 | anquan-419 | 杨冀龙：企业必须有自己的灵魂 需打造独特竞争力 | https://mp.weixin.qq.com/s/RpM7OZupYWijdvNDfR07WQ | 1| 
-| 信息安全与通信保密杂志社 | cismag2013 | 美陆军云环境建设最新进展 | https://mp.weixin.qq.com/s/jmIK8RYD6iOLQ3j4gsqvCQ | 3| 
+| 信息安全与通信保密杂志社 | cismag2013 | 美陆军云环境建设最新进展 | https://mp.weixin.qq.com/s/jmIK8RYD6iOLQ3j4gsqvCQ | 4| 
 | Crypto Lab | cryptosystems | 基于公有链的隐匿通信技术 | https://mp.weixin.qq.com/s/So4uKfYypTGPd0gsRbGwZA | 1| 
-| 洞源实验室 | gh_4929169c5e90 | Apache Tomcat请求走私漏洞 CVE-2022-42252 | https://mp.weixin.qq.com/s/IJ-MGRVJ0Ac3Iy57sY4xOg | 3| 
+| 洞源实验室 | gh_4929169c5e90 | Apache Tomcat请求走私漏洞 CVE-2022-42252 | https://mp.weixin.qq.com/s/IJ-MGRVJ0Ac3Iy57sY4xOg | 4| 
 
 
 # 私人github账号 推荐

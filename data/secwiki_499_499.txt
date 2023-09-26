@@ -1,0 +1,19 @@
+20230918	文档	https://pan.baidu.com/s/1ukmN9h6_lOzXDYKcr3DB-Q?pwd=bqxv	中国网络安全产业分析报告（2023年）	baidu.com	pan.baidu.com	/s/1ukmN9h6_lOzXDYKcr3DB-Q
+20230918	编程技术	https://mp.weixin.qq.com/s/9AgAJI904fram7wuB39TDQ	使用ChatGPT模拟程序员的行为来进行Bug修复	qq.com	mp.weixin.qq.com	/s/9AgAJI904fram7wuB39TDQ
+20230918	观点	https://mp.weixin.qq.com/s/HU4C7dj3_9LjTgfeujLjiQ	关于“斯诺登事件”对国际关系影响的思考	qq.com	mp.weixin.qq.com	/s/HU4C7dj3_9LjTgfeujLjiQ
+20230918	杂志	https://www.sec-wiki.com/weekly/498	SecWiki周刊（第498期)	sec-wiki.com	www.sec-wiki.com	/weekly/498
+20230918	其它	https://www.sec-in.com/article/1997	Spring Framework RCE CVE-2022-22965 漏洞分析	sec-in.com	www.sec-in.com	/article/1997
+20230918	漏洞分析	https://paper.seebug.org/3036/	CVE-2023-38831 WinRAR 漏洞分析	seebug.org	paper.seebug.org	/3036/
+20230918	恶意分析	https://mp.weixin.qq.com/s/YmPGTb8G8j06Z3tKERpnXA	主动扫描中的 TLS 指纹	qq.com	mp.weixin.qq.com	/s/YmPGTb8G8j06Z3tKERpnXA
+20230918	数据挖掘	https://y4er.com/posts/simple-use-of-the-java-static-analysis-framework-tai-e/	Java静态分析框架Tai-e的简单使用	y4er.com	y4er.com	/posts/simple-use-of-the-java-static-analysis-framework-tai-e/
+20230918	数据挖掘	https://mp.weixin.qq.com/s/gZZfuuQ_d6ISt9GQDNRNGA	如何从大模型萃取敏感训练数据	qq.com	mp.weixin.qq.com	/s/gZZfuuQ_d6ISt9GQDNRNGA
+20230918	其它	https://mp.weixin.qq.com/s/6E0esw99esAQu8YP9i4F-A	我国当前面临的主要网络认知威胁分析	qq.com	mp.weixin.qq.com	/s/6E0esw99esAQu8YP9i4F-A
+20230918	数据挖掘	https://mp.weixin.qq.com/s/tEM4k15x1pFAwhHjkDJsEA	LLMs支持的通用fuzzing	qq.com	mp.weixin.qq.com	/s/tEM4k15x1pFAwhHjkDJsEA
+20230918	漏洞分析	https://mp.weixin.qq.com/s/R_HPQ8LwilBPPyOD-YpIog	代码审计 | 不安全的路径检查	qq.com	mp.weixin.qq.com	/s/R_HPQ8LwilBPPyOD-YpIog
+20230918	编程技术	https://mp.weixin.qq.com/s/qqojOakSX7EyqX2DNn4HZQ	关于 IR 在程序分析和优化中应用的一些思考	qq.com	mp.weixin.qq.com	/s/qqojOakSX7EyqX2DNn4HZQ
+20230918	取证分析	https://mp.weixin.qq.com/s/l9sGQxWxil_tUtTCUK745w	MDR如何开展？以CrowdStrike为例	qq.com	mp.weixin.qq.com	/s/l9sGQxWxil_tUtTCUK745w
+20230918	数据挖掘	https://mp.weixin.qq.com/s/rr_oYvqvpNVyS011O0nM1w	ChatGPT 驱动的漏洞描述映射及评估	qq.com	mp.weixin.qq.com	/s/rr_oYvqvpNVyS011O0nM1w
+20230918	观点	https://mp.weixin.qq.com/s/dTa7PvC_vW4nvj5FX3hYhg	MSS如何评价？以MITRE最新评估方法为指引	qq.com	mp.weixin.qq.com	/s/dTa7PvC_vW4nvj5FX3hYhg
+20230918	编程技术	https://mp.weixin.qq.com/s/PSmh5HYBcJJcL4v2lLts1A	通过代码动静态信息来微调大模型	qq.com	mp.weixin.qq.com	/s/PSmh5HYBcJJcL4v2lLts1A
+20230918	恶意分析	https://mp.weixin.qq.com/s/swnTxas1wYWhaMgcq4fv-A	反编译原理控制流分析	qq.com	mp.weixin.qq.com	/s/swnTxas1wYWhaMgcq4fv-A
+20230918	其它	https://mp.weixin.qq.com/s/YC8mfjm2WG6scp6p1ryRDw	NIST网络安全框架2.0草案解读	qq.com	mp.weixin.qq.com	/s/YC8mfjm2WG6scp6p1ryRDw
