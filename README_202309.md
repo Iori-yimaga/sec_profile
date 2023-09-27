@@ -14,12 +14,18 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-09-26 20:33:22 | English | (McGill-Queens Studies in Urban Governance; 3) A Truffaut Notebook | Sam Solecki | http://libgen.rs/book/index.php?md5=61BDBE846F7DA0BF738ED7D1D85CD3A2 | 22 MB [PDF]| 
+| 2023-09-26 20:33:17 | English | (Human Dimensions in Foreign Policy, Military Studies, and Security Studies) The Power of Diversity in the Armed Forces: International Perspectives on Immigrant Participation in the Military | Grazia Scoppio (editor); Sara Greco (editor) | http://libgen.rs/book/index.php?md5=CC429D63B6B229A73E70CE65D8CCD06A | 3 MB [PDF]| 
+| 2023-09-26 20:33:04 | English | (Human Dimensions in Foreign Policy, Military Studies, and Security Studies; 4) Disarmament under International Law | John Kierulf | http://libgen.rs/book/index.php?md5=505F55C4F7BD4FDF3E72270684A4B60D | 1 MB [PDF]| 
+| 2023-09-26 20:33:01 | English | Mad Cows and Mothers Milk, Second Edition: The Perils of Poor Risk Communication | William Leiss | http://libgen.rs/book/index.php?md5=3679A89E7440C2449A4D18E5CAAD4086 | 25 MB [PDF]| 
+| 2023-09-26 20:31:56 | English | (Changing American Series; 2) Natural Allies?: Canadian and Mexican Perspectives on International Security | Klepak | http://libgen.rs/book/index.php?md5=E6C5481FC5389FE71D0F548AF5CDA79A | 10 MB [PDF]| 
 | 2023-09-05 15:06:23 | English | Real-Time Environmental Monitoring | Miguel F. Acevedo | http://libgen.rs/book/index.php?md5=03C4527483DFA81BBD090D30EDC2DF96 | 51 MB [PDF]| 
 
 
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 小道安全 | kdsafety | 软件开发设计安全性的检查 | https://mp.weixin.qq.com/s/IdNkQf4Y5xJECVZrlG2xjg | 1| 
 | 看雪学苑 | ikanxue | 反编译原理控制流分析 | https://mp.weixin.qq.com/s/swnTxas1wYWhaMgcq4fv-A | 1| 
 | 蒋讲数据 | gh_7551cbbf43d9 | MDR如何开展？以CrowdStrike为例 | https://mp.weixin.qq.com/s/l9sGQxWxil_tUtTCUK745w | 2| 
 | 编程语言Lab | HW-PLLab | 关于 IR 在程序分析和优化中应用的一些思考 | https://mp.weixin.qq.com/s/qqojOakSX7EyqX2DNn4HZQ | 1| 
@@ -50,6 +56,7 @@
 | nsecho | fuzz iOS URL schemes | https://github.com/nsecho/furlzz | https://github.com/NSEcho?tab=followers |  | @rpath/. | None | 86 | 0 | 262 | 0 | 0 | Go,Python,Objective-C,JavaScript | 0 | 0 | 1| 
 | nquinlan | 为什么 Math.random 不应该用于生产环境的编程 | https://github.com/nquinlan/better-random-numbers-for-javascript-mirror | https://github.com/MLH | COO @MLH | Seattle, WA | Major League Hacking | 95 | 0 | 80 | 0 | 0 | JavaScript,Ruby | 0 | 0 | 1| 
 | notfromstatefarm | nvflashk - 一款绕过GP BIOS的工具，允许用户绕过工厂BIOS的所有限制，使用户能够从他们所购买的硬件中获得最大性能 | https://github.com/notfromstatefarm/nvflashk | https://github.com/notfromstatefarm?tab=followers | beep beep | None | None | 11 | 0 | 8 | 0 | 0 | Go | 0 | 0 | 1| 
+| mrwadams | AttackGen 是一款网络安全事件响应测试工具，利用大型语言模型和综合 MITRE ATT&CK 框架的强大功能。该工具根据用户选择的威胁参与者群体和组织的详细信息生成定制的事件响应场景 | https://github.com/mrwadams/attackgen | https://github.com/mrwadams?tab=followers |  | None | None | 16 | 0 | 5 | 0 | 0 | Python,HTML,Jupyter | 0 | 0 | 1| 
 | microsoft | 围绕开发的一款工业控制系统PLC的取证工具 | https://github.com/microsoft/ics-forensics-tools | None | None | None | None | 0 | 0 | 0 | 0 | 0 | SCSS,TypeScript,Java,C#,JavaScript,C++,Python,PowerShell | 0 | 0 | 1| 
 | cellebrite-labs | 一种用于将 Apple 沙箱配置文件逆向（反编译）为其原始 SBPL 格式（Sandbox Profile Language，一种类似 Scheme 的语言）的工具 | https://github.com/cellebrite-labs/sandblaster | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | Tylous | SniffAir：一个开源的无线安全框架 | https://github.com/Tylous/SniffAir | https://github.com/Tylous?tab=followers |  | None | Optiv | 35 | 0 | 54 | 0 | 0 | Python,Go,C | 0 | 0 | 1| 

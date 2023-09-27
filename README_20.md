@@ -65,6 +65,11 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-09-26 20:33:22 | English | (McGill-Queens Studies in Urban Governance; 3) A Truffaut Notebook | Sam Solecki | http://libgen.rs/book/index.php?md5=61BDBE846F7DA0BF738ED7D1D85CD3A2 | 22 MB [PDF]| 
+| 2023-09-26 20:33:17 | English | (Human Dimensions in Foreign Policy, Military Studies, and Security Studies) The Power of Diversity in the Armed Forces: International Perspectives on Immigrant Participation in the Military | Grazia Scoppio (editor); Sara Greco (editor) | http://libgen.rs/book/index.php?md5=CC429D63B6B229A73E70CE65D8CCD06A | 3 MB [PDF]| 
+| 2023-09-26 20:33:04 | English | (Human Dimensions in Foreign Policy, Military Studies, and Security Studies; 4) Disarmament under International Law | John Kierulf | http://libgen.rs/book/index.php?md5=505F55C4F7BD4FDF3E72270684A4B60D | 1 MB [PDF]| 
+| 2023-09-26 20:33:01 | English | Mad Cows and Mothers Milk, Second Edition: The Perils of Poor Risk Communication | William Leiss | http://libgen.rs/book/index.php?md5=3679A89E7440C2449A4D18E5CAAD4086 | 25 MB [PDF]| 
+| 2023-09-26 20:31:56 | English | (Changing American Series; 2) Natural Allies?: Canadian and Mexican Perspectives on International Security | Klepak | http://libgen.rs/book/index.php?md5=E6C5481FC5389FE71D0F548AF5CDA79A | 10 MB [PDF]| 
 | 2023-09-05 15:06:23 | English | Real-Time Environmental Monitoring | Miguel F. Acevedo | http://libgen.rs/book/index.php?md5=03C4527483DFA81BBD090D30EDC2DF96 | 51 MB [PDF]| 
 | 2023-08-31 05:08:03 | English | A Sustainability Challenge: Food Security for All: Report of Two Workshops | National Research Council; Policy and Global Affairs; Science and Technology for Sustainability Program; Committee on Food Security for All as a Sustainability Challenge | http://libgen.rs/book/index.php?md5=7876B7A6D50A11C06F740AFB987A01CF | 1 MB [EPUB]| 
 | 2023-08-30 01:29:26 | English | (Personne Compétente en Radioprotection Ser.) European Radiation Protection Course: Basics | Philippe Massiot; Christine Jimonet | http://libgen.rs/book/index.php?md5=C05CFC889B2E103776C8FEA7767E9DAF | 19 MB [PDF]| 
@@ -607,7 +612,7 @@
 | 邑安全 | EansecD | GhostEmperor：通过利用内核以及ProxyLogon系列漏洞发起攻击（上） | https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247508122&idx=3&sn=3ffc90acd82d4cee5fb086c3dd8cb205 | 67| 
 | 网络侦查研究院 | PCpolicesir | dll注入&代码注入 学习总结 | https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247507947&idx=2&sn=8f1018f75cce54688342ce51c1a9efb4 | 46| 
 | 灼剑安全团队 | Tsojan | 漏洞复现｜Struts2多版本漏洞复现 | https://mp.weixin.qq.com/s?__biz=Mzg5OTY1ODMxMg==&mid=2247488388&idx=1&sn=89d1fc3f79fddcb05f54ed5f4351c5c0 | 19| 
-| 小道安全 | kdsafety | APP加固攻防梳理 | https://mp.weixin.qq.com/s?__biz=MzUxODkyODE0Mg==&mid=2247488481&idx=1&sn=86a5a35dff7438503bc5ea2ecc644364 | 5| 
+| 小道安全 | kdsafety | APP加固攻防梳理 | https://mp.weixin.qq.com/s?__biz=MzUxODkyODE0Mg==&mid=2247488481&idx=1&sn=86a5a35dff7438503bc5ea2ecc644364 | 6| 
 | 黑伞安全 | hack_umbrella | C2服务器隧道代理分析 | https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247486266&idx=1&sn=cf661e6fcde911643ed7a6e232d3c2f2 | 7| 
 | 骨哥说事 | guge_guge | 寻找更多IDOR漏洞的几种方法 | https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650254839&idx=1&sn=341703cc61bad431f1b6570678147710 | 9| 
 | 盾山实验室 | DunShanRR | Karta：IDA源代码辅助插件 | https://mp.weixin.qq.com/s?__biz=MzkzMjIwMDY4Nw==&mid=2247485581&idx=1&sn=78099296cef7643bea4a2da4584dba0e | 18| 
@@ -4419,6 +4424,7 @@
 | mvt-project | MVT - 通过取证信息分析 iOS/Android 手机是否已被入侵的工具 | https://github.com/mvt-project/mvt | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | mudongliang | Linux 平台的漏洞 PoC、Writeup 收集 | https://github.com/mudongliang/LinuxFlaw | https://github.com/mudongliang?tab=followers | Faculty/Researcher at HUST on Software & System Security | Wuhan, CN | Huazhong University of Science and Technology | 23 | 0 | 0 | 0 | 0 | SCSS,C,Shell,Dockerfile | 0 | 0 | 1| 
 | mttaggart | OffensiveNotion: Notion as a platform for offensive operat... | https://github.com/mttaggart/OffensiveNotion | https://github.com/mttaggart?tab=followers |  | None | None | 47 | 0 | 365 | 0 | 0 | Vue,JavaScript,Rust | 0 | 0 | 1| 
+| mrwadams | AttackGen 是一款网络安全事件响应测试工具，利用大型语言模型和综合 MITRE ATT&CK 框架的强大功能。该工具根据用户选择的威胁参与者群体和组织的详细信息生成定制的事件响应场景 | https://github.com/mrwadams/attackgen | https://github.com/mrwadams?tab=followers |  | None | None | 16 | 0 | 5 | 0 | 0 | Python,HTML,Jupyter | 0 | 0 | 1| 
 | mrrrgn | simple-rootkit：attack against gcc and Python via kernel module | https://github.com/mrrrgn/simple-rootkit | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | mrphrazer | Obfuscation Detection 一个用于自动检查二进制文件中的混淆代码和状态机的脚本/工具/Binary Ninja插件 | https://github.com/mrphrazer/obfuscation_detection | https://github.com/mrphrazer?tab=followers |  | None | None | 24 | 0 | 5 | 0 | 0 | Python | 0 | 0 | 1| 
 | mromnia | FB Event Map API | https://github.com/mromnia/fb_event_map | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
