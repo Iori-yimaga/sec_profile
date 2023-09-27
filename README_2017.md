@@ -853,7 +853,6 @@
 | cuijianxiong | Cmscan基于fofa搜索规则指纹识别工具 | https://github.com/cuijianxiong/cmscan | http://cuijianxiong.top | LVU | None | None | 49 | 0 | 122 | 55 | 44 | Python,JavaScript,Roff | 53 | 26 | 2| 
 | a7vinx | angr-doc-zh_CN: Angr-doc的中文翻译 (开源符号执行框架) | https://github.com/a7vinx/angr-doc-zh_CN | https://a7vinx.github.io |  | None | None | 20 | 0 | 1300 | 55 | 52 | Python,C,C++ | 0 | 0 | 1| 
 | V-E-O | 上周五推送的 Janus Android APK 签名有效性漏洞(CVE-2017-13156),有研究员公开了 PoC: | https://github.com/V-E-O/PoC/tree/master/CVE-2017-13156 | None |  | None | None | 59 | 0 | 43 | 55 | 45 | C,Makefile | 0 | 0 | 1| 
-| Tylous | SniffAir - 无线渗透测试框架: | https://github.com/Tylous/SniffAir | https://twitter.com/Tyl0us |  | None | None | 5 | 0 | 28 | 55 | 10 | Python,C,HTML | 956 | 132 | 1| 
 | Eun | ctf.tf - CTF 题目及其解决方案收集整理: https://t.co/ffhj5FNqy3,GitHub : | https://github.com/Eun/ctf.tf | https://salzmann.to |  | Berlin (Germany) | None | 150 | 0 | 583 | 55 | 0 | Go,JavaScript,C++ | 1000 | 81 | 1| 
 | Biprodeep | wesome-ml-for-cybersecurity - 优秀的网络安全机器学习资源整合: | https://github.com/Biprodeep/awesome-ml-for-cybersecurity | None | Researcher on integrated logics,information security and artificial intelligence. | None | Virtually Unvoid Defensive | 61 | 0 | 28 | 55 | 50 | Python,C,Shell | 30 | 9 | 1| 
 | h-j-13 | Malicious_Domain_Whois: 非法域名挖掘与画像系统 | https://github.com/h-j-13/Malicious_Domain_Whois?from=timeline | http://houjie13.com/ | Student. | Weihai, China | Harbin Institute of Technology at Weihai | 58 | 0 | 323 | 54 | 56 | Python,C++ | 0 | 0 | 1| 

@@ -1,4 +1,4 @@
-Python	1182
+Python	1183
 C	741
 JavaScript	711
 C++	616
@@ -14,7 +14,7 @@ PHP	228
 TypeScript	198
 Rust	165
 Objective-C	143
-Jupyter	122
+Jupyter	123
 Dockerfile	81
 Assembly	77
 Perl	75
@@ -30,8 +30,8 @@ CMake	45
 HCL	37
 Visual	34
 Vim	32
+YARA	26
 Haskell	26
-YARA	25
 Dart	25
 OCaml	24
 Rich	23

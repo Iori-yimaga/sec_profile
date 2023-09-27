@@ -1,4 +1,4 @@
-Python	64
+Python	65
 C	37
 C++	37
 JavaScript	31
@@ -11,8 +11,8 @@ C#	14
 TypeScript	12
 PHP	11
 PowerShell	11
+Jupyter	7
 CSS	7
-Jupyter	6
 Ruby	5
 SCSS	4
 Assembly	4
@@ -27,6 +27,7 @@ Swift	2
 Jinja	1
 OpenSCAD	1
 TSQL	1
+YARA	1
 Elixir	1
 Vue	1
 Smali	1
