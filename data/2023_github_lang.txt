@@ -1,7 +1,7 @@
 Python	65
 C	37
 C++	37
-JavaScript	31
+JavaScript	32
 Go	25
 Java	24
 Shell	18
@@ -9,8 +9,8 @@ HTML	18
 Rust	14
 C#	14
 TypeScript	12
+PowerShell	12
 PHP	11
-PowerShell	11
 Jupyter	7
 CSS	7
 Ruby	5
@@ -23,11 +23,11 @@ HCL	3
 Kotlin	3
 Objective-C	3
 Perl	2
+YARA	2
 Swift	2
 Jinja	1
 OpenSCAD	1
 TSQL	1
-YARA	1
 Elixir	1
 Vue	1
 Smali	1

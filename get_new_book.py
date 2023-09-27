@@ -30,7 +30,7 @@ class GetNewBook(object):
         self.cybersecurity_keyword = [
             # common
             ['cybersecurity'],
-            ['security'],  # application/api/network/cloud/windows/linux/endpoint/mobile
+       # application/api/network/cloud/windows/linux/endpoint/mobile
             #['secure'],
             ['protection'],
             ['monitor'],
@@ -42,7 +42,7 @@ class GetNewBook(object):
             ['hacking'],
             ['asset'],
             ['forensics'],
-            ['risk'],
+            ['risk', 'management'],
             ['malware'],
             ['botnet'],
             ['ransomware'],
@@ -57,6 +57,7 @@ class GetNewBook(object):
             ['penetration'],
             ['supply', 'chain'],
             ['threat', 'modeling'],
+            ['threat', 'detection'],
 
             # threat intelligence
             ['intelligence'],
@@ -69,7 +70,6 @@ class GetNewBook(object):
             ['cryptography'],
             ['fraud'],
             # auto
-            ['notebook'],
             ['attack', 'vectors'],
             ['social', 'engineering'],
 
@@ -86,7 +86,7 @@ class GetNewBook(object):
             ['intrusion'],
             ['incident', 'response'],
             ['zero', 'trust'],
-            #['identity'],
+            ['access', 'management'],
             ['iam'],  # identity and access management
             ['privileged'],
             ['hardening'],
@@ -95,6 +95,7 @@ class GetNewBook(object):
             ['authentication'],
             ['devsec'],
             ['bule', 'team'],
+            ['evading'],
             ['red', 'team'],
             ['purple', 'team'],
             ['attack', 'simulation'],
@@ -281,4 +282,12 @@ if __name__ == "__main__":
     }
     proxy = None
     o = GetNewBook(proxy=proxy)
-    o.scaw(proxy=proxy)
+    #o.scaw(proxy=proxy)
+    title_list = [
+        '(Human Dimensions in Foreign Policy, Military Studies, and Security Studies; 4) Disarmament under International Law',
+        'Mad Cows and Mothers Milk, Second Edition: The Perils of Poor Risk Communication',
+        '(Changing American Series; 2) Natural Allies?: Canadian and Mexican Perspectives on International Security'
+    ]
+    for title in title_list:
+        is_hit = o.is_security_book(title)
+        print(is_hit, title)

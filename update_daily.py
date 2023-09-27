@@ -7,6 +7,7 @@ sys.setdefaultencoding('utf8')
 
 from secwiki_today import scraw as secwiki_scraw
 from xuanwu_today import scraw as xuanwu_scraw
+from doonsec_today import scraw as doonsec_scraw
 from get_new_book import GetNewBook
 import secwiki as secwiki
 from mills import SQLiteOper
@@ -21,8 +22,8 @@ def scraw(proxy=None):
     """
 
     so = SQLiteOper("data/scrap.db")
-    # print("scraw doonsec")
-    # doonsec_scraw(so, proxy=None, delta=10)
+    print("scraw doonsec")
+    doonsec_scraw(so, proxy=None, delta=10)
     print("scraw secwiki")
     secwiki_scraw(so, proxy=None, delta=10)
     print("scraw xuanwu")
