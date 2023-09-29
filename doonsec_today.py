@@ -95,10 +95,9 @@ def scraw(so, proxy=None, delta=3):
                                 weixin_no = weixin_info.get('weixin_no')
                                 d['weixin_no'] = weixin_no
                             sql = d2sql(d, table='weixin')
-
+                            print(d.get('title'), d.get('url'))
                             if sql:
                                 try:
-                                    print(sql)
                                     so.execute(sql)
                                 except Exception as e:
                                     logging.error("[sql]: %s %s" % (sql, str(e)))
