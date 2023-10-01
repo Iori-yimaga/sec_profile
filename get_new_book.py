@@ -32,7 +32,7 @@ class GetNewBook(object):
             ['cybersecurity'],
        # application/api/network/cloud/windows/linux/endpoint/mobile
             #['secure'],
-            ['protection'],
+
             ['monitor'],
             ['monitoring'],
             ['defense'],
@@ -60,7 +60,8 @@ class GetNewBook(object):
             ['threat', 'detection'],
 
             # threat intelligence
-            ['intelligence'],
+            ['threat', 'intelligence'],
+            ['cyber', 'intelligence'],
             ['hunter'],
             ['att&ck'],
 
@@ -284,9 +285,9 @@ if __name__ == "__main__":
     o = GetNewBook(proxy=proxy)
     #o.scaw(proxy=proxy)
     title_list = [
-        '(Human Dimensions in Foreign Policy, Military Studies, and Security Studies; 4) Disarmament under International Law',
-        'Mad Cows and Mothers Milk, Second Edition: The Perils of Poor Risk Communication',
-        '(Changing American Series; 2) Natural Allies?: Canadian and Mexican Perspectives on International Security'
+        'Defending Animals: Finding Hope on the Front Lines of Animal Protection',
+
+
     ]
     for title in title_list:
         is_hit = o.is_security_book(title)
