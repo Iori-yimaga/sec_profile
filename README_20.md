@@ -65,6 +65,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2023-09-30 17:46:58 | English | Emotional Intelligence Game Changers: 101 Simple Ways to Win at Work and Life | Harvey Deutschendorf | http://libgen.rs/book/index.php?md5=A40759314953DD09F5C468C3AD33BDF7 | 1 MB [EPUB]| 
+| 2023-09-30 17:36:48 | English | Defending Animals: Finding Hope on the Front Lines of Animal Protection | Kendra Coulter | http://libgen.rs/book/index.php?md5=195F1C11B8219979C94494AAC41996CE | 796 kB [EPUB]| 
 | 2023-09-29 14:18:15 | English | (HBR Emotional Intelligence Series) Grit | Harvard Business Review, Angela L. Duckworth, Misty Copeland, Shannon Huffman Polson, Tomas Chamorro-Premuzic | http://libgen.rs/book/index.php?md5=43B3B9AD267EC42617A24B364146CBCC | 1 MB [EPUB]| 
 | 2023-09-27 15:38:00 | English | Black Hat Python, 2nd Edition | Justin Seitz; Tim Arnold | http://libgen.rs/book/index.php?md5=93C0E3BF45AC2791B622BCAEC5D34E42 | 7 MB [EPUB]| 
 | 2023-09-27 15:22:10 | English | RTFM: Red Team Field Manual v2 | Ben Clark; Nick Downer | http://libgen.rs/book/index.php?md5=5838E46065186A20D36FEF831EC36200 | 256 kB [EPUB]| 
