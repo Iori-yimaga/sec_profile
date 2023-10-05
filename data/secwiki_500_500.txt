@@ -1,0 +1,8 @@
+20230925	其它	https://www.sec-in.com/article/2262	钓鱼文件应急溯源：方法篇	sec-in.com	www.sec-in.com	/article/2262
+20230925	Web安全	https://mp.weixin.qq.com/s/STSqHgBIn8782vaL7ldiJg	PENTESTGPT-LLM驱动的自动渗透测试工具	qq.com	mp.weixin.qq.com	/s/STSqHgBIn8782vaL7ldiJg
+20230925	运维安全	https://mp.weixin.qq.com/s/IdNkQf4Y5xJECVZrlG2xjg	软件开发设计安全性的检查	qq.com	mp.weixin.qq.com	/s/IdNkQf4Y5xJECVZrlG2xjg
+20230925	移动安全	https://juejin.cn/post/7160930401844723720	Cuttlefish：新一代云端 Android 模拟器	juejin.cn	juejin.cn	/post/7160930401844723720
+20230925	杂志	https://www.sec-wiki.com/weekly/499	SecWiki周刊（第499期)	sec-wiki.com	www.sec-wiki.com	/weekly/499
+20230925	数据挖掘	https://mp.weixin.qq.com/s/c_Oshv-v7uoxuBylDa2RZw	开源数据的质量评估指标体系研究	qq.com	mp.weixin.qq.com	/s/c_Oshv-v7uoxuBylDa2RZw
+20230925	取证分析	https://blog.foxio.io/ja4-network-fingerprinting-9376fe9ca637	JA4+ Network Fingerprinting	foxio.io	blog.foxio.io	/ja4-network-fingerprinting-9376fe9ca637
+20230925	移动安全	https://mp.weixin.qq.com/s/9DM8Zbg98l_rcj8I2MU3Vg	Android传感器安全分析	qq.com	mp.weixin.qq.com	/s/9DM8Zbg98l_rcj8I2MU3Vg

@@ -3,8 +3,6 @@ import re
 import time
 import logging
 
-
-
 from mills import get_request, timestamp2datetime
 from mills import SQLiteOper
 from mills import d2sql
@@ -30,8 +28,8 @@ class GetNewBook(object):
         self.cybersecurity_keyword = [
             # common
             ['cybersecurity'],
-       # application/api/network/cloud/windows/linux/endpoint/mobile
-            #['secure'],
+            # application/api/network/cloud/windows/linux/endpoint/mobile
+            # ['secure'],
             ['playbook'],
             ['prompt', 'engineer'],
             ['monitor'],
@@ -49,11 +47,12 @@ class GetNewBook(object):
             ['ransomware'],
             ['ddos'],
             ['beacon'],
-            #['assessment'],
+            ['observability'],
+            # ['assessment'],
             ['vulnerability'],
-            ['iast'], # interactive application security testing
-            ['sast'], # static application security
-            ['dast'], # dynamic application security
+            ['iast'],  # interactive application security testing
+            ['sast'],  # static application security
+            ['dast'],  # dynamic application security
             ['security', 'testing'],
             ['penetration'],
             ['supply', 'chain'],
@@ -112,7 +111,6 @@ class GetNewBook(object):
             ['rootkits'],
             ['osint'],
 
-
             ['falcon'],
             ['sentinel'],  # microsoft
             ['defender'],  # microsoft
@@ -146,12 +144,13 @@ class GetNewBook(object):
             return is_hit
         title = title.lower()
         title_parts = re.split('\s+', title)
+        title_parts = [_.replace(':', '') for _ in title_parts]
 
         num_of_keyword = len(keyword_list)
+
         if num_of_keyword == 1:
             if keyword_list[0].lower() in title_parts:
                 is_hit = True
-                #print(keyword_list, title)
                 return is_hit
         else:
             num_of_hit = 0
@@ -180,10 +179,12 @@ class GetNewBook(object):
             else:
                 kw_list = kw
             is_hit = self._is_hit_keyword(title=title, keyword_list=kw_list)
+
             if is_hit:
                 return is_hit
 
         return is_hit
+
     def parse_xml(self, fname=None):
         """
         parse lxml
@@ -250,10 +251,6 @@ class GetNewBook(object):
                     except Exception as e:
                         logging.error("[sql]: %s %s" % (sql, str(e)))
 
-
-
-
-
     def scaw(self, proxy=None):
         """
 
@@ -284,10 +281,9 @@ if __name__ == "__main__":
     }
     proxy = None
     o = GetNewBook(proxy=proxy)
-    #o.scaw(proxy=proxy)
+    o.scaw(proxy=proxy)
     title_list = [
-        'Defending Animals: Finding Hope on the Front Lines of Animal Protection',
-
+        'Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications',
 
     ]
     for title in title_list:
