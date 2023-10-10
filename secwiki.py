@@ -163,7 +163,6 @@ def parse_item(html_hd, so=None, proxy=None):
                 )
                 try:
                     so.execute(update_sql)
-                    print(update_sql)
                 except Exception as e:
                     logging.error("[update_sql]: %s str(%s)" % (update_sql, str(e)))
 
