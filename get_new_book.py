@@ -123,9 +123,9 @@ class GetNewBook(object):
             ['sans'],
             ['ebpf'],
             ['fortinet'],
+            ['ansible']
 
-            # other
-            ['automation']
+
 
         ]
         self.book_language_list = ['English']
@@ -283,7 +283,7 @@ if __name__ == "__main__":
     o = GetNewBook(proxy=proxy)
     o.scaw(proxy=proxy)
     title_list = [
-        'Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications',
+        #'Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications',
 
     ]
     for title in title_list:

@@ -20,9 +20,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
-| 2023-10-11 18:34:36 | English | [Vol. 29, No. 2, JUNE 2022] IEEE Robotics & Automation Magazine |  | http://libgen.rs/book/index.php?md5=E89EC5D08AEA7F2D93806B619FF7605A | 29 MB [PDF]| 
-| 2023-10-11 18:31:31 | English | [Vol. 29, No. 4, DECEMBER 2022] IEEE Robotics & Automation Magazine |  | http://libgen.rs/book/index.php?md5=33C266C7B3346C7D1A9E5374EDEA8D72 | 39 MB [PDF]| 
-| 2023-10-11 18:31:06 | English | [Vol. 29, No. 3, SEPTEMBER 2022] IEEE Robotics & Automation Magazine |  | http://libgen.rs/book/index.php?md5=636412A42F030F51EE07A4E0BECA1DB1 | 42 MB [PDF]| 
+| 2023-10-11 18:01:39 | English | Ansible For Security by Examples | Luca Berton | http://libgen.rs/book/index.php?md5=0440BBACC6C24FFFC5D5307691D775B8 | 1 MB [EPUB]| 
 | 2023-10-06 15:24:08 | English | The day of defense | McDonald, A. Melvin | http://libgen.rs/book/index.php?md5=38B739BA016B5369AECD5DB58A5B3D18 | 201 kB [EPUB]| 
 | 2023-10-06 11:16:41 | English | Python for DevOps: Learn Ruthlessly Effective Automation | Noah Gift, Kennedy Behrman, Alfredo Deza, Grig Gheorghiu | http://libgen.rs/book/index.php?md5=D80589BD3C0804C795C7CE97138026F1 | 11 MB [PDF]| 
 | 2023-10-06 17:18:06 | English | The Myth of Overpunishment: A Defense of the American Justice System and a Proposal to Reduce Incarceration While Protecting the Public | Barry Latzer | http://libgen.rs/book/index.php?md5=00E78F1753ED6F53879A53A0933302C0 | 2 MB [EPUB]| 
@@ -98,7 +96,9 @@
 | 安全学习与分享 | gh_a56158c408ab | 用友NC uapjs RCE漏洞复现（实现文件写入） | https://mp.weixin.qq.com/s?__biz=Mzg5NTA2OTYzOA==&mid=2247484041&idx=1&sn=00f764039362d4e2e51ca3aefc876342 | 1| 
 | 商业智能研究 | fr_research | 《企业指标体系搭建白皮书》重磅发布！帮助企业从0-1搭建指标体系，用数据辅助决策管理 | https://mp.weixin.qq.com/s?__biz=MzIwMzg5MTI0OQ==&mid=2247530109&idx=1&sn=fe80cadb57fbaad5be7403c2d4d7d7dc | 1| 
 | 中机博也车联网安全 | CMboye | 【漏洞预警】curl开源组件高危漏洞涉及车联网 | https://mp.weixin.qq.com/s?__biz=Mzk0NDQzODY4MA==&mid=2247483975&idx=1&sn=163a5ee1d32a0d5d075903cde953d9be | 1| 
+| night安全 | YGnight001 | 【安全工具】自动扫描、解密、解包微信小程序 | https://mp.weixin.qq.com/s?__biz=MzU5MTc1NTE0Ng==&mid=2247484671&idx=1&sn=63f9f7d4422820e34896981aa5cfb77c | 1| 
 | NightTalk安全团队 | V13592886228 | js前端解密-HMACSHA256加密算法 | https://mp.weixin.qq.com/s?__biz=MzA3NDM1MjI4NA==&mid=2247483958&idx=1&sn=04df5c3c58bb11477994500aebd13922 | 1| 
+| GEEKCON | GEEKCON-DarkNavy | 10·24见 , GEEKCON 2023 赛程议题公布！ | https://mp.weixin.qq.com/s?__biz=Mzk0NzQ5MDYyNw==&mid=2247484409&idx=1&sn=599c3bd733138b35e32453b57bd7446b | 1| 
 | 英语学习经验 | hacknotes | 四级高频词汇311个（带考频） | https://mp.weixin.qq.com/s?__biz=Mzk0NDI1NTk0MQ==&mid=2247484198&idx=1&sn=79b78bba143144826b324f5207eade27 | 2| 
 | 聚锋实验室 | jufenglab | TOP5 , 头条：美国政府拟确定联邦采购网络安全基线要求 | https://mp.weixin.qq.com/s?__biz=MzI2NDE0NTM5Nw==&mid=2651974920&idx=1&sn=e899a1ef97d29f652f8d7e302cc1ebe5 | 1| 
 | 网络盾牌 | gh_6ef5650b8b89 | 1010-美政府确定联邦采购网络安全基线要求-富士通推出日本第一台私人量子计算机-美军士兵因试图泄露国防机密而在旧金山被捕 | https://mp.weixin.qq.com/s?__biz=MzkyNjMzMTcwOQ==&mid=2247494271&idx=1&sn=bc27973bd9159766845291ebb080bc2e | 2| 
@@ -271,7 +271,7 @@
 | web安全笔记 | gh_19563af1285e | SRC,众测---url重定向漏洞挖掘技巧和思路 | https://mp.weixin.qq.com/s?__biz=MzkzMzQwNDkzMQ==&mid=2247484154&idx=1&sn=64a1eba48d10f2b92f2c350f1e4b1b4d | 1| 
 | crossoverJie | crossoverJie | 跟着播客学英语-Why I use vim ? part one. | https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247486354&idx=1&sn=26ebb1b2134e8478df098592c0e3f29d | 2| 
 | Numen Cyber Labs | gh_06b147bc90bd | MOSEC会后随想：浏览器安全、web3钱包插件端安全 | https://mp.weixin.qq.com/s?__biz=Mzg4MDcxNTc2NA==&mid=2247486077&idx=1&sn=bd18f4cf257b013f1b571c8a8964c190 | 1| 
-| 青衣十三楼飞花堂 | scz------ | 历史风云中的一代英杰--伍修权 | https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486858&idx=1&sn=2aec4e317c9cf720035d2e2a91a7f7eb | 3| 
+| 青衣十三楼飞花堂 | scz------ | 历史风云中的一代英杰--伍修权 | https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486858&idx=1&sn=2aec4e317c9cf720035d2e2a91a7f7eb | 4| 
 | 赛博回忆录 | cybermemory | jumpserver最新re-auth复现（伪随机经典案例） | https://mp.weixin.qq.com/s/VShjaDI1McerX843YyOENw | 1| 
 | 网络安全透视镜 | gh_0111d52251cf | 用友GPR-U8 slbmbygr SQL注入漏洞 | https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247497445&idx=1&sn=ba46bd186bade1eb7215099174174998 | 6| 
 | 网络安全与取证研究 | wangluoanquanquzheng | 2023某省电子取证比武wp | https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247488016&idx=1&sn=c1e8bc6585dc49cf54fafcca766b309b | 7| 
@@ -362,7 +362,7 @@
 | 巢安实验室 | safe-labs | 锦绣山河，共赢盛世 | https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247489273&idx=1&sn=1b7e4cfbc28f6fae331f5b0c8e8593fd | 6| 
 | 安恒信息 | AnHengCloudNews | 每一天都是我们的赛事级重保 | https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650589328&idx=1&sn=45b1bb0950638241af55c7d038302286 | 5| 
 | 安天集团 | Antiylab | 安天网络行为检测能力升级通告（20231001） | https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650201958&idx=1&sn=21a4d3d7ac3eb939913e2a1a2240a892 | 2| 
-| 安全研究GoSSIP | GoSSIPSJTU | 加州大学尔湾分校计算机系Alfred Chen教授招收全奖博士生（AI/Systems/Network Security方向) | https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496400&idx=1&sn=096ff6775871a8fd5f806847fe268ce0 | 2| 
+| 安全研究GoSSIP | GoSSIPSJTU | 加州大学尔湾分校计算机系Alfred Chen教授招收全奖博士生（AI/Systems/Network Security方向) | https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496400&idx=1&sn=096ff6775871a8fd5f806847fe268ce0 | 3| 
 | 太空安全 | SateSec | 澳大利亚Kleos Space电磁频谱监测卫星 | https://mp.weixin.qq.com/s?__biz=MzkwNjM4NTg4OQ==&mid=2247491210&idx=3&sn=96151adec08639406cd74e7bbc4e9b74 | 14| 
 | 商密君 | shangmijun | 重磅更新！微软将在 Windows11中推出通行密钥支持功能 | https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247612927&idx=4&sn=22f63f1fc66fbda59789737bc35b587f | 30| 
 | 剁椒鱼头没剁椒 | gh_d007bd1f1c01 | 登陆页面/登陆框渗透测试思路 | https://mp.weixin.qq.com/s?__biz=Mzg3MDk0OTc1Nw==&mid=2247486524&idx=1&sn=24bb342dccd0849a26dcb94e0f163138 | 3| 
@@ -392,9 +392,17 @@
 | deadbits | Vigil 是一个 Python 框架和 REST API，用于根据一组扫描仪评估大型语言模型 (LLM) 提示，以检测提示注入、越狱和其他潜在风险输入 | https://github.com/deadbits/vigil-llm | https://github.com/deadbits?tab=followers | threat intelligence, malware, python | None | None | 40 | 0 | 1200 | 0 | 0 | Python,YARA,C | 0 | 0 | 1| 
 | crytic | Optik 是一组符号执行工具，可协助智能合约 Fuzzer，使它们能够以混合模式运行。它基本上将 Echidna 与 Maat 符号执行器结合起来，该执行器重放模糊语料库，并通过新的输入来扩展它，以增加覆盖范围 | https://github.com/crytic/optik | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Python,Cairo,Solidity,Shell,Starlark,Go,JavaScript | 0 | 0 | 1| 
 | clearbluejar | Ghidra 二进制 diff 工具 | https://github.com/clearbluejar/ghidriff | https://github.com/clearbluejar?tab=followers |  | None | None | 36 | 0 | 84 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
+| cjm00n | Visual Studio 项目的一种新的利用技术，提供无需使用项目根目录中的 .suo 文件进行编译即可执行代码的PoC | https://github.com/cjm00n/EvilSln | https://github.com/cjm00n?tab=followers | scuter, member of Kap0k | china | None | 8 | 0 | 63 | 0 | 0 | C#,HTML,Dockerfile,C++ | 0 | 0 | 1| 
 | chompie1337 | Windows CVE-2023-36802 本地提权 EXP | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | https://github.com/chompie1337?tab=followers |  | None | None | 9 | 0 | 3 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | avogabos | AI SecurityStarterkit - 一个脚本存储库，旨在通过 AI 实现安全各个方面的自动化。该存储库旨在帮助您测试和迭代，然后扩展并合并到更广泛的安全自动化工作流程中。 | https://github.com/avogabos/ai_security_starterkit | https://github.com/avogabos?tab=followers |  | None | None | 1 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
+| Wh04m1001 | 容器管理器服务中的任意目录创建错误 | https://github.com/Wh04m1001/CVE-2023-36723 | https://github.com/Wh04m1001?tab=followers | OSCP,OSEP,CRTO,CRTP,CRTE,PACES | None | None | 49 | 0 | 174 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
 | MHaggis | ShellSweep 是一个 PowerShell/Python/Lua 工具，旨在检测指定目录中潜在的 webshel​​l 文件。 ShellSheep 及其工具套件计算文件内容的熵，以估计文件是 Webshel​​l 文件的可能性 | https://github.com/MHaggis/ShellSweep | https://github.com/MHaggis?tab=followers |  | None | @splunk | 46 | 0 | 405 | 0 | 0 | YARA,JavaScript,PowerShell | 0 | 0 | 1| 
+
+
+# medium 推荐
+| title | url| 
+| --- | ---| 
+| PVS-Studio，静态代码分析器 | https://medium.com/@Code_Analysis/pvs-studio-static-code-analyzer-21e8af76ed47?source=social.tw| 
 
 
 # 论坛 推荐

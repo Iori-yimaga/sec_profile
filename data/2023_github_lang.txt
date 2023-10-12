@@ -1,13 +1,13 @@
 Python	67
 C	38
-C++	37
+C++	38
 JavaScript	33
 Go	26
 Java	24
 Shell	19
-HTML	18
+HTML	19
+C#	15
 Rust	14
-C#	14
 TypeScript	13
 PowerShell	12
 PHP	11
@@ -17,9 +17,9 @@ Solidity	5
 Ruby	5
 SCSS	4
 Assembly	4
+Dockerfile	4
 Scala	3
 YARA	3
-Dockerfile	3
 HCL	3
 Kotlin	3
 Objective-C	3

@@ -1,8 +1,9 @@
-Python	6
+Python	7
+C	3
+HTML	3
 YARA	2
-C	2
 JavaScript	2
-HTML	2
+C++	2
 TypeScript	1
 Jupyter	1
 Cairo	1
@@ -10,4 +11,6 @@ Solidity	1
 Shell	1
 Starlark	1
 Go	1
+Dockerfile	1
 PowerShell	1
+C#	1
