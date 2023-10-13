@@ -1,12 +1,12 @@
-Python	67
+Python	68
 C	38
 C++	38
 JavaScript	33
 Go	26
 Java	24
-Shell	19
-HTML	19
-C#	15
+Shell	20
+HTML	20
+C#	16
 Rust	14
 TypeScript	13
 PowerShell	12
