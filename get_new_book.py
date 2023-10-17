@@ -27,6 +27,8 @@ class GetNewBook(object):
         self.rss_url = 'http://libgen.rs/rss/index.php'
         self.cybersecurity_keyword = [
             # common
+            ['python'],
+            ['rust'],
             ['cybersecurity'],
             # application/api/network/cloud/windows/linux/endpoint/mobile
             # ['secure'],
