@@ -1,0 +1,11 @@
+20231009	漏洞分析	https://mp.weixin.qq.com/s/DykTaqHFZC_hwj7RcY8InA	致盲Windows上的EDR	qq.com	mp.weixin.qq.com	/s/DykTaqHFZC_hwj7RcY8InA
+20231009	其它	https://www.sec-in.com/article/2269	GDA CTF应用方向：牛刀小试ONE	sec-in.com	www.sec-in.com	/article/2269
+20231009	恶意分析	https://mp.weixin.qq.com/s/KlBpwesdfEqy1IrRT2W4tA	MITRE ATT&CK Enterprise 第五轮评估结果发布	qq.com	mp.weixin.qq.com	/s/KlBpwesdfEqy1IrRT2W4tA
+20231009	杂志	https://www.sec-wiki.com/weekly/501	SecWiki周刊（第501期)	sec-wiki.com	www.sec-wiki.com	/weekly/501
+20231009	运维安全	https://mp.weixin.qq.com/s/5utSjmXrh5enrAvJmJLFvQ	零信任架构落地经验分享——7层零信任方案	qq.com	mp.weixin.qq.com	/s/5utSjmXrh5enrAvJmJLFvQ
+20231009	观点	https://mp.weixin.qq.com/s/fn1OVw_75nCfunoX8nGj-w	系统安全和论文写作的那些事	qq.com	mp.weixin.qq.com	/s/fn1OVw_75nCfunoX8nGj-w
+20231009	恶意分析	https://paper.seebug.org/3044/	PHP 从零学习到 Webshell 免杀手册	seebug.org	paper.seebug.org	/3044/
+20231009	恶意分析	https://mp.weixin.qq.com/s/vaTH3cSad-lp7NT6ay8yMA	基于异构图卷积网络的网络威胁情报建模	qq.com	mp.weixin.qq.com	/s/vaTH3cSad-lp7NT6ay8yMA
+20231009	漏洞分析	https://mp.weixin.qq.com/s/KvEW6zV80BORRi9YHOxgTQ	Apache Commons Compress内存耗尽漏洞 CVE-2021-35516	qq.com	mp.weixin.qq.com	/s/KvEW6zV80BORRi9YHOxgTQ
+20231009	Web安全	https://xz.aliyun.com/t/12897	利用JSRPC协议实现任意用户登录	aliyun.com	xz.aliyun.com	/t/12897
+20231009	运维安全	https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html	基于模式挖掘的可靠性治理探索	meituan.com	tech.meituan.com	/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html
