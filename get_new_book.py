@@ -36,7 +36,7 @@ class GetNewBook(object):
             ['prompt', 'engineer'],
             ['monitor'],
             ['monitoring'],
-            ['defense'],
+            #['defense'],
             ['detect'],
             ['attack'],
             ['hacker'],
@@ -283,10 +283,10 @@ if __name__ == "__main__":
     }
     proxy = None
     o = GetNewBook(proxy=proxy)
-    o.scaw(proxy=proxy)
+    #o.scaw(proxy=proxy)
     title_list = [
-        #'Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications',
-
+        'The Myth of Overpunishment: A Defense of the American Justice System and a Proposal to Reduce Incarceration While Protecting the Public',
+        'Technology for Success and The Shelly Cashman Series Microsoft 365 & Office 2021 (MindTap Course List)',
     ]
     for title in title_list:
         is_hit = o.is_security_book(title)
