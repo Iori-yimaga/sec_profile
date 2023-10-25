@@ -303,7 +303,10 @@ class GetNewBook(object):
             return
         for rss_name, rss_url in self.rss_url_dict.items():
             day = timestamp2datetime(int(time.time()), tformat="%Y%m%d%H")
-            fname = os.path.join("data", "book", "{rss_name}_{day}.xml".format(
+            fdir = os.path.join("data", "book")
+            if not os.path.exists(fdir):
+                os.mkdir(fdir)
+            fname = os.path.join(fdir, "{rss_name}_{day}.xml".format(
                 rss_name=rss_name,
                 day=day
             ))

@@ -1,0 +1,12 @@
+20231016	其它	https://mp.weixin.qq.com/s/yBZqZp0BnkHKXoXgw6J21w	美国高中生的网络安全竞赛	qq.com	mp.weixin.qq.com	/s/yBZqZp0BnkHKXoXgw6J21w
+20231016	Web安全	https://mp.weixin.qq.com/s/_NRivu59k4yiLjBxKoXAMg	寄生云计算服务实现可信C2控制	qq.com	mp.weixin.qq.com	/s/_NRivu59k4yiLjBxKoXAMg
+20231016	运维安全	https://mp.weixin.qq.com/s/FX79d7oQNrbgc73Sr0TB4w	TLS1.3 初次解读	qq.com	mp.weixin.qq.com	/s/FX79d7oQNrbgc73Sr0TB4w
+20231016	数据挖掘	https://blog.cyphur.com/detecting-leaked-cobalt-strike/	Hunting for Leaked Cobalt Strike v4.9 servers	cyphur.com	blog.cyphur.com	/detecting-leaked-cobalt-strike/
+20231016	漏洞分析	https://mp.weixin.qq.com/s/-03hkuv6snSLhX8HTU_CXQ	SQL注入之过滤器绕过	qq.com	mp.weixin.qq.com	/s/-03hkuv6snSLhX8HTU_CXQ
+20231016	其它	https://www.sec-in.com/article/2273	SpringWeb常见鉴权措施与垂直越权检测	sec-in.com	www.sec-in.com	/article/2273
+20231016	漏洞分析	https://mp.weixin.qq.com/s/-qCcoIALocQKPhsbA7e5ag	利用SEV的I/O漏洞进行攻击	qq.com	mp.weixin.qq.com	/s/-qCcoIALocQKPhsbA7e5ag
+20231016	杂志	https://www.sec-wiki.com/weekly/502	SecWiki周刊（第502期)	sec-wiki.com	www.sec-wiki.com	/weekly/502
+20231016	取证分析	https://mp.weixin.qq.com/s/Vo57J6l7WEt7L2bF_EAfbA	tls指纹之ja4	qq.com	mp.weixin.qq.com	/s/Vo57J6l7WEt7L2bF_EAfbA
+20231016	取证分析	https://mp.weixin.qq.com/s/PVItfdRvFPl144hTji2WvQ	Efuse介绍及安全启动浅析	qq.com	mp.weixin.qq.com	/s/PVItfdRvFPl144hTji2WvQ
+20231016	漏洞分析	https://xz.aliyun.com/t/12910	利用特殊反序列化组件攻击原生反序列化入口	aliyun.com	xz.aliyun.com	/t/12910
+20231016	无线安全	https://mp.weixin.qq.com/s/f1R8VQpjikuiqxzXD8NFGw	太空军综合战略	qq.com	mp.weixin.qq.com	/s/f1R8VQpjikuiqxzXD8NFGw
