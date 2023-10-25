@@ -10,6 +10,8 @@ import hashlib
 import logging
 import os
 import re
+import time
+
 import sqlite3
 from urlparse import urlparse
 import json
@@ -200,6 +202,17 @@ def timestamp2datetime(ts, tformat="%Y-%m-%d %H:%M:%S"):
     timestamp = datetime.datetime.fromtimestamp(ts).strftime(tformat)
     return timestamp
 
+def datetime2timestamp(dt, tformat="%Y-%m-%d %H:%M:%S"):
+    """
+    timestamp 2 datetime
+    :param ts:
+    :param tformat:
+    :return:
+    """
+    # ts = ts - time.timezone
+    dt_ob = datetime.datetime.strptime(dt, tformat)
+
+    return int(time.mktime(dt_ob.timetuple()))
 def get_weixin_info(url="", ts="", tag="", max_redirects=30, proxy=None, root_dir="data/weixin", retry=3, timeout=10):
     """
     微信解析

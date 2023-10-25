@@ -3,6 +3,7 @@ import re
 import time
 import logging
 
+import mills
 from mills import get_request, timestamp2datetime
 from mills import SQLiteOper
 from mills import d2sql
@@ -24,11 +25,17 @@ class GetNewBook(object):
         init
         :param kwargs:
         """
-        self.rss_url = 'http://libgen.rs/rss/index.php'
+        self.rss_url_dict = {
+            #'libgen': 'http://libgen.rs/rss/index.php',
+            'wow': 'https://feeds.feedburner.com/wowebook',
+        }
+
+
         self.cybersecurity_keyword = [
             # common
             ['python'],
             ['rust'],
+            ['kubernetes'],
             ['cybersecurity'],
             # application/api/network/cloud/windows/linux/endpoint/mobile
             # ['secure'],
@@ -36,7 +43,7 @@ class GetNewBook(object):
             ['prompt', 'engineer'],
             ['monitor'],
             ['monitoring'],
-            #['defense'],
+            # ['defense'],
             ['detect'],
             ['attack'],
             ['hacker'],
@@ -76,7 +83,10 @@ class GetNewBook(object):
             ['attack', 'vectors'],
             ['social', 'engineering'],
 
+
             # productor
+            ['cloud', 'security'],
+            ['information', 'security'],
             ['security', 'information' 'event', 'management'],
             ['siem'],
             ['security', 'orchestration', 'automation', 'response'],
@@ -125,9 +135,9 @@ class GetNewBook(object):
             ['sans'],
             ['ebpf'],
             ['fortinet'],
-            ['ansible']
+            ['ansible'],
 
-
+            ['comtia'],
 
         ]
         self.book_language_list = ['English']
@@ -202,17 +212,34 @@ class GetNewBook(object):
             soup = BeautifulSoup(c, 'lxml')
             articles = soup.findAll('item')
             sql_list = []
+
             for a in articles:
                 book_dict = {}
                 title = a.find('title').text.encode('utf-8')
                 link = a.link.next_sibling.encode('utf-8')
-                description = a.find('description').text
+                description = a.find('description')
+                pubdate = a.find('pubdate')
+                if pubdate:
+                    pubdate = pubdate.text
+                    if pubdate:
+                        try:
+                            # Sun, 22 Oct 2023 09:09:52 +0000
+                            parts = re.split(r' ', pubdate)
+                            pubdate = " ".join(parts[0:-1])
+                            date_format = "%a, %d %b %Y %H:%M:%S"
+                            ts = mills.datetime2timestamp(pubdate, tformat=date_format)
+                            pubdate = mills.timestamp2datetime(ts, tformat="%Y-%m-%d %H:%M:%S")
+                        except Exception as e:
+                            pass
+                    book_dict['date_added'] = pubdate
+                if description:
+                    description = description.text
+
+                # http://libgen.rs/rss/index.php
                 soup = BeautifulSoup(description, 'lxml')
                 td_list = soup.find_all('td')
                 num_of_td = len(td_list) if td_list else 0
-
                 if num_of_td > 0 and num_of_td % 2 == 0:
-
                     for no_i in range(0, num_of_td, 2):
                         k = td_list[no_i].text.encode('utf-8').strip()
                         if not k:
@@ -228,9 +255,12 @@ class GetNewBook(object):
 
                 if title and link:
                     lan = book_dict.get('language')
+                    if not lan:
+                        lan = self.book_language_list[0]
+                        book_dict['language'] = lan
                     if lan not in self.book_language_list:
                         continue
-
+                    link = re.sub(r'\s+', '', link)
                     is_hit = self.is_security_book((title))
                     print(is_hit, title, link)
                     if not is_hit:
@@ -240,16 +270,27 @@ class GetNewBook(object):
                     book_dict['title'] = title
                     book_dict['link'] = link
                     date_added = book_dict.get('date_added')
-                    book_dict['ts'] = date_added.replace("-", "")[0:8]
+                    if date_added:
+                        book_dict['ts'] = date_added.replace("-", "")[0:8]
+                    else:
+                        book_dict['ts'] = mills.get_special_date(format="%Y%m%d")
+                    # fill other field
+                    field_list = ['author', 'size']
+                    for field_name in field_list:
+                        field_value = book_dict.get(field_name)
+                        if not field_value:
+                            book_dict[field_name] = "unknown"
 
                     sql = d2sql(book_dict, table='security_book', action='replace')
                     sql_list.append(sql)
+
+
             if sql_list:
                 so = SQLiteOper("data/scrap.db")
                 for sql in sql_list:
                     try:
                         so.execute(sql)
-                        print(sql)
+
                     except Exception as e:
                         logging.error("[sql]: %s %s" % (sql, str(e)))
 
@@ -258,20 +299,27 @@ class GetNewBook(object):
 
         :return:
         """
-        day = timestamp2datetime(int(time.time()), tformat="%Y%m%d%H")
-        fname = os.path.join("data", "book", "{day}.xml".format(day=day))
-        is_need_down = False
-        if not os.path.exists(fname):
-            is_need_down = True
-        else:
-            if os.path.getsize(fname) == 0:
-                is_need_down = True
-        if is_need_down:
-            get_request(self.rss_url, proxy=proxy, fname=fname)
+        if not self.rss_url_dict:
+            return
+        for rss_name, rss_url in self.rss_url_dict.items():
+            day = timestamp2datetime(int(time.time()), tformat="%Y%m%d%H")
+            fname = os.path.join("data", "book", "{rss_name}_{day}.xml".format(
+                rss_name=rss_name,
+                day=day
+            ))
+            is_need_down = False
 
-        if os.path.exists(fname):
-            fname = os.path.abspath(fname)
-            self.parse_xml(fname)
+            if not os.path.exists(fname):
+                is_need_down = True
+            else:
+                if os.path.getsize(fname) == 0:
+                    is_need_down = True
+            if is_need_down:
+                get_request(rss_url, proxy=proxy, fname=fname)
+
+            if os.path.exists(fname):
+                fname = os.path.abspath(fname)
+                self.parse_xml(fname)
 
 
 if __name__ == "__main__":
@@ -283,10 +331,10 @@ if __name__ == "__main__":
     }
     proxy = None
     o = GetNewBook(proxy=proxy)
-    #o.scaw(proxy=proxy)
+    o.scaw(proxy=proxy)
     title_list = [
-        'The Myth of Overpunishment: A Defense of the American Justice System and a Proposal to Reduce Incarceration While Protecting the Public',
-        'Technology for Success and The Shelly Cashman Series Microsoft 365 & Office 2021 (MindTap Course List)',
+        #'The Myth of Overpunishment: A Defense of the American Justice System and a Proposal to Reduce Incarceration While Protecting the Public',
+        #'Technology for Success and The Shelly Cashman Series Microsoft 365 & Office 2021 (MindTap Course List)',
     ]
     for title in title_list:
         is_hit = o.is_security_book(title)
