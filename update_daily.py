@@ -56,17 +56,16 @@ if __name__ == "__main__":
     """ 
     """
     proxy = {
-        #"http": "http://127.0.0.1:1080",
-        #'https': "http://127.0.0.1:1080",
+        "http": "http://127.0.0.1:8001",
+        'https': "http://127.0.0.1:8001",
         #"socks:": "socks://127.0.0.1:1080",
-
     }
     #proxy = None
 
-    #scraw(proxy=proxy)
+    scraw(proxy=proxy)
 
-    #visual.draw_readme()
+    visual.draw_readme()
 
-    #secwiki.main(renew=False)
+    secwiki.main(renew=False)
 
     update_github(proxy=proxy)
