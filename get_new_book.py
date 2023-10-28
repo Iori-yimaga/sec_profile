@@ -26,10 +26,9 @@ class GetNewBook(object):
         :param kwargs:
         """
         self.rss_url_dict = {
-            #'libgen': 'http://libgen.rs/rss/index.php',
+            'libgen': 'http://libgen.rs/rss/index.php',
             'wow': 'https://feeds.feedburner.com/wowebook',
         }
-
 
         self.cybersecurity_keyword = [
             # common
@@ -82,7 +81,6 @@ class GetNewBook(object):
             # auto
             ['attack', 'vectors'],
             ['social', 'engineering'],
-
 
             # productor
             ['cloud', 'security'],
@@ -137,7 +135,7 @@ class GetNewBook(object):
             ['fortinet'],
             ['ansible'],
 
-            ['comtia'],
+            ['comptia'],
 
         ]
         self.book_language_list = ['English']
@@ -154,9 +152,11 @@ class GetNewBook(object):
             return is_hit
         if not title:
             return is_hit
+
         title = title.lower()
         title_parts = re.split('\s+', title)
         title_parts = [_.replace(':', '') for _ in title_parts]
+        title_parts = [_.replace(',', '') for _ in title_parts]
 
         num_of_keyword = len(keyword_list)
 
@@ -284,7 +284,6 @@ class GetNewBook(object):
                     sql = d2sql(book_dict, table='security_book', action='replace')
                     sql_list.append(sql)
 
-
             if sql_list:
                 so = SQLiteOper("data/scrap.db")
                 for sql in sql_list:
@@ -334,11 +333,12 @@ if __name__ == "__main__":
     }
     proxy = None
     o = GetNewBook(proxy=proxy)
-    o.scaw(proxy=proxy)
+    # o.scaw(proxy=proxy)
     title_list = [
-        #'The Myth of Overpunishment: A Defense of the American Justice System and a Proposal to Reduce Incarceration While Protecting the Public',
-        #'Technology for Success and The Shelly Cashman Series Microsoft 365 & Office 2021 (MindTap Course List)',
+        # 'Practical Cloud Security, 2nd Edition',
+        'CompTIA A+ Practice Test Core 1 (220-1101)',
+        # 'Technology for Success and The Shelly Cashman Series Microsoft 365 & Office 2021 (MindTap Course List)',
     ]
     for title in title_list:
         is_hit = o.is_security_book(title)
-        print(is_hit, title)
+        print('test', is_hit, title)
