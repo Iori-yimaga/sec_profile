@@ -1,0 +1,15 @@
+20231023	运维安全	https://mp.weixin.qq.com/s/IwR3MR9AsMezEAE95QiuBA	漏洞管理实践	qq.com	mp.weixin.qq.com	/s/IwR3MR9AsMezEAE95QiuBA
+20231023	Web安全	https://mp.weixin.qq.com/s/08xrcL7X8p9i4RJIXqxf0g	八大中间件介绍以及漏洞分析	qq.com	mp.weixin.qq.com	/s/08xrcL7X8p9i4RJIXqxf0g
+20231023	恶意分析	https://mp.weixin.qq.com/s/gZ47H3pU5-ZRJRdbWvxnJg	APT36基本情况整理及样本分析记录	qq.com	mp.weixin.qq.com	/s/gZ47H3pU5-ZRJRdbWvxnJg
+20231023	Web安全	https://mp.weixin.qq.com/s/TGb9o4jmvGF5mFhGa9gepw	浅谈常规渗透瓶颈，实例发散思维突破	qq.com	mp.weixin.qq.com	/s/TGb9o4jmvGF5mFhGa9gepw
+20231023	数据挖掘	https://mp.weixin.qq.com/s/y02nFvFQVC2m_yNBQIKUVg	全自动化攻陷各大厂商大模型聊天机器人	qq.com	mp.weixin.qq.com	/s/y02nFvFQVC2m_yNBQIKUVg
+20231023	其它	https://www.sec-in.com/article/2271	原创 | ClassLoader动态类加载	sec-in.com	www.sec-in.com	/article/2271
+20231023	杂志	https://www.sec-wiki.com/weekly/503	SecWiki周刊（第503期)	sec-wiki.com	www.sec-wiki.com	/weekly/503
+20231023	漏洞分析	https://mp.weixin.qq.com/s/95LC8QbX0gpJWJP4swFPMw	.net反序列化的新利用	qq.com	mp.weixin.qq.com	/s/95LC8QbX0gpJWJP4swFPMw
+20231023	无线安全	https://mp.weixin.qq.com/s/NviHjW9P7T1QZtcKbck2rQ	机载系统的智能架构及功能分析	qq.com	mp.weixin.qq.com	/s/NviHjW9P7T1QZtcKbck2rQ
+20231023	其它	https://mp.weixin.qq.com/s/6pogpM86KUZm_iX5KESd-g	2024年DISA网络安全方向预算概览	qq.com	mp.weixin.qq.com	/s/6pogpM86KUZm_iX5KESd-g
+20231023	数据挖掘	https://mp.weixin.qq.com/s/2dwnwQGsqKWZQX8gEUV0Sw	如何更好的使用 LLMs	qq.com	mp.weixin.qq.com	/s/2dwnwQGsqKWZQX8gEUV0Sw
+20231023	其它	https://mp.weixin.qq.com/s/BQPqP0YQX4Li6-dtg4-aVQ	陆军24项关键技术计划盘点之3：网络与GPS	qq.com	mp.weixin.qq.com	/s/BQPqP0YQX4Li6-dtg4-aVQ
+20231023	漏洞分析	https://mp.weixin.qq.com/s/rB2cbNegr0sCjtv9stT0kA	代码审计工具常见误报及修复	qq.com	mp.weixin.qq.com	/s/rB2cbNegr0sCjtv9stT0kA
+20231023	其它	https://mp.weixin.qq.com/s/a-idEWQ4J4nECithCEDtew	从 NCAE-C 计划看美国网络安全人才供给	qq.com	mp.weixin.qq.com	/s/a-idEWQ4J4nECithCEDtew
+20231023	恶意分析	https://securelist.com/operation-triangulation-catching-wild-triangle/110916/	How Kaspersky obtained all stages of Operation Triangulation	securelist.com	securelist.com	/operation-triangulation-catching-wild-triangle/110916/
