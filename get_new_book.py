@@ -136,6 +136,7 @@ class GetNewBook(object):
             ['ansible'],
 
             ['comptia'],
+            ['selinux'],
 
         ]
         self.book_language_list = ['English']

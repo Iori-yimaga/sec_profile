@@ -1,0 +1,7 @@
+Python	2
+HTML	2
+Shell	1
+Jupyter	1
+Makefile	1
+Go	1
+Rust	1
