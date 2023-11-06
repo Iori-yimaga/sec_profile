@@ -1,7 +1,12 @@
-Python	2
-HTML	2
+Python	4
+HTML	4
+C	2
+Java	2
+Ruby	2
 Shell	1
 Jupyter	1
+JavaScript	1
 Makefile	1
+Perl	1
 Go	1
 Rust	1

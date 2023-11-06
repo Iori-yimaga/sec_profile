@@ -1,0 +1,13 @@
+20231030	取证分析	https://mp.weixin.qq.com/s/p-3DNoajeauLs7ck98ZJ6w	揭秘 VPN 背后的黑灰产组织	qq.com	mp.weixin.qq.com	/s/p-3DNoajeauLs7ck98ZJ6w
+20231030	其它	https://www.sec-in.com/article/2229	一文带你理解tcache缓存投毒	sec-in.com	www.sec-in.com	/article/2229
+20231030	其它	https://mp.weixin.qq.com/s/T4khgSQbkOvLjaX6BFcYTA	态势感知与OODA的逆过程	qq.com	mp.weixin.qq.com	/s/T4khgSQbkOvLjaX6BFcYTA
+20231030	运维安全	https://mp.weixin.qq.com/s/VgqTeRjsgQYiZSwz7soH1g	银行业漏洞治理实践与展望--漏洞治理的道与术	qq.com	mp.weixin.qq.com	/s/VgqTeRjsgQYiZSwz7soH1g
+20231030	杂志	https://www.sec-wiki.com/weekly/504	SecWiki周刊（第504期)	sec-wiki.com	www.sec-wiki.com	/weekly/504
+20231030	会议	https://mp.weixin.qq.com/s/HEtld_zxFZ8_xcUNfaFjLw	IMC 2023 论文录用列表	qq.com	mp.weixin.qq.com	/s/HEtld_zxFZ8_xcUNfaFjLw
+20231030	数据挖掘	https://mp.weixin.qq.com/s/f4-xjib33hkfyM5_8HcUUw	通俗解构语言大模型的工作原理	qq.com	mp.weixin.qq.com	/s/f4-xjib33hkfyM5_8HcUUw
+20231030	Web安全	https://github.com/LetheSec/ISASearch	ISASearch: 一个基于分布式爬虫的信安文章搜索引擎	github.com	github.com	/LetheSec/ISASearch
+20231030	漏洞分析	https://mp.weixin.qq.com/s/hvn1rvMed3o05yB8opWiaQ	libwebp漏洞利用技术研判报告	qq.com	mp.weixin.qq.com	/s/hvn1rvMed3o05yB8opWiaQ
+20231030	Web安全	https://mp.weixin.qq.com/s/mbP6a1CPUDfUYxAadQw4NA	攻防实战策略剖析与对抗博弈	qq.com	mp.weixin.qq.com	/s/mbP6a1CPUDfUYxAadQw4NA
+20231030	数据挖掘	https://mp.weixin.qq.com/s/nuxcTw3uaux_rQiURc6KOg	人工智能的风险挑战、竞争与治理	qq.com	mp.weixin.qq.com	/s/nuxcTw3uaux_rQiURc6KOg
+20231030	数据挖掘	https://mp.weixin.qq.com/s/Gbd_JYrM-2sY9rwFYm77jg	ChatGLM3-6B大模型的部署与使用教程	qq.com	mp.weixin.qq.com	/s/Gbd_JYrM-2sY9rwFYm77jg
+20231030	数据挖掘	https://mp.weixin.qq.com/s/htoIZS6s-Uclv2gsVE1MNw	基于微调大语言模型的知识图谱问答框架	qq.com	mp.weixin.qq.com	/s/htoIZS6s-Uclv2gsVE1MNw
