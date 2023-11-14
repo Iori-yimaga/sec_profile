@@ -1,4 +1,4 @@
-Python	5
+Python	6
 HTML	5
 Ruby	3
 C	2

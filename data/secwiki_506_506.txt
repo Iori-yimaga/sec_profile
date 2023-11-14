@@ -1,0 +1,18 @@
+20231106	其它	https://www.sec-in.com/article/2257	内网安全之隧道代理	sec-in.com	www.sec-in.com	/article/2257
+20231106	Web安全	https://mp.weixin.qq.com/s/fzZGw-7EeKvx1qEUT-NXFA	无文件落地攻击	qq.com	mp.weixin.qq.com	/s/fzZGw-7EeKvx1qEUT-NXFA
+20231106	Web安全	https://mp.weixin.qq.com/s/W2repoNPiuTGevv1dHc4DQ	大型闪电式红蓝对抗主流攻击行为的研判分析	qq.com	mp.weixin.qq.com	/s/W2repoNPiuTGevv1dHc4DQ
+20231106	取证分析	https://mp.weixin.qq.com/s/DIzVBNFtQr4741FOnKXHsg	万字长文解读最新版ATT&CK V14	qq.com	mp.weixin.qq.com	/s/DIzVBNFtQr4741FOnKXHsg
+20231106	无线安全	https://mp.weixin.qq.com/s/pkT5I7lO10zkxjXh7vt3nw	“黑掉卫星”演习分析	qq.com	mp.weixin.qq.com	/s/pkT5I7lO10zkxjXh7vt3nw
+20231106	取证分析	https://mp.weixin.qq.com/s/mQo36_BjyM10ObMfcvpFig	攻击检测自动溯源分析技战法	qq.com	mp.weixin.qq.com	/s/mQo36_BjyM10ObMfcvpFig
+20231106	文档	http://www.china-cia.org.cn/AQLMWebManage/Resources/kindeditor/attached/file/20231108/20231108115447_3689.pdf	中国网络安全产业分析报告（2023年）	china-cia.org.cn	www.china-cia.org.cn	/AQLMWebManage/Resources/kindeditor/attached/file/20231108/20231108115447_3689.pdf
+20231106	数据挖掘	https://mp.weixin.qq.com/s/_l9WfUZmQKLmK9Zr6E7ZWw	幻觉解决常见方法合集	qq.com	mp.weixin.qq.com	/s/_l9WfUZmQKLmK9Zr6E7ZWw
+20231106	数据挖掘	https://mp.weixin.qq.com/s/1fFRSBJk_jDNkTAsdCEkEw	黑盒的图像深度学习模型训练数据重建攻击	qq.com	mp.weixin.qq.com	/s/1fFRSBJk_jDNkTAsdCEkEw
+20231106	恶意分析	https://mp.weixin.qq.com/s/3VuSxgEBwdh_JCNBX0Vakg	Tor 服务的大规模爬取与分析	qq.com	mp.weixin.qq.com	/s/3VuSxgEBwdh_JCNBX0Vakg
+20231106	恶意分析	https://mp.weixin.qq.com/s/pYGOLyiWde_eoPFBTD2NlA	NSA组织二次约会间谍软件功能复现及加解密分析	qq.com	mp.weixin.qq.com	/s/pYGOLyiWde_eoPFBTD2NlA
+20231106	Web安全	https://mp.weixin.qq.com/s/_Dnb6j6CdepepH7DnpQeQQ	网络侦察建模及防御概述	qq.com	mp.weixin.qq.com	/s/_Dnb6j6CdepepH7DnpQeQQ
+20231106	设备安全	https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330476	嵌入式设备固件仿真器综述	ict.ac.cn	crad.ict.ac.cn	/cn/article/doi/10.7544/issn1000-1239.202330476
+20231106	杂志	https://www.sec-wiki.com/weekly/505	SecWiki周刊（第505期)	sec-wiki.com	www.sec-wiki.com	/weekly/505
+20231106	漏洞分析	https://mp.weixin.qq.com/s/j583ttj0Lv-IdaY1N_KL5g	面向Java开源生态系统的跨项目漏洞安全威胁分析	qq.com	mp.weixin.qq.com	/s/j583ttj0Lv-IdaY1N_KL5g
+20231106	数据挖掘	https://mp.weixin.qq.com/s/3BHcqTDIJyrvMVdAkm0yhQ	Prompt的科学范式（上篇）	qq.com	mp.weixin.qq.com	/s/3BHcqTDIJyrvMVdAkm0yhQ
+20231106	漏洞分析	https://mp.weixin.qq.com/s/X63XHdVidnRvu41st6fEPg	Apache Commons Compress拒绝服务漏洞 CVE-2021-35515	qq.com	mp.weixin.qq.com	/s/X63XHdVidnRvu41st6fEPg
+20231106	数据挖掘	https://mp.weixin.qq.com/s/2OTfM-Agr7hWg-JYY3aIXg	利用LangChain和Neo4j向量索引，构建一个RAG应用程序	qq.com	mp.weixin.qq.com	/s/2OTfM-Agr7hWg-JYY3aIXg
