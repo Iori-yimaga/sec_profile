@@ -1,0 +1,17 @@
+20231113	漏洞分析	https://mp.weixin.qq.com/s/AMqymFxASgKCUYZQAB8Nzw	CodeQL分析XXL-JOB默认accessToken命令执行漏洞	qq.com	mp.weixin.qq.com	/s/AMqymFxASgKCUYZQAB8Nzw
+20231113	观点	https://mp.weixin.qq.com/s/zvgOqgGqmdO4BvYsFzDTGw	美国爱因斯坦计划跟踪与解读（2023版）	qq.com	mp.weixin.qq.com	/s/zvgOqgGqmdO4BvYsFzDTGw
+20231113	Web安全	https://mp.weixin.qq.com/s/4D2slrxd7t1JnPpJY6CO7g	Nemesis：蓝军攻击数据协同平台化实践	qq.com	mp.weixin.qq.com	/s/4D2slrxd7t1JnPpJY6CO7g
+20231113	其它	https://www.sec-in.com/article/2069	深度剖析GadgetInspector执行逻辑(上)	sec-in.com	www.sec-in.com	/article/2069
+20231113	数据挖掘	https://mp.weixin.qq.com/s/fBYXwkg9Tm1uVc8ZmIViRQ	machine unlearning中的灾难遗忘问题的研究	qq.com	mp.weixin.qq.com	/s/fBYXwkg9Tm1uVc8ZmIViRQ
+20231113	数据挖掘	https://mp.weixin.qq.com/s/Oc5WLqXBF_AvI6HAwZKPgA	基于大语言模型的零样本漏洞修复研究	qq.com	mp.weixin.qq.com	/s/Oc5WLqXBF_AvI6HAwZKPgA
+20231113	杂志	https://www.sec-wiki.com/weekly/506	SecWiki周刊（第506期)	sec-wiki.com	www.sec-wiki.com	/weekly/506
+20231113	取证分析	https://paper.seebug.org/3062/	揭秘 VPN 背后的黑灰产组织	seebug.org	paper.seebug.org	/3062/
+20231113	其它	https://mp.weixin.qq.com/s/M6Ot2f9YW-58cbNXs10YbA	美国推进网络空间安全发展的新举措	qq.com	mp.weixin.qq.com	/s/M6Ot2f9YW-58cbNXs10YbA
+20231113	取证分析	https://feei.cn/hack-back-hacking-team/	反击黑客团伙Hacking Team	feei.cn	feei.cn	/hack-back-hacking-team/
+20231113	Web安全	https://mp.weixin.qq.com/s/F0asRsaqOMvxHcu70kavZg	Defense Evasion(防御规避)	qq.com	mp.weixin.qq.com	/s/F0asRsaqOMvxHcu70kavZg
+20231113	漏洞分析	https://mp.weixin.qq.com/s/xy4SA9MDe5cPchoc8TJQ0w	Google WebP图像编解码库漏洞分析(CVE-2023-4863)	qq.com	mp.weixin.qq.com	/s/xy4SA9MDe5cPchoc8TJQ0w
+20231113	取证分析	https://mp.weixin.qq.com/s/ESi0bWF_jQ4nS1-CwjxlEQ	Operation Triangulation 卡巴斯基被黑 - 续	qq.com	mp.weixin.qq.com	/s/ESi0bWF_jQ4nS1-CwjxlEQ
+20231113	比赛	https://imlonghao.com/61.html	PKU GeekGame 2023 - Writeup	imlonghao.com	imlonghao.com	/61.html
+20231113	恶意分析	https://blog.trailofbits.com/2023/11/14/our-audit-of-pypi/	Our audit of PyPI	trailofbits.com	blog.trailofbits.com	/2023/11/14/our-audit-of-pypi/
+20231113	Web安全	https://xz.aliyun.com/t/12969	多款Java模板引擎对比与模板注入的安全之旅	aliyun.com	xz.aliyun.com	/t/12969
+20231113	设备安全	https://devco.re/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2/	Your printer is not your printer ! - Hacking Printers at Pwn2Own Part II	devco.re	devco.re	/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2/
