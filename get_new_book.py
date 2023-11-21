@@ -138,7 +138,8 @@ class GetNewBook(object):
             ['comptia'],
             ['selinux'],
             ['pentesting'],
-            ['devops']
+            ['devops'],
+            ['devsecops'],
 
         ]
         self.book_language_list = ['English']
