@@ -1,0 +1,16 @@
+20231120	法规	https://www.miit.gov.cn/gzcy/yjzj/art/2023/art_2fb5b9dff755480284099f08eebdfa1e.html	工业和信息化领域数据安全行政处罚裁量指引（试行）（征求意见稿）	miit.gov.cn	www.miit.gov.cn	/gzcy/yjzj/art/2023/art_2fb5b9dff755480284099f08eebdfa1e.html
+20231120	漏洞分析	https://mp.weixin.qq.com/s/FKmd5g9tKgznGgmdHB0jPA	工商银行美国子公司勒索病毒事件分析	qq.com	mp.weixin.qq.com	/s/FKmd5g9tKgznGgmdHB0jPA
+20231120	设备安全	https://docs.openharmony.cn/pages/v4.0/zh-cn/device-dev/security/security-guidelines-overall.md/	OpenHarmony安全指南	openharmony.cn	docs.openharmony.cn	/pages/v4.0/zh-cn/device-dev/security/security-guidelines-overall.md/
+20231120	其它	https://mp.weixin.qq.com/s/Itad7Y-QBcr991JkF3SrIg	DARPA之声第73期： 人工智能网络挑战赛--CTF、代码和关键基础设施	qq.com	mp.weixin.qq.com	/s/Itad7Y-QBcr991JkF3SrIg
+20231120	其它	https://mp.weixin.qq.com/s/iDI5DhXKPUAIICb7RTAaFw	境外认知战作战力量及技术装备综述	qq.com	mp.weixin.qq.com	/s/iDI5DhXKPUAIICb7RTAaFw
+20231120	Web安全	https://github.com/chaitin/blazehttp	blazehttp: 可用于安全测试的非标准HTTP协议解析库	github.com	github.com	/chaitin/blazehttp
+20231120	杂志	https://www.sec-wiki.com/weekly/507	SecWiki周刊（第507期)	sec-wiki.com	www.sec-wiki.com	/weekly/507
+20231120	其它	https://mp.weixin.qq.com/s/3ryPezdHitR4PBXWuRsl4g	DARPA“内生认知安全”项目综述	qq.com	mp.weixin.qq.com	/s/3ryPezdHitR4PBXWuRsl4g
+20231120	其它	https://www.sec-in.com/article/2083	深度剖析GadgetInspector执行逻辑(下)	sec-in.com	www.sec-in.com	/article/2083
+20231120	其它	https://mp.weixin.qq.com/s/e-WmasBS6XE3k09KKuM2zQ	应对攻击面的未来之路：持续威胁暴露管理（CTEM）	qq.com	mp.weixin.qq.com	/s/e-WmasBS6XE3k09KKuM2zQ
+20231120	数据挖掘	https://tech.meituan.com/2023/11/23/the-intent-of-ui-interaction-understanding.html	基于UI交互意图理解的异常检测方法	meituan.com	tech.meituan.com	/2023/11/23/the-intent-of-ui-interaction-understanding.html
+20231120	设备安全	https://mp.weixin.qq.com/s/ELaSuYCfIE74sVMV19DH5Q	JA4+网络指纹	qq.com	mp.weixin.qq.com	/s/ELaSuYCfIE74sVMV19DH5Q
+20231120	观点	https://mp.weixin.qq.com/s/zSkEpBUQ7pt0MscFm-XZBg	美国NAVY发布首份网络战略	qq.com	mp.weixin.qq.com	/s/zSkEpBUQ7pt0MscFm-XZBg
+20231120	漏洞分析	https://xz.aliyun.com/t/13103	Pin动态二进制插桩技术详解	aliyun.com	xz.aliyun.com	/t/13103
+20231120	设备安全	https://mp.weixin.qq.com/s/qivAlm8g-1dllN36C1XArg	如何检测加密软件中的缓存侧信道？	qq.com	mp.weixin.qq.com	/s/qivAlm8g-1dllN36C1XArg
+20231120	其它	https://mp.weixin.qq.com/s/7N7xhwJUjLcXxRMqmJm5SA	对安全通信协议提供的密码学可否认性认可情况的调研	qq.com	mp.weixin.qq.com	/s/7N7xhwJUjLcXxRMqmJm5SA
