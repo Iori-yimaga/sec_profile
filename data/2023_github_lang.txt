@@ -1,9 +1,9 @@
-Python	76
-C	42
+Python	77
+C	43
+JavaScript	39
 C++	39
-JavaScript	38
 Go	31
-Java	26
+Java	27
 HTML	25
 Shell	22
 Rust	16
@@ -14,12 +14,12 @@ PowerShell	13
 Jupyter	8
 Ruby	8
 CSS	7
+Solidity	6
+Assembly	5
 Dockerfile	5
-Solidity	5
 Perl	4
 SCSS	4
 YARA	4
-Assembly	4
 Scala	3
 HCL	3
 Kotlin	3
@@ -31,6 +31,7 @@ OpenSCAD	1
 Makefile	1
 Lua	1
 TSQL	1
+Dart	1
 Visual	1
 Elixir	1
 Starlark	1

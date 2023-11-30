@@ -1,9 +1,9 @@
-Python	1192
-C	745
-JavaScript	716
+Python	1193
+C	746
+JavaScript	717
 C++	618
 HTML	522
-Java	512
+Java	513
 Shell	488
 Go	459
 C#	314
@@ -16,8 +16,8 @@ Rust	166
 Objective-C	143
 Jupyter	124
 Dockerfile	83
+Assembly	78
 Perl	77
-Assembly	77
 Swift	70
 Makefile	62
 Lua	61
@@ -32,7 +32,7 @@ Visual	35
 Vim	32
 YARA	28
 Haskell	27
-Dart	25
+Dart	26
 OCaml	24
 Rich	23
 Emacs	20
@@ -50,10 +50,10 @@ LLVM	11
 MATLAB	11
 Pascal	11
 F#	11
+Solidity	11
 Arduino	10
 SCSS	10
 Puppet	10
-Solidity	10
 Bro	10
 Logos	9
 R	9
