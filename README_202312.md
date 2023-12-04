@@ -15,6 +15,7 @@
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
 | 2023-12-03 08:50:00 | English | Microsoft 365 Certified Fundamentals MS-900 Exam Guide, Third Edition | unknown | https://www.wowebook.org/microsoft-365-certified-fundamentals-ms-900-exam-guide-third-edition/ | unknown| 
+| 2023-12-03 21:03:26 | English | Minimalist Data Wrangling with Python | Marek Gagolewski | http://libgen.rs/book/index.php?md5=6C4104ED1815935DE92FD9C1BD35E071 | 7 MB [PDF]| 
 
 
 # 微信公众号 推荐
@@ -246,6 +247,7 @@
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | n132 | 将任意写入转化为远程代码执行。只需知道Glibc的基地址，通过一次任意写入Glibc的GOT表，绕过2.35版本以上的保护机制，实现任意代码执行。 | https://github.com/n132/Libc-GOT-Hijacking | https://github.com/n132?tab=followers | Look Whos Back! | Tempe, Arizona | Arizona State University / Shellphish / r3kapig | 32 | 0 | 215 | 0 | 0 | Python,C | 0 | 0 | 1| 
+| nettitude | 这篇文章介绍了Tartarus-TpAllocInject，一个简单的加载器，使用Tartarus Gate方法通过间接系统调用执行shellcode，并改变了原有的CreateThreadPoolWait函数的调用方式，从而实现了OPSEC安全的红队操作。 | https://github.com/nettitude/Tartarus-TpAllocInject | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C#,PHP,PowerShell,C++ | 0 | 0 | 1| 
 
 
 

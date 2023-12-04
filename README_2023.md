@@ -35,6 +35,7 @@
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
 | 2023-12-03 08:50:00 | English | Microsoft 365 Certified Fundamentals MS-900 Exam Guide, Third Edition | unknown | https://www.wowebook.org/microsoft-365-certified-fundamentals-ms-900-exam-guide-third-edition/ | unknown| 
+| 2023-12-03 21:03:26 | English | Minimalist Data Wrangling with Python | Marek Gagolewski | http://libgen.rs/book/index.php?md5=6C4104ED1815935DE92FD9C1BD35E071 | 7 MB [PDF]| 
 | 2023-11-30 07:53:27 | English | Learn AI-Assisted Python Programming | unknown | https://www.wowebook.org/learn-ai-assisted-python-programming/ | unknown| 
 | 2023-11-29 08:07:34 | English | Managing Cloud Native Data on Kubernetes | unknown | https://www.wowebook.org/managing-cloud-native-data-on-kubernetes/ | unknown| 
 | 2023-11-29 09:23:22 | English | CompTIA Cybersecurity Analyst (CySA+) CS0-003 (Video Course) | unknown | https://www.wowebook.org/comptia-cybersecurity-analyst-cysa-cs0-003-video-course/ | unknown| 
@@ -1353,6 +1354,7 @@
 | n132 | 将任意写入转化为远程代码执行。只需知道Glibc的基地址，通过一次任意写入Glibc的GOT表，绕过2.35版本以上的保护机制，实现任意代码执行。 | https://github.com/n132/Libc-GOT-Hijacking | https://github.com/n132?tab=followers | Look Whos Back! | Tempe, Arizona | Arizona State University / Shellphish / r3kapig | 32 | 0 | 215 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | nanabingies | Dell dbutil_2_3.sys 驱动提权漏洞的exp | https://github.com/nanabingies/CVE-2021-21551 | https://github.com/nanabingies?tab=followers | if you base your expectations on what you see, you blind yourself to the possibilities of what could be | Accra, Ghana | None | 21 | 0 | 21 | 0 | 0 | Assembly,C++ | 0 | 0 | 1| 
 | nccgroup | libslub 是一个 python 库，用于检查 Linux 内核堆实现的 SLUB 管理结构和对象分配（Linux 内核堆实现），可用于 GDB 调试器 | https://github.com/nccgroup/libslub | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Java,Python,JavaScript,C#,Elixir,HCL | 0 | 0 | 1| 
+| nettitude | 这篇文章介绍了Tartarus-TpAllocInject，一个简单的加载器，使用Tartarus Gate方法通过间接系统调用执行shellcode，并改变了原有的CreateThreadPoolWait函数的调用方式，从而实现了OPSEC安全的红队操作。 | https://github.com/nettitude/Tartarus-TpAllocInject | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C#,PHP,PowerShell,C++ | 0 | 0 | 1| 
 | nikn0laty | pdfkit命令执行漏洞CVE-2022-25765 Exp | https://github.com/nikn0laty/PDFkit-CMD-Injection-CVE-2022-25765 | https://github.com/nikn0laty?tab=followers |  | None | None | 1 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | notfromstatefarm | nvflashk - 一款绕过GP BIOS的工具，允许用户绕过工厂BIOS的所有限制，使用户能够从他们所购买的硬件中获得最大性能 | https://github.com/notfromstatefarm/nvflashk | https://github.com/notfromstatefarm?tab=followers | beep beep | None | None | 11 | 0 | 8 | 0 | 0 | Go | 0 | 0 | 1| 
 | nquinlan | 为什么 Math.random 不应该用于生产环境的编程 | https://github.com/nquinlan/better-random-numbers-for-javascript-mirror | https://github.com/MLH | COO @MLH | Seattle, WA | Major League Hacking | 95 | 0 | 80 | 0 | 0 | JavaScript,Ruby | 0 | 0 | 1| 

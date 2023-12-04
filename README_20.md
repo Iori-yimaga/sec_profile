@@ -68,6 +68,7 @@
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
 | 2023-12-03 08:50:00 | English | Microsoft 365 Certified Fundamentals MS-900 Exam Guide, Third Edition | unknown | https://www.wowebook.org/microsoft-365-certified-fundamentals-ms-900-exam-guide-third-edition/ | unknown| 
+| 2023-12-03 21:03:26 | English | Minimalist Data Wrangling with Python | Marek Gagolewski | http://libgen.rs/book/index.php?md5=6C4104ED1815935DE92FD9C1BD35E071 | 7 MB [PDF]| 
 | 2023-11-30 07:53:27 | English | Learn AI-Assisted Python Programming | unknown | https://www.wowebook.org/learn-ai-assisted-python-programming/ | unknown| 
 | 2023-11-29 08:07:34 | English | Managing Cloud Native Data on Kubernetes | unknown | https://www.wowebook.org/managing-cloud-native-data-on-kubernetes/ | unknown| 
 | 2023-11-29 09:23:22 | English | CompTIA Cybersecurity Analyst (CySA+) CS0-003 (Video Course) | unknown | https://www.wowebook.org/comptia-cybersecurity-analyst-cysa-cs0-003-video-course/ | unknown| 
@@ -5563,6 +5564,7 @@
 | nccgroup | libslub 是一个 python 库，用于检查 Linux 内核堆实现的 SLUB 管理结构和对象分配（Linux 内核堆实现），可用于 GDB 调试器 | https://github.com/nccgroup/libslub | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Java,Python,JavaScript,C#,Elixir,HCL | 0 | 0 | 5| 
 | neargle | 从零开始的 Kubernetes 攻防 | https://github.com/neargle/my-re0-k8s-security | https://github.com/Tencent | 💭 高级安全从业焦虑研究员 @Tencent . Security of CloudNative、Kubernetes And Container... ACGer~ | Xiamen(Amoy) | Tencent | 64 | 0 | 1200 | 0 | 0 | Go,Python,Shell,TypeScript | 0 | 0 | 1| 
 | net-ninja | A heap analysis tool for Immunity Debugger. | https://github.com/net-ninja/heaper | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| nettitude | 这篇文章介绍了Tartarus-TpAllocInject，一个简单的加载器，使用Tartarus Gate方法通过间接系统调用执行shellcode，并改变了原有的CreateThreadPoolWait函数的调用方式，从而实现了OPSEC安全的红队操作。 | https://github.com/nettitude/Tartarus-TpAllocInject | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C#,PHP,PowerShell,C++ | 0 | 0 | 1| 
 | netxfly | 如何实现一个基于代理的web扫描器 | https://github.com/netxfly/passive_scan | https://github.com/netxfly?tab=followers | 微信：netxfly | beijing | xsec | 25 | 0 | 3700 | 0 | 0 | Go,Python | 0 | 0 | 5| 
 | netzob | Netzob：用于协议逆向工程，建模与模糊测试项目脚本工具。 | https://github.com/netzob/netzob | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | nezha-dt | nezha - 一款差分模糊测试工具: | https://github.com/nezha-dt/nezha | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C++ | 0 | 0 | 1| 
