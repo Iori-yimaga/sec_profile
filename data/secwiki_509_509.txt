@@ -1,0 +1,13 @@
+20231127	数据挖掘	https://mp.weixin.qq.com/s/WsyuAWqyA185uyrQAaNzeQ	SecGPT：网络安全大模型	qq.com	mp.weixin.qq.com	/s/WsyuAWqyA185uyrQAaNzeQ
+20231127	其它	https://mp.weixin.qq.com/s/KKVZyNnQQv4kt3nLIEL2wA	解读英国国防部网络入门教程	qq.com	mp.weixin.qq.com	/s/KKVZyNnQQv4kt3nLIEL2wA
+20231127	漏洞分析	https://mp.weixin.qq.com/s/uo8puZwh3gzqfen5ED1KgQ	USB FUZZ 工具前沿探索	qq.com	mp.weixin.qq.com	/s/uo8puZwh3gzqfen5ED1KgQ
+20231127	漏洞分析	https://mp.weixin.qq.com/s/ib6QjElmhWSHBpgp4igqtg	Winrar RCE漏洞分析 CVE-2023-40477	qq.com	mp.weixin.qq.com	/s/ib6QjElmhWSHBpgp4igqtg
+20231127	取证分析	https://mp.weixin.qq.com/s/xst2Qyr4zATFr3OlmIKQ6g	ClickHouse + ClickVisual 构建日志平台	qq.com	mp.weixin.qq.com	/s/xst2Qyr4zATFr3OlmIKQ6g
+20231127	数据挖掘	https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330303	大型语言模型：原理、实现与发展	ict.ac.cn	crad.ict.ac.cn	/cn/article/doi/10.7544/issn1000-1239.202330303
+20231127	其它	https://www.sec-in.com/article/896	amazon-redshift-jdbc-driver 任意代码执行漏洞	sec-in.com	www.sec-in.com	/article/896
+20231127	漏洞分析	https://securingbits.com/bypassing-google-cloud-api-gateway	Unveiling a Critical Authentication Bypass Vulnerability in Google Cloud API Gateway	securingbits.com	securingbits.com	/bypassing-google-cloud-api-gateway
+20231127	杂志	https://www.sec-wiki.com/weekly/508	SecWiki周刊（第508期)	sec-wiki.com	www.sec-wiki.com	/weekly/508
+20231127	Web安全	https://sensepost.com/blog/2023/dress-code-the-talk/	Dress Code - Analysis of the current status of the Content Security Policy	sensepost.com	sensepost.com	/blog/2023/dress-code-the-talk/
+20231127	恶意分析	https://mp.weixin.qq.com/s/_VPJuztJa3oGcRiLjpxUFg	可扩展和语义保持的反病毒引擎标签挖掘	qq.com	mp.weixin.qq.com	/s/_VPJuztJa3oGcRiLjpxUFg
+20231127	漏洞分析	https://mp.weixin.qq.com/s/z5YERA_r0bsJWh9R1PdV_g	ItyFuzz：基于快照的智能合约模糊测试	qq.com	mp.weixin.qq.com	/s/z5YERA_r0bsJWh9R1PdV_g
+20231127	漏洞分析	https://mp.weixin.qq.com/s/9KVaLyGr76jhPQ0pXaBRWg	Windows NTFS本地提权漏洞 CVE-2021-31956	qq.com	mp.weixin.qq.com	/s/9KVaLyGr76jhPQ0pXaBRWg
