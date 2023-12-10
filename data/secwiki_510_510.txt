@@ -1,0 +1,12 @@
+20231204	其它	https://mp.weixin.qq.com/s/jusqCymbMUSMtMqLntnuMQ	2023年黑灰产攻防最新趋势	qq.com	mp.weixin.qq.com	/s/jusqCymbMUSMtMqLntnuMQ
+20231204	杂志	https://www.sec-wiki.com/weekly/509	SecWiki周刊（第509期)	sec-wiki.com	www.sec-wiki.com	/weekly/509
+20231204	数据挖掘	https://mp.weixin.qq.com/s/XAH4y1F0ukyyqdQx_XYhYg	从ChatGPT代码执行逃逸到LLMs应用安全思考	qq.com	mp.weixin.qq.com	/s/XAH4y1F0ukyyqdQx_XYhYg
+20231204	恶意分析	https://mp.weixin.qq.com/s/yuAz4plaJH1l-IV2Ftjt1Q	IDA 插件大赛 2023	qq.com	mp.weixin.qq.com	/s/yuAz4plaJH1l-IV2Ftjt1Q
+20231204	恶意分析	https://mp.weixin.qq.com/s/-0l0O48PYxmqg6Hd84D-CQ	AI 如何赋能恶意软件分析	qq.com	mp.weixin.qq.com	/s/-0l0O48PYxmqg6Hd84D-CQ
+20231204	数据挖掘	https://mp.weixin.qq.com/s/2bm7nuXkORLZ20mfpOmwrA	LLMs安全：针对业务模型应用场景下提示词的攻击手段与危害	qq.com	mp.weixin.qq.com	/s/2bm7nuXkORLZ20mfpOmwrA
+20231204	漏洞分析	https://mp.weixin.qq.com/s/eFYvh0vNWZx1v_CuiikCyw	call_user_func 命令执行审计	qq.com	mp.weixin.qq.com	/s/eFYvh0vNWZx1v_CuiikCyw
+20231204	恶意分析	https://mp.weixin.qq.com/s/memYq9lLMsPmN46YoBS5zg	安全运营中的加密流量检测技术	qq.com	mp.weixin.qq.com	/s/memYq9lLMsPmN46YoBS5zg
+20231204	其它	https://mp.weixin.qq.com/s/USgl8S41fyORJgOOqOmPkg	网络社会安全：一门新兴科学（上）	qq.com	mp.weixin.qq.com	/s/USgl8S41fyORJgOOqOmPkg
+20231204	其它	https://mp.weixin.qq.com/s/j4m6ZL-dE0RyyewASs7ydA	网络社会安全：一门新兴科学（下）	qq.com	mp.weixin.qq.com	/s/j4m6ZL-dE0RyyewASs7ydA
+20231204	漏洞分析	https://fangpsh.github.io/posts/2023/2023-10-02.html	源站IP ACL绕过的风险	github.io	fangpsh.github.io	/posts/2023/2023-10-02.html
+20231204	恶意分析	https://mp.weixin.qq.com/s/iLuis0npdkSR98F43yv4ww	ObserverStealer 窃密木马分析及拓线	qq.com	mp.weixin.qq.com	/s/iLuis0npdkSR98F43yv4ww
