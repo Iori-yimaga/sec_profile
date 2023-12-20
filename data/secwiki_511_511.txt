@@ -1,0 +1,9 @@
+20231211	其它	https://mp.weixin.qq.com/s/bw-v8PMMiaS5RvZizqw-1A	2024年网络安全趋势简析	qq.com	mp.weixin.qq.com	/s/bw-v8PMMiaS5RvZizqw-1A
+20231211	Web安全	https://mp.weixin.qq.com/s/kk5ihEWfhF_nTW3WGqCx3A	模拟 TLS 指纹实现反反爬	qq.com	mp.weixin.qq.com	/s/kk5ihEWfhF_nTW3WGqCx3A
+20231211	漏洞分析	https://mp.weixin.qq.com/s/lvdj5TzOPy_S9-MaYDfdcw	软件安全国内外研究团队调研报告（上）	qq.com	mp.weixin.qq.com	/s/lvdj5TzOPy_S9-MaYDfdcw
+20231211	杂志	https://www.sec-wiki.com/weekly/510	SecWiki周刊（第510期)	sec-wiki.com	www.sec-wiki.com	/weekly/510
+20231211	运维安全	https://mp.weixin.qq.com/s/42hjlsyjoAFREYMQoj9REw	基于飞书实现漏洞运营自动化	qq.com	mp.weixin.qq.com	/s/42hjlsyjoAFREYMQoj9REw
+20231211	数据挖掘	https://mp.weixin.qq.com/s/kXSiXfgsezfLZjR-cGb5vg	大模型在代码缺陷检测领域的应用实践	qq.com	mp.weixin.qq.com	/s/kXSiXfgsezfLZjR-cGb5vg
+20231211	数据挖掘	https://mp.weixin.qq.com/s/d8iJ-Qmml4ZgSCIyWnQPYA	使用知识图谱和Llama-Index实现基于大模型的RAG	qq.com	mp.weixin.qq.com	/s/d8iJ-Qmml4ZgSCIyWnQPYA
+20231211	无线安全	https://mp.weixin.qq.com/s/pFtAfVEFoYQy5EziiAbcMw	对某嵌入式设备声波配网的研究	qq.com	mp.weixin.qq.com	/s/pFtAfVEFoYQy5EziiAbcMw
+20231211	漏洞分析	https://mp.weixin.qq.com/s/gVC7wv2unhIU65_UPLjglw	软件安全国内外研究团队调研报告（下）	qq.com	mp.weixin.qq.com	/s/gVC7wv2unhIU65_UPLjglw
