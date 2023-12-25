@@ -1,0 +1,13 @@
+20231218	取证分析	https://mp.weixin.qq.com/s/NI2OMCaaEGSr3oVwXwoepw	蓝队应急响应工具箱使用手册	qq.com	mp.weixin.qq.com	/s/NI2OMCaaEGSr3oVwXwoepw
+20231218	漏洞分析	https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247484732&idx=1&sn=5e8fce255a786deb0408c895ca6e7bda&chksm=cf830c4df8f4855bb78a59ba7c22ba3ed55741d60d7de15ee46faf8f7b8856867a0e0c0c5f2b&mpshare=1&scene=1&srcid=1218xHOu73EvIwUPm3S6pDQH&sharer_shar	CVE-2023-39785堆栈溢出漏洞分析	qq.com	mp.weixin.qq.com	/s
+20231218	取证分析	https://mp.weixin.qq.com/s/u4-f8iHEYeUvSWnzo9dTGw	2023年数据泄露态势报告	qq.com	mp.weixin.qq.com	/s/u4-f8iHEYeUvSWnzo9dTGw
+20231218	其它	https://mp.weixin.qq.com/s/Co68c-M5SEVhjuDsSdziCg	关于加解密测试的一些浅谈	qq.com	mp.weixin.qq.com	/s/Co68c-M5SEVhjuDsSdziCg
+20231218	漏洞分析	https://mp.weixin.qq.com/s/k_1QqhwERiQ_4gBKaB1Qqg	DeepWukong-基于图神经网络的软件漏洞静态检测方法	qq.com	mp.weixin.qq.com	/s/k_1QqhwERiQ_4gBKaB1Qqg
+20231218	杂志	https://www.sec-wiki.com/weekly/511	SecWiki周刊（第511期)	sec-wiki.com	www.sec-wiki.com	/weekly/511
+20231218	数据挖掘	https://mp.weixin.qq.com/s/tUBkFR6UeiwzhPIbsTEG9Q	Codefuse-ChatBot：开源的 AI 智能助手	qq.com	mp.weixin.qq.com	/s/tUBkFR6UeiwzhPIbsTEG9Q
+20231218	其它	https://www.bilibili.com/video/BV14u4y1H7ik/	区块链安全训练营在线课程	bilibili.com	www.bilibili.com	/video/BV14u4y1H7ik/
+20231218	恶意分析	https://mp.weixin.qq.com/s/LHegfuU-zSPNBarLCNV0PQ	图神经网络和代码大模型提升二进制比对	qq.com	mp.weixin.qq.com	/s/LHegfuU-zSPNBarLCNV0PQ
+20231218	Web安全	https://github.com/TideSec/Tscanplus	TscanPlus: 一款综合性网络安全检测和运维工具	github.com	github.com	/TideSec/Tscanplus
+20231218	其它	https://mp.weixin.qq.com/s/Ev_6ehNDjB9Sn_g_nyqN2w	工作汇报如何体现安全工作的价值	qq.com	mp.weixin.qq.com	/s/Ev_6ehNDjB9Sn_g_nyqN2w
+20231218	其它	https://github.com/alipay/ant-application-security-testing-benchmark	xAST（应用安全测试技术）	github.com	github.com	/alipay/ant-application-security-testing-benchmark
+20231218	漏洞分析	https://mp.weixin.qq.com/s/N-c44iWT1HlKUvQ28poJrQ	ChatAFL：LLM模型指导的协议模糊测试	qq.com	mp.weixin.qq.com	/s/N-c44iWT1HlKUvQ28poJrQ

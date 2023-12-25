@@ -1,7 +1,7 @@
-Python	1196
-C	748
+Python	1197
+C	749
 JavaScript	718
-C++	620
+C++	621
 HTML	522
 Java	514
 Shell	488
@@ -45,9 +45,9 @@ Smarty	14
 Roff	13
 ASP	13
 Objective-C++	12
+MATLAB	12
 Erlang	12
 LLVM	11
-MATLAB	11
 Pascal	11
 F#	11
 Solidity	11

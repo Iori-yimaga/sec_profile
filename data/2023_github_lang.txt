@@ -1,6 +1,6 @@
-Python	80
-C	45
-C++	41
+Python	81
+C	46
+C++	42
 JavaScript	40
 Go	33
 Java	28
@@ -34,6 +34,7 @@ TSQL	1
 Dart	1
 Visual	1
 Elixir	1
+MATLAB	1
 XSLT	1
 Starlark	1
 Smali	1
