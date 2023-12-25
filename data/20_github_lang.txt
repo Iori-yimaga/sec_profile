@@ -5,11 +5,11 @@ C++	621
 HTML	522
 Java	514
 Shell	488
-Go	461
+Go	462
 C#	316
 Ruby	269
-PowerShell	256
-PHP	232
+PowerShell	257
+PHP	233
 CSS	229
 TypeScript	201
 Rust	167
