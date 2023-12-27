@@ -165,7 +165,6 @@
 | 信安404 | infosec404 | 获得CISSP后我的求职更新 | https://mp.weixin.qq.com/s?__biz=Mzk0NjQ5MTM1MA==&mid=2247486044&idx=1&sn=a0a6a6211532e421b4c3e3636075b143 | 35| 
 | 信安之路 | xazlsec | 自由职业的第三年 | https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247498924&idx=1&sn=a182bb828735da2a9263a2c07baa0e85 | 4| 
 | 全频带阻塞干扰 | RFJamming | TSCM海外技术专家课 , 第一期 • 圆满结束 | https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648956702&idx=1&sn=2816101b015ac21ed4e43e79b41e682d | 4| 
-| 初遇红尘 | gh_58b286fa47f3 | 某东红队钓鱼样本-GGBond.dll分析 | https://mp.weixin.qq.com/s?__biz=Mzg3ODYzOTgyOA==&mid=2247490469&idx=1&sn=d5fa2158bbbb9cd51ffe79a0132aae87 | 1| 
 | 前沿信安资讯阵地 | infosrc | 电信网路由安全白皮书 | https://mp.weixin.qq.com/s?__biz=MzA3MTM0NTQzNA==&mid=2455768916&idx=1&sn=24721ba3e577e9c921e71da317e7ee2e | 39| 
 | 可汗安全团队 | None | 裁裁裁 | https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247492130&idx=1&sn=3a676b734fe84c3bfbe55ac7026735f4 | 23| 
 | 听风安全 | tingfengsec | 当网络安全宣贯遇上诗词，注定和古风撞个满怀~ | https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247498526&idx=1&sn=5d7bd5c11df7da1c492a336c0ed25317 | 26| 
