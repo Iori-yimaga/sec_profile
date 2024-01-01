@@ -1,0 +1,19 @@
+20231225	其它	https://mp.weixin.qq.com/s/OLwrlySUZByhJxgrLBNLLw	美国家安全局发布2023年度网络安全工作回顾报告	qq.com	mp.weixin.qq.com	/s/OLwrlySUZByhJxgrLBNLLw
+20231225	Web安全	https://github.com/arch3rPro/Pentest-Windows/	开箱即用的windows渗透测试环境	github.com	github.com	/arch3rPro/Pentest-Windows/
+20231225	Web安全	https://mp.weixin.qq.com/s/stXcVtIExTZvtc-ErDHfZg	人与代码的桥梁 - 聊聊SAST	qq.com	mp.weixin.qq.com	/s/stXcVtIExTZvtc-ErDHfZg
+20231225	比赛	https://mp.weixin.qq.com/s/xISgiydBLA73pOeI3XFphw	Black Hat 2023 Pwn题House of minho详解	qq.com	mp.weixin.qq.com	/s/xISgiydBLA73pOeI3XFphw
+20231225	取证分析	https://darkhandbook.io/CN-Blockchain-dark-forest-selfguard-handbook-V1.1.pdf	区块链黑暗森林自救手册 1.1	darkhandbook.io	darkhandbook.io	/CN-Blockchain-dark-forest-selfguard-handbook-V1.1.pdf
+20231225	恶意分析	https://mp.weixin.qq.com/s/c8ladv30wSAX3Oz1yc1fBA	XG拟态-Webshell流量混淆功能	qq.com	mp.weixin.qq.com	/s/c8ladv30wSAX3Oz1yc1fBA
+20231225	工具	https://mp.weixin.qq.com/s/cJPA_j2PuXHxUR6h50bc3w	IDA Pro 8.3 绿色版	qq.com	mp.weixin.qq.com	/s/cJPA_j2PuXHxUR6h50bc3w
+20231225	Web安全	https://mp.weixin.qq.com/s/nZBYQC_Mv2-F0WPcG__M6A	从传统到AI探讨Webshell检测攻防对抗	qq.com	mp.weixin.qq.com	/s/nZBYQC_Mv2-F0WPcG__M6A
+20231225	其它	https://mp.weixin.qq.com/s/5c42vOQNNXc6FW-enOCVAg	2023全球十大网络安全演习	qq.com	mp.weixin.qq.com	/s/5c42vOQNNXc6FW-enOCVAg
+20231225	比赛	https://dce.i-soon.net/#/group/detail/31	第六届网络安全挑战赛官方WP	i-soon.net	dce.i-soon.net	/
+20231225	取证分析	https://mp.weixin.qq.com/s/rY8DTnRIr3ORYowiFwnLoQ	教科书级基于钻石模型的分析报告	qq.com	mp.weixin.qq.com	/s/rY8DTnRIr3ORYowiFwnLoQ
+20231225	漏洞分析	https://mp.weixin.qq.com/s/KLkItMhyPS9ZRQjxJ3q0LA	CVE漏洞的威胁优先级和影响预测分析	qq.com	mp.weixin.qq.com	/s/KLkItMhyPS9ZRQjxJ3q0LA
+20231225	恶意分析	https://mp.weixin.qq.com/s/KmTL1_uZR5Xcy2lITbVHMA	The Finals SDK与某辅助的驱动注入	qq.com	mp.weixin.qq.com	/s/KmTL1_uZR5Xcy2lITbVHMA
+20231225	杂志	https://www.sec-wiki.com/weekly/512	SecWiki周刊（第512期)	sec-wiki.com	www.sec-wiki.com	/weekly/512
+20231225	漏洞分析	https://mp.weixin.qq.com/s/_hy7tJ8JB7BPdi6FyzhvXg	2023信息安全领域四大顶会fuzz方向论文汇总	qq.com	mp.weixin.qq.com	/s/_hy7tJ8JB7BPdi6FyzhvXg
+20231225	漏洞分析	https://mp.weixin.qq.com/s/752lYRaCcaF-9I2ErvapiQ?version=4.1.16.6007&platform=win	Fuzz工具对比及使用体验	qq.com	mp.weixin.qq.com	/s/752lYRaCcaF-9I2ErvapiQ
+20231225	取证分析	https://mp.weixin.qq.com/s/R1ien99W5KV1RhaE_haEnw	利用苹果设备硬件隐秘机制的网络攻击活动揭密	qq.com	mp.weixin.qq.com	/s/R1ien99W5KV1RhaE_haEnw
+20231225	运维安全	https://mp.weixin.qq.com/s/L6CA8FKw5RMsXdJSAQ4i6w	企业级跨应用静态污点分析	qq.com	mp.weixin.qq.com	/s/L6CA8FKw5RMsXdJSAQ4i6w
+20231225	恶意分析	https://mp.weixin.qq.com/s/2xkDjRniJjCbzvxFdA9yqg	方程式组织攻击iOS系统的历史样本分析	qq.com	mp.weixin.qq.com	/s/2xkDjRniJjCbzvxFdA9yqg
