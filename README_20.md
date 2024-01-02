@@ -196,6 +196,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 二进制磨剑 | pyable | IdaClu 插件：逆向工程师的新神器 | https://mp.weixin.qq.com/s/hkESWTKB1YlB3W0lvkzUDA | 1| 
 | 湛卢工作室 | xuehao_studio | 说说安全验证 | https://mp.weixin.qq.com/s/GT8vPM-y45aWXcXIqOAvEQ | 18| 
 | ADLab | v_adlab | ADLab 2023年安全研究回顾 | https://mp.weixin.qq.com/s?__biz=MzAwNTI1NDI3MQ==&mid=2649619194&idx=1&sn=b0ea02daf8f84fd9bc08060b5d0c0aa5 | 20| 
 | AI与网安 | gh_c57275954216 | 【漏洞复现】CVE-2023-49070 | https://mp.weixin.qq.com/s?__biz=MzU1ODQ2NTY3Ng==&mid=2247485030&idx=1&sn=15369d4070c36d0781b19172a26bc593 | 20| 

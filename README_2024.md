@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 二进制磨剑 | pyable | IdaClu 插件：逆向工程师的新神器 | https://mp.weixin.qq.com/s/hkESWTKB1YlB3W0lvkzUDA | 1| 
 | 湛卢工作室 | xuehao_studio | 说说安全验证 | https://mp.weixin.qq.com/s/GT8vPM-y45aWXcXIqOAvEQ | 1| 
 
 
