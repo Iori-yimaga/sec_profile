@@ -4,7 +4,7 @@ JavaScript	718
 C++	621
 HTML	522
 Java	514
-Shell	488
+Shell	489
 Go	462
 C#	316
 Ruby	269
@@ -31,8 +31,8 @@ HCL	37
 Visual	35
 Vim	32
 YARA	28
+Dart	27
 Haskell	27
-Dart	26
 OCaml	24
 Rich	23
 Emacs	20
