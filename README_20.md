@@ -284,7 +284,7 @@
 | 生有可恋 | hyang0-1 | 使用 python 创建 windows 服务 | https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247490230&idx=1&sn=459f3163b53c20ead1ce6088f4ee2320 | 10| 
 | 白帽子 | NS-CTF | 域渗透初级命令 | https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247263&idx=1&sn=2a573f123e3235897dd46d52da51bcf5 | 26| 
 | 皓月当空w | hanaffectionl | U8cloud系统PrintTemplateFileServlet接口泄露敏感信息漏洞 | https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485452&idx=1&sn=a1fce6925516b98e4135c1afa0b00c07 | 54| 
-| 看雪学苑 | ikanxue | 使用docker调试和部署pwn题 | https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458534230&idx=1&sn=6378935f291b760e54d5b199848ee4b4 | 282| 
+| 看雪学苑 | ikanxue | 使用docker调试和部署pwn题 | https://mp.weixin.qq.com/s/gfn3B3nXcpvxXZI5O4bRpQ | 283| 
 | 知机安全 | gh_ad3e7f23f43a | 伊朗黑客组织发动网络攻击，以No-Justice抹消工具为武器 | https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247484984&idx=1&sn=c6a2ff3b448dcbb04d96f375fbcdc671 | 25| 
 | 知黑守白 | gh_cfd31ff54692 | 【漏洞复现】睿因科技-wavlink-路由器-多处前台RCE | https://mp.weixin.qq.com/s?__biz=MzkyNTU4MDc5Mw==&mid=2247485128&idx=1&sn=f5aac80f3732be96a2b4db7d88d4de94 | 8| 
 | 祺印说信安 | qiyinshuoxinan | 保护企业云免受恶意独行者的侵害 | https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652103951&idx=1&sn=1086ace1c334bf700e8b157b0663c9e3 | 166| 
