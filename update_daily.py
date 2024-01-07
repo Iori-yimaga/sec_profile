@@ -23,7 +23,7 @@ def scraw(proxy=None):
 
     so = SQLiteOper("data/scrap.db")
     print("scraw doonsec")
-    #doonsec_scraw(so, proxy=None, delta=10)
+    doonsec_scraw(so, proxy=None, delta=10)
     print("scraw secwiki")
     secwiki_scraw(so, proxy=None, delta=10)
     print("scraw xuanwu")
@@ -60,7 +60,7 @@ if __name__ == "__main__":
         'https': "http://127.0.0.1:8001",
         #"socks:": "socks://127.0.0.1:1080",
     }
-    proxy = None
+    #proxy = None
 
     scraw(proxy=proxy)
 
