@@ -22,8 +22,8 @@ def scraw(proxy=None):
     """
 
     so = SQLiteOper("data/scrap.db")
-    print("scraw doonsec")
-    doonsec_scraw(so, proxy=None, delta=10)
+    #print("scraw doonsec")
+    #doonsec_scraw(so, proxy=None, delta=10)
     print("scraw secwiki")
     secwiki_scraw(so, proxy=None, delta=10)
     print("scraw xuanwu")
