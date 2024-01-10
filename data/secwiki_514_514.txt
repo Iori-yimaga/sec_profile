@@ -1,0 +1,17 @@
+20240101	法规	https://mp.weixin.qq.com/s/W16lF-TjBnFs7khI4ejUaQ	铁路关键信息基础设施安全保护管理办法	qq.com	mp.weixin.qq.com	/s/W16lF-TjBnFs7khI4ejUaQ
+20240101	运维安全	https://mp.weixin.qq.com/s/GT8vPM-y45aWXcXIqOAvEQ	说说安全验证	qq.com	mp.weixin.qq.com	/s/GT8vPM-y45aWXcXIqOAvEQ
+20240101	漏洞分析	https://mp.weixin.qq.com/s/hkESWTKB1YlB3W0lvkzUDA	IdaClu 插件：逆向工程师的新神器	qq.com	mp.weixin.qq.com	/s/hkESWTKB1YlB3W0lvkzUDA
+20240101	观点	https://peirs.net/why-cyber-security-business-is-hard-to-get-benefit/	为什么乙方安全业务难做	peirs.net	peirs.net	/why-cyber-security-business-is-hard-to-get-benefit/
+20240101	漏洞分析	https://gh0st.cn/archives/2023-12-18/1	客户端应用漏洞挖掘之旅	gh0st.cn	gh0st.cn	/archives/2023-12-18/1
+20240101	取证分析	https://mp.weixin.qq.com/s/mOUrub6FZsWzpUordwIFeA	卡巴三角行动演讲几个有意思的点	qq.com	mp.weixin.qq.com	/s/mOUrub6FZsWzpUordwIFeA
+20240101	漏洞分析	https://bypass.blog.csdn.net/article/details/132893267	Docker 恶意挖矿镜像应急实例	csdn.net	bypass.blog.csdn.net	/article/details/132893267
+20240101	杂志	https://www.sec-wiki.com/weekly/513	SecWiki周刊（第513期)	sec-wiki.com	www.sec-wiki.com	/weekly/513
+20240101	其它	https://mp.weixin.qq.com/s/UMDhqjWkvRi5JlIoyFLkMQ	一体化智能技术体系构想	qq.com	mp.weixin.qq.com	/s/UMDhqjWkvRi5JlIoyFLkMQ
+20240101	Web安全	https://mp.weixin.qq.com/s/XomBcHD9G1zvLhDjihdHxw	获取vCenter锁屏主机hash	qq.com	mp.weixin.qq.com	/s/XomBcHD9G1zvLhDjihdHxw
+20240101	设备安全	https://www.callisto-auto.com/Report-2023-CN.pdf	2023智能汽车网络安全威胁报告	callisto-auto.com	www.callisto-auto.com	/Report-2023-CN.pdf
+20240101	漏洞分析	https://bypass.blog.csdn.net/article/details/135075387	K8s攻击案例：RBAC配置不当导致集群接管	csdn.net	bypass.blog.csdn.net	/article/details/135075387
+20240101	比赛	https://mp.weixin.qq.com/s/gfn3B3nXcpvxXZI5O4bRpQ	使用docker调试和部署pwn题	qq.com	mp.weixin.qq.com	/s/gfn3B3nXcpvxXZI5O4bRpQ
+20240101	比赛	https://mp.weixin.qq.com/s/TrWjfCuWYmli4cu_vLCRDg	CTFTIME国际性网络安全夺旗赛事统计分析	qq.com	mp.weixin.qq.com	/s/TrWjfCuWYmli4cu_vLCRDg
+20240101	漏洞分析	https://bypass.blog.csdn.net/article/details/135212126	K8s攻击案例：组件未授权访问导致集群入侵	csdn.net	bypass.blog.csdn.net	/article/details/135212126
+20240101	Web安全	https://mp.weixin.qq.com/s/I5BTQoiu-iDPvwFxWeRyqA	tabby静态分析实践	qq.com	mp.weixin.qq.com	/s/I5BTQoiu-iDPvwFxWeRyqA
+20240101	漏洞分析	https://bypass.blog.csdn.net/article/details/135098395	K8s攻击案例：Privileged特权容器导致节点沦陷	csdn.net	bypass.blog.csdn.net	/article/details/135098395
