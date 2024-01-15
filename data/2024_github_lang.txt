@@ -1,7 +1,8 @@
+Python	3
 JavaScript	3
 C	2
 Shell	2
-Python	2
 Dart	1
 C#	1
+Go	1
 PowerShell	1

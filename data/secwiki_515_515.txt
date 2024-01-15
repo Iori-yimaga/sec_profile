@@ -1,0 +1,19 @@
+20240108	数据挖掘	https://mp.weixin.qq.com/s/ldk-7M_zg1o909CiCwZIvQ	2022年魔都数据泄露始末	qq.com	mp.weixin.qq.com	/s/ldk-7M_zg1o909CiCwZIvQ
+20240108	漏洞分析	https://mp.weixin.qq.com/s/42ETiCS-e-yfvBdAfre3xg	HackerGPT&WhiteRabbitNeo的使用及体验对比	qq.com	mp.weixin.qq.com	/s/42ETiCS-e-yfvBdAfre3xg
+20240108	Web安全	https://mp.weixin.qq.com/s/yaDtGeKpuzFQZDoRdaAPKg	Chrome 调试模式学习	qq.com	mp.weixin.qq.com	/s/yaDtGeKpuzFQZDoRdaAPKg
+20240108	数据挖掘	https://zhuanlan.zhihu.com/p/676543080	被低估的Prompt	zhihu.com	zhuanlan.zhihu.com	/p/676543080
+20240108	其它	https://mp.weixin.qq.com/s/o3HnQlicgR3cl4t5BFV6Ug	Gartne《2024年网络安全主要趋势》	qq.com	mp.weixin.qq.com	/s/o3HnQlicgR3cl4t5BFV6Ug
+20240108	取证分析	https://mp.weixin.qq.com/s/K1tb86Gy6V9GlrIb__ZM_g	波音遭遇勒索攻击事件分析复盘——定向勒索的威胁趋势分析与防御思考	qq.com	mp.weixin.qq.com	/s/K1tb86Gy6V9GlrIb__ZM_g
+20240108	其它	https://mp.weixin.qq.com/s/3_Uy27WvNSf3e35mJWBVEQ	2024年国家自然科学基金安全领域部分题目列表	qq.com	mp.weixin.qq.com	/s/3_Uy27WvNSf3e35mJWBVEQ
+20240108	漏洞分析	https://mp.weixin.qq.com/s/MyT_EWKaVYTStEUi3MKSOw	Linksys设备多个0-day漏洞	qq.com	mp.weixin.qq.com	/s/MyT_EWKaVYTStEUi3MKSOw
+20240108	观点	https://mp.weixin.qq.com/s/xcRElPpnK7CkKjZdYPDEPA	跨域协同网络作战：现代战争的新形势	qq.com	mp.weixin.qq.com	/s/xcRElPpnK7CkKjZdYPDEPA
+20240108	设备安全	https://mp.weixin.qq.com/s/TJWW3RfB2-1mvmAeArQHtw	工控IDS规则构建及验证实战	qq.com	mp.weixin.qq.com	/s/TJWW3RfB2-1mvmAeArQHtw
+20240108	其它	https://mp.weixin.qq.com/s/MGYo2Dbl_eOMNWnVrn19Fg	联合国《打击网络犯罪公约》草案基本完成	qq.com	mp.weixin.qq.com	/s/MGYo2Dbl_eOMNWnVrn19Fg
+20240108	数据挖掘	https://mp.weixin.qq.com/s/sf3RFJAJEg3HVeFrI-jBKg	基于图实现 Kubernetes 异常权限检测	qq.com	mp.weixin.qq.com	/s/sf3RFJAJEg3HVeFrI-jBKg
+20240108	移动安全	https://mp.weixin.qq.com/s/hGx8FNjI37trnZehY839bQ	恶意App后台弹窗技术手法分析	qq.com	mp.weixin.qq.com	/s/hGx8FNjI37trnZehY839bQ
+20240108	杂志	https://www.sec-wiki.com/weekly/514	SecWiki周刊（第514期)	sec-wiki.com	www.sec-wiki.com	/weekly/514
+20240108	取证分析	https://mp.weixin.qq.com/s/9HPlaRoNGjWlOsWcOYxjmA	波音遭遇勒索攻击的数据损失分析	qq.com	mp.weixin.qq.com	/s/9HPlaRoNGjWlOsWcOYxjmA
+20240108	无线安全	https://book.yunzhan365.com/tkgd/nomj/mobile/index.html	《智星动网 · 安全引航》卫星安全研究报告	yunzhan365.com	book.yunzhan365.com	/tkgd/nomj/mobile/index.html
+20240108	恶意分析	https://mp.weixin.qq.com/s/9DNFqKAXdti8W2jHfZFgqA	关基系统应对定向勒索攻击的防御和治理思考	qq.com	mp.weixin.qq.com	/s/9DNFqKAXdti8W2jHfZFgqA
+20240108	恶意分析	https://mp.weixin.qq.com/s/yqauQ6rtBzrLI7h1nB7zQg	Remcos RAT通信模型剖析及攻防技术对抗	qq.com	mp.weixin.qq.com	/s/yqauQ6rtBzrLI7h1nB7zQg
+20240108	Web安全	https://github.com/h2-stack/LL-RASP	Low-level RASP: Protecting Applications Implemented in High-level Languages	github.com	github.com	/h2-stack/LL-RASP
