@@ -36,6 +36,11 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 关键信息基础设施安全保护联盟 | CNCIIPA | 院士展望：2024网络空间安全科技应重点关注六个方面 | https://mp.weixin.qq.com/s/_ekxKrrcPVQUOd8kl87NQw | 7| 
+| 安全学术圈 | secquan | 亚利桑那州立大学 , 审稿专家对安全顶会论文评审的见解 | https://mp.weixin.qq.com/s/3KfRB0jzC2ewYpckBDtmrA | 4| 
+| 拨开云雾 | Under_Sakura | 基于LLM的多语言程序修复 | https://mp.weixin.qq.com/s/DzLbylXeCf-SkupPJXfkcg | 3| 
+| 软件质量报道 | QualityReport | 使用大模型进行软件测试：调查、现状和展望 | https://mp.weixin.qq.com/s/uUAIHhH5PqfGCxVA1xwFuw | 1| 
+| 银针安全 | SilverNeedleLab | 任意 GPTs 资源文件泄露问题探讨 | https://mp.weixin.qq.com/s/Bklnu0RhF8bnK1Irx14S5g | 1| 
 | 0x6270安全团队 | gh_15054083100c | 师傅们，我们又发现了一个新的学习大陆 | https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485460&idx=1&sn=22b00e1985ce52732134d85de0d789fb | 5| 
 | 360数字安全 | gh_6db130c5163e | 朝阳园管委会来信表扬 | https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247568783&idx=1&sn=014e2b355108a982eafe65c8b1d38c6c | 5| 
 | ADLab | v_adlab | Glibc权限提升漏洞“Looney Tunables”分析（CVE-2023-4911） | https://mp.weixin.qq.com/s?__biz=MzAwNTI1NDI3MQ==&mid=2649619208&idx=1&sn=656b180f2cf3447f40e9fdbc6d8f35e1 | 1| 
@@ -195,7 +200,6 @@
 | 代码卫士 | codesafe | GitLab 提醒注意严重的零点击账户劫持漏洞 | https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518669&idx=1&sn=e9e78678e6c35cd6c0c37b638d5a988c | 6| 
 | 信息安全与通信保密杂志社 | cismag2013 | ​加密C2框架EvilOSX流量分析 | https://mp.weixin.qq.com/s/Nl5SWMFFjsxG8LeYBOPuPg | 18| 
 | 公安部网络安全等级保护中心 | gh_f5f6bf3d09af | 大模型系统安全标准验证试点活动正式启动 | https://mp.weixin.qq.com/s?__biz=MzU3NTQwNDYyNA==&mid=2247486904&idx=1&sn=460278a447c741ae881d6a1ba34bfa07 | 1| 
-| 关键信息基础设施安全保护联盟 | CNCIIPA | 倒计时5天 ：关键信息基础设施安全保护论坛即将召开 | https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjY5MQ==&mid=2247498611&idx=2&sn=339d4f859240a5c567c473ffe7a99b0b | 6| 
 | 创信华通 | cdcxht | 创信华通网络安全课堂2024年1月开班计划来啦！ | https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247520592&idx=1&sn=3a9f5d77a4faf695381bc58b5ad30b34 | 3| 
 | 北邮 GAMMA Lab | BUPT_GAMMA | 北邮GAMMA Lab 2023年会顺利举行 | https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247488865&idx=1&sn=0dc697f8e5f83ce6ba5d433c10225f0c | 1| 
 | 启明星辰集团 | venustech_weixin | 启明星辰喜获荣耀安全隐私及奖励计划“卓越合作伙伴”  共护亿级终端用户安全 | https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651722684&idx=1&sn=a91f658828137f85adb04dabe96b7713 | 4| 
@@ -323,7 +327,6 @@
 | dotNet安全矩阵 | doNetSafety | .NET 分享一次实战反混淆DLL的过程 | https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490275&idx=1&sn=e94dfced7ca10ad69821a56db7d6d2dd | 10| 
 | 奇点威胁 | gh_a2963a32c260 | Remcos RAT通信模型剖析及攻防技术对抗 | https://mp.weixin.qq.com/s/yqauQ6rtBzrLI7h1nB7zQg | 2| 
 | 安全喵喵站 | CyberSecurityMew | 网络安全能力的下一个时代｜深思 | https://mp.weixin.qq.com/s?__biz=MzkzNjE5NjQ4Mw==&mid=2247536663&idx=1&sn=3de4abaf2d099569c1f05618f0aabfe3 | 2| 
-| 安全学术圈 | secquan | 2024年国家自然科学基金安全领域部分题目列表 | https://mp.weixin.qq.com/s/3_Uy27WvNSf3e35mJWBVEQ | 3| 
 | 安天集团 | Antiylab | 关基系统应对定向勒索攻击的防御和治理思考 | https://mp.weixin.qq.com/s/9DNFqKAXdti8W2jHfZFgqA | 11| 
 | 昊天信安 | cniaosec | 推荐｜主动防御系统 -- 冰盾 | https://mp.weixin.qq.com/s?__biz=MzkzNzI4NDQzMA==&mid=2247496011&idx=1&sn=f5edd723367c0f2ed28d4c908dee90d6 | 5| 
 | 洞源实验室 | Official_InsBug | HackerGPT&WhiteRabbitNeo的使用及体验对比 | https://mp.weixin.qq.com/s/42ETiCS-e-yfvBdAfre3xg | 1| 
@@ -642,6 +645,13 @@
 | title | url| 
 | --- | ---| 
 | 本文深入分析了Zoho ManageEngine Opmanager中的CVE-2023-31099漏洞，提供了详细的漏洞分析、利用演示和POC代码。 | https://xz.aliyun.com/t/13216| 
+
+
+# 论坛 推荐
+| title | url| 
+| --- | ---| 
+| 大模型攻防实践 | https://xz.aliyun.com/t/13189| 
+| 基于QEMU的通用化模糊测试框架探索与实践 | https://xz.aliyun.com/t/13190| 
 
 
 
