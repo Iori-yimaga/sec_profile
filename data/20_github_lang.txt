@@ -5,13 +5,13 @@ C++	621
 HTML	522
 Java	514
 Shell	489
-Go	462
+Go	463
 C#	316
 Ruby	269
 PowerShell	257
 PHP	233
 CSS	229
-TypeScript	201
+TypeScript	202
 Rust	167
 Objective-C	144
 Jupyter	124
@@ -24,7 +24,7 @@ Lua	61
 Kotlin	58
 TeX	54
 Batchfile	53
-Vue	50
+Vue	51
 Scala	45
 CMake	45
 HCL	37

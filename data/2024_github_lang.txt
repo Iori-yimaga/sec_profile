@@ -2,8 +2,10 @@ Python	4
 JavaScript	3
 C	2
 Shell	2
-C++	1
+Go	2
+Vue	1
 Dart	1
 C#	1
-Go	1
+TypeScript	1
+C++	1
 PowerShell	1

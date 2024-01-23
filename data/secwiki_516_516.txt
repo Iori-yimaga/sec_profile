@@ -1,0 +1,20 @@
+20240115	其它	https://xz.aliyun.com/t/13189	大模型攻防实践	aliyun.com	xz.aliyun.com	/t/13189
+20240115	Web安全	https://github.com/chainreactors/gogo	gogo: 面向红队的高度可控可拓展的自动化引擎	github.com	github.com	/chainreactors/gogo
+20240115	运维安全	https://mp.weixin.qq.com/s/ViXzcMo3p1jukzdVPVXlNw	年安全运营实践总结与未来思考	qq.com	mp.weixin.qq.com	/s/ViXzcMo3p1jukzdVPVXlNw
+20240115	杂志	https://www.sec-wiki.com/weekly/515	SecWiki周刊（第515期)	sec-wiki.com	www.sec-wiki.com	/weekly/515
+20240115	恶意分析	https://mp.weixin.qq.com/s/u3UEBjiMT1pSQiDNzkD4Kg	开源软件供应链风险分析与治理	qq.com	mp.weixin.qq.com	/s/u3UEBjiMT1pSQiDNzkD4Kg
+20240115	数据挖掘	https://mp.weixin.qq.com/s/wtJ8CPem_EQG1MnvbQdfJw	大语言模型系统安全综述	qq.com	mp.weixin.qq.com	/s/wtJ8CPem_EQG1MnvbQdfJw
+20240115	数据挖掘	https://mp.weixin.qq.com/s/nw6o6xHydxRoFc0xW6YvAg	民航数据安全风险评估体系探讨	qq.com	mp.weixin.qq.com	/s/nw6o6xHydxRoFc0xW6YvAg
+20240115	恶意分析	https://blog.xlab.qianxin.com/unveiling-the-mystery-of-bigpanzi/?continueFlag=a83b6547eed3247e32ba5a8db28db58a	揭开隐蔽8年黑灰产团伙Bigpanzi的神秘面纱	qianxin.com	blog.xlab.qianxin.com	/unveiling-the-mystery-of-bigpanzi/
+20240115	数据挖掘	https://mp.weixin.qq.com/s/uUAIHhH5PqfGCxVA1xwFuw	使用大模型进行软件测试：调查、现状和展望	qq.com	mp.weixin.qq.com	/s/uUAIHhH5PqfGCxVA1xwFuw
+20240115	恶意分析	https://mp.weixin.qq.com/s/Nl5SWMFFjsxG8LeYBOPuPg	​加密C2框架EvilOSX流量分析	qq.com	mp.weixin.qq.com	/s/Nl5SWMFFjsxG8LeYBOPuPg
+20240115	运维安全	https://mp.weixin.qq.com/s/RHE8xoBCBTa4fKZGKyUKqg	RASP大规模研发部署实践总结	qq.com	mp.weixin.qq.com	/s/RHE8xoBCBTa4fKZGKyUKqg
+20240115	漏洞分析	https://xz.aliyun.com/t/13190	基于QEMU的通用化模糊测试框架探索与实践	aliyun.com	xz.aliyun.com	/t/13190
+20240115	取证分析	https://www.stamus-networks.com/blog/ja3-fingerprints-fade-browsers-embrace-tls-extension-randomization	JA3 Fingerprints Fade as Browsers Embrace TLS Extension Randomization	stamus-networks.com	www.stamus-networks.com	/blog/ja3-fingerprints-fade-browsers-embrace-tls-extension-randomization
+20240115	其它	https://mp.weixin.qq.com/s/_ekxKrrcPVQUOd8kl87NQw	2024网络空间安全科技应重点关注六个方面	qq.com	mp.weixin.qq.com	/s/_ekxKrrcPVQUOd8kl87NQw
+20240115	运维安全	https://mp.weixin.qq.com/s/T3tKYn6zE464bqTkoIa3dg	基于原生Kibana+Clickhouse构建日志平台	qq.com	mp.weixin.qq.com	/s/T3tKYn6zE464bqTkoIa3dg
+20240115	漏洞分析	https://mp.weixin.qq.com/s/PHl0_EXvOr_D1cWopqQ5Ow	基于图的漏洞定位	qq.com	mp.weixin.qq.com	/s/PHl0_EXvOr_D1cWopqQ5Ow
+20240115	其它	https://mp.weixin.qq.com/s/3KfRB0jzC2ewYpckBDtmrA	审稿专家对安全顶会论文评审的见解	qq.com	mp.weixin.qq.com	/s/3KfRB0jzC2ewYpckBDtmrA
+20240115	漏洞分析	https://datacon.qianxin.com/info/information-detail?id=123	伪随机数问题浅析	qianxin.com	datacon.qianxin.com	/info/information-detail
+20240115	漏洞分析	https://mp.weixin.qq.com/s/tCqGkW93zA0rDTMt_xN9bA	基于图的安全补丁检测	qq.com	mp.weixin.qq.com	/s/tCqGkW93zA0rDTMt_xN9bA
+20240115	漏洞分析	https://mp.weixin.qq.com/s/DzLbylXeCf-SkupPJXfkcg	基于LLM的多语言程序修复	qq.com	mp.weixin.qq.com	/s/DzLbylXeCf-SkupPJXfkcg
