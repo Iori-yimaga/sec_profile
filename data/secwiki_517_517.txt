@@ -1,0 +1,13 @@
+20240122	恶意分析	https://mp.weixin.qq.com/s/zIAYb4jF-f5rsEFLNQPbww	借助大语言模型GPT-4辅助恶意代码动态分析	qq.com	mp.weixin.qq.com	/s/zIAYb4jF-f5rsEFLNQPbww
+20240122	编程技术	https://mp.weixin.qq.com/s/1pRJSOm77CCK1Wi8IG-KNA	检测程序代码和文档中的错误	qq.com	mp.weixin.qq.com	/s/1pRJSOm77CCK1Wi8IG-KNA
+20240122	观点	https://mp.weixin.qq.com/s/cKp4XorkLU6vLHJuUT76-w	2024年网络与信息安全风险前瞻	qq.com	mp.weixin.qq.com	/s/cKp4XorkLU6vLHJuUT76-w
+20240122	恶意分析	https://archive.threatbook.cn/threatbook/2023-ThreatBook-CTI-APT-Analysis-Report.pdf	2023年威胁情报及APT活动分析报告	threatbook.cn	archive.threatbook.cn	/threatbook/2023-ThreatBook-CTI-APT-Analysis-Report.pdf
+20240122	Web安全	https://mp.weixin.qq.com/s/DJNfsg3D6vxXEcH1RSWPbw	软件供应商攻防常规战之SDL	qq.com	mp.weixin.qq.com	/s/DJNfsg3D6vxXEcH1RSWPbw
+20240122	其它	https://mp.weixin.qq.com/s/mu7HUCPURtk6_4BAKwOeSw	“LLM+EM”—大语言模型赋能的暴露面管理系统思考	qq.com	mp.weixin.qq.com	/s/mu7HUCPURtk6_4BAKwOeSw
+20240122	恶意分析	https://mp.weixin.qq.com/s/WhKTQphzco5MWfGNfRH21g	回望勒索软件的 2023	qq.com	mp.weixin.qq.com	/s/WhKTQphzco5MWfGNfRH21g
+20240122	Web安全	https://mp.weixin.qq.com/s/xyItAKLszooqKpxs6H2Tlw	软件供应商实战对抗十大安全举措	qq.com	mp.weixin.qq.com	/s/xyItAKLszooqKpxs6H2Tlw
+20240122	观点	https://mp.weixin.qq.com/s/4XVuuDTtLOgIxzkpQ2hCuw	多视角下的网络空间安全模型与体系化发展	qq.com	mp.weixin.qq.com	/s/4XVuuDTtLOgIxzkpQ2hCuw
+20240122	Web安全	https://mp.weixin.qq.com/s/X6hzmGathXkg11Bs0ohD2Q	软件供应商面临的攻防实战风险	qq.com	mp.weixin.qq.com	/s/X6hzmGathXkg11Bs0ohD2Q
+20240122	移动安全	https://mp.weixin.qq.com/s/GbcxQ9G4oH0nOWASmWVYLQ	[SecData#1]-移动应用流量数据集	qq.com	mp.weixin.qq.com	/s/GbcxQ9G4oH0nOWASmWVYLQ
+20240122	杂志	https://www.sec-wiki.com/weekly/516	SecWiki周刊（第516期)	sec-wiki.com	www.sec-wiki.com	/weekly/516
+20240122	其它	https://mp.weixin.qq.com/s/S5qzlESSL8GLKEeOZbnB1g	2024 CSRankings 全球计算机安全学术机构与人员分析	qq.com	mp.weixin.qq.com	/s/S5qzlESSL8GLKEeOZbnB1g
