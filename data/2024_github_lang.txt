@@ -1,9 +1,9 @@
-Python	6
+Python	7
 Go	4
 JavaScript	3
 C	2
 Shell	2
-HTML	1
+HTML	2
 Vue	1
 Dart	1
 C#	1
