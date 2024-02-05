@@ -1,0 +1,16 @@
+20240129	法规	https://mp.weixin.qq.com/s/R_QxlJ3zMQ3R_qC74UMPjA	工业控制系统网络安全防护指南	qq.com	mp.weixin.qq.com	/s/R_QxlJ3zMQ3R_qC74UMPjA
+20240129	漏洞分析	https://mp.weixin.qq.com/s/7dZCe_ahDBLmIskibGzmog	代码安全审计经验集（上）	qq.com	mp.weixin.qq.com	/s/7dZCe_ahDBLmIskibGzmog
+20240129	运维安全	https://blog.xlab.qianxin.com/zhong-guo-quan-wang-cuo-wu-shu-ju-fen-xi/	中国全网DNS错误数据分析	qianxin.com	blog.xlab.qianxin.com	/zhong-guo-quan-wang-cuo-wu-shu-ju-fen-xi/
+20240129	数据挖掘	https://mp.weixin.qq.com/s/33PW_fDMp_HT4yKARsacQA	QA-GNN: 使用语言模型和知识图谱的推理问答	qq.com	mp.weixin.qq.com	/s/33PW_fDMp_HT4yKARsacQA
+20240129	杂志	https://www.sec-wiki.com/weekly/517	SecWiki周刊（第517期)	sec-wiki.com	www.sec-wiki.com	/weekly/517
+20240129	Web安全	https://github.com/zer0yu/ghtracker	ghtracker is a tool for tracking dependents repositories and sorting result by S	github.com	github.com	/zer0yu/ghtracker
+20240129	恶意分析	https://mp.weixin.qq.com/s/AJUQ8Zd_4Q3Ub9TarQx5Gg	AsyncRAT加解密技术剖析	qq.com	mp.weixin.qq.com	/s/AJUQ8Zd_4Q3Ub9TarQx5Gg
+20240129	设备安全	https://mp.weixin.qq.com/s/GC2zwT9SNs2PGLBvQhiN8w	从 0 开始学习 VxWorks	qq.com	mp.weixin.qq.com	/s/GC2zwT9SNs2PGLBvQhiN8w
+20240129	运维安全	https://xlab.tencent.com/cn/2024/01/26/edr-alert-analysis-robot/	一种基于安全大模型的EDR告警研判机器人	tencent.com	xlab.tencent.com	/cn/2024/01/26/edr-alert-analysis-robot/
+20240129	漏洞分析	https://mp.weixin.qq.com/s/37d-kRV83A3thS0NlDO_fg?version=4.1.20.6015&platform=win	代码安全审计经验集（下）	qq.com	mp.weixin.qq.com	/s/37d-kRV83A3thS0NlDO_fg
+20240129	恶意分析	https://mp.weixin.qq.com/s/fPMgeB_9yKGQt-Vd1QKuRw	AsyncRAT通信模型剖析及自动化解密脚本实现	qq.com	mp.weixin.qq.com	/s/fPMgeB_9yKGQt-Vd1QKuRw
+20240129	取证分析	https://mp.weixin.qq.com/s/ij_4NtN_IH4DHgzUThYVEQ	入侵检测之流量分析--识别常见恶意行为	qq.com	mp.weixin.qq.com	/s/ij_4NtN_IH4DHgzUThYVEQ
+20240129	恶意分析	https://mp.weixin.qq.com/s/pzIusJA6-CW0Qxw0s5O6vA	2023 年 Any.Run 恶意软件趋势报告	qq.com	mp.weixin.qq.com	/s/pzIusJA6-CW0Qxw0s5O6vA
+20240129	恶意分析	https://mp.weixin.qq.com/s/0Ln_xJOXgOiruzjnsKeUFw	2023 年攻击基础设施跟踪报告	qq.com	mp.weixin.qq.com	/s/0Ln_xJOXgOiruzjnsKeUFw
+20240129	数据挖掘	https://mp.weixin.qq.com/s/7t5ttWN3JtmzZTQC95m4oA	基于本体论的信息抽取：用于自动化法律论证	qq.com	mp.weixin.qq.com	/s/7t5ttWN3JtmzZTQC95m4oA
+20240129	漏洞分析	https://github.com/google/oss-fuzz-gen	oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz	github.com	github.com	/google/oss-fuzz-gen
