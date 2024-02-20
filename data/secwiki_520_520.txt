@@ -1,0 +1,5 @@
+20240212	编程技术	https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html	RASP大规模研发部署实践总结	meituan.com	tech.meituan.com	/2024/01/19/runtime-application-self-protection-practice-in-meituan.html
+20240212	漏洞分析	https://mp.weixin.qq.com/s/P3HUq0e68nFsyQXWQ7t0JA	代码审计思路经验谈	qq.com	mp.weixin.qq.com	/s/P3HUq0e68nFsyQXWQ7t0JA
+20240212	杂志	https://www.sec-wiki.com/weekly/519	SecWiki周刊（第519期)	sec-wiki.com	www.sec-wiki.com	/weekly/519
+20240212	其它	https://mp.weixin.qq.com/s/CgJA2CKjScrDgYz0-XDNSQ	AI与网络安全：从传统到生成式	qq.com	mp.weixin.qq.com	/s/CgJA2CKjScrDgYz0-XDNSQ
+20240212	比赛	https://xz.aliyun.com/t/13617	CTF中原型链污染位点探究	aliyun.com	xz.aliyun.com	/t/13617
