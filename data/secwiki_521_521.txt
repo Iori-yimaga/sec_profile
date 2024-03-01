@@ -1,0 +1,16 @@
+20240219	观点	https://www.coco413.com/archives/145/	安全会议PDF读后随笔	coco413.com	www.coco413.com	/archives/145/
+20240219	观点	https://mp.weixin.qq.com/s/mQu-_M8LVHj67lmnMpzGIA	一个网络安全创业者的2023 年总结	qq.com	mp.weixin.qq.com	/s/mQu-_M8LVHj67lmnMpzGIA
+20240219	Web安全	https://paper.seebug.org/3120/	零基础从 0 到 1 掌握 Java 内存马（上篇）	seebug.org	paper.seebug.org	/3120/
+20240219	Web安全	https://mp.weixin.qq.com/s/nLHEBRSAupAinpBHZG-Ebg	浅谈微信小程序测试技巧	qq.com	mp.weixin.qq.com	/s/nLHEBRSAupAinpBHZG-Ebg
+20240219	Web安全	https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg	WebAssembly安全研究总结	qq.com	mp.weixin.qq.com	/s/cPUaDQaCWpZiBEgZqbqvPg
+20240219	Web安全	https://xz.aliyun.com/t/13759	一次有趣的锐捷EG易网关代码审计	aliyun.com	xz.aliyun.com	/t/13759
+20240219	恶意分析	https://mp.weixin.qq.com/s/6VJWBVMGkBk4C37QICeb7A	浅谈侧信道流量检测技术	qq.com	mp.weixin.qq.com	/s/6VJWBVMGkBk4C37QICeb7A
+20240219	取证分析	https://mp.weixin.qq.com/s/tkTyi8foWaOiqwMFIgU7SA	全球头号勒索团伙 LockBit 谜案	qq.com	mp.weixin.qq.com	/s/tkTyi8foWaOiqwMFIgU7SA
+20240219	恶意分析	https://mp.weixin.qq.com/s/YZvG4a1fG6NsFFMNA5hkwg	美国网络安全与基础设施安全局 2023 年度工作回顾	qq.com	mp.weixin.qq.com	/s/YZvG4a1fG6NsFFMNA5hkwg
+20240219	恶意分析	https://mp.weixin.qq.com/s/vuOhn_LNVANRBl1DOCMLNQ	浅谈侧信道流量检测技术【补】	qq.com	mp.weixin.qq.com	/s/vuOhn_LNVANRBl1DOCMLNQ
+20240219	恶意分析	https://mp.weixin.qq.com/s/ht0Tdpy-hjXsNYlktklaLQ	逆向开发Turla组织TinyTurla后门控制端	qq.com	mp.weixin.qq.com	/s/ht0Tdpy-hjXsNYlktklaLQ
+20240219	杂志	https://www.sec-wiki.com/weekly/520	SecWiki周刊（第520期)	sec-wiki.com	www.sec-wiki.com	/weekly/520
+20240219	漏洞分析	https://blog.quarkslab.com/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html	PHP deserialization attacks and a new gadget chain in Laravel	quarkslab.com	blog.quarkslab.com	/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html
+20240219	取证分析	https://br0k3nlab.com/LoFP/	LoFP：Living off the False Positive!	br0k3nlab.com	br0k3nlab.com	/LoFP/
+20240219	取证分析	https://xz.aliyun.com/t/13726	Agent Tesla内存邮箱取证	aliyun.com	xz.aliyun.com	/t/13726
+20240219	编程技术	https://github.com/google/magika	magika: Detect file content types with deep learning	github.com	github.com	/google/magika
