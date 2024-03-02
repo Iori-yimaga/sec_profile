@@ -14,8 +14,9 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
-| 2024-03-01 10:48:40 | English | Mastering Microsoft Fabric | unknown | https://www.wowebook.org/mastering-microsoft-fabric/ | unknown| 
 | 2024-03-01 06:25:33 | English | Machine Learning Theory and Applications: Hands-on Use Cases with Python on Classical and Quantum Machines | unknown | https://www.wowebook.org/machine-learning-theory-and-applications-hands-on-use-cases-with-python-on-classical-and-quantum-machines/ | unknown| 
+| 2024-03-01 16:26:47 | English | Cloud Forensics Demystified | unknown | https://www.wowebook.org/cloud-forensics-demystified/ | unknown| 
+| 2024-03-01 10:48:40 | English | Mastering Microsoft Fabric | unknown | https://www.wowebook.org/mastering-microsoft-fabric/ | unknown| 
 | 2024-02-24 16:57:14 | English | Asynchronous Programming in Rust | unknown | https://www.wowebook.org/asynchronous-programming-in-rust/ | unknown| 
 | 2024-02-24 08:01:06 | English | Practical Guide to Applied Conformal Prediction in Python | unknown | https://www.wowebook.org/practical-guide-to-applied-conformal-prediction-in-python/ | unknown| 
 | 2024-02-22 11:44:10 | English | Beyond the Algorithm: AI, Security, Privacy, and Ethics | unknown | https://www.wowebook.org/beyond-the-algorithm-ai-security-privacy-and-ethics/ | unknown| 
@@ -366,7 +367,6 @@
 | 泽鹿安全 | gh_fa953363d3b4 | 【招贤纳士】招聘大客户销售经理/车联网安全研究员中高级/车联网安全研究员实习生 | https://mp.weixin.qq.com/s?__biz=Mzg5MjE1NzgzMw==&mid=2247488106&idx=1&sn=6f55fc9c4884e145f9a2885545305a6e | 3| 
 | 淮橘安全 | st_0-1 | 记一次蜿蜒曲折的账号接管 | https://mp.weixin.qq.com/s?__biz=MzkxOTUyNTg2MA==&mid=2247483876&idx=1&sn=82c5c833ad612094a927cedbf569541a | 4| 
 | 矢安科技 | shanghaishiankeji | 漏洞通告｜Apache Solr 代码执行漏洞(CVE-2023-50386) | https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247505979&idx=1&sn=6d799041168ebc44c199fd39094ec927 | 1| 
-| 破壳平台 | TianGong_Lab | WebAssembly安全研究总结 | https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg | 7| 
 | 神狐说 | foxgod2024 | 新年第一篇 | https://mp.weixin.qq.com/s?__biz=MzIwMTgyMzU4NA==&mid=2247484585&idx=1&sn=8ef21d70111fbab077e0a89acacf0ee3 | 1| 
 | 红蓝公鸡队 | None | 到底有多乱呢 | https://mp.weixin.qq.com/s?__biz=Mzg5MDc1MjY5Ng==&mid=2247492462&idx=1&sn=6233df1f486c49a200a0f095933837e3 | 17| 
 | 融云攻防实验室 | gh_0dba7ff3f653 | 漏洞预警 东胜物流cms tcodevoynoadapter.aspx sql注入漏洞 | https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247490484&idx=1&sn=fbfbbdec2eb0542e93f4792f4ff5f98f | 7| 
@@ -415,7 +415,6 @@
 | 数据助力 | shujuzl | 打通智能之路：信息科技领域的新视角 | https://mp.weixin.qq.com/s?__biz=MzIyMTc0NTc0OQ==&mid=2247484369&idx=1&sn=af166955224fcdedecb873068d3c633f | 6| 
 | 星尘安全 | stardust-sec | 企业如何保护自身通信渠道被黑客攻击 | https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247484249&idx=1&sn=8a9c3aaa4afaaed86277662731c0b42a | 10| 
 | 橘猫学安全 | gh_af700ee13397 | 实战 , 关于一次弱口令的BC渗透 | https://mp.weixin.qq.com/s?__biz=Mzg5OTY2NjUxMw==&mid=2247511091&idx=2&sn=06796dfa57242924fe346db5ad395991 | 6| 
-| 洪椒攻防实验室 | gh_ce67936af655 | 浅谈微信小程序测试技巧 | https://mp.weixin.qq.com/s/nLHEBRSAupAinpBHZG-Ebg | 1| 
 | 浅安安全 | gh_758e256fcc72 | 漏洞预警 , Ivanti Pulse Connect Secure VPN XXE漏洞 | https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247487734&idx=2&sn=1159f3e66f91a165261c40937df23908 | 32| 
 | 浙大网安 | gh_e603b55057e7 | 国际信息安全顶会ACM CCS 2024，区块链与数据安全全国重点实验室9位教师担任程序委员会委员 | https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247494562&idx=1&sn=cbd6f80a237a4440e86cb01eb72e8f48 | 2| 
 | 浪飒sec | langsasec | 让Web渗透测试完全面向浏览器u200b！ | https://mp.weixin.qq.com/s?__biz=MzI1ODM1MjUxMQ==&mid=2247494008&idx=1&sn=15eeec54961b74b2f1875840aed633af | 2| 
@@ -432,13 +431,15 @@
 | 蓝桥云课精选 | lanqiaoyunke01 | 24专升本考试想要多拿10分，这些“潜规则”你不会还不知道吧？ | https://mp.weixin.qq.com/s?__biz=MzkwODM4NDM5OA==&mid=2247516374&idx=1&sn=c181a4aa08255e484749476e78d2d885 | 27| 
 | 补天漏洞响应平台 | butianqianxin | 补天众测Q4萌新榜单发布,快来加入我们！ | https://mp.weixin.qq.com/s?__biz=MzU4MzgwODc3Ng==&mid=2247495706&idx=2&sn=dce21c3ae776261b2c08a1db064b33eb | 2| 
 | 贝雷帽SEC | Beret-Sec | icmp协议隧道穿透之pingtunnel | https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247489916&idx=1&sn=a8ab540b296eaaa1ad8c046cc4ee435d | 6| 
-| 赛博攻防悟道 | lookvul | 浅谈侧信道流量检测技术 | https://mp.weixin.qq.com/s/6VJWBVMGkBk4C37QICeb7A | 4| 
 | 赛博研究院 | SICSI-cybersecurity | 美国白宫科技政策办公室：发布2024年版《关键技术和新兴技术清单》 | https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247507947&idx=1&sn=6e47023f3569b1b71559dd6b62683c2f | 26| 
 | 赛查查 | gh_fabaad32b9d1 | 关于举办第一届“长城杯”信息安全铁人三项赛初赛的通知 | https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247485962&idx=1&sn=aa77afb5665e84699e6dc6ba5da18a15 | 10| 
 | 车小胖谈网络 | chexiaopangnetwork | 任何密码都算出来，只是时间问题，不是很不安全吗？ | https://mp.weixin.qq.com/s?__biz=MzIxNTM3NDE2Nw==&mid=2247489956&idx=1&sn=5ca3918f9d66994ccba8a06f2fb6533e | 6| 
 | 迪普科技 | DPtechnology | 高新区（滨江）区委副书记、区长郑迪一行莅临迪普科技，助推新春开门红！ | https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650351538&idx=1&sn=0646a6880325dcd2a52d259fccf23592 | 10| 
 | 锋刃科技 | ahfengren | 微软Exchange Server 特权提升漏洞（CVE-2024-21410） | https://mp.weixin.qq.com/s?__biz=MzUxMjc0MTE3Mw==&mid=2247492918&idx=1&sn=115781ff74d068a252451eb54c3e4356 | 5| 
 | 黑伞安全 | hack_umbrella | 容器、容器编排组件 API 配置不当或未鉴权-SRC真的能遇到 | https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488780&idx=1&sn=8042b185e65260dd5dd16339d72c7828 | 16| 
+| 洪椒攻防实验室 | gh_ce67936af655 | 浅谈微信小程序测试技巧 | https://mp.weixin.qq.com/s/nLHEBRSAupAinpBHZG-Ebg | 1| 
+| 破壳平台 | TianGong_Lab | WebAssembly安全研究总结 | https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg | 7| 
+| 赛博攻防悟道 | lookvul | 浅谈侧信道流量检测技术【补】 | https://mp.weixin.qq.com/s/vuOhn_LNVANRBl1DOCMLNQ | 4| 
 | 3072 | gh_02e64d74f88d | 0xL4ughctf pwn01分析 | https://mp.weixin.qq.com/s?__biz=MzU4OTk0NDMzOA==&mid=2247484318&idx=1&sn=611c3d1f5311a1384bda3c8e3d551a63 | 4| 
 | CISSP Learning | CisspLearning | 一点计算机化自适应考试(CAT)技巧分析 | https://mp.weixin.qq.com/s?__biz=MzIyMjYzNDgzMg==&mid=2247487243&idx=1&sn=20752aa9de41ac0e13f7a5b42264a487 | 1| 
 | DFIR蘇小沐 | DFIR00 | 【视频图像篇】MP4受损视频修复方法（一） | https://mp.weixin.qq.com/s?__biz=MzI2MTUwNjI4Mw==&mid=2247487558&idx=1&sn=6fda33fe276ccb2463a9ef39a7745a6e | 3| 
@@ -992,6 +993,7 @@
 | 0xsha | 介绍了一种新的安全测试工具，Multi-Chain EVM代理检测工具 | https://github.com/0xsha/EVMProxyInspect | https://github.com/0xsha?tab=followers | software engineer, security researcher, currently on building and breaking dApps. | None | None | 18 | 0 | 0 | 0 | 0 | Go,TypeScript,Vue | 0 | 0 | 1| 
 | AashiqRamachandran | 该文章介绍了一种基于Multi-Modal LLM的代理程序，用于自动解决验证码 | https://github.com/AashiqRamachandran/i-am-a-bot | https://github.com/AashiqRamachandran?tab=followers | I enjoy designing and automating security processes, building solutions that add visibility into processes and research & development | Chennai | Cyware Labs | 51 | 0 | 345 | 0 | 0 | Python,HTML | 0 | 0 | 1| 
 | Moopinger | 一个针对HTTP/1.1 CL.0请求走私攻击向量的模糊测试项目，涉及核心的网络安全技术和潜在的漏洞研究。 | https://github.com/Moopinger/CLZero | https://github.com/Moopinger?tab=followers |  | South Africa | None | 5 | 0 | 18 | 0 | 0 | Python,Go,HTML | 0 | 0 | 1| 
+| MultSec | MultCheck是一款开源的恶意软件分析工具，可以用于测试文件被多个杀毒引擎检测的情况。它易于使用，可以测试多个杀毒引擎，并且易于扩展，可以添加自定义杀毒引擎。 | https://github.com/MultSec/MultCheck | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go | 0 | 0 | 1| 
 | XboxDev | 此文介绍了针对原始Xbox的新型漏洞利用，通过新的EXP利用方式，使得软破解变得更加容易，并且可以通过简单地插入内存卡来启动自制XBE。此EXP利用了Xbox原始仪表盘对存档图像的处理中的整数溢出，进而实现任意代码执行。 | https://github.com/XboxDev/endgame-exploit | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Java,Python,C++,PHP,Dockerfile | 0 | 0 | 1| 
 | anasfik | Flutter Spy是一款Bash命令行工具，旨在提供对构建的Flutter应用进行深入代码分析和数据提取的能力。它支持从安卓应用（APK文件）中收集信息，并提供数据提取和导出报告的功能。 | https://github.com/anasfik/flutter-spy | https://github.com/anasfik?tab=followers | Obsessed | Marrakesh, Morocco | None | 47 | 0 | 207 | 0 | 0 | Shell,Dart | 0 | 0 | 1| 
 | byinarie | 使用此PoC代码从最新版本的Microsoft Teams中获取和解密cookie | https://github.com/byinarie/teams_dump | https://github.com/byinarie?tab=followers | the hacker known as 4channel | None | None | 104 | 0 | 573 | 0 | 0 | Python,PowerShell | 0 | 0 | 1| 

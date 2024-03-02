@@ -1,5 +1,5 @@
 Python	11
-Go	6
+Go	7
 Shell	5
 JavaScript	5
 C	4
