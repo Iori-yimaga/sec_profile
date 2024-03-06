@@ -14,7 +14,10 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2024-03-06 15:06:49 | English | Learn Rust in a Month of Lunches | unknown | https://www.wowebook.org/learn-rust-in-a-month-of-lunches/ | unknown| 
+| 2024-03-06 11:08:45 | English | Code Like a Pro in Rust | unknown | https://www.wowebook.org/code-like-a-pro-in-rust/ | unknown| 
 | 2024-03-04 06:17:12 | English | Prototyping Python Dashboards for Scientists and Engineers | unknown | https://www.wowebook.org/prototyping-python-dashboards-for-scientists-and-engineers/ | unknown| 
+| 2024-03-04 15:30:54 | English | Introduction to Generative AI, Video Edition | unknown | https://www.wowebook.org/introduction-to-generative-ai-video-edition/ | unknown| 
 | 2024-03-02 15:38:45 | English | Options Finance: Options Stratigies with Python | Bisette, Vincent; Van Der Post, Hayden | http://libgen.rs/book/index.php?md5=6CEF1671E9FF715643E3F028E2043F85 | 771 kB [EPUB]| 
 | 2024-03-02 15:37:28 | English | Building Interactive Dashboards in Microsoft 365 Excel | Michael Olafusi | http://libgen.rs/book/index.php?md5=500B017390F2B8B6CE35BBDB8B439264 | 94 MB [EPUB]| 
 | 2024-03-02 15:26:41 | English | PYTHON DATA ANALYTICS: Mastering Python for Effective Data Analysis and Visualization | Floyd Bax | http://libgen.rs/book/index.php?md5=07B11FEF430AF4E617BF0B393A86C8D7 | 4 MB [PDF]| 
@@ -35,7 +38,7 @@
 | CNNVD安全动态 | cnnvd_news | 信息安全漏洞周报（2024年第10期） | https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651443686&idx=1&sn=3f0e6f9a6d5c55cd69ea421274370ddb | 1| 
 | EBCloud | KKHsuCheney | 项目管理中的沟通管理 | https://mp.weixin.qq.com/s?__biz=Mzg4MTA2MTc4MA==&mid=2247492864&idx=1&sn=2322fa3e40aa005625dbf0b5d2dd47da | 1| 
 | FreeBuf | freebuf | 招募令！最强白帽集合，阿里云CTF震撼来袭 | https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651260623&idx=2&sn=defd88c88f8fd1ef45749a526c4e69a4 | 20| 
-| FuzzWiki | None | 2023信息安全领域四大顶会fuzz方向论文汇总｜技术进展 | https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486476&idx=1&sn=f384b562bd1f965695cfc83490118496 | 2| 
+| FuzzWiki | gh_fcf21e658324 | SGFuzz：基于枚举类型变量识别状态的模糊测试工具｜工具分析 | https://mp.weixin.qq.com/s/iZZrZ5du7TS_O08AfsohSg | 3| 
 | IoT物联网技术 | IoT-Tech-Expo | 电信天翼 CTWing 物联网平台突发公告，单方面强制收费，你被伤到了吗？ | https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454933064&idx=1&sn=42525f103b1d45e18684b484f8dec575 | 3| 
 | KK安全说 | kksecurity | 你的网络摄像头怎么沦为黑客的玩具 | https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247486590&idx=2&sn=23cf13aac51295e536c670c0c5f8c42a | 6| 
 | OSINT情报分析师 | None | 低级黑客主义在地缘冲突中存在的意义？ | https://mp.weixin.qq.com/s?__biz=MzkxNzU5MjE0OA==&mid=2247484040&idx=1&sn=3e9589f7282732e11f0c25139811fc1e | 1| 
@@ -84,6 +87,7 @@
 | 奇安信安全监测与响应中心 | QAX-CERT | 【在野利用】Apple iOS 与 iPadOS 多个在野高危漏洞安全风险通告 | https://mp.weixin.qq.com/s?__biz=MzUzODQ0ODkyNA==&mid=2247484956&idx=1&sn=3e378c6976e6f79f10d7837277eeb847 | 2| 
 | 奇安信集团 | qianxin-keji | 两会聚焦 │ 齐向东委员参加民革、科技界、环境资源界联组会并接受央视专访谈人工智能 | https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247608822&idx=1&sn=da29ad0f80835cad3a8401c8cc57af78 | 12| 
 | 奇安信高校合作中心 | gh_6cdcd4028542 | 投入100万！“古剑山”第一届全国大学生网络攻防大赛来了！ | https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247486779&idx=1&sn=29c4ae3018b0968d78bbddfcb5a08725 | 1| 
+| 威胁棱镜 | THREAT_PRISM | Virus Bulletin 2023 议题慢递 | https://mp.weixin.qq.com/s/rHIVc3ZQAHzZJ5guttu5kw | 1| 
 | 安世加 | asjeiss | 系列活动 , 实战派技术沙龙 | https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247537384&idx=1&sn=81f5a38fa6b9cd081a5cd2810fb98b42 | 10| 
 | 安信安全 | gsaxns | 简析6种典型的CISO安全管理风格 | https://mp.weixin.qq.com/s?__biz=MzAxNTYwOTU1Mw==&mid=2650087927&idx=1&sn=01b2becb4703e27478e93f1e39b01f30 | 1| 
 | 安全419 | anquan-419 | 零信任案例分享——易安联通信行业的大规模应用实践 | https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247538330&idx=1&sn=236e7502222a2545dcd405600901a190 | 2| 
@@ -97,6 +101,7 @@
 | 安全牛课堂 | aqniu_edu | 2024年软考高项重大改革！ | https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247509696&idx=1&sn=dd47fb56d080834d92ec96091f57b1b8 | 2| 
 | 安全狗 | safedog2013 | 聚焦两会 , 从2024年政府工作报告看网络安全新机 | https://mp.weixin.qq.com/s?__biz=MjM5NTc2NDM4MQ==&mid=2650840529&idx=1&sn=eb7fc3de7d2fbe5808519c7b4883b505 | 2| 
 | 安全研究GoSSIP | GoSSIPSJTU | G.O.S.S.I.P 阅读推荐 2024-03-06 机器学习的暴胀理论 | https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247497464&idx=1&sn=ff9f04407704880d3c069628ff113cf3 | 2| 
+| 安全行者老霍 | gh_c2b78e839fd7 | 业内专家对NIST 网络安全框架2.0的反响 | https://mp.weixin.qq.com/s/mwYC46iT_P1mS4taAjn6tw | 1| 
 | 安在 | AnZer_SH | 盘点 , 2024年两会网络安全相关提案全面汇总 | https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247617471&idx=1&sn=5fa7ed9a2186d7e23525e87f2b9c3d28 | 8| 
 | 安天集团 | Antiylab | 关于强化网络安全效能导向建设机制的提案 | https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650204544&idx=1&sn=b1fe7ee5ae11c799e0f55036934a2654 | 5| 
 | 安恒信息资讯 | None | 2024年2月《安恒信息网络安全月报》出炉，文末扫码下载 | https://mp.weixin.qq.com/s?__biz=MzkwODE2OTU0NA==&mid=2247492561&idx=1&sn=60a5b50d6ac14c361d621de621782f41 | 1| 
@@ -113,6 +118,7 @@
 | 快手技术团队 | gh_96fee918d420 | CVPR 2024 Workshop , 首届短视频质量评价学术竞赛已启动+大型数据集KVQ | https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247486168&idx=1&sn=d486bd0df68bd0f926e71eff7f412278 | 1| 
 | 掌控安全EDU | None | 面试经验分享 , 某康安全开发工程师 | https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247537124&idx=1&sn=1604cbe63c4d597b1b3f8471b9b9c9d0 | 6| 
 | 数世咨询 | dwconcn | 商业电子邮件泄露（BEC）趋势报告中的5个重要发现 | https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247509259&idx=1&sn=6223b385e1c633aceffe24652d0944ae | 3| 
+| 数缘信安社区 | gh_91e7eb722058 | 运营商底层协议的侧信道“漏洞” | https://mp.weixin.qq.com/s/xfP3Vx5vp328Uzldtdw8tw | 1| 
 | 无糖反网络犯罪研究中心 | gh_2ee7a9b17c0d | TangGo测试平台,逻辑漏洞测试系列-水平越权漏洞 | https://mp.weixin.qq.com/s?__biz=MzAxMzkzNDA1Mg==&mid=2247509087&idx=1&sn=fbc1e2a2d4c53c467d781fcd58b3996c | 4| 
 | 星光安全 | gh_b1de4b08dc1f | 你的23HVV结账了吗 | https://mp.weixin.qq.com/s?__biz=Mzg2OTkyNjU1MA==&mid=2247483962&idx=1&sn=3ba91435b3330646070b3fc3e71afa56 | 1| 
 | 星冥安全 | xingmingsec | Jdbc Attack防护绕过浅析 | https://mp.weixin.qq.com/s?__biz=MzkxMDMwNDE2OQ==&mid=2247492014&idx=1&sn=786b21ca044e8c57083fac0502da5572 | 1| 
@@ -134,7 +140,6 @@
 | 红蓝公鸡队 | None | 《SQL注入》 | https://mp.weixin.qq.com/s?__biz=Mzg5MDc1MjY5Ng==&mid=2247492547&idx=1&sn=5df1edc3354ee62c329fee566191f5ce | 2| 
 | 红队蓝军 | Xx_Security | 第三期代码审计课程(php/java/.net) | https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247516973&idx=1&sn=5f3ffec514e5ae2bedb03c733ac418cf | 1| 
 | 绿盟科技 | NSFOCUS-weixin | 全新发布｜绿盟科技APP隐私合规评估服务 | https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650448350&idx=1&sn=25ab49cbc6c49d8daee6e9028bb372d7 | 4| 
-| 绿盟科技研究通讯 | nsfocus_research | 【公益译文】对抗性机器学习与网络安全：风险、挑战和法律影响 | https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247496762&idx=1&sn=07a64109e6575e749a6fcd041eab1f1d | 2| 
 | 网安百色 | www_xinbs_net | 信息安全漏洞周报（2024年第10期） | https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652092596&idx=1&sn=f3425bb19517d429363113b19d99e885 | 2| 
 | 网络威胁数据联盟 | None | 【漏洞通告】WordPress WPvivid Backup&Migration插件SQL注入漏洞（CVE-2024-1981） | https://mp.weixin.qq.com/s?__biz=MzA3MzI5NzY0OA==&mid=2247495549&idx=1&sn=0b053a9b71fd2695ab28d7b38bfaa92f | 1| 
 | 网络安全与数据治理 | gh_ddbdee0c5caf | 实录来了！张玉卓在两会首场“部长通道”答记者问 | https://mp.weixin.qq.com/s?__biz=MzIzODk1NzY5NA==&mid=2247496949&idx=1&sn=19ec0e41b9fe850437fefb45780ab7bc | 2| 
@@ -328,6 +333,7 @@
 | 滑板人之家 | gh_db0218d920fc | 宏景-DisplayExcelCustomReport文件读取 | https://mp.weixin.qq.com/s?__biz=MzIyMDkxMTk4MQ==&mid=2247483923&idx=1&sn=7df60b85a76cef935af11c3d60c71465 | 1| 
 | 火绒安全 | None | 【火绒安全周报】黑客利用谷歌云运行服务传播木马 / 二十多万网约车司机信息被卖 | https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247517765&idx=1&sn=6971fd1f6e53bec3c075a56fec018ff7 | 1| 
 | 盛邦安全应急响应中心 | None | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（02/26-03/01） | https://mp.weixin.qq.com/s?__biz=Mzk0NjMxNTgyOQ==&mid=2247484169&idx=1&sn=ae46c5e3c1f1cacc3d7ad834e6a18fd7 | 1| 
+| 绿盟科技研究通讯 | nsfocus_research | 网络侦察的反溯源技术研究 | https://mp.weixin.qq.com/s/OrIliK1y9ZBKJAnohTYfkg | 3| 
 | 网安培训 | ccrctraining | 个人信息保护专业人员（CCRC-PIPP）助力企业数据要素合规有序流通 | https://mp.weixin.qq.com/s?__biz=MzIzNTEzNzIyMA==&mid=2247486021&idx=1&sn=0357ed37ba595aa2c812d3f3e57fe98b | 1| 
 | 网星安全 | None | 内网渗透瑞士军刀-impacket工具解析（九） | https://mp.weixin.qq.com/s?__biz=MzkxNTEzMTA0Mw==&mid=2247494969&idx=1&sn=213bbb5d3f100d9d8cda153823cdb7a8 | 1| 
 | 虎符智库 | None | 观察：“人为因素风险管理”兴起，安全意识进入2.0时代 | https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247489953&idx=1&sn=5338c8cd5b01363355a23f83ab4fdde2 | 1| 
@@ -339,6 +345,8 @@
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | MultSec | MultCheck是一款开源的恶意软件分析工具，可以用于测试文件被多个杀毒引擎检测的情况。它易于使用，可以测试多个杀毒引擎，并且易于扩展，可以添加自定义杀毒引擎。 | https://github.com/MultSec/MultCheck | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go | 0 | 0 | 1| 
+| e-m-b-a | EMBA发布了最新版本v1.4.0，增加了许多新功能，包括通过semgrep进行扩展的二进制分析，通过zarn进行新的静态perl分析，工具链识别，改进的更新检查，新的扫描界面等。 | https://github.com/e-m-b-a/emba/releases/tag/1.4.0-ICS-testing-edt | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Shell,HTML | 0 | 0 | 1| 
+| rapid7 | 该文章介绍了针对JetBrains TeamCity的新漏洞（CVE-2024-27198），并提供了详细的漏洞分析和利用示例 | https://github.com/rapid7/metasploit-framework/pull/18922 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | YARA,C,Java,Python,JavaScript,Perl,HTML,Go,Ruby | 0 | 0 | 1| 
 
 
 # medium 推荐
