@@ -1,0 +1,11 @@
+20240304	文档	https://www.tc260.org.cn/upload/2024-03-01/1709282398070082466.pdf	TC260-003《生成式人工智能服务安全基本要求》	tc260.org.cn	www.tc260.org.cn	/upload/2024-03-01/1709282398070082466.pdf
+20240304	漏洞分析	https://mp.weixin.qq.com/s/lput2XX7QJmXaINmDqjt1g	开源组件安全风险及应对	qq.com	mp.weixin.qq.com	/s/lput2XX7QJmXaINmDqjt1g
+20240304	漏洞分析	https://mp.weixin.qq.com/s/xfP3Vx5vp328Uzldtdw8tw	运营商底层协议的侧信道“漏洞”	qq.com	mp.weixin.qq.com	/s/xfP3Vx5vp328Uzldtdw8tw
+20240304	杂志	https://www.sec-wiki.com/weekly/522	SecWiki周刊（第522期)	sec-wiki.com	www.sec-wiki.com	/weekly/522
+20240304	恶意分析	https://mp.weixin.qq.com/s/ON6YCJxliTjanvgzmQBKSA	NET环境下的多款同源RAT对比	qq.com	mp.weixin.qq.com	/s/ON6YCJxliTjanvgzmQBKSA
+20240304	观点	https://mp.weixin.qq.com/s/mwYC46iT_P1mS4taAjn6tw	业内专家对NIST 网络安全框架2.0的反响	qq.com	mp.weixin.qq.com	/s/mwYC46iT_P1mS4taAjn6tw
+20240304	漏洞分析	https://mp.weixin.qq.com/s/iZZrZ5du7TS_O08AfsohSg	SGFuzz：基于枚举类型变量识别状态的模糊测试工具	qq.com	mp.weixin.qq.com	/s/iZZrZ5du7TS_O08AfsohSg
+20240304	恶意分析	https://mp.weixin.qq.com/s/rHIVc3ZQAHzZJ5guttu5kw	Virus Bulletin 2023 议题慢递	qq.com	mp.weixin.qq.com	/s/rHIVc3ZQAHzZJ5guttu5kw
+20240304	恶意分析	https://mp.weixin.qq.com/s/NfbkwMJn6QU2Y-80iaH2Yw	携带恶意rootkit的github项目通过SeroXen RAT木马攻击github项目使用人员	qq.com	mp.weixin.qq.com	/s/NfbkwMJn6QU2Y-80iaH2Yw
+20240304	恶意分析	https://mp.weixin.qq.com/s/vIDHBLbA5iWoPlYTKHSZfw	Hugging Face 恶意ML模型事件分析	qq.com	mp.weixin.qq.com	/s/vIDHBLbA5iWoPlYTKHSZfw
+20240304	论文	https://mp.weixin.qq.com/s/j_oVQb7avLJuEnaxUARF5g	PAM 2024 论文录用列表	qq.com	mp.weixin.qq.com	/s/j_oVQb7avLJuEnaxUARF5g
