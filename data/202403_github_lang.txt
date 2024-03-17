@@ -1,11 +1,11 @@
 Python	4
 Go	3
 C	2
+JavaScript	2
 HTML	2
 YARA	1
 Shell	1
 Java	1
-JavaScript	1
 C++	1
 Perl	1
 Assembly	1
