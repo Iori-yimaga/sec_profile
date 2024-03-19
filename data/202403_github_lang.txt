@@ -1,8 +1,9 @@
-Python	4
+Python	5
 Go	3
 C	2
 JavaScript	2
 HTML	2
+Rust	2
 YARA	1
 Shell	1
 Java	1
@@ -11,4 +12,3 @@ Perl	1
 Assembly	1
 PHP	1
 Ruby	1
-Rust	1

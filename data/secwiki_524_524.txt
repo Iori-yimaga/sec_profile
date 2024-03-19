@@ -1,0 +1,16 @@
+20240311	漏洞分析	https://mp.weixin.qq.com/s/FFjIMzbLBxwO7hHZJF6Zuw	FortiGate SSLVPN CVE-2024-21762漏洞利用分析	qq.com	mp.weixin.qq.com	/s/FFjIMzbLBxwO7hHZJF6Zuw
+20240311	其它	https://mp.weixin.qq.com/s/5twmB6vrMjRYvwnO9q8KXA	静态源代码安全扫描工具测评结果汇总	qq.com	mp.weixin.qq.com	/s/5twmB6vrMjRYvwnO9q8KXA
+20240311	文档	https://www.nccoe.nist.gov/sites/default/files/2024-01/tls-nist-1800-37b-preliminary-draft.pdf?continueFlag=5cb0eeb49bffdeca5c41e45af5364bcc	NIST的企业加密流量可见性研究	nist.gov	www.nccoe.nist.gov	/sites/default/files/2024-01/tls-nist-1800-37b-preliminary-draft.pdf
+20240311	取证分析	https://mp.weixin.qq.com/s/7zUYmQ2jjPNTjTKqnPcRcg	基于 Clickhouse 构建新一代日志存储系统	qq.com	mp.weixin.qq.com	/s/7zUYmQ2jjPNTjTKqnPcRcg
+20240311	恶意分析	https://mp.weixin.qq.com/s/iouFYDQgYe9QOo-uGjZUaQ	杀伤链	qq.com	mp.weixin.qq.com	/s/iouFYDQgYe9QOo-uGjZUaQ
+20240311	其它	https://mp.weixin.qq.com/s/AvR1XttupPVZJlpWQPQ7vw	安全学术圈2023年总结	qq.com	mp.weixin.qq.com	/s/AvR1XttupPVZJlpWQPQ7vw
+20240311	取证分析	https://mp.weixin.qq.com/s/VQmh_jU5mF-iV1hWFDiBzw	2023公有云安全风险分析报告	qq.com	mp.weixin.qq.com	/s/VQmh_jU5mF-iV1hWFDiBzw
+20240311	取证分析	https://paper.seebug.org/3130/	网络空间指纹：新型网络犯罪研判的关键路径	seebug.org	paper.seebug.org	/3130/
+20240311	漏洞分析	https://mp.weixin.qq.com/s/2keGLL08Au9oAxTrRa67qQ	FuzzGpt：对深度学习库进行模糊测试的大语言模型	qq.com	mp.weixin.qq.com	/s/2keGLL08Au9oAxTrRa67qQ
+20240311	取证分析	https://paper.seebug.org/3129/	FORTIGATE 固件分析	seebug.org	paper.seebug.org	/3129/
+20240311	杂志	https://www.sec-wiki.com/weekly/523	SecWiki周刊（第523期)	sec-wiki.com	www.sec-wiki.com	/weekly/523
+20240311	数据挖掘	https://mp.weixin.qq.com/s/tpxVepFa3Qa5LYJwncnHAA	社交机器人识别及其驱动的信息传播机制研究	qq.com	mp.weixin.qq.com	/s/tpxVepFa3Qa5LYJwncnHAA
+20240311	其它	https://mp.weixin.qq.com/s/XoV_rBOEaz9ruhvX6h6Ztw	为异构联邦学习提供高效且抗掉队者的同态加密技术	qq.com	mp.weixin.qq.com	/s/XoV_rBOEaz9ruhvX6h6Ztw
+20240311	数据挖掘	https://mp.weixin.qq.com/s/5V07DVeK-r6ywYtumyDGww	Sora的前世今生及未来展望	qq.com	mp.weixin.qq.com	/s/5V07DVeK-r6ywYtumyDGww
+20240311	取证分析	https://grid.glendon.yorku.ca/exhibits/show/welcome-to-the-snowden-digital	Snowden Digital Surveillance Archive	yorku.ca	grid.glendon.yorku.ca	/exhibits/show/welcome-to-the-snowden-digital
+20240311	数据挖掘	https://mp.weixin.qq.com/s/uvwruN43P-aUpD0UI9Edpg	GPT-RE：基于大语言模型针对关系抽取的上下文学习	qq.com	mp.weixin.qq.com	/s/uvwruN43P-aUpD0UI9Edpg
