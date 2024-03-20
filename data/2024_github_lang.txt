@@ -4,11 +4,12 @@ JavaScript	6
 Shell	6
 HTML	6
 C	6
+C++	6
 Rust	5
-C++	5
 Java	4
 Dart	2
 Jupyter	2
+C#	2
 PHP	2
 TypeScript	1
 Perl	1
@@ -19,5 +20,4 @@ Assembly	1
 Ruby	1
 Vue	1
 HCL	1
-C#	1
 PowerShell	1
