@@ -1,5 +1,5 @@
-Python	15
-Go	9
+Python	17
+Go	10
 JavaScript	6
 Shell	6
 HTML	6
@@ -7,6 +7,8 @@ C	6
 C++	6
 Rust	5
 Java	4
+Dockerfile	2
+Assembly	2
 Dart	2
 Jupyter	2
 C#	2
@@ -14,9 +16,7 @@ PHP	2
 TypeScript	1
 Perl	1
 LLVM	1
-Dockerfile	1
 YARA	1
-Assembly	1
 Ruby	1
 Vue	1
 HCL	1
