@@ -78,6 +78,8 @@
 | 2024-03-18 16:40:53 | English | Cryptography: Lecture Notes in Computer Science | Thomas Beth | http://libgen.rs/book/index.php?md5=820FA67A1A08F5E0242D6BB5FCF608AE | 12 MB [PDF]| 
 | 2024-03-18 16:36:08 | English | Design and Deploy Azure VMware Solutions: Build and Run VMware Workloads Natively on Microsoft Azure | Puthiyavan Udayakumar | http://libgen.rs/book/index.php?md5=9B011594D9D394DFBB5C43251B394755 | 12 MB [PDF]| 
 | 2024-03-17 07:46:18 | English | (International Screen Industries) Supply Chain Cinema: Producing Global Film Workers | Kay Dickinson | http://libgen.rs/book/index.php?md5=5ED8F84B0DE6E219F92C907C2D7EF777 | 3 MB [PDF]| 
+| 2024-03-17 12:44:20 | English | Learning OpenTelemetry | unknown | https://www.wowebook.org/learning-opentelemetry/ | unknown| 
+| 2024-03-15 08:46:17 | English | AWS Security Essentials (Video Course) | unknown | https://www.wowebook.org/aws-security-essentials-video-course/ | unknown| 
 | 2024-03-13 18:10:27 | English | Real-World Bug Hunting - A Field Guide to Web Hacking | Peter Yaworski | http://libgen.rs/book/index.php?md5=0E0C482EB94DBA4B95528B396562DD10 | 7 MB [PDF]| 
 | 2024-03-13 17:36:33 | English | Python Tricks: The Book | Dan Bader | http://libgen.rs/book/index.php?md5=7E2CB40B4730D1DAD806D5E6C8F442E4 | 643 kB [PDF]| 
 | 2024-03-13 17:35:46 | English | Python One-Liners: Write Concise, Eloquent Python Like a Professional | Christian Mayer | http://libgen.rs/book/index.php?md5=801944C47B2BE553A2ABD0B896ED25C4 | 7 MB [PDF]| 
