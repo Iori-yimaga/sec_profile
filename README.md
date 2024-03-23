@@ -14,6 +14,7 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2024-03-22 03:38:55 | English | Trust.: Responsible AI, Innovation, Privacy and Data Leadership | Leipzig, Dominique Shelton | http://libgen.rs/book/index.php?md5=756B6F9F77D26BA16F77DC974F46E221 | 1 MB [EPUB]| 
 | 2024-03-21 04:15:54 | English | Differential Privacy for Dynamic Data (SpringerBriefs in Control, Automation and Robotics) | Jerome Le Ny | http://libgen.rs/book/index.php?md5=D134F93E27DF526B754E11109FCC75A1 | 3 MB [PDF]| 
 | 2024-03-21 04:09:48 | English | Discrete Cuckoo Search for Combinatorial Optimization (Springer Tracts in Nature-Inspired Computing) | Aziz Ouaarab | http://libgen.rs/book/index.php?md5=5252EB5FAD29A09BD8EE65A7AB69E604 | 3 MB [PDF]| 
 | 2024-03-20 04:32:50 | English | Computer Vision Using Local Binary Patterns (Computational Imaging and Vision, 40) | Matti Pietikäinen, Abdenour Hadid, Guoying Zhao, Timo Ahonen | http://libgen.rs/book/index.php?md5=5AC9326720B8B325123F9A98D5D0A2FE | 8 MB [PDF]| 
