@@ -1,0 +1,13 @@
+20240318	取证分析	https://mp.weixin.qq.com/s/7GGZAhzmn7_KLlLaySgHYA	网络与云安全架构	qq.com	mp.weixin.qq.com	/s/7GGZAhzmn7_KLlLaySgHYA
+20240318	取证分析	https://mp.weixin.qq.com/s/eV5JUPmi0RcXfFqcl71wNw	2024-2026年情报界开源情报战略	qq.com	mp.weixin.qq.com	/s/eV5JUPmi0RcXfFqcl71wNw
+20240318	恶意分析	https://mp.weixin.qq.com/s/UhlcRWVddNuG_5pdNrLejQ	AI 驱动的漏洞检测/修复挑战赛（AIxCC）	qq.com	mp.weixin.qq.com	/s/UhlcRWVddNuG_5pdNrLejQ
+20240318	恶意分析	https://xz.aliyun.com/t/14123	APT28组织最新攻击手法分析	aliyun.com	xz.aliyun.com	/t/14123
+20240318	数据挖掘	https://mp.weixin.qq.com/s/nXTWEXzW82SxmBXrPdVcKA	思考下一代安全数据	qq.com	mp.weixin.qq.com	/s/nXTWEXzW82SxmBXrPdVcKA
+20240318	数据挖掘	https://mp.weixin.qq.com/s/KNHxfreMaE5qovz9ScS4LQ	用发展的眼光看AIGC问题	qq.com	mp.weixin.qq.com	/s/KNHxfreMaE5qovz9ScS4LQ
+20240318	移动安全	https://mp.weixin.qq.com/s/isexIueiT2Xx9KDRzvewRw	移动应用安全与风控——应用分析常用工具	qq.com	mp.weixin.qq.com	/s/isexIueiT2Xx9KDRzvewRw
+20240318	漏洞分析	https://mp.weixin.qq.com/s/t-QfPu9arzAnFiKePhUN3w	软件安全评估之软件漏洞基础	qq.com	mp.weixin.qq.com	/s/t-QfPu9arzAnFiKePhUN3w
+20240318	杂志	https://www.sec-wiki.com/weekly/524	SecWiki周刊（第524期)	sec-wiki.com	www.sec-wiki.com	/weekly/524
+20240318	其它	https://mp.weixin.qq.com/s/FK2WZtkzzbDHd8kgsI3-AA	NIST 网络安全框架（CSF）2.0	qq.com	mp.weixin.qq.com	/s/FK2WZtkzzbDHd8kgsI3-AA
+20240318	其它	https://mp.weixin.qq.com/s/8uKnbKD23hBwtDo2DptsyQ	Google验证器验证及安全防御研究	qq.com	mp.weixin.qq.com	/s/8uKnbKD23hBwtDo2DptsyQ
+20240318	恶意分析	https://mp.weixin.qq.com/s/9iJNdshGk3PHL4ILGx-dbA	基于自适应学习的人工智能加密流量检测技术	qq.com	mp.weixin.qq.com	/s/9iJNdshGk3PHL4ILGx-dbA
+20240318	观点	https://mp.weixin.qq.com/s/r7FBjDIuFNMi3lHlXHaOyg	聊一聊网络安全的数字化转型	qq.com	mp.weixin.qq.com	/s/r7FBjDIuFNMi3lHlXHaOyg
