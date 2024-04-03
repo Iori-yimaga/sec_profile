@@ -1,0 +1,23 @@
+20240325	数据挖掘	https://mp.weixin.qq.com/s/hmJKSaHzSB_JtRJNH7QR8Q	利用Ollama、Docker和Anything LLM构建个人知识库	qq.com	mp.weixin.qq.com	/s/hmJKSaHzSB_JtRJNH7QR8Q
+20240325	其它	https://mp.weixin.qq.com/s/brPvVSABkeCRiIGs8oS56w	2023年网络安全十大项目	qq.com	mp.weixin.qq.com	/s/brPvVSABkeCRiIGs8oS56w
+20240325	恶意分析	https://mp.weixin.qq.com/s/xyR7XfSg21fI5dIPjX565g	xz 供应链投毒你需要知道的一切	qq.com	mp.weixin.qq.com	/s/xyR7XfSg21fI5dIPjX565g
+20240325	其它	https://mp.weixin.qq.com/s/OcjnpwJvwvwoq1LynSm2wg	对美国防部《2025财年国防预算申请报告》分析和解读	qq.com	mp.weixin.qq.com	/s/OcjnpwJvwvwoq1LynSm2wg
+20240325	漏洞分析	https://mp.weixin.qq.com/s/KARxIDoNg-Eo80ebZnkHtQ	ReDoS漏洞的原理、示例与应对	qq.com	mp.weixin.qq.com	/s/KARxIDoNg-Eo80ebZnkHtQ
+20240325	运维安全	https://mp.weixin.qq.com/s/Sdmgi1jCwqeMoxTwWAU25w	超过 17 万用户受到使用假 Python 基础设施的攻击影响	qq.com	mp.weixin.qq.com	/s/Sdmgi1jCwqeMoxTwWAU25w
+20240325	杂志	https://www.sec-wiki.com/weekly/525	SecWiki周刊（第525期)	sec-wiki.com	www.sec-wiki.com	/weekly/525
+20240325	移动安全	https://mp.weixin.qq.com/s/Tef03zO_tgbuqYWng9sz2A	Frida-Hook-Java层操作大全	qq.com	mp.weixin.qq.com	/s/Tef03zO_tgbuqYWng9sz2A
+20240325	取证分析	http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000670	口令猜测研究进展	cacrnet.org.cn	www.jcr.cacrnet.org.cn	/CN/10.13868/j.cnki.jcr.000670
+20240325	恶意分析	https://mp.weixin.qq.com/s/Cpyk-xC0Ii-M5NMi9ueazA	Linux内核劫持：深入分析内核rootkit入侵威胁	qq.com	mp.weixin.qq.com	/s/Cpyk-xC0Ii-M5NMi9ueazA
+20240325	数据挖掘	https://mp.weixin.qq.com/s/McOPgBfVPEnqPk8UsMTutg	一文读懂我国数据跨境监管新框架	qq.com	mp.weixin.qq.com	/s/McOPgBfVPEnqPk8UsMTutg
+20240325	Web安全	https://mp.weixin.qq.com/s/fq46pubjKvXjzusWdIl62w	云安全之K8s攻击实践	qq.com	mp.weixin.qq.com	/s/fq46pubjKvXjzusWdIl62w
+20240325	数据挖掘	https://mp.weixin.qq.com/s/Wk7-bCYZFrv5MSXH5ImV9w	社交媒体可解释事实验证	qq.com	mp.weixin.qq.com	/s/Wk7-bCYZFrv5MSXH5ImV9w
+20240325	恶意分析	https://mp.weixin.qq.com/s/nu2dYmJzecKiPe88_jKraA	重估现实中的恶意大模型服务	qq.com	mp.weixin.qq.com	/s/nu2dYmJzecKiPe88_jKraA
+20240325	其它	https://mp.weixin.qq.com/s/zp466emtb-7BzLsyae35xQ	C2、C4ISR、C5ISR和C6ISR：军事指挥控制系统的演变与区别	qq.com	mp.weixin.qq.com	/s/zp466emtb-7BzLsyae35xQ
+20240325	取证分析	https://mp.weixin.qq.com/s/WzqR5uyYd_YgGXSoBT0WWA	如何让“鹰鹫”在迷雾中显形——接力协同与我们的贡献	qq.com	mp.weixin.qq.com	/s/WzqR5uyYd_YgGXSoBT0WWA
+20240325	编程技术	https://mp.weixin.qq.com/s/JfBbtUC0_ShIfCyQVNs2qQ	SAST-数据流分析方法-理论	qq.com	mp.weixin.qq.com	/s/JfBbtUC0_ShIfCyQVNs2qQ
+20240325	恶意分析	https://mp.weixin.qq.com/s/XhZ_cJwbVizll1nQruQqhw	TellYouThePass勒索病毒入侵手法揭秘	qq.com	mp.weixin.qq.com	/s/XhZ_cJwbVizll1nQruQqhw
+20240325	漏洞分析	https://mp.weixin.qq.com/s/buml0tc4yAS-wjhAiOGSCg	代码审计之远程调试方法介绍	qq.com	mp.weixin.qq.com	/s/buml0tc4yAS-wjhAiOGSCg
+20240325	漏洞分析	https://mp.weixin.qq.com/s/DL4pGH-7nPi3eSRD-rlD-w	大模型与模糊测试进行结合的研究论文汇总	qq.com	mp.weixin.qq.com	/s/DL4pGH-7nPi3eSRD-rlD-w
+20240325	论文	https://mp.weixin.qq.com/s/oZm2fTmHvcLu1_yAg-ZUvg	Elsevier 2023年网络空间安全学科高被引作者分析	qq.com	mp.weixin.qq.com	/s/oZm2fTmHvcLu1_yAg-ZUvg
+20240325	恶意分析	https://mp.weixin.qq.com/s/NyJlRjLHU5nkbho44hhCrQ	软件供应链安全: 学术洞见与产业方案的双向奔赴	qq.com	mp.weixin.qq.com	/s/NyJlRjLHU5nkbho44hhCrQ
+20240325	设备安全	https://mp.weixin.qq.com/s/7MAYQEbv4KlSnehJLd8GqQ	探秘 Zyxel 设备：固件提取分析	qq.com	mp.weixin.qq.com	/s/7MAYQEbv4KlSnehJLd8GqQ

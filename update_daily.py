@@ -41,7 +41,7 @@ def update_github(proxy=None):
     """
     if proxy:
         for k, v in proxy.items():
-            cmd = 'export {k}_proxy={v}'.format(k=k, v=v) 
+            cmd = 'export {k}_proxy={v}'.format(k=k, v=v)
             ret = os.system(cmd)
             print(ret, cmd)
     ts = get_special_date(format="%Y-%m-%d %H:%m:%S")
