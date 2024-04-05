@@ -1,14 +1,14 @@
-Python	22
-Shell	10
-Go	10
+Python	23
+Shell	11
+Go	11
 JavaScript	9
 C	8
 C++	8
 Java	6
 HTML	6
 Rust	6
+PowerShell	4
 PHP	3
-PowerShell	3
 Dockerfile	2
 YARA	2
 Assembly	2
@@ -19,6 +19,7 @@ TypeScript	1
 Perl	1
 LLVM	1
 Verilog	1
+SCSS	1
 Ruby	1
 Vue	1
 HCL	1
