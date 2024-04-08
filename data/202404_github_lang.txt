@@ -1,5 +1,7 @@
-Python	1
-Go	1
-Shell	1
-PowerShell	1
 SCSS	1
+C	1
+Shell	1
+Python	1
+C++	1
+Go	1
+PowerShell	1

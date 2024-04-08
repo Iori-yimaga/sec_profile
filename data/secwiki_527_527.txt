@@ -1,0 +1,13 @@
+20240401	恶意分析	https://mp.weixin.qq.com/s/KzIhfGwKygcKUrlN42dv-Q	liblzma后门疑似国家级APT	qq.com	mp.weixin.qq.com	/s/KzIhfGwKygcKUrlN42dv-Q
+20240401	数据挖掘	https://mp.weixin.qq.com/s/qITMEqUEDiBd9OCvvUUxbg	大语言模型应用安全入门	qq.com	mp.weixin.qq.com	/s/qITMEqUEDiBd9OCvvUUxbg
+20240401	漏洞分析	https://m4p1e.com/2024/03/13/bad_php_ir/	PHP之殇 : 一个IR设计缺陷引发的蝴蝶效应	m4p1e.com	m4p1e.com	/2024/03/13/bad_php_ir/
+20240401	设备安全	https://mp.weixin.qq.com/s/CTmprsOdt7vHq2Z6er1B-w	IoT设备常见Web Server漏洞挖掘思路分析	qq.com	mp.weixin.qq.com	/s/CTmprsOdt7vHq2Z6er1B-w
+20240401	恶意分析	https://mp.weixin.qq.com/s/WPLr-GxPjofYmbLMmigfbA	XZ压缩库供应链攻击事件深度刨析	qq.com	mp.weixin.qq.com	/s/WPLr-GxPjofYmbLMmigfbA
+20240401	杂志	https://www.sec-wiki.com/weekly/526	SecWiki周刊（第526期)	sec-wiki.com	www.sec-wiki.com	/weekly/526
+20240401	恶意分析	https://mp.weixin.qq.com/s/gdb8KStXDxY2eOLLbiPFCQ	VPN安装包“引狼入室”：疑似金眼狗（APT-Q-27）团伙的窃密行动	qq.com	mp.weixin.qq.com	/s/gdb8KStXDxY2eOLLbiPFCQ
+20240401	其它	https://mp.weixin.qq.com/s/pWbsvAMTJCpRIzQVO-Dy2A	2023-2024年度​美国网安局人工智能路线图	qq.com	mp.weixin.qq.com	/s/pWbsvAMTJCpRIzQVO-Dy2A
+20240401	数据挖掘	https://mp.weixin.qq.com/s/FRtsS9UKSU9Z6yEQ3aDoZg	知识图谱和 LLM：多跳问答	qq.com	mp.weixin.qq.com	/s/FRtsS9UKSU9Z6yEQ3aDoZg
+20240401	恶意分析	https://mp.weixin.qq.com/s/Nch6h5R-cqEUhvMyAtvdWA	xz liblzma 供应链CVE-2024-3094分析	qq.com	mp.weixin.qq.com	/s/Nch6h5R-cqEUhvMyAtvdWA
+20240401	其它	https://mp.weixin.qq.com/s/6IVvBJ4n81-DaCh9sjYe7w	Palantir告警和检测策略框架简介	qq.com	mp.weixin.qq.com	/s/6IVvBJ4n81-DaCh9sjYe7w
+20240401	观点	https://mp.weixin.qq.com/s/7Xq936VnEPA0Bt1a8-GKAQ	现代安全检测逻辑科普【续】	qq.com	mp.weixin.qq.com	/s/7Xq936VnEPA0Bt1a8-GKAQ
+20240401	比赛	https://mp.weixin.qq.com/s/-WkxrN4eYiYRZGd0FOZhpA	Pwnable.kr 解题笔记	qq.com	mp.weixin.qq.com	/s/-WkxrN4eYiYRZGd0FOZhpA
