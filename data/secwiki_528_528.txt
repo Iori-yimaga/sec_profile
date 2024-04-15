@@ -1,0 +1,15 @@
+20240408	数据挖掘	https://mp.weixin.qq.com/s/rogMCoS1zDN0mAAC5EKhFQ	Agent调研--19类Agent框架对比	qq.com	mp.weixin.qq.com	/s/rogMCoS1zDN0mAAC5EKhFQ
+20240408	恶意分析	https://mp.weixin.qq.com/s/io-wpMqippUyLfgKErGsgw	BianLian勒索软件解密原理剖析	qq.com	mp.weixin.qq.com	/s/io-wpMqippUyLfgKErGsgw
+20240408	其它	https://mp.weixin.qq.com/s/VOHt55hJL6ImGbU0BSQHuA	美国网络安全从业人员规模与收入成色几何	qq.com	mp.weixin.qq.com	/s/VOHt55hJL6ImGbU0BSQHuA
+20240408	恶意分析	https://mp.weixin.qq.com/s/hoKOluC1aDo16bxZFieSAw	威胁狩猎：Latrodectus最新分析	qq.com	mp.weixin.qq.com	/s/hoKOluC1aDo16bxZFieSAw
+20240408	杂志	https://www.sec-wiki.com/weekly/527	SecWiki周刊（第527期)	sec-wiki.com	www.sec-wiki.com	/weekly/527
+20240408	漏洞分析	https://mp.weixin.qq.com/s/CPEs-ggN-xQ9YgiDYOW7yA	软件安全评估之设计评审入门（上）	qq.com	mp.weixin.qq.com	/s/CPEs-ggN-xQ9YgiDYOW7yA
+20240408	恶意分析	https://mp.weixin.qq.com/s/Jugdl7Qeq9MXw_HkCgj1Sg	不支付赎金的情况下解密文件	qq.com	mp.weixin.qq.com	/s/Jugdl7Qeq9MXw_HkCgj1Sg
+20240408	数据挖掘	https://mp.weixin.qq.com/s/W16S9EsAC6T8QAEiopewyQ	SecCorpus: 构建安全领域大模型数据的技术实践	qq.com	mp.weixin.qq.com	/s/W16S9EsAC6T8QAEiopewyQ
+20240408	恶意分析	https://mp.weixin.qq.com/s/LFrxlo_Ik0FcvNvc3Oavhg	窃密木马借壁纸引擎传播，Steam 再中招	qq.com	mp.weixin.qq.com	/s/LFrxlo_Ik0FcvNvc3Oavhg
+20240408	恶意分析	https://mp.weixin.qq.com/s/gzqmEfGTJAvuMlhMNm9NUA	APT的全球流量监听系统（Turmoil监听与Turbine涡轮）讲解与分析	qq.com	mp.weixin.qq.com	/s/gzqmEfGTJAvuMlhMNm9NUA
+20240408	其它	https://mp.weixin.qq.com/s/i8HdMy4Oq0HSlkqI0TElgA	网络内生安全理论研究现状与尚需证明的问题	qq.com	mp.weixin.qq.com	/s/i8HdMy4Oq0HSlkqI0TElgA
+20240408	数据挖掘	https://openrag.notion.site/OpenRAG-Base-Chinese-Introduction-299807c528bc46d9af0d9060dcd46f6b	OpenRAG Base Chinese Introduction(中文介绍)	notion.site	openrag.notion.site	/OpenRAG-Base-Chinese-Introduction-299807c528bc46d9af0d9060dcd46f6b
+20240408	漏洞分析	http://www.journalofcybersec.com/CN/Y2023/V1/I1/47	基于深度学习的漏洞检测研究综述	journalofcybersec.com	www.journalofcybersec.com	/CN/Y2023/V1/I1/47
+20240408	漏洞分析	https://mp.weixin.qq.com/s/mCdmGqPLxRGMqxxgS4XgFA	基于行为图的智能漏洞检测优化	qq.com	mp.weixin.qq.com	/s/mCdmGqPLxRGMqxxgS4XgFA
+20240408	编程技术	https://mp.weixin.qq.com/s/x7cAdgn6qx13vw_ODQNb7g	抽丝剥茧代码属性图CPG-第三弹：CPG中的DFG-2	qq.com	mp.weixin.qq.com	/s/x7cAdgn6qx13vw_ODQNb7g

@@ -7,11 +7,11 @@ C	1
 Java	1
 JavaScript	1
 C++	1
-Rust	1
 C#	1
 MDX	1
 TypeScript	1
 Smarty	1
+CSS	1
 Ruby	1
 PowerShell	1
-CSS	1
+Rust	1
