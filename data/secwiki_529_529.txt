@@ -1,0 +1,10 @@
+20240415	恶意分析	https://mp.weixin.qq.com/s/CAwdQK_ivZcim05s0IFdFw	勒索软件的防御手段和检测技术	qq.com	mp.weixin.qq.com	/s/CAwdQK_ivZcim05s0IFdFw
+20240415	恶意分析	https://blog.threatradar.cn/2024/04/16/XZ%E4%BE%9B%E5%BA%94%E9%93%BE%E5%90%8E%E9%97%A8%E6%A3%80%E6%B5%8B%E6%96%B9%E6%A1%88-CVE-2024-3094/	XZ供应链后门检测方案(CVE-2024-3094)	threatradar.cn	blog.threatradar.cn	/2024/04/16/XZ%E4%BE%9B%E5%BA%94%E9%93%BE%E5%90%8E%E9%97%A8%E6%A3%80%E6%B5%8B%E6%96%B9%E6%A1%88-CVE-2024-3094/
+20240415	恶意分析	https://www.cverc.org.cn/head/zhaiyao/news20240415-FTTF.htm	“伏特台风”—美国情报机构针对美国国会和纳税人的合谋欺诈行动	cverc.org.cn	www.cverc.org.cn	/head/zhaiyao/news20240415-FTTF.htm
+20240415	Web安全	https://mp.weixin.qq.com/s/QY301bTn-Ud1IFKr22ZbMQ	Web3 钱包分类及风险	qq.com	mp.weixin.qq.com	/s/QY301bTn-Ud1IFKr22ZbMQ
+20240415	恶意分析	https://book.yunzhan365.com/tkgd/bsvf/mobile/index.html	2023年度高级威胁研究报告	yunzhan365.com	book.yunzhan365.com	/tkgd/bsvf/mobile/index.html
+20240415	杂志	https://www.sec-wiki.com/weekly/528	SecWiki周刊（第528期)	sec-wiki.com	www.sec-wiki.com	/weekly/528
+20240415	恶意分析	https://mp.weixin.qq.com/s/xAwoxhgEXV_HwDztISGK0A	VenomRAT 、RemcosRAT等恶意程序分析	qq.com	mp.weixin.qq.com	/s/xAwoxhgEXV_HwDztISGK0A
+20240415	漏洞分析	https://mp.weixin.qq.com/s/xdzTrYyrlIGpDjHtA-8uow	XZ-Utils后门事件过程及启示	qq.com	mp.weixin.qq.com	/s/xdzTrYyrlIGpDjHtA-8uow
+20240415	其它	https://mp.weixin.qq.com/s/vvtqJz0liAVa1hlI_BWD3Q	真相 | 国际金融公司雇佣前间谍？	qq.com	mp.weixin.qq.com	/s/vvtqJz0liAVa1hlI_BWD3Q
+20240415	其它	https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247484131&idx=1&sn=13041410171777a1b43f71c65d7a6ede&chksm=c241121bf5369b0d660974b21ddf90acf426c8c29ef0a386448b9583f98d05c20b66193a95a6&token=703785694&lang=zh_CN#rd	战略支援部队撤番，网络空间部队成立	qq.com	mp.weixin.qq.com	/s
