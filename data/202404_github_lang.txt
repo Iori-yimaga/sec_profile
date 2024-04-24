@@ -1,5 +1,6 @@
-Python	3
+Python	4
 Shell	2
+C#	2
 Go	2
 SCSS	1
 YARA	1
@@ -7,7 +8,6 @@ C	1
 Java	1
 JavaScript	1
 C++	1
-C#	1
 MDX	1
 TypeScript	1
 Smarty	1
