@@ -1,0 +1,14 @@
+20240422	运维安全	https://www.weiyun.com/document?fileId=RFZZTExda2NX_a274b413f0a739ae12b58dcd423dce4a_24ddc9a3-f1a4-4ce6-b380-4fcb1afe990a&officeType=pdf&tdsourcetag=s_weiyun_file	麒麟软件操作系统勒索病毒防护指引	weiyun.com	www.weiyun.com	/document
+20240422	观点	https://mp.weixin.qq.com/s/sheQ6p766uUfHb0vjUiotg	爱因斯坦计划-网安态势感知迎来转型	qq.com	mp.weixin.qq.com	/s/sheQ6p766uUfHb0vjUiotg
+20240422	数据挖掘	https://mp.weixin.qq.com/s/a2rKE4cL7cPSUJqKdsvDZg	网络安全类任务大模型微调个人推荐	qq.com	mp.weixin.qq.com	/s/a2rKE4cL7cPSUJqKdsvDZg
+20240422	漏洞分析	https://mp.weixin.qq.com/s/hGZj7OZFn5yJ3CM3xT2bUA	NodeJS操作符空格漏洞	qq.com	mp.weixin.qq.com	/s/hGZj7OZFn5yJ3CM3xT2bUA
+20240422	观点	https://mp.weixin.qq.com/s/vM4hpTmBOhJbApQMXn-raQ	物理安全的重拳	qq.com	mp.weixin.qq.com	/s/vM4hpTmBOhJbApQMXn-raQ
+20240422	其它	https://mp.weixin.qq.com/s/N0Hn9FgSv6RFIzKpGtuMAQ	谈谈云和应用安全的生态	qq.com	mp.weixin.qq.com	/s/N0Hn9FgSv6RFIzKpGtuMAQ
+20240422	数据挖掘	https://mp.weixin.qq.com/s/OnVbgdjrJ9UGCVVCLKqxIw	大模型中‘故障词元’的检测和分类	qq.com	mp.weixin.qq.com	/s/OnVbgdjrJ9UGCVVCLKqxIw
+20240422	杂志	https://www.sec-wiki.com/weekly/529	SecWiki周刊（第529期)	sec-wiki.com	www.sec-wiki.com	/weekly/529
+20240422	数据挖掘	https://mp.weixin.qq.com/s/fcjme2pPiAL5j53DNG74hw	LLaMa-3 网络安全能力全解析	qq.com	mp.weixin.qq.com	/s/fcjme2pPiAL5j53DNG74hw
+20240422	取证分析	https://mp.weixin.qq.com/s/d-iuw9YzYJ65JZ1aihw3-g	云输入法安全研究报告	qq.com	mp.weixin.qq.com	/s/d-iuw9YzYJ65JZ1aihw3-g
+20240422	取证分析	https://mp.weixin.qq.com/s/EU-qWJUjkj9Y9bcgrmtSVQ	VulnCheck：漏洞优先级挑战的解决方案	qq.com	mp.weixin.qq.com	/s/EU-qWJUjkj9Y9bcgrmtSVQ
+20240422	数据挖掘	https://mp.weixin.qq.com/s/rS0JKaq8aI6LY8Db5uKxrg	大模型内容安全蓝军的道与术	qq.com	mp.weixin.qq.com	/s/rS0JKaq8aI6LY8Db5uKxrg
+20240422	恶意分析	https://mp.weixin.qq.com/s/A-Y06f_VyhIPYlzZDLrYzA	SANS 2024 年威胁狩猎调查报告	qq.com	mp.weixin.qq.com	/s/A-Y06f_VyhIPYlzZDLrYzA
+20240422	数据挖掘	https://mp.weixin.qq.com/s/6Yxo8Hiip-ikTK73J3hA4g	知识图谱使LLM能够真正理解	qq.com	mp.weixin.qq.com	/s/6Yxo8Hiip-ikTK73J3hA4g
