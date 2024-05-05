@@ -1,0 +1,12 @@
+20240429	数据挖掘	https://mp.weixin.qq.com/s/ofMytXbFEhkaCDQWQy0KqA	大模型安全开源项目汇总	qq.com	mp.weixin.qq.com	/s/ofMytXbFEhkaCDQWQy0KqA
+20240429	数据挖掘	https://mp.weixin.qq.com/s/lcSCAUQQrHSVblyNgtSO-g	KnowCoder：通过代码统一表示结构化知识	qq.com	mp.weixin.qq.com	/s/lcSCAUQQrHSVblyNgtSO-g
+20240429	杂志	https://www.sec-wiki.com/weekly/530	SecWiki周刊（第530期)	sec-wiki.com	www.sec-wiki.com	/weekly/530
+20240429	漏洞分析	https://mp.weixin.qq.com/s/0mNumRh4voA2FVsOcW9WDQ	利用ChatGPT辅助静态分析	qq.com	mp.weixin.qq.com	/s/0mNumRh4voA2FVsOcW9WDQ
+20240429	数据挖掘	https://mp.weixin.qq.com/s/aomDE-_l0H25HY2anOU2bg	大型语言模型安全风险的基准评估套件	qq.com	mp.weixin.qq.com	/s/aomDE-_l0H25HY2anOU2bg
+20240429	设备安全	https://mp.weixin.qq.com/s?__biz=MzI3MTU2NTUyMQ==&mid=2247483655&idx=1&sn=13a8de3ceb0864217f148962f0dd040d&chksm=eb3e96b9dc491faf79f47914ae4ddd2b066f77504bb5d7c2e59ff4f473f01bc7df30b4b15963&token=108356932&lang=zh_CN#rd	大网两级SOC联动的要素	qq.com	mp.weixin.qq.com	/s
+20240429	恶意分析	https://mp.weixin.qq.com/s?__biz=MzI3MTU2NTUyMQ==&mid=2247483683&idx=1&sn=ebaed6dd9b51a08e1dfcf7b1893f976e&chksm=eb3e969ddc491f8b10c84e031151d0ff38f0f64cab748f6e453e051b8eea5aef972757f9cd45&token=108356932&lang=zh_CN#rd	Crowdstrike不仅仅是SaaS EDR	qq.com	mp.weixin.qq.com	/s
+20240429	恶意分析	https://github.com/montysecurity/C2-Tracker	C2-Tracker: Live Feed of C2 servers, tools, and botnets	github.com	github.com	/montysecurity/C2-Tracker
+20240429	恶意分析	https://mp.weixin.qq.com/s/QPFU2qhsK8p3_tj7BlFkbA	利用生成式AI实现自动化恶意软件逆向工程分析	qq.com	mp.weixin.qq.com	/s/QPFU2qhsK8p3_tj7BlFkbA
+20240429	数据挖掘	https://mp.weixin.qq.com/s/qLf5-HXG-WtS1LAQUD8pww	实战解读：Llama 3 安全性对抗分析	qq.com	mp.weixin.qq.com	/s/qLf5-HXG-WtS1LAQUD8pww
+20240429	比赛	https://mp.weixin.qq.com/s/TxPzHAPsnjdYDSzLfKwkjA	2024鹅厂游戏安全技术竞赛决赛题解-PC客户端	qq.com	mp.weixin.qq.com	/s/TxPzHAPsnjdYDSzLfKwkjA
+20240429	数据挖掘	https://mp.weixin.qq.com/s/DQEfeFFNYyv0-StUAe218Q	探索基于大模型的知识图谱补全	qq.com	mp.weixin.qq.com	/s/DQEfeFFNYyv0-StUAe218Q
