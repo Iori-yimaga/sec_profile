@@ -1,2 +1,6 @@
-Python	1
+Python	3
 Shell	1
+Java	1
+Kotlin	1
+Perl	1
+Go	1
