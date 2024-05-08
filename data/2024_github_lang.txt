@@ -1,4 +1,4 @@
-Python	27
+Python	28
 Go	13
 Shell	12
 JavaScript	10
@@ -8,9 +8,9 @@ Java	8
 Rust	7
 HTML	6
 C#	4
+PHP	4
 PowerShell	4
 YARA	3
-PHP	3
 TypeScript	2
 Perl	2
 Dockerfile	2
