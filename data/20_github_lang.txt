@@ -22,8 +22,8 @@ Swift	70
 Makefile	62
 Lua	61
 Kotlin	59
+Batchfile	54
 TeX	54
-Batchfile	53
 Vue	51
 Scala	45
 CMake	45

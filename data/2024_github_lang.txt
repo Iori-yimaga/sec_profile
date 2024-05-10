@@ -24,6 +24,7 @@ SCSS	1
 MDX	1
 Vue	1
 Kotlin	1
+Batchfile	1
 HCL	1
 CSS	1
 Smarty	1
