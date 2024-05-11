@@ -1,9 +1,9 @@
-Python	28
-Go	13
+Python	29
+Go	14
 Shell	12
-JavaScript	10
+JavaScript	11
+C++	10
 C	9
-C++	9
 Java	8
 Rust	7
 HTML	6
