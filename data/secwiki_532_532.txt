@@ -1,0 +1,14 @@
+20240506	恶意分析	https://mp.weixin.qq.com/s/azDzg3op0kqBUpakFtkTAw	MikroTik软路由攻击场景复现及后门加解密剖析	qq.com	mp.weixin.qq.com	/s/azDzg3op0kqBUpakFtkTAw
+20240506	杂志	https://www.sec-wiki.com/weekly/531	SecWiki周刊（第531期)	sec-wiki.com	www.sec-wiki.com	/weekly/531
+20240506	运维安全	https://mp.weixin.qq.com/s/RR5YznWfqmKEg757425dgg	信息安全资产库建设实践	qq.com	mp.weixin.qq.com	/s/RR5YznWfqmKEg757425dgg
+20240506	恶意分析	https://mp.weixin.qq.com/s/rAWQVP1EjesI6huEVNngoA	DinodasRAT Linux后门剖析及通信解密尝试	qq.com	mp.weixin.qq.com	/s/rAWQVP1EjesI6huEVNngoA
+20240506	恶意分析	https://mp.weixin.qq.com/s/DYYlg8aCGduHSSjDSMXyIQ	PyPI生态系统中恶意代码的实证研究	qq.com	mp.weixin.qq.com	/s/DYYlg8aCGduHSSjDSMXyIQ
+20240506	漏洞分析	https://github.com/liuhuigmail/GrowingBugRepository	GrowingBugRepository: 公开缺陷基准数据集	github.com	github.com	/liuhuigmail/GrowingBugRepository
+20240506	其它	https://mp.weixin.qq.com/s/1wsfoBg1J0dcY_AAzFHehQ	在联邦推荐安全中探索用户画像与物品间的相互作用	qq.com	mp.weixin.qq.com	/s/1wsfoBg1J0dcY_AAzFHehQ
+20240506	其它	https://mp.weixin.qq.com/s/5NspU6W59psT9TeIZimEwg	高净值人物保护装备揭秘	qq.com	mp.weixin.qq.com	/s/5NspU6W59psT9TeIZimEwg
+20240506	数据挖掘	https://mp.weixin.qq.com/s/OuinaUwB--vRpogwEbVmhA	时间序列概率预测的共形预测	qq.com	mp.weixin.qq.com	/s/OuinaUwB--vRpogwEbVmhA
+20240506	Web安全	https://paper.seebug.org/3152/	凭据获取之浏览器	seebug.org	paper.seebug.org	/3152/
+20240506	Web安全	https://mp.weixin.qq.com/s/7-QltpIrqt7K4lCRKGeipQ	RCE宝典	qq.com	mp.weixin.qq.com	/s/7-QltpIrqt7K4lCRKGeipQ
+20240506	数据挖掘	https://github.com/kento996/xianzhi_assistant	基于先知社区知识构建的向量知识库	github.com	github.com	/kento996/xianzhi_assistant
+20240506	漏洞分析	https://paper.seebug.org/3163/	调用 ELF 文件任意函数的几种方式	seebug.org	paper.seebug.org	/3163/
+20240506	其它	https://mp.weixin.qq.com/s/06v1Qcrwy8o0chzesk60Nw	比较中美C4ISR	qq.com	mp.weixin.qq.com	/s/06v1Qcrwy8o0chzesk60Nw
