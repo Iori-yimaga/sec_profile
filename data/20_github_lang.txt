@@ -6,7 +6,7 @@ HTML	526
 Java	522
 Shell	495
 Go	471
-C#	317
+C#	318
 Ruby	271
 PowerShell	260
 PHP	236
@@ -22,7 +22,7 @@ Swift	70
 Makefile	62
 Lua	62
 Kotlin	59
-Batchfile	54
+Batchfile	55
 TeX	54
 Vue	51
 Scala	45

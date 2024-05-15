@@ -79,8 +79,16 @@ def scraw(so, proxy=None, delta=3):
                                 field_value = child.text
                                 if field_name:
                                     if field_name == 'ts':
-                                        tformat = '%a, %d %b %Y %H:%M:%S'
-                                        ts = datetime2timestamp(field_value[0:-6], tformat=tformat)
+                                        tformat_1 = "%Y-%m-%dT%H:%M:%S"
+                                        try:
+                                            ts = datetime2timestamp(field_value, tformat=tformat_1)
+                                        except:
+                                            tformat2 = '%a, %d %b %Y %H:%M:%S'
+
+                                            ts = datetime2timestamp(field_value[0:-6],
+                                                                    tformat=tformat2)
+
+
                                         field_value = timestamp2datetime(ts, tformat="%Y%m%d")
                                         if field_value not in ts_list:
                                             continue
