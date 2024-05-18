@@ -1,8 +1,8 @@
 Python	9
+C++	4
 Go	4
 Java	3
 C	3
-C++	3
 C#	3
 HTML	2
 Batchfile	2
