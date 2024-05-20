@@ -1,0 +1,12 @@
+20240513	数据挖掘	https://mp.weixin.qq.com/s/s7GrWdLkcROzkFZrulxkow	ChatRule—基于LLM挖掘KG中的逻辑规则	qq.com	mp.weixin.qq.com	/s/s7GrWdLkcROzkFZrulxkow
+20240513	观点	https://mp.weixin.qq.com/s/9EnoD-iz89SsxfO__OLZOQ	RSAC 2024解读： AI、协作与平台化集成	qq.com	mp.weixin.qq.com	/s/9EnoD-iz89SsxfO__OLZOQ
+20240513	杂志	https://www.sec-wiki.com/weekly/532	SecWiki周刊（第532期)	sec-wiki.com	www.sec-wiki.com	/weekly/532
+20240513	Web安全	https://github.com/flipt-io/reverst/	Reverst：基于QUIC协议和HTTP3的反向隧道工具	github.com	github.com	/flipt-io/reverst/
+20240513	漏洞分析	https://mp.weixin.qq.com/s/uJr0sWXk3X1kahLbT5M_-w	PHP开发中的不安全反序列化	qq.com	mp.weixin.qq.com	/s/uJr0sWXk3X1kahLbT5M_-w
+20240513	数据挖掘	https://github.com/tmylla/Awesome-LLM4Cybersecurity	Awesome-LLM4Cybersecurity: An overview of LLMs for cybersecurity	github.com	github.com	/tmylla/Awesome-LLM4Cybersecurity
+20240513	运维安全	https://mp.weixin.qq.com/s/28Py327MM1tCco0y-LhYUQ	从RSAC2024看SOC发展趋势	qq.com	mp.weixin.qq.com	/s/28Py327MM1tCco0y-LhYUQ
+20240513	其它	https://mp.weixin.qq.com/s/8lSiWsm9grfB8f7zedJsYw	拟态防御、内生安全以及对安全行业的影响（下）	qq.com	mp.weixin.qq.com	/s/8lSiWsm9grfB8f7zedJsYw
+20240513	数据挖掘	https://mp.weixin.qq.com/s/IPLaYB6d8y21hMhLz1FCsw	Llama-Code Shield解读：大模型代码安全护盾解析	qq.com	mp.weixin.qq.com	/s/IPLaYB6d8y21hMhLz1FCsw
+20240513	其它	https://mp.weixin.qq.com/s/KdhUQC3hKEEolJP-39kt2A	大模型范式下的知识检索增强实践	qq.com	mp.weixin.qq.com	/s/KdhUQC3hKEEolJP-39kt2A
+20240513	数据挖掘	https://www.osredm.com/super_cognition/zhuoshi_llm_factory	卓识 LLM_Factory：领域大模型全流程一站式工具链	osredm.com	www.osredm.com	/super_cognition/zhuoshi_llm_factory
+20240513	其它	https://mp.weixin.qq.com/s/GNonTO4tJvEknCZpcASqbA	创新人才培养模式 加强网络安全实战型人才培养	qq.com	mp.weixin.qq.com	/s/GNonTO4tJvEknCZpcASqbA
