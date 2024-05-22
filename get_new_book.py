@@ -128,6 +128,8 @@ class GetNewBook(object):
             ['falcon'],
             ['sentinel'],  # microsoft
             ['defender'],  # microsoft
+            ['copilot'], # microsoft
+            ['palo', 'alto'],
             ['qrader'],  # ibm
             ['falcon'],
             ['cobaltstrike'],

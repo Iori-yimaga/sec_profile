@@ -14,9 +14,9 @@ Lua	1
 SCSS	1
 Shell	1
 MDX	1
-Swift	1
+Ruby	1
 Kotlin	1
 Rust	1
-Ruby	1
+Swift	1
 Smarty	1
 PHP	1
