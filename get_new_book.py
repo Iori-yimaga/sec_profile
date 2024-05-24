@@ -146,7 +146,7 @@ class GetNewBook(object):
             ['pentesting'],
             ['devops'],
             ['devsecops'],
-            ['generative']
+            ['generative'],
 
         ]
         self.book_language_list = ['English']
