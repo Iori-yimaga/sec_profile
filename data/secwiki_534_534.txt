@@ -1,0 +1,11 @@
+20240520	法规	https://mp.weixin.qq.com/s/TLDGo-a0DbWydob7LLP6-Q	互联网政务应用安全管理规定	qq.com	mp.weixin.qq.com	/s/TLDGo-a0DbWydob7LLP6-Q
+20240520	漏洞分析	https://mp.weixin.qq.com/s/dwviEmxMDGh7C7frFmvlcg	详细的漏洞报告是怎样的	qq.com	mp.weixin.qq.com	/s/dwviEmxMDGh7C7frFmvlcg
+20240520	观点	https://mp.weixin.qq.com/s/UtBCEHQeuERCKQa1I6MNDA	安全大数据运营分析核心思路	qq.com	mp.weixin.qq.com	/s/UtBCEHQeuERCKQa1I6MNDA
+20240520	观点	https://mp.weixin.qq.com/s/NSTFPg6xkA6mVP4B3cMarA	网络安全实战型人才培养体系探索与实践	qq.com	mp.weixin.qq.com	/s/NSTFPg6xkA6mVP4B3cMarA
+20240520	漏洞分析	https://mp.weixin.qq.com/s/wfQjyxDare76Il8Rg7wBNQ	JDD-自动化检测Java反序列化链方法	qq.com	mp.weixin.qq.com	/s/wfQjyxDare76Il8Rg7wBNQ
+20240520	其它	https://mp.weixin.qq.com/s/rtP2_vT6MZC9ictyY4-bOg	国产信创领域主流厂商汇总	qq.com	mp.weixin.qq.com	/s/rtP2_vT6MZC9ictyY4-bOg
+20240520	漏洞分析	https://mp.weixin.qq.com/s/EimRZO2a8NJg8WOfzlQ-aw	RPG：一种面向Rust库的模糊测试目标自动生成技术	qq.com	mp.weixin.qq.com	/s/EimRZO2a8NJg8WOfzlQ-aw
+20240520	漏洞分析	https://mp.weixin.qq.com/s/LnepuoVi5sgPXuINd8Ff0g	利用大语言模型自动检测错误的静态分析报告	qq.com	mp.weixin.qq.com	/s/LnepuoVi5sgPXuINd8Ff0g
+20240520	取证分析	https://mp.weixin.qq.com/s/5BKa9KDU-Kggc_WMQ1XBGw	[SecData]-暗网流量公开数据集-1	qq.com	mp.weixin.qq.com	/s/5BKa9KDU-Kggc_WMQ1XBGw
+20240520	取证分析	https://mp.weixin.qq.com/s/bxJ3tSEOGnyTy-Ck7mRn0Q	溯源比特币与真实案例细节分析流程	qq.com	mp.weixin.qq.com	/s/bxJ3tSEOGnyTy-Ck7mRn0Q
+20240520	数据挖掘	https://www.dqxxkx.cn/CN/10.12082/dqxxkx.2023.230154	时空知识图谱研究进展与展望	dqxxkx.cn	www.dqxxkx.cn	/CN/10.12082/dqxxkx.2023.230154
