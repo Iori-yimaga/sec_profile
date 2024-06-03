@@ -1,0 +1,16 @@
+20240527	法规	https://www.cac.gov.cn/2024-05/29/c_1718573626118437.htm	信息化标准建设行动计划（2024—2027年）	cac.gov.cn	www.cac.gov.cn	/2024-05/29/c_1718573626118437.htm
+20240527	Web安全	https://mp.weixin.qq.com/s/xr7enMnln6Ahf5EHuI2uvA	DNS形式化验证技术概述	qq.com	mp.weixin.qq.com	/s/xr7enMnln6Ahf5EHuI2uvA
+20240527	Web安全	https://mp.weixin.qq.com/s/XO2tEzVijsnn7WuFgb-y3Q	Z3 教你学提权	qq.com	mp.weixin.qq.com	/s/XO2tEzVijsnn7WuFgb-y3Q
+20240527	比赛	https://courses.zjusec.com/2023/	安全攻防实践 (CTF) 短学期学习资料-2023	zjusec.com	courses.zjusec.com	/2023/
+20240527	Web安全	https://myzxcg.com/2023/03/%E7%BA%AFC%E9%87%8D%E6%9E%84CS-Beacon-%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E7%8E%B0/	纯C重构CS Beacon	myzxcg.com	myzxcg.com	/2023/03/%E7%BA%AFC%E9%87%8D%E6%9E%84CS-Beacon-%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E7%8E%B0/
+20240527	漏洞分析	https://mp.weixin.qq.com/s/kNczcZ-mT_s4wy7S8N-mcw	起底震网病毒的来龙去脉	qq.com	mp.weixin.qq.com	/s/kNczcZ-mT_s4wy7S8N-mcw
+20240527	运维安全	https://zhuanlan.zhihu.com/p/700161786	如何有效的量化入侵检测与响应能力	zhihu.com	zhuanlan.zhihu.com	/p/700161786
+20240527	运维安全	https://mp.weixin.qq.com/s/tP1iLkI5-tcUwmtUqelBKQ	DB-GPT：开源的Text-to-SQL利器	qq.com	mp.weixin.qq.com	/s/tP1iLkI5-tcUwmtUqelBKQ
+20240527	观点	https://mp.weixin.qq.com/s/esdC84C0tQz2x_y23l8KDA	我国网络犯罪刑事治理之展望	qq.com	mp.weixin.qq.com	/s/esdC84C0tQz2x_y23l8KDA
+20240527	杂志	https://www.sec-wiki.com/weekly/534	SecWiki周刊（第534期)	sec-wiki.com	www.sec-wiki.com	/weekly/534
+20240527	其它	https://mp.weixin.qq.com/s/zJZ85rWJtDyIKLNY77g7_g	人工智能与智能计算的发展	qq.com	mp.weixin.qq.com	/s/zJZ85rWJtDyIKLNY77g7_g
+20240527	观点	https://mp.weixin.qq.com/s/NmCYP81A6Tc9G-eKcMM4qQ	网络隐匿传播“三暗”之一：隐秘传播（暗网）	qq.com	mp.weixin.qq.com	/s/NmCYP81A6Tc9G-eKcMM4qQ
+20240527	恶意分析	https://mp.weixin.qq.com/s/NKAT8qAvbtKM-Uc0nn5F5w	持续集成服务（CI）缓存安全问题研究	qq.com	mp.weixin.qq.com	/s/NKAT8qAvbtKM-Uc0nn5F5w
+20240527	运维安全	https://mp.weixin.qq.com/s/2DTWaVlOvYMcw9xjDuzaCA	美军零信任安全发展现状研究	qq.com	mp.weixin.qq.com	/s/2DTWaVlOvYMcw9xjDuzaCA
+20240527	移动安全	https://mp.weixin.qq.com/s/BKT0iwO7JhxPC4W1e9uZqQ	macOS远程进程注入Shellcode	qq.com	mp.weixin.qq.com	/s/BKT0iwO7JhxPC4W1e9uZqQ
+20240527	恶意分析	https://mp.weixin.qq.com/s/SAEHhdOgqM3_zaFfRFau8w	基于单向Mamba的高效网络流量分类预训练模型	qq.com	mp.weixin.qq.com	/s/SAEHhdOgqM3_zaFfRFau8w
