@@ -1,0 +1,18 @@
+20240603	移动安全	https://mp.weixin.qq.com/s/_oqzAuL9CYZUgHv1EFDjbA	基于 Frida 对单字节加密验证程序侧信道爆破	qq.com	mp.weixin.qq.com	/s/_oqzAuL9CYZUgHv1EFDjbA
+20240603	运维安全	https://mp.weixin.qq.com/s/mqIuk6_SfCdyPLB8CpAMlw	KVM+OpenvSwitch虚拟交换机	qq.com	mp.weixin.qq.com	/s/mqIuk6_SfCdyPLB8CpAMlw
+20240603	取证分析	https://mp.weixin.qq.com/s/XuEyec0UK2Td2LdM8XAQiA	流量劫持罪名认定的困境与纾解——基于数据安全法益的视角	qq.com	mp.weixin.qq.com	/s/XuEyec0UK2Td2LdM8XAQiA
+20240603	漏洞分析	https://mp.weixin.qq.com/s/QjXGDmnmvHyxWzoESsADLg	iOS•Android•鸿蒙安全对抗能力初评报告-内核篇	qq.com	mp.weixin.qq.com	/s/QjXGDmnmvHyxWzoESsADLg
+20240603	数据挖掘	https://mp.weixin.qq.com/s/pPkrHHkmVC29e_c2U8YEGg	一篇大模型Agent工具使用全面研究综述	qq.com	mp.weixin.qq.com	/s/pPkrHHkmVC29e_c2U8YEGg
+20240603	运维安全	https://mp.weixin.qq.com/s/JnKz1fUgZmGdvfxOm2ehZg	聊聊 Linux 上软件实现的“交换机”	qq.com	mp.weixin.qq.com	/s/JnKz1fUgZmGdvfxOm2ehZg
+20240603	无线安全	https://mp.weixin.qq.com/s/iCeImLLPAwwKH1avLmqEpA	监听蓝牙对话的BlueSpy技术	qq.com	mp.weixin.qq.com	/s/iCeImLLPAwwKH1avLmqEpA
+20240603	取证分析	https://mp.weixin.qq.com/s/wW-aMUwtI6rHn0OnqBD3iQ	2024FIC第四届全国网络空间取证竞赛决赛参考wp	qq.com	mp.weixin.qq.com	/s/wW-aMUwtI6rHn0OnqBD3iQ
+20240603	取证分析	https://mp.weixin.qq.com/s/l90UtY2OY36YEcGMLusZpw	发现和测量容易出现域名前置的CDN	qq.com	mp.weixin.qq.com	/s/l90UtY2OY36YEcGMLusZpw
+20240603	数据挖掘	https://mp.weixin.qq.com/s/B62GXESrTQTz7g59WOPjSQ	LLM 快速发展时代下图基础模型初探	qq.com	mp.weixin.qq.com	/s/B62GXESrTQTz7g59WOPjSQ
+20240603	杂志	https://www.sec-wiki.com/weekly/535	SecWiki周刊（第535期)	sec-wiki.com	www.sec-wiki.com	/weekly/535
+20240603	漏洞分析	https://mp.weixin.qq.com/s/XwhbffG85YglcrfYrg095w	ACM CSUR24：基于深度学习的代码智能综述	qq.com	mp.weixin.qq.com	/s/XwhbffG85YglcrfYrg095w
+20240603	其它	https://mp.weixin.qq.com/s/purLUqX3r6FYqmqZslbcCQ	亦正亦邪：大模型与安全专题	qq.com	mp.weixin.qq.com	/s/purLUqX3r6FYqmqZslbcCQ
+20240603	其它	https://mp.weixin.qq.com/s/Bi-TmFaWY3MC5YNe1OGzSw	大型语言模型的第三方API攻击	qq.com	mp.weixin.qq.com	/s/Bi-TmFaWY3MC5YNe1OGzSw
+20240603	观点	https://mp.weixin.qq.com/s/eUptrgqrJPrICEQAMw1Frw	网络空间维度战争与NbSP零越范式	qq.com	mp.weixin.qq.com	/s/eUptrgqrJPrICEQAMw1Frw
+20240603	观点	https://mp.weixin.qq.com/s/0uvSBb0nxx_U-7KcqW_gwg	2023年网络空间安全科技热点回眸	qq.com	mp.weixin.qq.com	/s/0uvSBb0nxx_U-7KcqW_gwg
+20240603	观点	https://mp.weixin.qq.com/s/htV7gM0WfBMyjr-cmIuvGg	走近真实的测谎技术	qq.com	mp.weixin.qq.com	/s/htV7gM0WfBMyjr-cmIuvGg
+20240603	漏洞分析	https://mp.weixin.qq.com/s/-liDkDxlKP7cGqLZnPaS4Q	AFGEN:用于应用程序和库的全函数模糊测试	qq.com	mp.weixin.qq.com	/s/-liDkDxlKP7cGqLZnPaS4Q
