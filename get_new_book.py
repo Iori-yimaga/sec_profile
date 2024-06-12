@@ -147,6 +147,7 @@ class GetNewBook(object):
             ['devops'],
             ['devsecops'],
             ['generative'],
+            ['soc', 'analyst']
 
         ]
         self.book_language_list = ['English']
