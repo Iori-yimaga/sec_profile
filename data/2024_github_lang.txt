@@ -1,6 +1,6 @@
-Python	38
+Python	39
+Go	18
 C++	17
-Go	17
 C	15
 JavaScript	14
 Java	12

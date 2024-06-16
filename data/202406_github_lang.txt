@@ -1,8 +1,8 @@
-Python	8
+Python	9
 C++	4
+Go	4
 C	3
 JavaScript	3
-Go	3
 Java	3
 Rust	3
 PowerShell	2
