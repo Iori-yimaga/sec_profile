@@ -1,0 +1,19 @@
+20240610	法规	https://www.cac.gov.cn/2024-06/14/c_1720043894161555.htm	网络暴力信息治理规定	cac.gov.cn	www.cac.gov.cn	/2024-06/14/c_1720043894161555.htm
+20240610	Web安全	https://xz.aliyun.com/t/8308	App渗透 - 从SQL注入到人脸识别登录绕过	aliyun.com	xz.aliyun.com	/t/8308
+20240610	运维安全	https://mp.weixin.qq.com/s/-PCb8Qir-W_mZ7Kk-mbaYQ	20款免费网络安全工具	qq.com	mp.weixin.qq.com	/s/-PCb8Qir-W_mZ7Kk-mbaYQ
+20240610	漏洞分析	https://mp.weixin.qq.com/s/_XMs1tNE65TTkXZdEfyXzA	自动识别CVE受影响的版本与补丁和开发人员日志	qq.com	mp.weixin.qq.com	/s/_XMs1tNE65TTkXZdEfyXzA
+20240610	Web安全	https://mp.weixin.qq.com/s/0T9DFTqLA95McgVeLS14rg	AI在自动化攻击模拟与规则检测的前沿探索	qq.com	mp.weixin.qq.com	/s/0T9DFTqLA95McgVeLS14rg
+20240610	漏洞分析	https://mp.weixin.qq.com/s/UJALYnYS6YeZZD3hTF5ONQ	CISA网络安全事件应急手册	qq.com	mp.weixin.qq.com	/s/UJALYnYS6YeZZD3hTF5ONQ
+20240610	取证分析	https://mp.weixin.qq.com/s/uvw90JMqE3ADTkUuQBck5A	攻击者画像	qq.com	mp.weixin.qq.com	/s/uvw90JMqE3ADTkUuQBck5A
+20240610	恶意分析	https://mp.weixin.qq.com/s/-Qhxz_LD7XEEBESNStKr0A	F5 Shape最新版逆向分析-加解密和补环境	qq.com	mp.weixin.qq.com	/s/-Qhxz_LD7XEEBESNStKr0A
+20240610	观点	https://mp.weixin.qq.com/s/tvRIuFd-DAUi7fxf4dFpZw	智能化网络漏洞挖掘系统Mayhem概览	qq.com	mp.weixin.qq.com	/s/tvRIuFd-DAUi7fxf4dFpZw
+20240610	运维安全	https://mp.weixin.qq.com/s/CrsWNPZUEg969T5twdsDDg	高校攻击面管理思考与实践	qq.com	mp.weixin.qq.com	/s/CrsWNPZUEg969T5twdsDDg
+20240610	取证分析	https://mp.weixin.qq.com/s/rgRsyvki-MjIbpQxH3VEEg	2024加密货币犯罪报告	qq.com	mp.weixin.qq.com	/s/rgRsyvki-MjIbpQxH3VEEg
+20240610	取证分析	https://mp.weixin.qq.com/s/UHk3CNOLlPGXG60ZI1lRwQ	通过稳健的流量表征颠覆网站指纹防御	qq.com	mp.weixin.qq.com	/s/UHk3CNOLlPGXG60ZI1lRwQ
+20240610	杂志	https://www.sec-wiki.com/weekly/536	SecWiki周刊（第536期)	sec-wiki.com	www.sec-wiki.com	/weekly/536
+20240610	数据挖掘	https://mp.weixin.qq.com/s/XD2e6gH4B2amJhnjd5ytGg	大模型语音模式越狱攻击 (Jailbreak Attack)	qq.com	mp.weixin.qq.com	/s/XD2e6gH4B2amJhnjd5ytGg
+20240610	Web安全	https://github.com/Autumn-27/ScopeSentry	ScopeSentry-资产测绘、信息收集、漏洞扫描工具	github.com	github.com	/Autumn-27/ScopeSentry
+20240610	恶意分析	https://mp.weixin.qq.com/s/e3M4uxYj2bG6Z48-jKVujg	DE-GNN:基于图神经网络的双嵌入细粒度加密流量分类	qq.com	mp.weixin.qq.com	/s/e3M4uxYj2bG6Z48-jKVujg
+20240610	漏洞分析	https://mp.weixin.qq.com/s/KITfS6IU2kyblVCvAfYuDg	代码分类深度学习模型的鲁棒解释	qq.com	mp.weixin.qq.com	/s/KITfS6IU2kyblVCvAfYuDg
+20240610	恶意分析	https://mp.weixin.qq.com/s/cAOf2PhQThtzNpaJaMGB8g	将xz后门隐藏技术为我所用	qq.com	mp.weixin.qq.com	/s/cAOf2PhQThtzNpaJaMGB8g
+20240610	其它	https://mp.weixin.qq.com/s/JqSz0qCqu43VKWK08z7RTA	iMessage通信加密协议安全性分析	qq.com	mp.weixin.qq.com	/s/JqSz0qCqu43VKWK08z7RTA
