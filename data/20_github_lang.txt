@@ -1,4 +1,4 @@
-Python	1215
+Python	1216
 C	757
 JavaScript	725
 C++	628
@@ -12,7 +12,7 @@ PowerShell	263
 PHP	236
 CSS	230
 TypeScript	203
-Rust	173
+Rust	174
 Objective-C	144
 Jupyter	128
 Dockerfile	84
@@ -21,7 +21,7 @@ Perl	78
 Swift	71
 Makefile	62
 Lua	62
-Kotlin	60
+Kotlin	61
 Batchfile	56
 TeX	54
 Vue	51
