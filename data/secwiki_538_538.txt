@@ -1,0 +1,9 @@
+20240617	漏洞分析	https://mp.weixin.qq.com/s/UYOFJW2aTpvo2KEkHU19MA	CVE-2024-4577 PHP CGI 远程代码执行漏洞分析	qq.com	mp.weixin.qq.com	/s/UYOFJW2aTpvo2KEkHU19MA
+20240617	Web安全	https://mp.weixin.qq.com/s/x1gZ01-jWwKiC8zbhYAE0g	CodeQL结合GPT实现代码审计效率翻倍	qq.com	mp.weixin.qq.com	/s/x1gZ01-jWwKiC8zbhYAE0g
+20240617	恶意分析	https://mp.weixin.qq.com/s/CZZffhnAcACj0TND7dWjMQ	基于异构域自适应的网络威胁数据多流分类	qq.com	mp.weixin.qq.com	/s/CZZffhnAcACj0TND7dWjMQ
+20240617	恶意分析	https://mp.weixin.qq.com/s/66NxqxEXUqw-Q-4Tj1idQQ	WebShell伏魔挑战赛新思路挖掘	qq.com	mp.weixin.qq.com	/s/66NxqxEXUqw-Q-4Tj1idQQ
+20240617	Web安全	https://github.com/al0ne/cloud-audit	cloud-audit （云安全审计助手）检测公有云厂商AK/SK泄漏	github.com	github.com	/al0ne/cloud-audit
+20240617	杂志	https://www.sec-wiki.com/weekly/537	SecWiki周刊（第537期)	sec-wiki.com	www.sec-wiki.com	/weekly/537
+20240617	取证分析	https://mp.weixin.qq.com/s/60TPWZy_E_1nzSiZKnS3_g	基于双向深度学习的攻击图构建和威胁预测	qq.com	mp.weixin.qq.com	/s/60TPWZy_E_1nzSiZKnS3_g
+20240617	数据挖掘	https://mp.weixin.qq.com/s/3od69ompzCDxCtZ7wvn7qA	ChatRule—基于LLM挖掘KG中的逻辑规则	qq.com	mp.weixin.qq.com	/s/3od69ompzCDxCtZ7wvn7qA
+20240617	数据挖掘	https://mp.weixin.qq.com/s/6vUSrFUEwp5qgWS-WAPatA	利用语言模型和邻域信息增强生成式知识图谱的完备性	qq.com	mp.weixin.qq.com	/s/6vUSrFUEwp5qgWS-WAPatA
