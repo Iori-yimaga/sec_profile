@@ -390,7 +390,7 @@
 | 幽荧安全 | Aianquan_hacker | SRC实战 接口未授权到任意用户登录 | https://mp.weixin.qq.com/s?__biz=Mzg3MTU1MTQ0MA==&mid=2247484694&idx=1&sn=6c801838b6e3f06cef223bd9109adafc | 1| 
 | 德斯克安全小课堂 | szdesk | 案例分享——某公司企业服务器遭遇挖矿病毒侵袭事件 | https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453885189&idx=1&sn=a6b0601271fa336030eda4dd6d150b7e | 3| 
 | 汽车电子嵌入式 | gh_c9d411042eab | 【OS】AUTOSAR OS Resource实现原理 | https://mp.weixin.qq.com/s?__biz=Mzg2NTYxOTcxMw==&mid=2247491963&idx=2&sn=ac7dce4dc89e27c6a6a99db2c7cca432 | 5| 
-| 洞源实验室 | Official_InsBug | CVE-2024-4577 PHP CGI 远程代码执行漏洞分析 | https://mp.weixin.qq.com/s/UYOFJW2aTpvo2KEkHU19MA | 4| 
+| 洞源实验室 | Official_InsBug | CVE-2024-4577 PHP CGI 远程代码执行漏洞分析 | https://mp.weixin.qq.com/s/UYOFJW2aTpvo2KEkHU19MA | 5| 
 | 漏洞404 | loud404 | 打造属于自己的AI小助手 | https://mp.weixin.qq.com/s?__biz=Mzg5NTcxODQ4OA==&mid=2247486009&idx=1&sn=200175df0009a1595e192f85d092f357 | 1| 
 | 狐狸说安全 | itseckpg | 80k！建议师傅们冲一冲这个前景被严重低估的方向！ | https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247505763&idx=1&sn=36674213e0492565614069ed68d90645 | 2| 
 | 猫鼠信安 | gh_b8b8c8961ead | 猫鼠信安文库发布啦！ | https://mp.weixin.qq.com/s?__biz=Mzg2NjUzNzg4Ng==&mid=2247484412&idx=1&sn=b6092fce60c2e526a2d3305a009e6b8e | 1| 
@@ -719,7 +719,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | Autumn-27 | ScopeSentry-资产测绘、信息收集、漏洞扫描工具 | https://github.com/Autumn-27/ScopeSentry | https://github.com/Autumn-27?tab=followers |  | None | None | 6 | 0 | 84 | 0 | 0 | Python,Go | 0 | 0 | 1| 
 | De4dCr0w | CVE漏洞分析、CTF pwn、浏览器漏洞利用、AST注入和新的fuzz测试方法。内容涉及了多个知名软件，如Chrome、Firefox和V8引擎 | https://github.com/De4dCr0w/Browser-pwn | https://github.com/De4dCr0w?tab=followers |  | None | None | 45 | 0 | 113 | 0 | 0 | Python,C,C++ | 0 | 0 | 1| 
+| KuhakuPixel | 介绍了一款名为Ace The Game的开源黑客工具，该工具可用于操作Android应用程序的内存，包括冻结和更改内存数值，绕过付款方式，并具有适用于rooted和non-rooted Android设备的功能。这款工具在Blackhat Arsenal上展示。 | https://github.com/KuhakuPixel/AceTheGame | https://github.com/KuhakuPixel?tab=followers | nicholaspixels@gmail.com | None | None | 32 | 0 | 99 | 0 | 0 | C#,Python,Java,C++,Kotlin | 0 | 0 | 1| 
 | NVISOsecurity | 对Cobalt Strike和BruteRatel的Beacon Object File（BOF）漏洞利用实现 | https://github.com/NVISOsecurity/CVE-2024-26229-BOF | None | None | None | None | 0 | 0 | 0 | 0 | 0 | YARA,C,Shell,Jupyter,Python,C++,C#,Go,PowerShell | 0 | 0 | 1| 
+| S3cur3Th1sSh1t | 讨论了多种绕过Antimalware Scan Interface (AMSI)的方法，包括ScriptBlock Smuggling、Reflection ScanContent Change、Using Hardware Breakpoints等多种绕过技术 | https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell/tree/master | https://github.com/S3cur3Th1sSh1t?tab=followers | Pentesting, scripting and pwning! | 127.0.0.1 | r-tec IT Security GmbH | 115 | 0 | 1800 | 0 | 0 | C#,C,PowerShell,Nim | 0 | 0 | 1| 
 | Whitecat18 | 介绍了使用Rust进行恶意软件开发和低级任务处理，强调了Rust在恶意软件开发和低级任务处理方面的应用 | https://github.com/Whitecat18/Rust-for-Malware-Development | https://github.com/Whitecat18?tab=followers | Offensive code writer. 20 y/o. | 127.0.0.1 | 0.0.0.0 | 13 | 0 | 81 | 0 | 0 | C++,Python,Batchfile,PowerShell,Rust | 0 | 0 | 1| 
 | X1r0z | 本文介绍了一种针对Nexus Repository 3目录穿越漏洞的简单测试工具，并提供了相关漏洞的详细分析和利用方法。 | https://github.com/X1r0z/JettyFuzz | https://github.com/X1cT34m | Web Security, @X1cT34m & @Nu1LCTF | Nanjing, China | NJUPT | 22 | 0 | 414 | 0 | 0 | Go,Java | 0 | 0 | 1| 
 | YuanchengJiang | GraphGenie是一个用于检测图数据库管理系统中逻辑漏洞和性能问题的漏洞发现工具。它利用图查询转换（GQT）构建语义等效或变体图查询模式，以便对其结果进行比较分析以揭示漏洞。该工具已经在流行的图数据库引擎如Neo4j上发现了以前未知的漏洞。 | https://github.com/YuanchengJiang/GraphGenie | https://github.com/YuanchengJiang?tab=followers | Ph.D. Candidate at NUS | Singapore | National University of Singapore | 4 | 0 | 31 | 0 | 0 | Python | 0 | 0 | 1| 

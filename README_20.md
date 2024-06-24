@@ -770,7 +770,7 @@
 | 幽荧安全 | Aianquan_hacker | SRC实战 接口未授权到任意用户登录 | https://mp.weixin.qq.com/s?__biz=Mzg3MTU1MTQ0MA==&mid=2247484694&idx=1&sn=6c801838b6e3f06cef223bd9109adafc | 1| 
 | 德斯克安全小课堂 | szdesk | 案例分享——某公司企业服务器遭遇挖矿病毒侵袭事件 | https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453885189&idx=1&sn=a6b0601271fa336030eda4dd6d150b7e | 26| 
 | 汽车电子嵌入式 | gh_c9d411042eab | 【OS】AUTOSAR OS Resource实现原理 | https://mp.weixin.qq.com/s?__biz=Mzg2NTYxOTcxMw==&mid=2247491963&idx=2&sn=ac7dce4dc89e27c6a6a99db2c7cca432 | 17| 
-| 洞源实验室 | Official_InsBug | CVE-2024-4577 PHP CGI 远程代码执行漏洞分析 | https://mp.weixin.qq.com/s/UYOFJW2aTpvo2KEkHU19MA | 66| 
+| 洞源实验室 | Official_InsBug | CVE-2024-4577 PHP CGI 远程代码执行漏洞分析 | https://mp.weixin.qq.com/s/UYOFJW2aTpvo2KEkHU19MA | 67| 
 | 漏洞404 | loud404 | 打造属于自己的AI小助手 | https://mp.weixin.qq.com/s?__biz=Mzg5NTcxODQ4OA==&mid=2247486009&idx=1&sn=200175df0009a1595e192f85d092f357 | 6| 
 | 狐狸说安全 | itseckpg | 80k！建议师傅们冲一冲这个前景被严重低估的方向！ | https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247505763&idx=1&sn=36674213e0492565614069ed68d90645 | 30| 
 | 猫鼠信安 | gh_b8b8c8961ead | 猫鼠信安文库发布啦！ | https://mp.weixin.qq.com/s?__biz=Mzg2NjUzNzg4Ng==&mid=2247484412&idx=1&sn=b6092fce60c2e526a2d3305a009e6b8e | 8| 
@@ -5584,6 +5584,7 @@
 | KasperskyLab | Apihashes - 卡巴斯基开源的用于识别 API 函数名已知 Hash 的插件 | https://github.com/KasperskyLab/Apihashes | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Python,Kotlin,JavaScript,C++,C#,Go,PHP | 0 | 0 | 2| 
 | KruDex | lan-monitor - 根据 NMAP 扫描结果在网页上显示 LAN 状态: | https://github.com/KruDex/lan-monitor | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | Kudaes | 可修改 Rust 编写的 dll 入口点的工具，以混淆代码的字符串文字，可用作自定义 dll 入口点 | https://github.com/Kudaes/CustomEntryPoint | https://github.com/Kudaes?tab=followers | nt authority\kurosh | Madrid | None | 14 | 0 | 280 | 0 | 0 | Rust,C++ | 0 | 0 | 2| 
+| KuhakuPixel | 介绍了一款名为Ace The Game的开源黑客工具，该工具可用于操作Android应用程序的内存，包括冻结和更改内存数值，绕过付款方式，并具有适用于rooted和non-rooted Android设备的功能。这款工具在Blackhat Arsenal上展示。 | https://github.com/KuhakuPixel/AceTheGame | https://github.com/KuhakuPixel?tab=followers | nicholaspixels@gmail.com | None | None | 32 | 0 | 99 | 0 | 0 | C#,Python,Java,C++,Kotlin | 0 | 0 | 1| 
 | Kyuu-Ji | Azure渗透测试的绝佳工具和资源清单 | https://github.com/Kyuu-Ji/Awesome-Azure-Pentest | https://github.com/Kyuu-Ji?tab=followers |  | None | None | 4 | 0 | 9 | 0 | 0 | Python | 0 | 0 | 1| 
 | LIJI32 | SnatchBox - macOS 沙箱逃逸漏洞的分析（CVE-2020-27935） | https://github.com/LIJI32/SnatchBox | None | I fiddle with macOS, iOS, and Nintendo consoles. | Israel | None | 21 | 0 | 0 | 0 | 0 | Python,C,Assembly,Objective-C | 657 | 91 | 1| 
 | LOLBAS-Project | LOLBAS - 可以直接用作攻击工具的,系统自带的二进制文件和脚本(包括动态库): | https://github.com/LOLBAS-Project/LOLBAS | None | None | None | None | 0 | 0 | 0 | 0 | 0 | HTML,XSLT | 0 | 0 | 1| 
@@ -5702,7 +5703,7 @@
 | Rvn0xsy | BadCode: 恶意代码逃逸源代码 | https://github.com/Rvn0xsy/BadCode | https://payloads.online | 知者不惑，仁者不忧，勇者不惧。 | None | None | 11 | 0 | 0 | 0 | 0 | Lua,C,C++ | 282 | 88 | 1| 
 | Ryze-T | 基于向日葵 RCE 的 LPE 漏洞 PoC | https://github.com/Ryze-T/CNVD-2022-10270-LPE | https://github.com/Ryze-T?tab=followers | wx: Just_sudo_it | None | None | 19 | 0 | 48 | 0 | 0 | C#,Go,C | 0 | 0 | 1| 
 | S1ckB0y1337 | Cobalt-Strike 相关的一些工具以及使用 Tips | https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet | https://app.hackthebox.eu/profile/1109 | Penetration Tester , OSCP , Comp.Sci Student , CTF Player | Greece | None | 99 | 0 | 0 | 0 | 0 | Java,C++ | 1200 | 322 | 1| 
-| S3cur3Th1sSh1t | MultiPotato - 一个改进版的 Potato，可以使用自己的漏洞作为 SYSTEM Auth Trigger | https://github.com/S3cur3Th1sSh1t/MultiPotato | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| S3cur3Th1sSh1t | 讨论了多种绕过Antimalware Scan Interface (AMSI)的方法，包括ScriptBlock Smuggling、Reflection ScanContent Change、Using Hardware Breakpoints等多种绕过技术 | https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell/tree/master | https://github.com/S3cur3Th1sSh1t?tab=followers | Pentesting, scripting and pwning! | 127.0.0.1 | r-tec IT Security GmbH | 115 | 0 | 1800 | 0 | 0 | C#,C,PowerShell,Nim | 0 | 0 | 2| 
 | SCUBSRGroup | SCUBSRGroup 整理的关于软件漏洞自动化利用（AEG）方向的技术资料 | https://github.com/SCUBSRGroup/Automatic-Exploit-Generation | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,HTML,C++ | 28 | 13 | 2| 
 | SEVulDet | SEVulDet：基于语义增强的系统漏洞挖掘器 | https://github.com/SEVulDet/SEVulDet | None |  | None | None | 1 | 0 | 0 | 0 | 0 | CSS | 0 | 0 | 1| 
 | Safe3 | uuWAF: 免费、高性能、高扩展开源WAF | https://github.com/Safe3/uuWAF | https://github.com/Safe3?tab=followers |  | None | UUSEC Tech. | 438 | 0 | 7 | 0 | 0 | Go,Lua,Kotlin | 0 | 0 | 1| 
