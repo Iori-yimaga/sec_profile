@@ -31,7 +31,7 @@ def scraw(proxy=None):
     g = GetNewBook()
     g.scaw(proxy=proxy)
     print("scraw doonsec")
-    #doonsec_scraw(so, proxy=None, delta=10)
+    doonsec_scraw(so, proxy=None, delta=10)
 
 
 
