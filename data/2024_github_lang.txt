@@ -1,9 +1,9 @@
 Python	43
 C++	20
+C	19
 Go	19
-C	18
+Java	14
 JavaScript	14
-Java	13
 Shell	13
 Rust	11
 C#	11
@@ -13,10 +13,10 @@ YARA	4
 Jupyter	4
 Kotlin	4
 PHP	4
+Dockerfile	3
 Batchfile	3
 TypeScript	2
 Perl	2
-Dockerfile	2
 SCSS	2
 Assembly	2
 Dart	2
