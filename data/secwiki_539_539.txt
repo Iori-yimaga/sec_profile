@@ -1,0 +1,6 @@
+20240624	漏洞分析	https://mp.weixin.qq.com/s/pTqckl3Y0y9g7ndbnxHxbA	代码安全审计经验分享	qq.com	mp.weixin.qq.com	/s/pTqckl3Y0y9g7ndbnxHxbA
+20240624	Web安全	https://mp.weixin.qq.com/s/OHtAzCtBZq1IrTOXxoy63A	攻击面管理和漏洞治理干货	qq.com	mp.weixin.qq.com	/s/OHtAzCtBZq1IrTOXxoy63A
+20240624	观点	https://mp.weixin.qq.com/s/el1Oqn-ebDu1_w3DK2bVkQ	细数中国香港电影里的反窃密场景	qq.com	mp.weixin.qq.com	/s/el1Oqn-ebDu1_w3DK2bVkQ
+20240624	杂志	https://www.sec-wiki.com/weekly/538	SecWiki周刊（第538期)	sec-wiki.com	www.sec-wiki.com	/weekly/538
+20240624	Web安全	https://xz.aliyun.com/t/14893?time__1311=GqA2Yvox%2FD7FiQGkG50Qqi%3DvK0K%2BWHmD	记一次VMware vCenter渗透过程	aliyun.com	xz.aliyun.com	/t/14893
+20240624	漏洞分析	https://mp.weixin.qq.com/s/JE5UbYUrDH-Jclx3HhrAHA	漏洞可利用性预测	qq.com	mp.weixin.qq.com	/s/JE5UbYUrDH-Jclx3HhrAHA
