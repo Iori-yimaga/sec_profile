@@ -1,2 +1,6 @@
-C	1
-C++	1
+C	2
+Python	2
+C++	2
+Shell	1
+Jupyter	1
+Go	1

@@ -140,6 +140,7 @@ class GetNewBook(object):
             ['ebpf'],
             ['fortinet'],
             ['ansible'],
+            ['spring', 'security'],
 
             ['comptia'],
             ['selinux'],
