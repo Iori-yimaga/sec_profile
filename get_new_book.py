@@ -48,6 +48,7 @@ class GetNewBook(object):
             ['attack'],
             ['hacker'],
             ['hacking'],
+            ['securing'],
             ['asset'],
             ['forensics'],
             ['risk', 'management'],
@@ -63,6 +64,7 @@ class GetNewBook(object):
             ['sast'],  # static application security
             ['dast'],  # dynamic application security
             ['security', 'testing'],
+            ['security', 'detection'],
             ['penetration'],
             ['supply', 'chain'],
             ['threat', 'modeling'],
@@ -115,6 +117,7 @@ class GetNewBook(object):
             ['purple', 'team'],
             ['attack', 'simulation'],
             ['black', 'hat'],
+            ['white', 'hat'],
             ['privacy'],
             ['compliance'],
             ['debug'],
@@ -148,7 +151,9 @@ class GetNewBook(object):
             ['devops'],
             ['devsecops'],
             ['generative'],
-            ['soc', 'analyst']
+            ['soc', 'analyst'],
+            ['api', 'security'],
+            ['elastic', 'stack']
 
         ]
         self.book_language_list = ['English']
@@ -349,7 +354,7 @@ if __name__ == "__main__":
     o.scaw(proxy=proxy)
     title_list = [
         # 'Practical Cloud Security, 2nd Edition',
-        'CompTIA A+ Practice Test Core 1 (220-1101)',
+        #'CompTIA A+ Practice Test Core 1 (220-1101)',
         # 'Technology for Success and The Shelly Cashman Series Microsoft 365 & Office 2021 (MindTap Course List)',
     ]
     for title in title_list:
