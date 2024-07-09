@@ -150,10 +150,15 @@ class GetNewBook(object):
             ['pentesting'],
             ['devops'],
             ['devsecops'],
-            ['generative'],
             ['soc', 'analyst'],
             ['api', 'security'],
-            ['elastic', 'stack']
+            ['elastic', 'stack'],
+            # AI
+            ['generative'],
+            ['chatgpt'],
+            ['copilot'],
+            # abnormal check
+            ['time','series'],
 
         ]
         self.book_language_list = ['English']

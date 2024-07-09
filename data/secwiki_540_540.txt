@@ -1,0 +1,12 @@
+20240701	法规	https://mp.weixin.qq.com/s/Yw0YEo0Sz_QruMLgfHeOJQ	中国网络法治三十年大事记（1994-2024）	qq.com	mp.weixin.qq.com	/s/Yw0YEo0Sz_QruMLgfHeOJQ
+20240701	杂志	https://www.sec-wiki.com/weekly/539	SecWiki周刊（第539期)	sec-wiki.com	www.sec-wiki.com	/weekly/539
+20240701	设备安全	https://mp.weixin.qq.com/s/1gvxVPnEVxLLCyUp63knmA	手机窃听的8种途径	qq.com	mp.weixin.qq.com	/s/1gvxVPnEVxLLCyUp63knmA
+20240701	其它	https://mp.weixin.qq.com/s/TU3LY4eHhvSfZQrpg1_VhA	国土安全部人工智能路线图 2024	qq.com	mp.weixin.qq.com	/s/TU3LY4eHhvSfZQrpg1_VhA
+20240701	观点	https://mp.weixin.qq.com/s/bPCzhv7-iOGysgCz4TWDag	远距离语音监听 ▪ 来自网店的解决方案	qq.com	mp.weixin.qq.com	/s/bPCzhv7-iOGysgCz4TWDag
+20240701	漏洞分析	https://mp.weixin.qq.com/s/CvDs26dQ9fKoUQoULRbv3w	监听蓝牙对话的BlueSpy技术复现	qq.com	mp.weixin.qq.com	/s/CvDs26dQ9fKoUQoULRbv3w
+20240701	论文	https://mp.weixin.qq.com/s/Yci6yGIinqhJuLnh0Ge_Xg	AsiaCCS 2024 论文录用列表	qq.com	mp.weixin.qq.com	/s/Yci6yGIinqhJuLnh0Ge_Xg
+20240701	其它	https://mdn.alipayobjects.com/huamei_dz84ol/afts/file/A*UbrSTqF2X48AAAAAAAAAAAAADm6lAQ/%E3%80%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%89%E5%85%A8%E5%AE%9E%E8%B7%B5%EF%BC%882024%EF%BC%89%E3%80%8B%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf	大模型安全实践（2024）	alipayobjects.com	mdn.alipayobjects.com	/huamei_dz84ol/afts/file/A*UbrSTqF2X48AAAAAAAAAAAAADm6lAQ/%E3%80%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%89%E5%85%A8%E5%AE%9E%E8%B7%B5%EF%BC%882024%EF%BC%89%E3%80%8B%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf
+20240701	无线安全	https://mp.weixin.qq.com/s/bN4yIKqqF6f5Sw8PyrjShw	“星链”威胁启示下的新型空天防御技术研究	qq.com	mp.weixin.qq.com	/s/bN4yIKqqF6f5Sw8PyrjShw
+20240701	漏洞分析	https://mp.weixin.qq.com/s/4s8eTbWGC-T0RO04cv-1fQ	Boofuzz在二进制IOT漏洞挖掘中的简单运用	qq.com	mp.weixin.qq.com	/s/4s8eTbWGC-T0RO04cv-1fQ
+20240701	恶意分析	https://mp.weixin.qq.com/s/_DPnFsazOv3E-Ob1qJcfKw	软件供应链安全的进化:从“抗生素”到”基因疗法”	qq.com	mp.weixin.qq.com	/s/_DPnFsazOv3E-Ob1qJcfKw
+20240701	编程技术	https://mp.weixin.qq.com/s/-pYeJjKB-9gz6EqBXz7Zow	CodeFuse-13B: 预训练多语言代码大模型	qq.com	mp.weixin.qq.com	/s/-pYeJjKB-9gz6EqBXz7Zow
