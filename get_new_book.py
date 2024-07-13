@@ -39,7 +39,7 @@ class GetNewBook(object):
             # application/api/network/cloud/windows/linux/endpoint/mobile
             # ['secure'],
             ['playbook'],
-            ['defensive', 'security']
+            ['defensive', 'security'],
             ['prompt', 'engineer'],
             ['monitor'],
             ['monitoring'],
