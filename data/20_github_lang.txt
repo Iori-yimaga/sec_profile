@@ -1,7 +1,7 @@
 Python	1220
-C	761
+C	762
 JavaScript	729
-C++	633
+C++	634
 HTML	527
 Java	526
 Shell	497
@@ -116,6 +116,7 @@ DTrace	1
 Handlebars	1
 Zig	1
 Rebol	1
+Groff	1
 Game	1
 SAS	1
 MQL4	1

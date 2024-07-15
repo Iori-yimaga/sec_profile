@@ -1,6 +1,6 @@
-Python	47
-C++	24
-C	22
+Python	48
+C++	25
+C	23
 Go	22
 JavaScript	18
 Java	16
@@ -26,9 +26,11 @@ Dart	2
 MDX	2
 LLVM	1
 Verilog	1
+Groff	1
 Nim	1
 Elixir	1
 Vue	1
 HCL	1
 CSS	1
 Smarty	1
+Vim	1

@@ -1,0 +1,9 @@
+20240708	漏洞分析	https://mp.weixin.qq.com/s/fVlcIk34OuNFTmlWqUYSlw	ARL联动AWVS实现自动化漏洞扫描	qq.com	mp.weixin.qq.com	/s/fVlcIk34OuNFTmlWqUYSlw
+20240708	无线安全	https://mp.weixin.qq.com/s/OsybVcLX0Z7kOwguIqDdJw	俄乌战争中针对StarLink星链采取对抗措施和启示	qq.com	mp.weixin.qq.com	/s/OsybVcLX0Z7kOwguIqDdJw
+20240708	数据挖掘	https://mp.weixin.qq.com/s/M99SYg2jGSOv-BiLr9i9Mw	AI如何重塑网络安全的未来	qq.com	mp.weixin.qq.com	/s/M99SYg2jGSOv-BiLr9i9Mw
+20240708	杂志	https://www.sec-wiki.com/weekly/540	SecWiki周刊（第540期)	sec-wiki.com	www.sec-wiki.com	/weekly/540
+20240708	设备安全	https://mp.weixin.qq.com/s/83FgcnAVssNCsJDNLXSsXw	VSEC 车联网安全 CTF 挑战赛（一）	qq.com	mp.weixin.qq.com	/s/83FgcnAVssNCsJDNLXSsXw
+20240708	取证分析	https://mp.weixin.qq.com/s/gq7UfcpYgETRMrOXATn38w	AI技术在威胁情报运营的应用实践	qq.com	mp.weixin.qq.com	/s/gq7UfcpYgETRMrOXATn38w
+20240708	其它	https://mp.weixin.qq.com/s/aHbyOeoLbYae32zJLv8ObQ	人工智能驱动下的新型作战力量	qq.com	mp.weixin.qq.com	/s/aHbyOeoLbYae32zJLv8ObQ
+20240708	恶意分析	https://mp.weixin.qq.com/s/3pHLk5YFT8-lCJMCrcgzZQ	Rosetta：多样化网络环境下的TLS流量分类	qq.com	mp.weixin.qq.com	/s/3pHLk5YFT8-lCJMCrcgzZQ
+20240708	漏洞分析	https://mp.weixin.qq.com/s/cESAqBa-goszWYRHwctNww	针对ddp协议的物联网设备的脆弱性分析	qq.com	mp.weixin.qq.com	/s/cESAqBa-goszWYRHwctNww
