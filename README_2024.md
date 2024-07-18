@@ -21,9 +21,13 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2024-07-18 10:48:35 | English | Mastering Python Design Patterns, Third Edition | unknown | https://www.wowebook.org/mastering-python-design-patterns-third-edition/ | unknown| 
+| 2024-07-18 09:21:54 | English | Generative Artificial Intelligence | unknown | https://www.wowebook.org/generative-artificial-intelligence/ | unknown| 
+| 2024-07-18 08:48:34 | English | Zabbix 7 IT Infrastructure Monitoring Cookbook | unknown | https://www.wowebook.org/zabbix-7-it-infrastructure-monitoring-cookbook/ | unknown| 
+| 2024-07-17 16:02:20 | English | Fundamentals Of Python: First Programs (MindTap Course List) | Kenneth A. Lambert | http://libgen.rs/book/index.php?md5=A3694F5CCB8F416B8E26A38BC3A61AA2 | 8 MB [PDF]| 
+| 2024-07-16 09:33:50 | English | Cryptography and Cryptanalysis in Java, 2nd Edition | unknown | https://www.wowebook.org/cryptography-and-cryptanalysis-in-java-2nd-edition/ | unknown| 
 | 2024-07-16 10:16:25 | English | Hands-On Genetic Algorithms with Python, Second Edition | unknown | https://www.wowebook.org/hands-on-genetic-algorithms-with-python-second-edition/ | unknown| 
 | 2024-07-16 09:54:21 | English | Deep Reinforcement Learning with Python, 2nd Edition | unknown | https://www.wowebook.org/deep-reinforcement-learning-with-python-2nd-edition/ | unknown| 
-| 2024-07-16 09:33:50 | English | Cryptography and Cryptanalysis in Java, 2nd Edition | unknown | https://www.wowebook.org/cryptography-and-cryptanalysis-in-java-2nd-edition/ | unknown| 
 | 2024-07-15 20:04:17 | English | Kubernetes Anti-Patterns: Overcome common pitfalls to achieve optimal deployments and a flawless Kubernetes ecosystem | Govardhana Miriyala Kannaiah | http://libgen.rs/book/index.php?md5=773995E1545197E72705EB87C853D8EB | 3 MB [EPUB]| 
 | 2024-07-15 19:44:02 | English | Cloud-Native DevOps: Building Scalable and Reliable Applications | Mohammed Ilyas Ahmed | http://libgen.rs/book/index.php?md5=A69894CC22DD6A76FD9D10D786C57DAE | 3 MB [EPUB]| 
 | 2024-07-15 19:43:59 | English | Cloud-Native DevOps: Building Scalable and Reliable Applications | Mohammed Ilyas Ahmed | http://libgen.rs/book/index.php?md5=41BEC27005E6A6737775E2BBC870EF65 | 5 MB [PDF]| 
