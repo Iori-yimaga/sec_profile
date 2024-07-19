@@ -1,5 +1,5 @@
-Python	1220
-C	762
+Python	1221
+C	763
 JavaScript	729
 C++	634
 HTML	527
@@ -11,8 +11,8 @@ Ruby	272
 PowerShell	264
 PHP	236
 CSS	230
-TypeScript	205
-Rust	175
+TypeScript	206
+Rust	176
 Objective-C	144
 Jupyter	129
 Dockerfile	84
@@ -91,6 +91,7 @@ SQLPL	3
 PostScript	3
 Scheme	3
 SystemVerilog	3
+Zig	2
 AGS	2
 Filebench	2
 Standard	2
@@ -114,7 +115,6 @@ Max	2
 Mercury	1
 DTrace	1
 Handlebars	1
-Zig	1
 Rebol	1
 Groff	1
 Game	1
