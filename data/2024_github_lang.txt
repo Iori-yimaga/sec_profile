@@ -1,13 +1,13 @@
-Python	49
+Python	50
 C++	25
 C	24
-Go	22
+Go	23
 JavaScript	18
-Java	16
+Java	17
 Shell	15
 Rust	13
+C#	12
 HTML	11
-C#	11
 PowerShell	10
 TypeScript	5
 Jupyter	5
@@ -24,6 +24,7 @@ Lua	2
 SCSS	2
 Dart	2
 MDX	2
+CSS	2
 LLVM	1
 Verilog	1
 Groff	1
@@ -31,7 +32,6 @@ Nim	1
 Elixir	1
 Vue	1
 HCL	1
-CSS	1
 Zig	1
 Smarty	1
 Vim	1
