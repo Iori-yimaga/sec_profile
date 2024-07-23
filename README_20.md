@@ -69,9 +69,18 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
-| 2024-07-18 10:48:35 | English | Mastering Python Design Patterns, Third Edition | unknown | https://www.wowebook.org/mastering-python-design-patterns-third-edition/ | unknown| 
+| 2024-07-21 11:22:14 | English | Cybersecurity for Space, 2nd Edition | unknown | https://www.wowebook.org/cybersecurity-for-space-2nd-edition/ | unknown| 
+| 2024-07-21 09:57:36 | English | Developing Apps with GPT-4 and ChatGPT, 2nd Edition | unknown | https://www.wowebook.org/developing-apps-with-gpt-4-and-chatgpt-2nd-edition/ | unknown| 
+| 2024-07-21 19:39:11 | English | Privacy in the Age of Innovation: AI Solutions for Information Security | Ranadeep Reddy Palle; Krishna Chaitanya Rao Kathala | http://libgen.rs/book/index.php?md5=4A6181CA8049BD680C31DB73CBE23D7A | 1 MB [PDF]| 
+| 2024-07-21 19:28:22 | English | Computation and Simulation for Finance: An Introduction with Python (Springer Undergraduate Texts in Mathematics and Technology) | Cónall Kelly | http://libgen.rs/book/index.php?md5=92AF5484019814D0E15FEA1DFFBD1BD8 | 25 MB [EPUB]| 
+| 2024-07-21 19:28:18 | English | Computation and Simulation for Finance: An Introduction with Python (Springer Undergraduate Texts in Mathematics and Technology) | Cónall Kelly | http://libgen.rs/book/index.php?md5=78AEF96D6783C0DCAF742CC447953D60 | 13 MB [PDF]| 
+| 2024-07-20 06:14:41 | English | Deep Reinforcement Learning with Python: RLHF for Chatbots and Large Language Models | Nimish Sanghi | http://libgen.rs/book/index.php?md5=3619FD8868E15149C65B889F99BDA324 | 17 MB [PDF]| 
+| 2024-07-20 05:55:01 | English | Mastering Python Design Patterns - Third Edition: Craft essential Python patterns by following core design principles | Kamon Ayeva, Sakis Kasampalis | http://libgen.rs/book/index.php?md5=D8BFE6349DF95C359D4DC28836E096AD | 15 MB [PDF]| 
+| 2024-07-20 04:53:42 | English | Cryptography and Cryptanalysis in Java: Creating and Programming Advanced Algorithms with Java SE 21 LTS and Jakarta EE 11 | Stefania Loredana Nita, Marius Iulian Mihailescu | http://libgen.rs/book/index.php?md5=72C46C78DD236AC6C58EF21A24A5F687 | 9 MB [PDF]| 
+| 2024-07-20 19:37:41 | English | Nano-phytoremediation and Environmental Pollution; Strategies and Mechanisms | Fernanda Maria Policarpo Tonelli & Rouf Ahmad Bhat & Gowhar Hamid Dar & Khalid Rehman Hakeem | http://libgen.rs/book/index.php?md5=1395745E6D0BCAB16000C4B6F6A52806 | 7 MB [PDF]| 
 | 2024-07-18 09:21:54 | English | Generative Artificial Intelligence | unknown | https://www.wowebook.org/generative-artificial-intelligence/ | unknown| 
 | 2024-07-18 08:48:34 | English | Zabbix 7 IT Infrastructure Monitoring Cookbook | unknown | https://www.wowebook.org/zabbix-7-it-infrastructure-monitoring-cookbook/ | unknown| 
+| 2024-07-18 10:48:35 | English | Mastering Python Design Patterns, Third Edition | unknown | https://www.wowebook.org/mastering-python-design-patterns-third-edition/ | unknown| 
 | 2024-07-17 16:02:20 | English | Fundamentals Of Python: First Programs (MindTap Course List) | Kenneth A. Lambert | http://libgen.rs/book/index.php?md5=A3694F5CCB8F416B8E26A38BC3A61AA2 | 8 MB [PDF]| 
 | 2024-07-16 09:33:50 | English | Cryptography and Cryptanalysis in Java, 2nd Edition | unknown | https://www.wowebook.org/cryptography-and-cryptanalysis-in-java-2nd-edition/ | unknown| 
 | 2024-07-16 10:16:25 | English | Hands-On Genetic Algorithms with Python, Second Edition | unknown | https://www.wowebook.org/hands-on-genetic-algorithms-with-python-second-edition/ | unknown| 

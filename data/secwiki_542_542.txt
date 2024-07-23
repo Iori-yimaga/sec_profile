@@ -1,0 +1,14 @@
+20240715	其它	https://mp.weixin.qq.com/s/heXpjtsSATvwq08Q2gPL0A	AI参与实战网络攻防对抗	qq.com	mp.weixin.qq.com	/s/heXpjtsSATvwq08Q2gPL0A
+20240715	取证分析	https://mp.weixin.qq.com/s/CbOyeQ42D776XuCOTj4Pow	ptcpdump: 抓包神器可捕获任何进程、容器或 Pod 的网络流量	qq.com	mp.weixin.qq.com	/s/CbOyeQ42D776XuCOTj4Pow
+20240715	工具	https://mp.weixin.qq.com/s/DgBxOBJxIoyRlqcR0RgOYQ?poc_token=HHHClGajgQzr5Mpaty4lcv4aaq7nsZ70c2n2NVSQ	CodeQL：探索代码安全的利器	qq.com	mp.weixin.qq.com	/s/DgBxOBJxIoyRlqcR0RgOYQ
+20240715	观点	https://mp.weixin.qq.com/s/YbCVbrLvdcsByNaGEdPDJg	私家车跟踪器自检手册	qq.com	mp.weixin.qq.com	/s/YbCVbrLvdcsByNaGEdPDJg
+20240715	恶意分析	https://mp.weixin.qq.com/s/KrZ3l3ZYK2Pyd0SWpUxH3A	资产几何？现代组织的外部攻击面情况	qq.com	mp.weixin.qq.com	/s/KrZ3l3ZYK2Pyd0SWpUxH3A
+20240715	恶意分析	https://mp.weixin.qq.com/s/7OXfzOkSMGB5rBKrtbe85w	MITRE Engenuity ATT&CK 如何评估 EDR	qq.com	mp.weixin.qq.com	/s/7OXfzOkSMGB5rBKrtbe85w
+20240715	其它	https://mp.weixin.qq.com/s/cm6nz_AVt7kTVAtN85F9JA	美军联合信息环境（JIE）解析	qq.com	mp.weixin.qq.com	/s/cm6nz_AVt7kTVAtN85F9JA
+20240715	杂志	https://www.sec-wiki.com/weekly/541	SecWiki周刊（第541期)	sec-wiki.com	www.sec-wiki.com	/weekly/541
+20240715	工具	https://github.com/StarfireLab/SharpWeb	SharpWeb: 一个浏览器数据导出工具	github.com	github.com	/StarfireLab/SharpWeb
+20240715	论文	https://dl.ccf.org.cn/albumList/getMeetingDetail5833634020804608?_ack=1	CCF博士学位论文激励计划【历届论文】	ccf.org.cn	dl.ccf.org.cn	/albumList/getMeetingDetail5833634020804608
+20240715	工具	https://github.com/evilsocket/cake	cake: Distributed LLM inference for mobile, desktop and server	github.com	github.com	/evilsocket/cake
+20240715	恶意分析	https://mp.weixin.qq.com/s/eMA2ZBnmEkEA7BP5SZyHBw	Netflow 与 DNS 数据流的大规模关联	qq.com	mp.weixin.qq.com	/s/eMA2ZBnmEkEA7BP5SZyHBw
+20240715	设备安全	https://mp.weixin.qq.com/s/lOYBHsYrv9mmBnyOiZi4Dw	自动驾驶系统开发与调试：车路云一体化无人驾驶挑战赛参赛体验	qq.com	mp.weixin.qq.com	/s/lOYBHsYrv9mmBnyOiZi4Dw
+20240715	恶意分析	https://cloud.google.com/blog/topics/threat-intelligence/scaling-up-malware-analysis-with-gemini	Scaling Up Malware Analysis with Gemini 1.5 Flash	google.com	cloud.google.com	/blog/topics/threat-intelligence/scaling-up-malware-analysis-with-gemini
