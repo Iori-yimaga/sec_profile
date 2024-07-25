@@ -357,8 +357,8 @@ if __name__ == "__main__":
     """
     proxy = {
         #"socks:": "socks://127.0.0.1:1080",
-        "http": "http://127.0.0.1:8001",
-        'https': "http://127.0.0.1:8001",
+        "http": "http://127.0.0.1:1087",
+        'https': "http://127.0.0.1:1087",
     }
     #proxy = None
     o = GetNewBook(proxy=proxy)
