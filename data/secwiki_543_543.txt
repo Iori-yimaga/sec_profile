@@ -1,0 +1,12 @@
+20240722	法规	https://mp.weixin.qq.com/s/Eg0PM6qewpOBw5QvzBCSWQ	“帮信罪”立案定罪量刑最新标准	qq.com	mp.weixin.qq.com	/s/Eg0PM6qewpOBw5QvzBCSWQ
+20240722	法规	https://yyglxxbsgw.ndrc.gov.cn/htmls/article/article.html?articleId=2c97d16c-9091ccb0-0190-e78abe36-000d#iframeHeight=810	《电力监控 系统安全防护规定》（公开征求意见稿）	ndrc.gov.cn	yyglxxbsgw.ndrc.gov.cn	/htmls/article/article.html
+20240722	取证分析	https://mp.weixin.qq.com/s/UWkZXw7ZKDY662A3RnlSSw	CrowdStrike导致大规模系统崩溃事件的技术分析	qq.com	mp.weixin.qq.com	/s/UWkZXw7ZKDY662A3RnlSSw
+20240722	杂志	https://www.sec-wiki.com/weekly/542	SecWiki周刊（第542期)	sec-wiki.com	www.sec-wiki.com	/weekly/542
+20240722	无线安全	https://mp.weixin.qq.com/s/qEa929sPJz0P76tX_7vXRA	SpaceX星盾Starshield项目概述	qq.com	mp.weixin.qq.com	/s/qEa929sPJz0P76tX_7vXRA
+20240722	恶意分析	https://mp.weixin.qq.com/s/90ou_X0aU-RuG1wQFQSbow	诱骗 IoT 恶意软件跟踪 C&C 服务器	qq.com	mp.weixin.qq.com	/s/90ou_X0aU-RuG1wQFQSbow
+20240722	数据挖掘	https://mp.weixin.qq.com/s/5oYeI0fzwBCJkmLZtVIzBw	人工智能（XAI）可解释的综述	qq.com	mp.weixin.qq.com	/s/5oYeI0fzwBCJkmLZtVIzBw
+20240722	其它	https://github.com/Internet-Architecture-and-Security	Internet Architecture and Security 协议栈安全领域研究	github.com	github.com	/Internet-Architecture-and-Security
+20240722	无线安全	https://mp.weixin.qq.com/s/VBaguCKrl24_TX1s3qzT4A	Starlink星地资产收集检测框架Seestar和Starlink星地情报数据收集汇总	qq.com	mp.weixin.qq.com	/s/VBaguCKrl24_TX1s3qzT4A
+20240722	数据挖掘	https://mp.weixin.qq.com/s/tKzQiVVKfJ1AM-y8EeWk1A	大语言模型驱动的选址推荐系统	qq.com	mp.weixin.qq.com	/s/tKzQiVVKfJ1AM-y8EeWk1A
+20240722	数据挖掘	https://mp.weixin.qq.com/s/196g-2uUcLxSs-Db1gNOIg	LLM 应用可观测性：从 Trace 视角展开的探索与实践之旅	qq.com	mp.weixin.qq.com	/s/196g-2uUcLxSs-Db1gNOIg
+20240722	无线安全	https://mp.weixin.qq.com/s/qBX3V4Kcy1LigcKViWNDjg	Starlink卫星信号在轨监测测试与分析与终端干扰监测与定位解决方案	qq.com	mp.weixin.qq.com	/s/qBX3V4Kcy1LigcKViWNDjg
