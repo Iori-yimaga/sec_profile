@@ -1,0 +1,10 @@
+20240729	新闻	https://www.miit.gov.cn/gyhxxhb/jgsj/gxjss/wjfb/art/2024/art_e13533ef46b84f00ac360d85e453bcf8.html	工业和信息化部主责国家重点研发计划重点专项管理实施细则	miit.gov.cn	www.miit.gov.cn	/gyhxxhb/jgsj/gxjss/wjfb/art/2024/art_e13533ef46b84f00ac360d85e453bcf8.html
+20240729	编程技术	https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247487148&idx=1&sn=f4e8b01e59ff96bb5673e2e6b48d64c7&chksm=cf8307ddf8f48ecbbd2b4a9a46f7d112912ddba5fc6401ebda461445a4f2f60e1ac377918f19&token=1154998066&lang=zh_CN#rd	⼤模型在⽹络安全⽅⾯的应⽤汇总	qq.com	mp.weixin.qq.com	/s
+20240729	取证分析	https://mp.weixin.qq.com/s/JtS_JmggxLKSK4gFcZYfvw	链上应用提升传统网络安全检测能力的意淫	qq.com	mp.weixin.qq.com	/s/JtS_JmggxLKSK4gFcZYfvw
+20240729	论文	https://mp.weixin.qq.com/s/79v8iMdmSHKL8E9mPzLyvQ	面向个性化联邦学习的系统化后门攻击：方法与对抗	qq.com	mp.weixin.qq.com	/s/79v8iMdmSHKL8E9mPzLyvQ
+20240729	杂志	https://sec-wiki.com/weekly/543	SecWiki周刊（第543期)	sec-wiki.com	sec-wiki.com	/weekly/543
+20240729	恶意分析	https://mp.weixin.qq.com/s/Y2aTtEMEwthluBzCokpO_A	某黑产组织捆绑VPN和TG等安装程序进行攻击活动	qq.com	mp.weixin.qq.com	/s/Y2aTtEMEwthluBzCokpO_A
+20240729	运维安全	https://mp.weixin.qq.com/s/I-FcQlHCnj5LIYv0V5njJw	Elastic与Wazuh的SIEM选型对比	qq.com	mp.weixin.qq.com	/s/I-FcQlHCnj5LIYv0V5njJw
+20240729	恶意分析	https://mp.weixin.qq.com/s/ul4aom-DPSxqgFwey3c6UQ	Jamf Protect MacOs Edr 规则 Part 1	qq.com	mp.weixin.qq.com	/s/ul4aom-DPSxqgFwey3c6UQ
+20240729	恶意分析	https://mp.weixin.qq.com/s/mM93RDD0AI1ITpz7KlyUuA	DNS 解析数据大局观	qq.com	mp.weixin.qq.com	/s/mM93RDD0AI1ITpz7KlyUuA
+20240729	恶意分析	https://mp.weixin.qq.com/s/m1n4R61SmfygCCctSlzXhw	ET-BERT：基于预训练模型BERT的加密流量表征方法	qq.com	mp.weixin.qq.com	/s/m1n4R61SmfygCCctSlzXhw
