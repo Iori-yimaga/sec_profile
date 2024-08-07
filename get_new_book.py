@@ -135,6 +135,7 @@ class GetNewBook(object):
             ['falcon'],
             ['sentinel'],  # microsoft
             ['defender'],  # microsoft
+            ['defense'],
             ['copilot'], # microsoft
             ['palo', 'alto'],
             ['qrader'],  # ibm
@@ -163,6 +164,7 @@ class GetNewBook(object):
             ['copilot'],
             # abnormal check
             ['time','series'],
+
 
         ]
         self.book_language_list = ['English']
