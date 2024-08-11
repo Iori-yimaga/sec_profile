@@ -1,0 +1,16 @@
+20240805	法规	https://mp.weixin.qq.com/s/eAeO2hlygPMVcyx5T_6S-Q	《联合国打击网络犯罪公约》（2024年8月7日版全文）	qq.com	mp.weixin.qq.com	/s/eAeO2hlygPMVcyx5T_6S-Q
+20240805	漏洞分析	https://mp.weixin.qq.com/s/KydBQDCNjvhhPdcMitXw-Q	触屏交互设备的安全风险	qq.com	mp.weixin.qq.com	/s/KydBQDCNjvhhPdcMitXw-Q
+20240805	无线安全	https://mp.weixin.qq.com/s/G4KuQLsu76KmacOVbJaC3w	美国天基导弹防御系统发展现状	qq.com	mp.weixin.qq.com	/s/G4KuQLsu76KmacOVbJaC3w
+20240805	取证分析	https://mp.weixin.qq.com/s/-rOv5EMobxbvRVgvMVMRvg	查询NGO信息网站汇总	qq.com	mp.weixin.qq.com	/s/-rOv5EMobxbvRVgvMVMRvg
+20240805	取证分析	https://mp.weixin.qq.com/s/9mIhf8b_mUoOLh7fByxRrg	CrowdStrike的库加载和快速升级机制的分析笔记	qq.com	mp.weixin.qq.com	/s/9mIhf8b_mUoOLh7fByxRrg
+20240805	比赛	https://mp.weixin.qq.com/s/ximLAPWy_eX2I-Wnor_IDA	信安国赛创新能力赛决赛Build环节	qq.com	mp.weixin.qq.com	/s/ximLAPWy_eX2I-Wnor_IDA
+20240805	恶意分析	https://mp.weixin.qq.com/s/84SUh4d-zwdbvZbk4bxq-Q	CS2外部静默原理剖析及实现	qq.com	mp.weixin.qq.com	/s/84SUh4d-zwdbvZbk4bxq-Q
+20240805	恶意分析	https://mp.weixin.qq.com/s/v2oS9gf_psnFMqXnfm8ixg	PyPI 2024年上半年恶意包回顾	qq.com	mp.weixin.qq.com	/s/v2oS9gf_psnFMqXnfm8ixg
+20240805	其它	https://mp.weixin.qq.com/s/6Y69Kj5s6wuWOtcwTdypVQ	学科拔尖人才自主培养之路	qq.com	mp.weixin.qq.com	/s/6Y69Kj5s6wuWOtcwTdypVQ
+20240805	法规	https://mp.weixin.qq.com/s/-WA78r9d7qtA4P40FDWiJA	多起典型泄密案例	qq.com	mp.weixin.qq.com	/s/-WA78r9d7qtA4P40FDWiJA
+20240805	杂志	https://www.sec-wiki.com/weekly/544	SecWiki周刊（第544期)	sec-wiki.com	www.sec-wiki.com	/weekly/544
+20240805	取证分析	https://mp.weixin.qq.com/s/6TIg4x0L8trokfOHHGo_kA	Word的信息泄露	qq.com	mp.weixin.qq.com	/s/6TIg4x0L8trokfOHHGo_kA
+20240805	Web安全	https://mp.weixin.qq.com/s/YKWbnvTMXgNrd-95bW9tmw	最近CDN供应链事件的曲折分析与应对	qq.com	mp.weixin.qq.com	/s/YKWbnvTMXgNrd-95bW9tmw
+20240805	数据挖掘	https://paper.seebug.org/3210/	从零开始搭建本地安全 AI 大模型攻防知识库	seebug.org	paper.seebug.org	/3210/
+20240805	取证分析	https://mp.weixin.qq.com/s/E3ahJ6bRDb02iy2ObP3nIA	暗网靶场搭建和暗网攻击模拟溯源实践	qq.com	mp.weixin.qq.com	/s/E3ahJ6bRDb02iy2ObP3nIA
+20240805	恶意分析	https://mp.weixin.qq.com/s/tNvPW7TJlls-U_q1aq-v8w	DeepCoFFEA：通过度量学习和放大改进对Tor的流关联攻击	qq.com	mp.weixin.qq.com	/s/tNvPW7TJlls-U_q1aq-v8w
