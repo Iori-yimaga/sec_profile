@@ -162,6 +162,7 @@ class GetNewBook(object):
             ['generative'],
             ['chatgpt'],
             ['copilot'],
+            ['openai'],
             # abnormal check
             ['time','series'],
 

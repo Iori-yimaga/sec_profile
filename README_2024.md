@@ -23,6 +23,8 @@
 # 网络安全书籍 推荐
 | date_added | language | title | author | link | size| 
 | --- | --- | --- | --- | --- | ---| 
+| 2024-08-14 07:02:55 | English | Learning Kali Linux, 2nd Edition | unknown | https://www.wowebook.org/learning-kali-linux-2nd-edition/ | unknown| 
+| 2024-08-13 10:07:45 | English | Learn OpenAI Whisper | unknown | https://www.wowebook.org/learn-openai-whisper/ | unknown| 
 | 2024-08-09 09:04:23 | English | Introduction to Python Network Automation Volume II | unknown | https://www.wowebook.org/introduction-to-python-network-automation-volume-ii/ | unknown| 
 | 2024-08-09 06:51:38 | English | Introducing Microsoft Copilot for Managers | unknown | https://www.wowebook.org/introducing-microsoft-copilot-for-managers/ | unknown| 
 | 2024-08-09 05:55:34 | English | Blockchain, IoT, and AI Technologies for Supply Chain Management | unknown | https://www.wowebook.org/blockchain-iot-and-ai-technologies-for-supply-chain-management/ | unknown| 
