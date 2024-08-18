@@ -34,7 +34,7 @@ def scraw(so, proxy=None, delta=2):
 
     url = "https://sec.today/pulses/"
     r = get_request(url, proxy=proxy)
-
+    print(url, r)
 
     if r:
         try:
@@ -169,6 +169,6 @@ if __name__ == "__main__":
         #"https": "http://127.0.0.1:1081"
 
     }
-    #proxy = None
+    proxy = None
     so = SQLiteOper("data/scrap.db")
     scraw(so, proxy=proxy, delta=14)

@@ -1,11 +1,11 @@
-Python	1222
+Python	1223
 C	763
 JavaScript	729
-C++	634
-Java	527
+C++	635
+Java	528
 HTML	527
 Shell	497
-Go	476
+Go	477
 C#	323
 Ruby	272
 PowerShell	264
