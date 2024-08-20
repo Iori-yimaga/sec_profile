@@ -56,12 +56,12 @@ def update_github(proxy=None):
 if __name__ == "__main__":
     """ 
     """
+
     proxy = {
-        "http": "http://127.0.0.1:8001",
-        'https': "http://127.0.0.1:8001",
-        #"socks:": "socks://127.0.0.1:1080",
-        #"http": "http://127.0.0.1:1080",
-        #'https': "http://127.0.0.1:1080",
+        "http": "http://127.0.0.1:1087",
+        'https': "http://127.0.0.1:1087",
+
+
     }
     #proxy = None
 
