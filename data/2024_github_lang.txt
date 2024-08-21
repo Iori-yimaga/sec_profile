@@ -1,12 +1,12 @@
-Python	54
+Python	55
 C++	27
-C	25
-Go	25
-Java	19
+C	26
+Go	26
+Java	20
 JavaScript	19
 Shell	16
+Rust	14
 HTML	13
-Rust	13
 C#	13
 PowerShell	11
 TypeScript	5
@@ -28,6 +28,7 @@ MDX	2
 CSS	2
 LLVM	1
 Groff	1
+CodeQL	1
 Nim	1
 Elixir	1
 Vue	1

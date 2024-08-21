@@ -1,0 +1,15 @@
+20240812	其它	https://mp.weixin.qq.com/s/fTZ9Wm77LZUyiPSJqQT26w	一文读懂数据库加密	qq.com	mp.weixin.qq.com	/s/fTZ9Wm77LZUyiPSJqQT26w
+20240812	恶意分析	https://mp.weixin.qq.com/s/7n5SszqXB85PPK-CaMdfMg	2024中国软件供应链安全分析报告	qq.com	mp.weixin.qq.com	/s/7n5SszqXB85PPK-CaMdfMg
+20240812	数据挖掘	https://mp.weixin.qq.com/s/M0oZMQ0wMHPCsMRCfsJU3Q	NetGPT：网络流量的生成式预训练 Transfomer 模型	qq.com	mp.weixin.qq.com	/s/M0oZMQ0wMHPCsMRCfsJU3Q
+20240812	漏洞分析	https://mp.weixin.qq.com/s/izthdCXdDz4IMdbEyNuxpA	第十七届CISCN总决赛-AWDP-PWN部分题解	qq.com	mp.weixin.qq.com	/s/izthdCXdDz4IMdbEyNuxpA
+20240812	漏洞分析	https://mp.weixin.qq.com/s/6Wq3C5wg12kKDeSikrVfTw	在Docker上部署Ollama+AnythingLLM完成本地LLM Agent部署	qq.com	mp.weixin.qq.com	/s/6Wq3C5wg12kKDeSikrVfTw
+20240812	数据挖掘	https://mp.weixin.qq.com/s/HMIkFKeDEe_6GFRWlQzccA	ET-BERT：用于加密流量分类的带有预训练Transformer的上下文数据报表征	qq.com	mp.weixin.qq.com	/s/HMIkFKeDEe_6GFRWlQzccA
+20240812	恶意分析	https://mp.weixin.qq.com/s/8mIDLbNfdS17h0z2NgJzjQ	构建检测更早响应更快的卓越SOC	qq.com	mp.weixin.qq.com	/s/8mIDLbNfdS17h0z2NgJzjQ
+20240812	杂志	https://www.sec-wiki.com/weekly/545	SecWiki周刊（第545期)	sec-wiki.com	www.sec-wiki.com	/weekly/545
+20240812	取证分析	https://mp.weixin.qq.com/s/RLB4yRmXFKMzQP-SZsHhiQ	手机GPS在关闭状态下如何追踪用户轨迹	qq.com	mp.weixin.qq.com	/s/RLB4yRmXFKMzQP-SZsHhiQ
+20240812	数据挖掘	https://mp.weixin.qq.com/s/zfe7kVeObV3PkClnlvp-5Q	AI网络安全（AI Security）风险认知与理解	qq.com	mp.weixin.qq.com	/s/zfe7kVeObV3PkClnlvp-5Q
+20240812	恶意分析	https://mp.weixin.qq.com/s/1qaF10M1Jp4-hw4hStH_YQ	TrafficGPT：打破Token长度限制的高效长时流量分析与生成框架	qq.com	mp.weixin.qq.com	/s/1qaF10M1Jp4-hw4hStH_YQ
+20240812	Web安全	https://github.com/hangxin1940/bladerazor	bladerazor: 由人工智能驱动的渗透测试解决方案	github.com	github.com	/hangxin1940/bladerazor
+20240812	数据挖掘	https://mp.weixin.qq.com/s/EkWOJAEEOTQetyAulB5drw	AI技术的安全博弈：大模型安全海外前沿实践	qq.com	mp.weixin.qq.com	/s/EkWOJAEEOTQetyAulB5drw
+20240812	漏洞分析	https://mp.weixin.qq.com/s/2piRSJ4C-aJ2JcUMCk8yyg	基于虚拟化的固件蓝牙协议漏洞挖掘框架设计	qq.com	mp.weixin.qq.com	/s/2piRSJ4C-aJ2JcUMCk8yyg
+20240812	无线安全	https://mp.weixin.qq.com/s/wgBFJm5lCwrIcGXfXUy3TQ	卫星总线漏洞及其攻击者路径和卫星固件安全威胁分析模型（续）	qq.com	mp.weixin.qq.com	/s/wgBFJm5lCwrIcGXfXUy3TQ
