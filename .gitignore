@@ -17,4 +17,5 @@ data/img/.DS_Store
 venv/*
 !data/secwiki/*
 !data/secwiki*
-get_new_book.py
+data/scrap.db
+data/scrap.sqbpro
