@@ -1,4 +1,4 @@
-Python	5
+Python	6
 C	3
 Java	3
 Go	3
