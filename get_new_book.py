@@ -26,8 +26,9 @@ class GetNewBook(object):
         :param kwargs:
         """
         self.rss_url_dict = {
-            'libgen': 'http://libgen.rs/rss/index.php',
-            'wow': 'https://feeds.feedburner.com/wowebook',
+            #'libgen': 'http://libgen.rs/rss/index.php',
+            #'wow': 'https://feeds.feedburner.com/wowebook',
+            'libgen': 'https://libgen.onl/feed/',
         }
 
         self.cybersecurity_keyword = [
