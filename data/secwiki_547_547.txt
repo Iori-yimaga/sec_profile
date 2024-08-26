@@ -1,0 +1,13 @@
+20240819	Web安全	https://mp.weixin.qq.com/s/qaO2pC_BlL4tKlbZlYh4CQ	下一代C2计划---Internal-of-Malice	qq.com	mp.weixin.qq.com	/s/qaO2pC_BlL4tKlbZlYh4CQ
+20240819	漏洞分析	https://mp.weixin.qq.com/s/vK1YihXeY2B_Tgdts_A0iA	AI安全漏洞全曝光：从案例到生命周期的深度解析	qq.com	mp.weixin.qq.com	/s/vK1YihXeY2B_Tgdts_A0iA
+20240819	恶意分析	https://mp.weixin.qq.com/s/xfxzDDTkJFLynD9EXKfvkw	网络安全威胁2024年中报告	qq.com	mp.weixin.qq.com	/s/xfxzDDTkJFLynD9EXKfvkw
+20240819	设备安全	https://mp.weixin.qq.com/s/veLPD3ZQ7KnmzthYtiySBA	蓝牙音箱和耳机安全测评报告	qq.com	mp.weixin.qq.com	/s/veLPD3ZQ7KnmzthYtiySBA
+20240819	杂志	https://www.sec-wiki.com/weekly/546	SecWiki周刊（第546期)	sec-wiki.com	www.sec-wiki.com	/weekly/546
+20240819	其它	https://mp.weixin.qq.com/s/LTZAA2thfChwAr-E3IRwZA	解读美国认知本体论——“行为者”类别分析（一）	qq.com	mp.weixin.qq.com	/s/LTZAA2thfChwAr-E3IRwZA
+20240819	比赛	https://mp.weixin.qq.com/s/EUCpW-kXpx_3JPdmRYdpiw	2024 KCTF 第四题《神秘信号》设计思路及解析	qq.com	mp.weixin.qq.com	/s/EUCpW-kXpx_3JPdmRYdpiw
+20240819	数据挖掘	https://paper.seebug.org/3209/	从操作码到代码：人工智能聊天机器人如何帮助反编译	seebug.org	paper.seebug.org	/3209/
+20240819	漏洞分析	https://orange-tw.blogspot.com/2024/08/confusion-attacks-ch.html	Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!	blogspot.com	orange-tw.blogspot.com	/2024/08/confusion-attacks-ch.html
+20240819	漏洞分析	https://mp.weixin.qq.com/s/X54d0foyBS56lGFUPyOvTw	老树开新花：大模型时代的代码执行沙箱	qq.com	mp.weixin.qq.com	/s/X54d0foyBS56lGFUPyOvTw
+20240819	漏洞分析	https://blog.qualys.com/product-tech/2024/08/22/totalcloud-insights-when-multi-factor-authentication-turns-into-single-factor-authentication	When Multi-Factor Authentication Turns Into Single-Factor Authentication	qualys.com	blog.qualys.com	/product-tech/2024/08/22/totalcloud-insights-when-multi-factor-authentication-turns-into-single-factor-authentication
+20240819	恶意分析	https://mp.weixin.qq.com/s/V4EdhGzyzxln0LzU99hqpA	高级恶意软件开发之RDI的进化	qq.com	mp.weixin.qq.com	/s/V4EdhGzyzxln0LzU99hqpA
+20240819	漏洞分析	https://fuping.site/2024/08/10/Jmreport-Auth-Bypass-Mitigation/	积木报表授权绕过漏洞缓解措施	fuping.site	fuping.site	/2024/08/10/Jmreport-Auth-Bypass-Mitigation/

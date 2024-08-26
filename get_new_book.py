@@ -14,6 +14,28 @@ import codecs
 
 from bs4 import BeautifulSoup
 
+def get_bookname_from_url(url=None):
+    """
+
+    <![CDATA[ Beginner's Guide to Streamlit with Python ]]>
+    https://it-ebooks.info/book/1686051862-beginners_guide_to_streamlit_with_python
+    """
+    s = 'https://it-ebooks.info/book/'
+
+    if not url:
+        return
+    url = url.strip()
+    p = r'^\d+\-([^\/]+)\/'
+    if url.startswith(s):
+        parts = url.split(s)
+        bookname = parts[-1]
+        if '_' in bookname:
+            m = re.search(p, bookname)
+            if m:
+                bookname = m.groups()[0]
+                bookname = bookname.replace("_", " ")
+                return bookname
+
 
 class GetNewBook(object):
     """
@@ -26,9 +48,15 @@ class GetNewBook(object):
         :param kwargs:
         """
         self.rss_url_dict = {
-            #'libgen': 'http://libgen.rs/rss/index.php',
-            #'wow': 'https://feeds.feedburner.com/wowebook',
-            'libgen': 'https://libgen.onl/feed/',
+            'libgen': 'http://libgen.rs/rss/index.php',
+            'wow': 'https://feeds.feedburner.com/wowebook',
+            'it-ebooks': 'https://it-ebooks.info/rss.xml',
+            #'libgen': 'https://libgen.onl/feed/',
+
+
+        }
+        self.json_url_dict = {
+            'libgen': '/json.php?object=f&mode=last&timefirst=2024-08-25&timelast=2024-08-26'
         }
 
         self.cybersecurity_keyword = [
@@ -45,6 +73,7 @@ class GetNewBook(object):
             ['monitor'],
             ['monitoring'],
             ['reconnaissance'],
+            ['network', 'traffic'],
             #['strategies'],
             ['password', 'cracking'],
             ['dark', 'web'],
@@ -91,6 +120,7 @@ class GetNewBook(object):
             # auto
             ['attack', 'vectors'],
             ['social', 'engineering'],
+            ['attack', 'simulation'],
 
             # productor
             ['cloud', 'security'],
@@ -120,6 +150,7 @@ class GetNewBook(object):
             ['evading'],
             ['red', 'team'],
             ['purple', 'team'],
+            ['blue', 'team'],
             ['attack', 'simulation'],
             ['black', 'hat'],
             ['white', 'hat'],
@@ -166,6 +197,7 @@ class GetNewBook(object):
             ['openai'],
             # abnormal check
             ['time','series'],
+            ['splunk'],
 
 
         ]
@@ -250,6 +282,9 @@ class GetNewBook(object):
                 link = a.link.next_sibling.encode('utf-8')
                 description = a.find('description')
                 pubdate = a.find('pubdate')
+                if not title and link:
+                    title = get_bookname_from_url(link)
+
                 if pubdate:
                     pubdate = pubdate.text
                     if pubdate:
@@ -261,6 +296,7 @@ class GetNewBook(object):
                             ts = mills.datetime2timestamp(pubdate, tformat=date_format)
                             pubdate = mills.timestamp2datetime(ts, tformat="%Y-%m-%d %H:%M:%S")
                         except Exception as e:
+                            print('bad pubdate', pubdate, str(e))
                             pass
                     book_dict['date_added'] = pubdate
                 if description:
