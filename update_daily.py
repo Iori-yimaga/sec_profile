@@ -57,13 +57,16 @@ if __name__ == "__main__":
     """ 
     """
 
+    # ss
     proxy = {
         "http": "http://127.0.0.1:1087",
         'https': "http://127.0.0.1:1087",
-
-
     }
-    #proxy = None
+    # vary
+    proxy = {
+        "http": "http://127.0.0.1:8001",
+        'https': "http://127.0.0.1:8001",
+    }
 
     scraw(proxy=proxy)
 
