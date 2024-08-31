@@ -94,6 +94,7 @@ class GetNewBook(object):
             ['observability'],
             # ['assessment'],
             ['vulnerability'],
+            ['honeypot'],
             ['iast'],  # interactive application security testing
             ['sast'],  # static application security
             ['dast'],  # dynamic application security
@@ -396,14 +397,15 @@ if __name__ == "__main__":
     main
     """
     # ss
-    proxy = {
-        "http": "http://127.0.0.1:1087",
-        'https': "http://127.0.0.1:1087",
-    }
+
     # vary
     proxy = {
         "http": "http://127.0.0.1:8001",
         'https': "http://127.0.0.1:8001",
+    }
+    proxy = {
+        "http": "http://127.0.0.1:1087",
+        'https': "http://127.0.0.1:1087",
     }
     o = GetNewBook(proxy=proxy)
     o.scaw(proxy=proxy)
