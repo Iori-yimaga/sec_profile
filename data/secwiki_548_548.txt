@@ -1,0 +1,16 @@
+20240826	漏洞分析	https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247487219&idx=1&sn=a1ec97c07c4f775e1141b67a2d59c9d0&chksm=cf830782f8f48e947eb1462ec88ddc0d01a4d79903985bb45a926b424cd0b8164103b46e14ff&token=1462272407&lang=zh_CN#rd	在野漏洞的应急响应流程	qq.com	mp.weixin.qq.com	/s
+20240826	论文	https://github.com/pengsida/learning_research	如何努力成为一个Top Ph.D. Student	github.com	github.com	/pengsida/learning_research
+20240826	会议	https://github.com/knownsec/KCon/tree/master/2024	KCon 2024可公开的演讲PPT	github.com	github.com	/knownsec/KCon/tree/master/2024
+20240826	论文	https://www.sec-wiki.com/weekly/547	SecWiki周刊（第547期)	sec-wiki.com	www.sec-wiki.com	/weekly/547
+20240826	Web安全	https://mp.weixin.qq.com/s/FNr3TsiZU371F_44WelZbw	SaaS多租户自动化渗透平台-架构笔记	qq.com	mp.weixin.qq.com	/s/FNr3TsiZU371F_44WelZbw
+20240826	其它	https://mp.weixin.qq.com/s/AvtLFqQQ3CFv0r8hmNo3Pg	2024年国防工业基地网络安全战略	qq.com	mp.weixin.qq.com	/s/AvtLFqQQ3CFv0r8hmNo3Pg
+20240826	数据挖掘	https://paper.seebug.org/papers/RD_Checklist/index.html	研发技能表 V4.0	seebug.org	paper.seebug.org	/papers/RD_Checklist/index.html
+20240826	恶意分析	https://mp.weixin.qq.com/s/m3vIg9A4fyATA8JKgngugg	软件供应链安全的部分理解	qq.com	mp.weixin.qq.com	/s/m3vIg9A4fyATA8JKgngugg
+20240826	恶意分析	https://www.icourse163.org/course/WHU-1460833161	软件安全之恶意代码机理与防护(MOOC)	icourse163.org	www.icourse163.org	/course/WHU-1460833161
+20240826	无线安全	https://mp.weixin.qq.com/s/kskAUMddx44QtzGcYjh4Xg	“星链”潜在军事应用能力分析研究	qq.com	mp.weixin.qq.com	/s/kskAUMddx44QtzGcYjh4Xg
+20240826	论文	https://pengsida.net/games003/	GAMES003: 科研基本素养	pengsida.net	pengsida.net	/games003/
+20240826	其它	https://mp.weixin.qq.com/s/qZDMSxSWPHLN4U0UbKi-Xw	网络空间作战装备技术发展现状及趋势分析	qq.com	mp.weixin.qq.com	/s/qZDMSxSWPHLN4U0UbKi-Xw
+20240826	Web安全	https://mp.weixin.qq.com/s/7pz8-RkZBKCGqyngSdVKpw	Java内存马 Filter调用链分析	qq.com	mp.weixin.qq.com	/s/7pz8-RkZBKCGqyngSdVKpw
+20240826	数据挖掘	https://mp.weixin.qq.com/s/3Wgsc1JzoA7BuCOQb7Sp8w	[SecData#3] 大模型定向测试输入生成数据集	qq.com	mp.weixin.qq.com	/s/3Wgsc1JzoA7BuCOQb7Sp8w
+20240826	Web安全	https://github.com/Z4nzu/hackingtool	hackingtool: ALL IN ONE Hacking Tool For Hackers	github.com	github.com	/Z4nzu/hackingtool
+20240826	恶意分析	https://github.com/seekbytes/IPA	IPA: GUI analyzer for deep-diving into PDF files	github.com	github.com	/seekbytes/IPA

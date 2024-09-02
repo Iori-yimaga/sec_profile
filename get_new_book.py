@@ -112,7 +112,6 @@ class GetNewBook(object):
             ['cyber', 'intelligence'],
             ['hunter'],
             ['att&ck'],
-
             ['reverse', 'engineering'],
             ['bug', 'bounty'],
             ['crypto'],
@@ -131,6 +130,7 @@ class GetNewBook(object):
             ['security', 'orchestration', 'automation', 'response'],
             ['soar'],
             ['security', 'operation', 'center'],
+            ['security', 'operations'],
 
             ['detection', 'response'],  # xDR
             ['deep', 'packet', 'inspection'],
