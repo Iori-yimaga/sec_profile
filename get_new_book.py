@@ -67,6 +67,7 @@ class GetNewBook(object):
             ['cybersecurity'],
             # application/api/network/cloud/windows/linux/endpoint/mobile
             # ['secure'],
+            ['endpoint', 'detection'],
             ['playbook'],
             ['defensive', 'security'],
             ['prompt', 'engineer'],
