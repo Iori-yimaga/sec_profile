@@ -5,14 +5,14 @@ C++	635
 Java	530
 HTML	528
 Shell	499
-Go	481
+Go	482
 C#	324
 Ruby	273
 PowerShell	265
 PHP	236
-CSS	231
+CSS	232
 TypeScript	206
-Rust	177
+Rust	178
 Objective-C	144
 Jupyter	130
 Dockerfile	84
