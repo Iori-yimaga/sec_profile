@@ -1,0 +1,12 @@
+20240902	恶意分析	https://mp.weixin.qq.com/s/9IgrOBCIImQhAOVmtTdKpw	半年报中的网安	qq.com	mp.weixin.qq.com	/s/9IgrOBCIImQhAOVmtTdKpw
+20240902	其它	https://mp.weixin.qq.com/s/stSIyoZyFfH1f0WGE8-oGA	本地大语言模型部署及应用	qq.com	mp.weixin.qq.com	/s/stSIyoZyFfH1f0WGE8-oGA
+20240902	杂志	https://www.sec-wiki.com/weekly/548	SecWiki周刊（第548期)	sec-wiki.com	www.sec-wiki.com	/weekly/548
+20240902	数据挖掘	https://mp.weixin.qq.com/s/CtGjqCqp7t7Vehi3fdacoA	讨论大模型在安全领域的积极与恶意应用	qq.com	mp.weixin.qq.com	/s/CtGjqCqp7t7Vehi3fdacoA
+20240902	漏洞分析	https://mp.weixin.qq.com/s/EX54bAO_wzkQyHWDKx1fXQ	嵌入式系统的SLUBStick风险评估：新型Linux漏洞利用方法	qq.com	mp.weixin.qq.com	/s/EX54bAO_wzkQyHWDKx1fXQ
+20240902	论文	https://is.cas.cn/ztzl2016/2024xsnh/2024hbzs/202408/t20240827_7325663.html	软件所2024年学术年会海报	cas.cn	is.cas.cn	/ztzl2016/2024xsnh/2024hbzs/202408/t20240827_7325663.html
+20240902	恶意分析	https://www.trendmicro.com/en_us/research/24/h/godzilla-fileless-backdoors.html	Silent Intrusions: Godzilla Fileless Backdoors Targeting Atlassian Confluence	trendmicro.com	www.trendmicro.com	/en_us/research/24/h/godzilla-fileless-backdoors.html
+20240902	取证分析	https://mp.weixin.qq.com/s/FvRPoPkzDRtp9aeHIQAm8w	偏信则暗 —— Penpie 被黑分析	qq.com	mp.weixin.qq.com	/s/FvRPoPkzDRtp9aeHIQAm8w
+20240902	观点	https://mp.weixin.qq.com/s/WJPAlUR02NKlnSRIy8vj1Q	SANS 2024年SOC调查报告解读	qq.com	mp.weixin.qq.com	/s/WJPAlUR02NKlnSRIy8vj1Q
+20240902	取证分析	https://mp.weixin.qq.com/s/w_om7lX3czwNT0iohtF1AQ	通过杀软 avast 及 no-defender 工具分析 Windows 防护机制	qq.com	mp.weixin.qq.com	/s/w_om7lX3czwNT0iohtF1AQ
+20240902	漏洞分析	https://mp.weixin.qq.com/s/1jSQwVsjKCsoDOFVzX_zQA	一种针对非回溯正则引擎ReDoS漏洞的有效检测方法	qq.com	mp.weixin.qq.com	/s/1jSQwVsjKCsoDOFVzX_zQA
+20240902	论文	https://zhuanlan.zhihu.com/p/718156903	关于如何做科研的一些个人经验	zhihu.com	zhuanlan.zhihu.com	/p/718156903
