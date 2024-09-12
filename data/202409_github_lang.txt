@@ -1,5 +1,5 @@
 C	3
-Python	2
+Python	3
 C++	2
 CSS	1
 Go	1
