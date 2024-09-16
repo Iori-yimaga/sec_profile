@@ -1,0 +1,15 @@
+20240909	观点	https://mp.weixin.qq.com/s/YeNNqTnICNKDA5AdWhgqqg	“纵横”论坛发布网络安全未来十大趋势	qq.com	mp.weixin.qq.com	/s/YeNNqTnICNKDA5AdWhgqqg
+20240909	文档	https://www.tc260.org.cn/front/postDetail.html?id=20240909102807	人工智能安全治理框架	tc260.org.cn	www.tc260.org.cn	/front/postDetail.html
+20240909	漏洞分析	https://mp.weixin.qq.com/s/9bu3kCHJoVIhjC6Vh6pTXA	MeterSphere的一次越权审计	qq.com	mp.weixin.qq.com	/s/9bu3kCHJoVIhjC6Vh6pTXA
+20240909	数据挖掘	https://mp.weixin.qq.com/s/CEe4EsoG83PDZhLz9jSEjQ	基于Flink+Paimon+StarRocks的实时湖仓探索	qq.com	mp.weixin.qq.com	/s/CEe4EsoG83PDZhLz9jSEjQ
+20240909	杂志	https://sec-wiki.com/weekly/549	SecWiki周刊（第549期)	sec-wiki.com	sec-wiki.com	/weekly/549
+20240909	漏洞分析	https://mp.weixin.qq.com/s/7e7x2DT9WYnWarpd_0fBxA	VMware设备虚拟化漏洞挖掘（中篇）	qq.com	mp.weixin.qq.com	/s/7e7x2DT9WYnWarpd_0fBxA
+20240909	漏洞分析	https://mp.weixin.qq.com/s/1wqQBRIl6ysrRV3y_xrupQ	Java反序列化漏洞浅析与应对	qq.com	mp.weixin.qq.com	/s/1wqQBRIl6ysrRV3y_xrupQ
+20240909	文档	https://wwvv.lanzout.com/icrtu29st0qf	网络空间安全工程技术人才培养体系指南-综合版	lanzout.com	wwvv.lanzout.com	/icrtu29st0qf
+20240909	取证分析	https://mp.weixin.qq.com/s/USCo8J392Cjzg6uAOkJCRg	溯源知名数据售卖组织USDoD	qq.com	mp.weixin.qq.com	/s/USCo8J392Cjzg6uAOkJCRg
+20240909	观点	https://mp.weixin.qq.com/s/Zm0UutbNO4YZBmzMn0hb8Q	解读：知识图谱与大模型的 “完美联姻”	qq.com	mp.weixin.qq.com	/s/Zm0UutbNO4YZBmzMn0hb8Q
+20240909	比赛	https://pan.baidu.com/s/1tfuPs56knJUNL3BGtPLWsw?pwd=1895	D.I.E暑期新生赛结果公示及官方WP	baidu.com	pan.baidu.com	/s/1tfuPs56knJUNL3BGtPLWsw
+20240909	数据挖掘	https://mp.weixin.qq.com/s/9Zthnr6EG0pDFvMRzsMD-g	GraphRAG源码解读：基于知识图谱构建的检索增强生成系统	qq.com	mp.weixin.qq.com	/s/9Zthnr6EG0pDFvMRzsMD-g
+20240909	漏洞分析	https://mp.weixin.qq.com/s/liIwvkDKq2WiDXBQWGyDnw	CVE-2024-21096：MySQLDump提权漏洞分析	qq.com	mp.weixin.qq.com	/s/liIwvkDKq2WiDXBQWGyDnw
+20240909	漏洞分析	https://mp.weixin.qq.com/s/o92O_8nT6GdmC-7XZUGJ1g	使用 Peach 进行基于变异和生成的 fuzzing	qq.com	mp.weixin.qq.com	/s/o92O_8nT6GdmC-7XZUGJ1g
+20240909	恶意分析	https://mp.weixin.qq.com/s/vFaMGvgfTgC6kmmjXjUOnQ	用Radare2模拟shellcode运行	qq.com	mp.weixin.qq.com	/s/vFaMGvgfTgC6kmmjXjUOnQ
